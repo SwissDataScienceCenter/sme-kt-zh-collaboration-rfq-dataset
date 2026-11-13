@@ -1,0 +1,7 @@
+# CRM and ERP rows added by Case A3 (existing customer D-10143; lead on the CRM duplicate KC-30914).
+customers: []
+offers:
+  - {nr: OF-26-0236, date: "2026-10-01", cust: D-10143, obj: "Geländerprüfung Rütimatt Schwyz", line: Beratung, type: Richtofferte, status: Z, pl: CSc, proj: ""}
+  - {nr: OF-26-0254, date: "2026-10-27", cust: D-10143, obj: "Geländerprüfung Rütimatt Schwyz", line: Beratung, type: Honorarofferte, status: O, pl: CSc, proj: ""}
+leads:
+  - [L-2026-249, KC-30914, "Geländerprüfung Siedlung Rütimatt Schwyz", Beratung, offeriert, 6500, CSc, "2026-09-28", "Richtofferte 01.10., Vorstand 20.10., verbindliche Offerte 27.10."]

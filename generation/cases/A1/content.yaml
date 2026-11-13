@@ -1,0 +1,265 @@
+# Text sources for Case A1 documents (Swiss German). Rendered by generation/scripts/build_case.py.
+people:
+  gisler: "Andreas Gisler <andreas.gisler@rigi-goldau.ch>"
+  info: "Fronalp Info <info@fronalp-mgh.ch>"
+
+mails:
+  - file: request/2026-05-18_Mail_Gisler_Anfrage.eml
+    id: m1
+    from: gisler
+    to: info
+    date: "2026-05-18T08:12:00"
+    subject: "Wassereintritt Flachdach Hofmattweg 2/4 Steinen"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Guten Tag
+
+      Wir verwalten im Auftrag der Stiftung Wohnen Hofmatt die beiden Mehrfamilienhäuser am Hofmattweg 2 und 4 in Steinen (Baujahr 1974). Nach dem Gewitter vom letzten Donnerstag ist in zwei Wohnungen im 3. OG von Haus 4 Wasser durch die Decke gekommen. Der Hauswart hat Kübel aufgestellt, der Dachdecker, der früher für die Stiftung gearbeitet hat, ist pensioniert.
+
+      Wir möchten das Dach nun grundsätzlich anschauen lassen: eine Zustandsaufnahme mit Thermografie und einen Kurzbericht, ob eine Reparatur reicht oder ob saniert werden muss. Die Dachfläche beträgt total ca. 500 m2, Kies, soweit ich weiss noch der ursprüngliche Aufbau.
+
+      Können Sie uns dafür eine Offerte machen? Der Stiftungsrat tagt Ende Mai.
+
+      Freundliche Grüsse
+      Andreas Gisler
+      Bewirtschafter
+      Rigi Verwaltungen AG
+      Dorfstrasse 8, 6410 Goldau
+      Tel. +41 76 000 62 64
+  - file: request/2026-05-18_Mail_EFoe_Weiterleitung.eml
+    id: m2
+    from: EFoe
+    to: CSc
+    date: "2026-05-18T09:05:00"
+    subject: "WG: Wassereintritt Flachdach Hofmattweg 2/4 Steinen"
+    body: |
+      Hallo Claudia
+
+      Anfrage Rigi Verwaltungen (KC-20020), Lead L-2026-161 im KC erfasst. Herr Gisler bittet um Rückruf, +41 76 000 62 64.
+
+      Gruss Erika
+    quote: [m1]
+  - file: request/2026-05-28_Mail_Gisler_Plaene.eml
+    id: m3
+    from: gisler
+    to: CSc
+    date: "2026-05-28T16:20:00"
+    subject: "Pläne Hofmattweg 2/4"
+    mailer: "Microsoft Outlook 16.0"
+    attach_plan: true
+    body: |
+      Grüezi Frau Schuler
+
+      Wie besprochen die Pläne von 1974 aus unserem Archiv. Leider ist nur die Dachaufsicht vorhanden, Schnitte haben wir keine gefunden.
+
+      Danke für die Begehung von gestern, der Hauswart hat die Stelle bei Haus 4 mit einer Plane abgedeckt.
+
+      Freundliche Grüsse
+      Andreas Gisler
+  - file: request/2026-06-01_Mail_Gisler_Stiftungsrat.eml
+    id: m4
+    from: gisler
+    to: CSc
+    date: "2026-06-01T07:55:00"
+    subject: "AW: Pläne Hofmattweg 2/4"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Grüezi Frau Schuler
+
+      Der Stiftungsrat hat am Freitag über die Dächer gesprochen. Er möchte nicht nur wissen, ob repariert werden kann, sondern für das Budget 2027 drei Varianten mit Kosten sehen:
+
+      1. Reparatur der schadhaften Stellen
+      2. Gesamtsanierung mit Wärmedämmung nach heutigem Standard
+      3. wie 2, aber vorbereitet für eine Photovoltaikanlage
+
+      Ausserdem wäre es gut, wenn Sie uns nachher bei der Ausschreibung der Bauarbeiten begleiten könnten. Bitte berücksichtigen Sie das in Ihrer Offerte.
+
+      Freundliche Grüsse
+      Andreas Gisler
+    quote: [m3]
+  - file: request/2026-06-03_Mail_CSc_Rueckfragen.eml
+    id: m5
+    from: CSc
+    to: gisler
+    date: "2026-06-03T11:30:00"
+    subject: "AW: AW: Pläne Hofmattweg 2/4"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Grüezi Herr Gisler
+
+      Danke für die Pläne und die Rückmeldung des Stiftungsrats. Bevor ich die Offerte fertigstelle, vier Punkte:
+
+      Thermografie: Sie liefert nur bei einem grossen Temperaturunterschied zwischen innen und aussen verwertbare Bilder, also in der Heizperiode von Oktober bis März. Im Juni würden wir darauf verzichten. Die Feuchte im Dachaufbau stellen wir mit Sondierungen und einer Feuchtemessung fest.
+
+      Sondierungen: Bei einem Dach von 1974 müssen wir vor dem Öffnen Proben der Dachpappe und der Kittfugen auf Asbest, PCB und PAK (Teer) untersuchen lassen. Das Labor braucht rund 5 Arbeitstage.
+
+      Variante 3 mit Photovoltaik: Soll sie fest in die Offerte oder als Option? Für die Statik einer PV-Anlage braucht es zudem einen Ingenieur.
+
+      Ausschreibung: Möchten Sie die Begleitung gleich mit offeriert haben oder zuerst nur Zustand und Varianten?
+
+      Freundliche Grüsse
+      Claudia Schuler
+      Geschäftsführerin
+      Fronalp Metall & Gebäudehülle AG
+    quote: [m4, m3]
+  - file: request/2026-06-05_Mail_Gisler_Antwort.eml
+    id: m6
+    from: gisler
+    to: CSc
+    date: "2026-06-05T14:10:00"
+    subject: "AW: AW: AW: Pläne Hofmattweg 2/4"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Grüezi Frau Schuler
+
+      Danke für die Erklärungen. Ohne Thermografie ist in Ordnung. Die Ausschreibung machen wir selber, das ist bei uns in der Verwaltung so üblich, bitte nicht offerieren. Die PV-Vorbereitung bitte nur als Option, der Stiftungsrat ist sich da noch nicht einig. Mit der Schadstoffanalyse sind wir einverstanden, bitte beauftragen Sie das Labor direkt.
+
+      Wann könnten Sie mit der Aufnahme beginnen? Der Bericht sollte vor der nächsten Sitzung des Stiftungsrats am 4. September vorliegen.
+
+      Freundliche Grüsse
+      Andreas Gisler
+    quote: [m5, m4]
+  - file: operations/2026-06-08_Mail_RBe_Kostenschaetzung.eml
+    id: m7
+    from: RBe
+    to: CSc
+    date: "2026-06-08T17:05:00"
+    subject: "Hofmatt Steinen Kostenschätzung"
+    body: |
+      Hallo Claudia
+
+      Für die Kostenschätzung rechne ich wie in Brunnen pro Variante etwa 3 Std, für die PV-Variante auch. Die Statik für PV müsste die Statik Talkessel machen, sie hätte im August Zeit.
+
+      Gruss Reto
+  - file: offer/2026-06-09_Mail_CSc_Offerte.eml
+    id: m8
+    from: CSc
+    to: gisler
+    date: "2026-06-09T16:40:00"
+    subject: "Honorarofferte OF-26-0147 Flachdächer Hofmattweg 2 und 4"
+    mailer: "Microsoft Outlook 16.0"
+    attach_offer: true
+    body: |
+      Grüezi Herr Gisler
+
+      Gerne senden wir Ihnen im Anhang unsere Honorarofferte für die Zustandsaufnahme und die Sanierungsvarianten der Flachdächer am Hofmattweg 2 und 4.
+
+      Die Offerte umfasst die Aufnahme beider Dächer mit Sondierungen, den Zustandsbericht und zwei Varianten mit Kostenschätzung. Die PV-Vorbereitung und eine Präsentation an der Sitzung des Stiftungsrats sind als Optionen aufgeführt, die Begleitung der Ausschreibung ist wie gewünscht nicht enthalten. Das Labor für die Schadstoffproben beauftragen wir nach Ihrer Auftragserteilung.
+
+      Damit der Stiftungsrat die Unterlagen zwei Wochen vor der Sitzung vom 4. September erhält, bräuchten wir den Auftrag bis 12. Juni. Dann können wir die Aufnahme am 16. Juni machen. Bitte beachten Sie unsere Betriebsferien vom 13. bis 31. Juli.
+
+      Die Plane auf Haus 4 sollte der Hauswart nach jedem Gewitter kontrollieren. Eine Sofortreparatur der Rissstelle können wir Ihnen jederzeit separat nach Regie ausführen.
+
+      Freundliche Grüsse
+      Claudia Schuler
+      Geschäftsführerin, Bauingenieurin FH
+      Fronalp Metall & Gebäudehülle AG
+      Werkhofstrasse 12, 6438 Ibach
+      +41 41 000 12 00
+    quote: [m6]
+
+file_notes:
+  - file: operations/2026-05-19_Aktennotiz_CSc_Telefon_Gisler.docx
+    fields:
+      - [Datum / Zeit, "19.05.2026, 10:15"]
+      - [Erstellt von (Kürzel), CSc]
+      - [Art, Telefon]
+      - [Gesprächspartner, "Hr. A. Gisler, Rigi Verwaltungen AG"]
+      - [Objekt / Projekt, "Hofmattweg 2 und 4, Steinen, Flachdächer (L-2026-161)"]
+    content:
+      - "Zwei Häuser, je ein Flachdach, Zugang über eine Dachluke im Treppenhaus. Wassereintritt in zwei Wohnungen 3. OG Haus 4, Schlafzimmer und Bad. Hauswart Herr Reichlin hat die Einläufe gereinigt."
+      - "Die Pläne von 1974 liegen im Archiv der Verwaltung, Herr Gisler sucht sie heraus. Eigentümerin ist die Stiftung Wohnen Hofmatt, der Stiftungsrat tagt am 29.05. Herr Gisler möchte bis dann wissen, ob Reparatur oder Sanierung."
+      - "Habe erklärt, dass eine verlässliche Aussage Sondierungen braucht und bis 29.05. nicht möglich ist. Erstbegehung machen wir ohne Kosten."
+    agreements:
+      - "Begehung Mittwoch 27.05.2026, 14:00, Treffpunkt Haus 2, mit Hauswart"
+      - "Herr Gisler sendet die Pläne"
+      - "Offerte nach der Begehung"
+    todos:
+      - [Begehung mit NSu planen, CSc, "20.05.2026"]
+      - [Pläne senden, Gisler, "27.05.2026"]
+  - file: operations/2026-05-27_Aktennotiz_NSu_Begehung_Hofmatt.docx
+    fields:
+      - [Datum / Zeit, "27.05.2026, 14:00 bis 15:30"]
+      - [Erstellt von (Kürzel), NSu]
+      - [Art, Begehung]
+      - [Teilnehmende, "Hr. Reichlin (Hauswart), C. Schuler, N. Suter"]
+      - [Objekt / Projekt, "Hofmattweg 2 und 4, Steinen, Flachdächer (L-2026-161)"]
+    content:
+      - "Zwei getrennte Flachdächer gleicher Grösse, Kies ca. 5 cm auf Bitumenbahnen. Dachrand Kupferblech umlaufend, Aufbordung nur 10 bis 12 cm. Je 3 Dacheinläufe, kein Notüberlauf."
+      - "Haus 4: Kies beim Einlauf Nordost weggespült, Blasen und Risse in der obersten Bahn, Kittfuge am Lüftungsrohr gerissen. Vermutlich Ursache des Wassereintritts. Kaminabdeckungen beider Häuser ebenfalls mit Kitt angeschlossen."
+      - "Haus 2: Kies dicht bewachsen (Moos, Gras), Bahnen soweit sichtbar spröde, mehrere Flickstellen von 1998."
+      - "Wasserschaden Haus 4, 3. OG: Flecken an der Decke im Schlafzimmer, ca. 1 m2. Bad heute trocken."
+      - "Dachaufbau unbekannt, Dämmung vermutlich 4 bis 6 cm (Baujahr). Feuchte im Aufbau wahrscheinlich."
+      - "Bauteile von 1974: Verdacht auf asbesthaltige Dachpappe und Kittfugen. Vor den Sondierungen Proben ins Labor (Schadstoff-Analytik Zentralschweiz, Goldau, Resultat in 5 AT)."
+      - "Kein Geländer, Dachrand niedrig. Aufnahme am Rand nur mit Anseilsicherung, Anschlagpunkte fehlen, mobilen Anschlagpunkt mitnehmen."
+      - "Fläche nach Augenmass deutlich grösser als die 500 m2 aus dem Mail. Pläne abwarten."
+    agreements:
+      - "Notreparatur durch uns angeboten. Der Hauswart deckt die Stelle bei Haus 4 vorerst selber mit einer Plane ab."
+      - "Offerte für die Zustandsaufnahme nach Erhalt der Pläne"
+    todos:
+      - [Pläne 1974 an Fronalp, Gisler, "29.05.2026"]
+      - [Offerte Zustandsaufnahme, CSc / NSu, "03.06.2026"]
+
+plan:
+  attachment_name: Plaene_Hofmattweg_1974_Scan.pdf
+  heading: "DACHAUFSICHT"
+  gap: 12.0
+  title: ["Überbauung Hofmatt Steinen", "Dachaufsicht 1:200", "Architekturbüro J. Inglin, Seewen", "Plan Nr. 7, 12.03.1974"]
+  houses:
+    - name: "Haus 2"
+      drains: [[3.0, 3.0], [13.0, 3.0], [13.0, 17.0]]
+      hatch: [5.5, 5.5]
+      vents: [[4.0, 12.0, "Lüftung"], [11.0, 6.0, "Kamin"]]
+    - name: "Haus 4"
+      drains: [[3.0, 3.0], [13.0, 3.0], [13.0, 17.0]]
+      hatch: [5.5, 5.5]
+      vents: [[4.0, 12.0, "Lüftung"], [11.0, 6.0, "Kamin"]]
+
+crm_print:
+  file: operations/KundenCockpit_Lead_L-2026-161_Druck.pdf
+  printed: "09.06.2026 16:20"
+  by: CSc
+  lead:
+    - [Lead, L-2026-161]
+    - [Titel, Zustandsaufnahme Flachdächer Hofmattweg Steinen]
+    - [Bereich, Beratung]
+    - [Status, in Bearbeitung]
+    - [Verantwortlich, CSc]
+    - [Kontakt, "KC-20020 Rigi Verwaltungen AG (Verwaltung)"]
+    - [Erstellt, "18.05.2026 EFö"]
+    - [Wert geschätzt, "CHF 5'000"]
+  contacts:
+    - [KC-20020, Rigi Verwaltungen AG, "Herr Andreas Gisler, Dorfstrasse 8, 6410 Goldau", "+41 76 000 62 64", andreas.gisler@rigi-goldau.ch, "Verwaltung, erstellt 07.12.2022"]
+  activities:
+    - ["26.05.2025", "CSc", "Offerte", "OF-25-0149 Variantenstudie Terrasse Goldau, verloren"]
+    - ["18.05.2026", "EFö", "Mail", "Anfrage Zustandsaufnahme Flachdach, Lead erfasst, an CSc"]
+    - ["19.05.2026", "CSc", "Telefon", "Begehung 27.05. vereinbart, Aktennotiz"]
+    - ["27.05.2026", "NSu", "Begehung", "Befund siehe Aktennotiz, Asbestverdacht, Fläche grösser als angegeben"]
+    - ["01.06.2026", "CSc", "Mail", "Stiftungsrat will 3 Varianten und Begleitung Ausschreibung"]
+    - ["28.05.2026", "CSc", "Mail", "Pläne 1974 erhalten, Fläche 640 m2"]
+    - ["03.06.2026", "CSc", "Mail", "Rückfragen Thermografie, Schadstoffe, PV, Ausschreibung"]
+    - ["05.06.2026", "CSc", "Mail", "Ausschreibung macht Verwaltung, PV nur Option, ohne Thermografie"]
+    - ["08.06.2026", "RBe", "Notiz", "Kostenschätzung je Variante ca. 3 Std"]
+
+fee_offer:
+  salutation: "Sehr geehrter Herr Gisler"
+  intro: ["Besten Dank für Ihre Anfrage vom 18. Mai 2026, die Begehung vom 27. Mai und Ihre Rückmeldungen nach der Sitzung des Stiftungsrats. Gerne offerieren wir der Stiftung Wohnen Hofmatt die Zustandsaufnahme der beiden Flachdächer und zwei Sanierungsvarianten."]
+  situation:
+    - "Nach dem Gewitter vom 14. Mai 2026 ist in zwei Wohnungen im 3. OG von Haus 4 Wasser eingetreten. Die Flachdächer beider Häuser haben vermutlich noch den Aufbau von 1974, auf Haus 2 mit Flickstellen von 1998."
+    - "Der Stiftungsrat möchte für das Budget 2027 wissen, ob eine Reparatur genügt oder eine Gesamtsanierung nötig ist, und die Kosten beider Wege kennen. Eine Vorbereitung für Photovoltaik wird als Option geprüft."
+  documents: ["Pläne 1974, Dachaufsicht 1:200 (Scan der Verwaltung vom 28.05.2026)", "Befund unserer Begehung vom 27.05.2026"]
+  phase_scope:
+    "1 Grundlagen und Bestandesaufnahme": ["Aufnahmetag 1: beide Dächer mit Fotodokumentation, Dachrand, Einläufe und Anschlüsse; Probenahme für die Schadstoffanalyse mit Schutzmassnahmen (eine kleine Kernprobe je Dach durch den ganzen Aufbau, Kittfugen, Lüftungsrohr, Kaminabdeckung); Wasserschäden in den Wohnungen 3. OG Haus 4", "Aufnahmetag 2 nach dem Laborresultat: 5 Sondierungen mit Probeöffnung und Verschluss (Haus 4 beim Einlauf Nordost, Feld und Lüftungsrohr; Haus 2 Feld und Flickstellen 1998), Feuchtemessung je Dach"]
+    "2 Analyse und Zustandsbericht": ["Zustandsbericht beider Dächer: Aufbau, Feuchte, Gefälle, Entwässerung und fehlende Notüberläufe, Höhe der Aufbordungen, Dachrand und Durchdringungen, Ursache des Wassereintritts, Restlebensdauer, Sofortmassnahmen und Empfehlung"]
+    "3 Varianten und Kostenschätzung": ["Variante A Reparatur der schadhaften Bereiche, Variante B Gesamtsanierung mit Wärmedämmung nach heutigem Standard (mit Erhöhung von Dachrand und Aufbordungen, Notüberläufen und Absturzsicherung für den Unterhalt), je für beide Dächer", "Kostenschätzung je Variante (Genauigkeit ±25 %) durch unseren Projektleiter Dach, Reto Betschart", "Besprechung der Ergebnisse mit der Verwaltung"]
+    "Option: Variante C PV-Vorbereitung": ["Variante C wie B, zusätzlich vorbereitet für eine Photovoltaikanlage (Befestigungspunkte, Leitungsführung), mit Kostenschätzung", "Die statische Prüfung der Decke für eine PV-Anlage ist nicht enthalten"]
+    "Option: Präsentation an der Sitzung des Stiftungsrats": ["Vorstellung von Bericht und Varianten an der Sitzung vom 4. September 2026 in Steinen"]
+  schedule:
+    - "Aufnahmetag 1 mit Probenahme am Dienstag, 16. Juni 2026. Laborresultat nach rund 5 Arbeitstagen, Aufnahmetag 2 mit den Sondierungen Ende Juni oder Anfang Juli, bei trockenem Wetter."
+    - "Zustandsbericht bis 10. Juli 2026, vor unseren Betriebsferien vom 13. bis 31. Juli. Varianten und Kostenschätzung bis 14. August, Besprechung mit der Verwaltung in der Woche vom 17. August, Unterlagen für den Stiftungsrat bis 21. August 2026."
+    - "Verschieben sich die Sondierungen wegen Wetter oder Schadstoffbefund, liefern wir den Zustandsbericht bis 7. August; der Termin vom 21. August bleibt."
+    - "Voraussetzung ist die Auftragserteilung bis 12. Juni 2026."
+  options_note: "Die Optionen können mit dem Auftrag oder bis spätestens 30. Juni 2026 bestellt werden, damit sie bis zur Sitzung vom 4. September vorliegen."
+  closing: ["Fronalp möchte sich an der späteren Ausschreibung der Bauarbeiten beteiligen. Bericht und Kostenschätzungen dürfen für die Ausschreibung verwendet werden.", "Wir danken Ihnen für Ihr Vertrauen und stehen für Fragen gerne zur Verfügung."]
+  order_by: "für die Stiftung Wohnen Hofmatt"
+  signature_role: "Geschäftsführerin, Bauingenieurin FH"

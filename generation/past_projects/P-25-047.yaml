@@ -1,0 +1,98 @@
+# Past project for Case A3 (ADR 0005, ADR 0007). Same customer, other settlement. Takes over the base record "Geländerprüfung Schwyz" (DL-196). Frozen once rendered.
+nr: P-25-047
+for_case: A3
+adopt_base: Geländerprüfung Schwyz
+folder: P-25-047 Geländerprüfung Schwyz
+line: Beratung
+ausmass: false
+customer: D-10143          # Wohnbaugenossenschaft Talkessel, Schwyz (ERP discount 2 %)
+erp_object: Geländerprüfung Schwyz
+object_lines: ["Siedlung Bachmatt, Bachmattweg 1 und 3, 6430 Schwyz", "Beratung", "Prüfung der Balkon- und Treppenhausgeländer"]
+offer:
+  number: OF-25-0097
+  date: 2025-04-01
+  layout: word_fee
+  type: Honorarofferte
+  project_manager: CSc
+  signed_by: CSc
+  subject: "Siedlung Bachmatt, Bachmattweg 1 und 3, Schwyz, Prüfung der Balkon- und Treppenhausgeländer"
+  payment_terms: "30 Tage netto"
+  discount: 0.02
+  skonto: false
+  norms_named: ["SIA 358", "bfu"]
+  sections:
+    - title: "1 Grundlagen und Vorbereitung"
+      lines:
+        - {code: "99.100.08", qty: 2, text: "Unterlagen sichten, Terminplan, Mieterinformation mit dem Hauswart"}
+    - title: "2 Aufnahme vor Ort und Auszugsversuche"
+      lines:
+        - {code: "99.100.08", qty: 5.5, text: "Aufnahme 16 Balkongeländer"}
+        - {code: "99.100.08", qty: 3, text: "Aufnahme 2 Treppenhausgeländer"}
+        - {code: "99.100.07", qty: 3, text: "Beurteilung Befestigungen und Korrosion vor Ort"}
+        - {code: "99.100.01", qty: 5, text: "10 Auszugsversuche (je Haus 5) inkl. Verschliessen der Prüfstellen"}
+        - {code: "99.110.01", qty: 1, text: "Fahrzeugpauschale Prüftag"}
+    - title: "3 Bericht mit Ampelbewertung"
+      lines:
+        - {code: "99.100.08", qty: 8, text: "Datenblatt pro Geländer mit Fotos und Ampel, Zusammenfassung"}
+        - {code: "99.100.07", qty: 2, text: "Beurteilung Auszugsversuche, Massnahmen"}
+        - {code: "99.100.06", qty: 1.5, text: "Durchsicht Bericht"}
+    - title: "4 Massnahmen und Kostenschätzung"
+      lines:
+        - {code: "99.100.07", qty: 2, text: "Kostenschätzung Massnahmen (±25 %)"}
+        - {code: "99.100.08", qty: 1, text: "Massnahmenliste nach Haus und Dringlichkeit"}
+    - title: "Spesen"
+      lines:
+        - {code: "98.120.01", qty: 18, text: "3 Fahrten Ibach Schwyz und zurück, je 6 km"}
+  exclusions:
+    - "Reparatur oder Ersatz von Geländern"
+    - "Statische Nachweise und Prüfung der Balkonplatten"
+    - "Präsentation im Vorstand (auf Wunsch nach Aufwand)"
+  assumptions:
+    - "16 Balkone (je Haus 1. bis 4. OG, 2 pro Geschoss), EG Sitzplätze ohne Geländer"
+    - "Balkongeländer mit 2 Pfosten auf Fussplatte, je 2 Anker; Treppenhausgeländer mit ca. 12 Befestigungen pro Haus"
+    - "Auszugsversuche als Stichprobe: 10 % der Anker pro Haus, mindestens 3"
+  client_provisions:
+    - "Information der Mieter und Zugang zu den Wohnungen, Hauswart begleitet"
+    - "Vorhandene Pläne"
+  reservations:
+    - "Fällt ein Auszugsversuch durch, prüfen wir die übrigen Anker dieses Geländers; Mehraufwand nur nach schriftlicher Zustimmung"
+    - "Rote Befunde melden wir am gleichen Tag; Sicherung oder Reparatur separat nach Regie"
+texts:
+  salutation: "Sehr geehrte Frau Schmidig"
+  intro: ["Besten Dank für das Gespräch vom 27. März 2025. Gerne offerieren wir Ihnen die Prüfung der Geländer in der Siedlung Bachmatt."]
+  situation:
+    - "Die beiden Häuser von 1971 haben noch die originalen Balkongeländer. Der Vorstand möchte vor der Balkonsanierung wissen, welche Geländer sicher sind und wo Handlungsbedarf besteht."
+  documents: ["Pläne 1971 (Grundrisse)", "Wohnungsliste der Genossenschaft"]
+  phase_scope:
+    "1 Grundlagen und Vorbereitung": ["Terminplan und Mieterinformation zusammen mit dem Hauswart"]
+    "2 Aufnahme vor Ort und Auszugsversuche": ["Sichtprüfung und Messung jedes Geländers: Höhe, Öffnungen, Bekletterbarkeit, Korrosion, Befestigung und Spiel von Pfosten und Handlauf", "Auszugsversuche mit unserem Prüfgerät an 10 Ankern durch einen Monteur, Prüfstellen verschlossen"]
+    "3 Bericht mit Ampelbewertung": ["Datenblatt pro Geländer mit Fotos und Ampel: Grün sicher, nur Unterhalt (z. B. Schrauben nachziehen, Rostschutz punktuell); Gelb keine akute Absturzgefahr, aber Abweichung von SIA 358 oder bfu (Höhe unter 1.00 m, bekletterbar, Öffnungen über 12 cm, beginnende Korrosion), Massnahme in 1 bis 2 Jahren; Rot Absturzgefahr oder ungenügende Befestigung, sofort sichern oder sperren"]
+    "4 Massnahmen und Kostenschätzung": ["Massnahmenliste nach Haus und Dringlichkeit, Kostenschätzung (±25 %) für Gelb und Rot durch unsere Projektleiterin Metallbau, Sandra Kälin"]
+  schedule: ["Aufnahme und Auszugsversuche in der ersten Junihälfte 2025, Bericht bis Ende Juni 2025."]
+  signature_role: "Geschäftsführerin, Bauingenieurin FH"
+measured:
+  period: "02.06.2025 bis 24.06.2025"
+  invoice_number: RE-25-0312
+  invoice_date: 2025-06-27
+  basis: "Beschreibung (nach Aufwand)"
+  lines:
+    - {code: "99.100.08", qty: 21, text: "Beratung Technik (N. Suter)"}
+    - {code: "99.100.07", qty: 7, text: "Beratung Projektleitung (S. Kälin)"}
+    - {code: "99.100.06", qty: 3.5, text: "Beratung Geschäftsleitung (C. Schuler)"}
+    - {code: "99.100.01", qty: 5, text: "Monteur Auszugsversuche (D. Holdener)"}
+    - {code: "99.110.01", qty: 1, text: "Fahrzeugpauschale Prüftag"}
+    - {code: "98.120.01", qty: 30, text: "Spesen Beratung, 5 Fahrten Schwyz"}
+  notes: ["Abrechnung nach effektivem Aufwand gemäss Honorarofferte OF-25-0097.",
+          "Mehraufwand: Nachtermin für 3 nicht angetroffene Mieter (1.5 Std) und Präsentation im Vorstand vom 24.06.2025 (2 Std C. Schuler), offeriert mit Mail vom 10.06.2025 und von Frau Schmidig am 11.06.2025 schriftlich bestätigt; dazu 2 Fahrten (Nachtermin und Präsentation)."]
+hours:
+  - [NSU, B3, "2025-06", "21.0"]
+  - [SKÄ, B2, "2025-06", "7.0"]
+  - [CSC, B1, "2025-06", "3.5"]
+  - [DHO, MA, "2025-06", "5.0"]
+summary:
+  team: [CSc, NSu, SKae, DHo]
+  notes:
+    - "Aufnahme 20 Min. pro Balkon inkl. Zugang über die Wohnung, Treppenhaus 1.5 Std. 3 Mieter nicht angetroffen, Nachtermin 1.5 Std: bei vielen Wohnungen gleich einplanen."
+    - "10 Auszugsversuche (je Haus 5 von 44 Ankern), alle bestanden, D. Holdener 5 Std inkl. Verschliessen, 1 Prüftag."
+    - "Bericht: 20 Min. pro Geländer plus 2 Std Zusammenfassung. Ergebnis 9 Grün, 8 Gelb (Höhe 90 cm, Querstäbe bekletterbar), 1 Rot (Pfostenfuss durchgerostet, am gleichen Tag gesperrt)."
+    - "Der Vorstand wollte die Ergebnisse vorgestellt haben: 2 Std CSc und 1 Fahrt als Mehraufwand. Präsentation künftig gleich offerieren. Insgesamt 5 Fahrten statt 3."

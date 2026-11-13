@@ -1,0 +1,93 @@
+# Past project for Case C2 (ADR 0005). Frozen once rendered. Number fixed by the date order gate (DL-186).
+nr: P-25-039
+for_case: C2
+folder: P-25-039 Aussentreppe Stahl Lauerz
+line: Projektgeschäft
+ausmass: false
+customer: D-10605          # Herr Christian Arnold, Hofmatt 64, Lauerz (private base customer)
+erp_object: Aussentreppe Stahl Lauerz
+object_lines: ["Einfamilienhaus Hofmatt 64, 6424 Lauerz", "Metallbau", "Aussentreppe Stahl zur Terrasse"]
+facts: {height_slab: 2.38, tiles_new: 0.0, run_available: 3.77, width: 1.00}
+derived:
+  height: "round(F.height_slab + F.tiles_new, 2)"
+  risers: "ceil(round(F.height / 0.18, 6))"
+  treads: "F.risers - 1"
+  diag: "round(sqrt(F.run_available ** 2 + F.height ** 2), 2)"
+  stringer: "round(F.diag + 0.34, 2)"
+  railing: "ceil(round((F.diag + 0.5) * 10, 6)) / 10"
+  stair_kg: "round(2 * F.stringer * 18.84 + 4 * F.treads + 24, 1)"
+costing:
+  title: "Aussentreppe Stahl, feuerverzinkt, Geländer mit Flachstahl-Staketen"
+  rows:
+    - [M, "Wangen Flachstahl 200x12", "2 * F.stringer * 18.84", kg, "ek:70.150.05"]
+    - [M, "Stufenwinkel Flachstahl 50x10 (4 kg pro Stufe)", "4 * F.treads", kg, "ek:70.150.02"]
+    - [M, "Kopf- und Fussplatten Blech 10 mm", 24, kg, "ek:70.180.06"]
+    - [M, "Gitterroststufen 1000 mm mit Rutschkante", "F.treads", Stk, "ek:80.110.02"]
+    - [M, "Geländer Flachstahl-Staketen (18 kg pro m)", "18 * F.railing", kg, "ek:70.150.01"]
+    - [M, "Gewindestangen M16 für Anker", 4, m, "ek:90.160.02"]
+    - [O, "Feuerverzinken (Gewicht x 1.05)", "round((F.stair_kg + 18 * F.railing) * 1.05, 1)", kg, "ek:85.100.01"]
+    - [W, "Treppe: Wangen, Winkel, Platten (6 h pro Stufe)", "6 * F.treads", Std, "rate:WS"]
+    - [W, "Geländer Flachstahl-Staketen (2.5 h pro m)", "ceil(round(2.5 * F.railing, 6))", Std, "rate:WS"]
+    - [K, "Werkstattpläne und Pläne Baugesuch", 8, Std, "rate:WS"]
+    - [A, "Montage Treppe mit Geländer, A-Monteur", 8.5, Std, "rate:MA"]
+    - [A, "Montage Treppe mit Geländer, B-Monteur", 8.5, Std, "rate:MB"]
+    - [T, "Mobilkran (mind. 4 Std)", 4, Std, "vk:10.120.01"]
+    - [T, "Transportpauschale Zone 1", 1, Pau, "vk:10.170.01"]
+    - [T, "Fahrzeugpauschale", 1, Tag, "vk:99.110.01"]
+    - [P, "Projektleitung (ohne Gesamtpaket)", 4, Std, "rate:PL"]
+    - [F, "Statik Talkessel AG, Offerte vom 10.03.2025", 1, Pau, "fix:950"]
+offer:
+  number: OF-25-0084
+  date: 2025-03-18
+  layout: word_lump
+  type: Pauschalofferte
+  project_manager: SKae
+  signed_by: SKae
+  recipient: ["Herr", "Christian Arnold", "Hofmatt 64", "6424 Lauerz"]
+  object: "Einfamilienhaus Hofmatt 64, 6424 Lauerz, Aussentreppe zur Terrasse"
+  payment: b2c
+  validity_text: "30 Tage"          # left from the old Word template (KI, see C2-F4)
+  discount: 0.0
+  skonto: false
+  client_provisions:
+    - "Fundamente durch den Baumeister der Bauherrschaft nach unserem Fundamentplan"
+    - "Baugesuch durch die Bauherrschaft; Pläne und statischer Nachweis liefern wir"
+    - "Zufahrt für Lastwagen und Kran"
+  exclusions: ["Bewilligungsgebühren", "Beleuchtung"]
+  assumptions: ["Kran: Ausladung ca. 15 m über den Garten, deshalb Mobilkran", "Höhe 2.38 m gemäss Aufmass vom 06.03.2025", "14 Steigungen à 17 cm, 13 Stufen à 29 cm, Lauflänge 3.77 m, Breite 1.00 m"]
+  reservations: ["Ausführung nach rechtskräftiger Baubewilligung"]
+texts:
+  salutation: "Sehr geehrter Herr Arnold"
+  situation: ["Sie möchten von Ihrer Terrasse im Obergeschoss direkt in den Garten gelangen. Gemäss Aufmass vom 6. März 2025 offerieren wir eine gerade Aussentreppe in Stahl entlang der Fassade."]
+  scope_common: ["Gerade Treppe mit zwei Wangen Flachstahl 200 x 12 mm, 13 Gitterroststufen 1000 mm mit Rutschkante", "Geländer auf der offenen Seite mit Flachstahl-Staketen, Handlauf Rundrohr", "Feuerverzinkt", "Statische Bemessung durch Statik Talkessel AG", "Werkstattpläne und Pläne für das Baugesuch", "Transport, Kran und Montage"]
+  variant_scope: []
+  package: ["Statik, Pläne Baugesuch, Transport, Kran und Montage"]
+  package_title: "Im Pauschalpreis enthalten"
+  schedule: ["Lieferfrist 6 Wochen nach Baubewilligung und Fertigstellung der Fundamente."]
+measured:
+  period: "12.05.2025 bis 26.06.2025"
+  invoice_number: RE-25-0331
+  invoice_date: 2025-06-30
+  basis: "Beschreibung"
+  lines:
+    - {text: "Aussentreppe Stahl gemäss Offerte, pauschal", unit: Pau, qty: 1, unit_price: LUMP}
+    - {code: "99.100.01", qty: 2, text: "Regie A-Monteur: Zusatzfahrt und Wartezeit, Fundamente nicht bereit (06.06.2025)"}
+    - {code: "99.110.01", qty: 1, text: "Fahrzeugpauschale Zusatzfahrt"}
+  notes: ["Regie gemäss Rapport vom 06.06.2025, vom Bauherrn unterschrieben.", "Zahlbar innert 30 Tagen netto oder innert 10 Tagen mit 2 % Skonto gemäss Offerte."]
+hours:
+  - [RHE, WS, "2025-05", "8.0"]
+  - [PGW, WS, "2025-05", "50.0"]
+  - [SBÜ, WS, "2025-05", "34.5"]
+  - [AKR, WS, "2025-05", "17.0"]
+  - [SKÄ, PL, "2025-05", "2.0"]
+  - [DHO, MA, "2025-06", "10.5"]
+  - [RSI, MB, "2025-06", "8.5"]
+  - [SKÄ, PL, "2025-06", "3.0"]
+summary:
+  team: [SKae, RHe, PGw, SBue, AKr, DHo, RSi]
+  notes:
+    - "Werkstatt Treppe 84.5 Std statt 78 (6.5 Std pro Stufe), Wangen nach dem Verzinken nachgerichtet. Geländer 17 Std statt 13 (3.4 Std pro m). Pläne 8 Std wie offeriert."
+    - "Fundamente durch den Baumeister des Kunden drei Wochen zu spät. Zusatzfahrt und Wartezeit nach Regie verrechnet, Montage am 26.06.2025. Künftig bei Privatkunden das Gesamtpaket mit Hinteribach anbieten."
+    - "Offerte noch mit 'Gültigkeit 30 Tage' aus der alten Word-Vorlage verschickt; Kunde hat nach 6 Wochen bestellt, Preis gehalten."
+    - "Keine Anzahlung vereinbart, Material und Verzinkerei vorfinanziert. Künftig bei Privatkunden über CHF 20'000 Anzahlung."
+    - "Projektleitung 5 Std statt 4 wegen der Koordination mit dem Baumeister."

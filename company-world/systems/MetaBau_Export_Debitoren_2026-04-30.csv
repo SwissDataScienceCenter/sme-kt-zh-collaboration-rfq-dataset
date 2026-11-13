@@ -1,0 +1,709 @@
+DEB_NR;ALT_NR;NAME_1;NAME_2;STRASSE;PLZ;ORT;TEL;EMAIL;ZAHLKOND;RABATT_PROZ;SKONTO_SPERRE
+D-10101;K9194;Arnold & Gisler Immobilien AG;Frau Regula Niederöst;Dorfstrasse 35;6440;Brunnen;+41 79 000 19 33;regula.niederoest@arnold-brunnen.ch;30T NETTO;0.0;J
+D-10108;;Seeblick Liegenschaften GmbH;Frau Monika Fässler;Kirchweg 17;6403;Küssnacht;+41 78 000 16 23;monika.faessler@seeblick-kuessnacht.ch;30T NETTO;2.0;N
+D-10115;K5854;Talkessel Immobilien-Treuhand AG;Frau Claudia Kälin;Rebbergstrasse 25;6430;Schwyz;+41 41 000 30 89;claudia.kaelin@talkessel-schwyz.ch;30T NETTO;0.0;N
+D-10122;K3342;Rigi Verwaltungen AG;Herr Andreas Gisler;Dorfstrasse 8;6410;Goldau;+41 76 000 62 64;andreas.gisler@rigi-goldau.ch;30T NETTO;0.0;N
+D-10129;K5651;Hirschgarten Immobilien AG;Herr Andreas Meier;Kirchweg 17;8003;Zürich;+41 79 000 87 11;andreas.meier@hirschgarten-zuerich.ch;30T NETTO;2.0;N
+D-10136;;Ägeri Haus & Wohnen GmbH;Frau Regula Suter;Kirchweg 6;6300;Zug;+41 41 000 26 51;regula.suter@aegeri-zug.ch;30T NETTO;0.0;N
+D-10143;;Wohnbaugenossenschaft Talkessel;Frau Franziska Schmidig;Gartenweg 4;6430;Schwyz;+41 78 000 18 59;franziska.schmidig@wohnbaugenossenschaft-schwyz.ch;30T NETTO;2.0;N
+D-10150;K3864;Baugenossenschaft Seewen-Hof;Frau Nicole Inglin;Hofmatt 59;6423;Seewen;+41 79 000 38 25;nicole.inglin@baugenossenschaft-seewen.ch;30T NETTO;2.0;N
+D-10157;;Wohngenossenschaft Rossberg;Herr Christian Bucher;Lindenstrasse 40;6410;Goldau;+41 79 000 19 33;christian.bucher@wohngenossenschaft-goldau.ch;30T NETTO;2.0;N
+D-10164;K5315;Genossenschaft Sonnmatt Einsiedeln;Herr Stefan Kistler;Bühlweg 6;8840;Einsiedeln;+41 76 000 94 31;stefan.kistler@genossenschaft-einsiedeln.ch;30T NETTO;2.0;N
+D-10171;K2546;Bauatelier Lauerz GmbH;Frau Franziska Meier;Hofmatt 36;6424;Lauerz;+41 79 000 53 69;franziska.meier@bauatelier-lauerz.ch;30T NETTO;0.0;N
+D-10178;K6530;Huwyler Partner Architekten AG;Frau Ruth Schuler;Rebbergstrasse 40;6403;Küssnacht;+41 78 000 29 61;ruth.schuler@huwyler-kuessnacht.ch;30T NETTO;0.0;N
+D-10185;;Studio Riedmatt Architektur GmbH;Herr Urs Arnold;Seestrasse 56;6300;Zug;+41 76 000 25 48;urs.arnold@studio-zug.ch;30T NETTO;0.0;N
+D-10192;K2569;Zwyssig Architekten AG;Herr Andreas Heinzer;Kirchweg 17;6460;Altdorf;+41 76 000 99 68;andreas.heinzer@zwyssig-altdorf.ch;30T NETTO;0.0;N
+D-10199;;Urschweiz GU AG;Frau Nicole Kennel;Lindenstrasse 37;6440;Brunnen;+41 78 000 52 89;nicole.kennel@urschweiz-brunnen.ch;30T NETTO;0.0;N
+D-10206;K3118;Zentralbau Generalunternehmung AG;Frau Monika Bucher;Feldstrasse 27;6004;Luzern;+41 78 000 65 74;monika.bucher@zentralbau-luzern.ch;30T NETTO;0.0;N
+D-10213;K3484;Genossame Fronbach;Herr Daniel Baggenstos;Bergstrasse 6;6422;Steinen;+41 78 000 27 29;daniel.baggenstos@genossame-steinen.ch;30T NETTO;0.0;N
+D-10220;K2943;Gemeindewerke Seewen-Steinen;Frau Regula Schuler;Riedstrasse 36;6423;Seewen;+41 78 000 46 99;regula.schuler@gemeindewerke-seewen.ch;30T NETTO;0.0;N
+D-10227;K1992;Hotel Bürgenblick AG;Herr Andreas Fuchs;Hofmatt 41;6442;Gersau;+41 78 000 74 72;andreas.fuchs@hotel-gersau.ch;30T NETTO;0.0;N
+D-10234;K2074;Garage Sattelegg AG;Herr Roland Zwyssig;Rosenweg 2;6417;Sattel;+41 41 000 73 78;roland.zwyssig@garage-sattel.ch;30T NETTO;0.0;N
+D-10241;K1702;Bergrestaurant Holzegg GmbH;Frau Monika Suter;Dorfstrasse 14;6430;Schwyz;+41 79 000 64 56;monika.suter@bergrestaurant-schwyz.ch;30T NETTO;0.0;N
+D-10248;K5383;Käserei Muota AG;Herr Roland Beeler;Bachstrasse 13;6430;Schwyz;+41 41 000 61 73;roland.beeler@kaeserei-schwyz.ch;30T NETTO;0.0;N
+D-10255;K1377;Physiozentrum Mythen GmbH;Herr Markus Fuchs;Lindenstrasse 59;6430;Schwyz;+41 79 000 43 56;markus.fuchs@physiozentrum-schwyz.ch;30T NETTO;0.0;N
+D-10262;;Camping Lauerzersee GmbH;Herr Christian Meier;Hofmatt 24;6424;Lauerz;+41 76 000 61 91;christian.meier@camping-lauerz.ch;30T NETTO;0.0;N
+D-10269;K2282;Truttmann Treuhand AG;Herr Andreas Kistler;Feldstrasse 14;6443;Morschach;+41 79 000 89 83;info@truttmann-morschach.ch;30T NETTO;2.0;N
+D-10276;K4089;Stockwerkeigentümergemeinschaft Gartenweg 23, Sattel;Herr Beat Wüthrich;Seestrasse 30;6417;Sattel;+41 78 000 55 43;info@meier-sattel.ch;30T NETTO;2.0;N
+D-10283;K3370;Meier Treuhand AG;Herr Thomas Inglin;Bachstrasse 29;6460;Altdorf;+41 78 000 71 89;info@meier-altdorf.ch;30T NETTO;0.0;N
+D-10290;K4510;Schmidig Architektur GmbH;Frau Regula Baggenstos;Dorfstrasse 30;8842;Unteriberg;+41 76 000 56 43;info@schmidig-unteriberg.ch;30T NETTO;0.0;N
+D-10297;;Suter Immobilien GmbH;Herr Peter Lüönd;Bachstrasse 47;6442;Gersau;+41 41 000 12 28;info@suter-gersau.ch;30T NETTO;2.0;N
+D-10304;K4363;Gwerder Architektur GmbH;Herr Andreas Annen;Bühlweg 23;6422;Steinen;+41 76 000 46 93;info@gwerder-steinen.ch;30T NETTO;0.0;N
+D-10311;;Garage Betschart AG;Herr Josef Kistler;Hofmatt 56;6442;Gersau;+41 76 000 77 93;info@betschart-gersau.ch;30T NETTO;0.0;N
+D-10318;K6690;Erbengemeinschaft Schmidig;Herr Martin Wüthrich;Bachstrasse 48;8820;Wädenswil;+41 76 000 50 41;info@schmidig-waedenswil.ch;30T NETTO;0.0;N
+D-10325;K2329;Garage Zwyssig AG;Frau Sandra Baggenstos;Bergstrasse 53;6422;Steinen;+41 78 000 77 75;info@zwyssig-steinen.ch;30T NETTO;0.0;N
+D-10332;K7381;Bäckerei Ulrich;Frau Karin Fuchs;Sonnenhalde 49;6443;Morschach;+41 79 000 89 22;info@ulrich-morschach.ch;30T NETTO;0.0;N
+D-10339;K7745;Marty Architektur GmbH;Frau Andrea Föhn;Riedstrasse 13;6422;Steinen;+41 79 000 24 73;info@marty-steinen.ch;30T NETTO;0.0;N
+D-10346;K4070;Ochsner Treuhand AG;Herr Lukas Marty;Bachstrasse 14;6438;Ibach;+41 76 000 60 70;info@ochsner-ibach.ch;30T NETTO;2.0;N
+D-10353;K7212;Ott Holzbau AG;Herr Martin Auf der Maur;Seestrasse 13;6415;Arth;+41 41 000 79 37;info@ott-arth.ch;30T NETTO;0.0;N
+D-10360;K8322;Erbengemeinschaft Annen;Frau Ruth Aschwanden;Riedstrasse 22;6423;Seewen;+41 41 000 90 43;info@annen-seewen.ch;30T NETTO;0.0;N
+D-10367;K5221;Bürgler Architektur GmbH;Herr Daniel Föhn;Gartenweg 52;6430;Schwyz;+41 79 000 30 30;info@buergler-schwyz.ch;30T NETTO;0.0;N
+D-10374;;Erbengemeinschaft Fuchs;Frau Regula Bürgler;Sonnenhalde 14;6422;Steinen;+41 41 000 46 58;info@fuchs-steinen.ch;30T NETTO;0.0;N
+D-10381;K1150;Beeler Holzbau AG;Herr Roland Schnüriger;Sonnenhalde 15;6403;Küssnacht;+41 78 000 75 36;info@beeler-kuessnacht.ch;30T NETTO;0.0;N
+D-10388;;Holdener Holzbau AG;Frau Barbara Schmidig;Riedstrasse 26;6442;Gersau;+41 78 000 11 21;info@holdener-gersau.ch;30T NETTO;0.0;N
+D-10395;K6059;Stockwerkeigentümergemeinschaft Bergstrasse 1, Seewen;Frau Barbara Meier;Feldstrasse 33;6423;Seewen;+41 79 000 26 10;info@meier-seewen.ch;30T NETTO;2.0;N
+D-10402;K2155;Garage Annen AG;Frau Claudia Ott;Bühlweg 31;6422;Steinen;+41 79 000 38 38;info@annen-steinen.ch;30T NETTO;0.0;N
+D-10409;K8155;Zehnder Holzbau AG;Frau Franziska Fuchs;Seestrasse 20;6418;Rothenthurm;+41 79 000 13 10;info@zehnder-rothenthurm.ch;30T NETTO;0.0;N
+D-10416;;Garage Fuchs AG;Frau Franziska Arnold;Dorfstrasse 19;6300;Zug;+41 78 000 75 96;info@fuchs-zug.ch;30T NETTO;0.0;N
+D-10423;K6618;Abegg Immobilien GmbH;Frau Sandra Mettler;Bühlweg 44;6403;Küssnacht;+41 41 000 82 98;info@abegg-kuessnacht.ch;30T NETTO;2.0;N
+D-10430;K3175;Lüönd Treuhand AG;Frau Regula Ott;Feldstrasse 53;6424;Lauerz;+41 41 000 59 92;info@lueoend-lauerz.ch;30T NETTO;0.0;N
+D-10437;K4148;Wüthrich Holzbau AG;Herr Andreas Steiner;Rebbergstrasse 19;8843;Oberiberg;+41 79 000 86 38;info@wuethrich-oberiberg.ch;30T NETTO;0.0;N
+D-10444;K1828;Marty Treuhand AG;Herr Christian Niederöst;Dorfstrasse 19;6438;Ibach;+41 78 000 89 36;info@marty-ibach.ch;30T NETTO;2.0;N
+D-10451;K5826;Schelbert Holzbau AG;Herr Markus Heinzer;Bergstrasse 46;6440;Brunnen;+41 76 000 22 44;info@schelbert-brunnen.ch;30T NETTO;0.0;N
+D-10458;K1049;Ulrich Holzbau AG;Frau Priska Weber;Dorfstrasse 43;6460;Altdorf;+41 41 000 38 22;info@ulrich-altdorf.ch;30T NETTO;0.0;N
+D-10465;K3333;Schnüriger Holzbau AG;Herr Thomas Beeler;Sonnenhalde 34;6442;Gersau;+41 76 000 33 28;info@schnueriger-gersau.ch;30T NETTO;0.0;N
+D-10472;K9295;Garage Schuler AG;Frau Esther Fässler;Bühlweg 4;6430;Schwyz;+41 79 000 30 93;info@schuler-schwyz.ch;30T NETTO;0.0;N
+D-10479;K9141;Stockwerkeigentümergemeinschaft Hofmatt 20, Morschach;Herr Peter Mettler;Bergstrasse 43;6443;Morschach;+41 78 000 86 49;info@meier-morschach.ch;30T NETTO;0.0;N
+D-10486;K1140;Kennel Treuhand AG;Frau Karin Betschart;Gartenweg 53;8843;Oberiberg;+41 76 000 81 54;info@kennel-oberiberg.ch;30T NETTO;0.0;N
+D-10493;K2700;Camenzind Architektur GmbH;Herr Andreas Bürgler;Kirchweg 50;6440;Brunnen;+41 76 000 91 49;info@camenzind-brunnen.ch;30T NETTO;0.0;N
+D-10500;K7789;Erbengemeinschaft Bürgler;Herr Daniel Fuchs;Kirchweg 9;6443;Morschach;+41 41 000 77 11;info@buergler-morschach.ch;30T NETTO;0.0;N
+D-10507;K2542;Erbengemeinschaft Baggenstos;Frau Silvia Mettler;Feldstrasse 44;8842;Unteriberg;+41 41 000 83 79;info@baggenstos-unteriberg.ch;30T NETTO;0.0;N
+D-10514;K2763;Bäckerei Steiner;Herr Markus Schelbert;Rosenweg 59;6423;Seewen;+41 76 000 28 23;info@steiner-seewen.ch;30T NETTO;0.0;N
+D-10521;K5581;Erbengemeinschaft Mettler;Herr Urs Mettler;Rosenweg 59;8842;Unteriberg;+41 79 000 71 70;info@mettler-unteriberg.ch;30T NETTO;0.0;N
+D-10528;K3015;Stockwerkeigentümergemeinschaft Rosenweg 35, Brunnen;Herr Thomas Föhn;Kirchweg 57;6440;Brunnen;+41 79 000 19 95;info@rickenbacher-brunnen.ch;30T NETTO;0.0;N
+D-10535;K4904;Kennel Holzbau AG;Frau Nicole Mettler;Rosenweg 45;6430;Schwyz;+41 79 000 68 72;info@kennel-schwyz.ch;30T NETTO;0.0;N
+D-10542;K5928;Bäckerei Meier;Frau Sandra Bucher;Lindenstrasse 58;8840;Einsiedeln;+41 41 000 43 90;info@meier-einsiedeln.ch;30T NETTO;0.0;N
+D-10549;K3938;Schuler Immobilien GmbH;Herr Andreas Bürgler;Rosenweg 33;6423;Seewen;+41 41 000 77 82;info@schuler-seewen.ch;30T NETTO;2.0;N
+D-10556;;Bucher Immobilien GmbH;Frau Sandra Weber;Hofmatt 29;6424;Lauerz;+41 76 000 62 49;info@bucher-lauerz.ch;30T NETTO;2.0;N
+D-10563;K8230;Zwyssig Christian;;Rebbergstrasse 3;8808;Pfäffikon SZ;+41 76 000 21 68;c.zwyssig@seenet-mail.ch;30T NETTO;0.0;N
+D-10570;K6959;Föhn Karin;;Bachstrasse 28;6438;Ibach;+41 79 000 17 81;k.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-10577;;Föhn Markus;;Rebbergstrasse 8;6410;Goldau;+41 79 000 89 30;m.foehn@seenet-mail.ch;30T NETTO;0.0;N
+D-10584;K5178;Arnold Monika;;Rebbergstrasse 61;6443;Morschach;+41 76 000 97 85;m.arnold@hausnet-mail.ch;30T NETTO;0.0;N
+D-10591;K5777;Bürgler Roland;;Mattenweg 39;8820;Wädenswil;+41 78 000 35 39;r.buergler@talnet-mail.ch;30T NETTO;0.0;N
+D-10598;;Fässler Claudia;;Riedstrasse 14;6423;Seewen;+41 76 000 73 79;c.faessler@talnet-mail.ch;30T NETTO;0.0;N
+D-10605;K8226;Arnold Christian;;Hofmatt 64;6424;Lauerz;+41 76 000 56 96;c.arnold@talnet-mail.ch;30T NETTO;0.0;N
+D-10612;K1758;Inglin Beat;;Bergstrasse 7;8820;Wädenswil;+41 78 000 50 82;b.inglin@hausnet-mail.ch;30T NETTO;0.0;N
+D-10619;K7820;Schelbert Stefan;;Dorfstrasse 69;6340;Baar;+41 76 000 53 64;;30T NETTO;0.0;N
+D-10626;K5205;Steiner Barbara;;Bergstrasse 79;6424;Lauerz;+41 41 000 98 59;b.steiner@seenet-mail.ch;30T NETTO;0.0;N
+D-10633;K1375;Schelbert Christian;;Seestrasse 81;6403;Küssnacht;+41 78 000 84 39;;30T NETTO;0.0;N
+D-10640;K2625;Camenzind Roland;;Sonnenhalde 25;6423;Seewen;+41 78 000 60 79;;30T NETTO;0.0;N
+D-10647;K1940;Kennel Nicole;;Sonnenhalde 16;6440;Brunnen;+41 78 000 32 70;n.kennel@seenet-mail.ch;30T NETTO;0.0;N
+D-10654;K9172;Zwyssig Lukas;;Lindenstrasse 41;6460;Altdorf;+41 79 000 35 70;l.zwyssig@hausnet-mail.ch;30T NETTO;0.0;N
+D-10661;K7681;Steiner Markus;;Bühlweg 30;6460;Altdorf;+41 78 000 13 39;m.steiner@postfach-sz.ch;30T NETTO;0.0;N
+D-10668;;Kälin Stefan;;Riedstrasse 52;8820;Wädenswil;+41 78 000 40 33;;30T NETTO;0.0;N
+D-10675;K4924;Gisler Monika;;Bühlweg 69;6415;Arth;+41 78 000 42 79;m.gisler@seenet-mail.ch;30T NETTO;0.0;N
+D-10682;K6157;Huwyler Urs;;Lindenstrasse 32;6438;Ibach;+41 79 000 58 66;u.huwyler@seenet-mail.ch;30T NETTO;0.0;N
+D-10689;K5093;Kryenbühl Daniel;;Bühlweg 46;6300;Zug;+41 78 000 60 75;d.kryenbuehl@postfach-sz.ch;30T NETTO;0.0;N
+D-10696;K4806;Bürgler Karin;;Rosenweg 57;6415;Arth;+41 76 000 44 65;k.buergler@hausnet-mail.ch;30T NETTO;0.0;N
+D-10703;K6598;Fässler Peter;;Riedstrasse 60;6410;Goldau;+41 41 000 28 99;p.faessler@talnet-mail.ch;30T NETTO;0.0;N
+D-10710;K8555;Fuchs Beat;;Sonnenhalde 47;6443;Morschach;+41 41 000 84 82;b.fuchs@talnet-mail.ch;30T NETTO;0.0;N
+D-10717;;Marty Claudia;;Bachstrasse 78;6300;Zug;+41 78 000 50 67;c.marty@postfach-sz.ch;30T NETTO;0.0;N
+D-10724;K5684;Gisler Regula;;Sonnenhalde 51;6443;Morschach;+41 78 000 92 60;;30T NETTO;0.0;N
+D-10731;K5943;Schnüriger Nicole;;Rosenweg 59;6415;Arth;+41 78 000 42 54;n.schnueriger@seenet-mail.ch;30T NETTO;0.0;N
+D-10738;K1612;Arnold Andreas;;Mattenweg 67;6442;Gersau;+41 78 000 21 11;a.arnold@talnet-mail.ch;30T NETTO;0.0;N
+D-10745;K1809;Lüönd Priska;;Gartenweg 20;6430;Schwyz;+41 76 000 18 58;;30T NETTO;0.0;N
+D-10752;K4250;Wüthrich Monika;;Mattenweg 26;6430;Schwyz;+41 78 000 10 42;m.wuethrich@postfach-sz.ch;30T NETTO;0.0;N
+D-10759;K4715;Weber Stefan;;Mattenweg 6;6443;Morschach;+41 79 000 72 62;s.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-10766;K8693;Camenzind Claudia;;Rebbergstrasse 51;6438;Ibach;+41 79 000 59 37;c.camenzind@hausnet-mail.ch;30T NETTO;0.0;N
+D-10773;K9384;Wüthrich Ruth;;Kirchweg 75;6460;Altdorf;+41 78 000 33 55;r.wuethrich@hausnet-mail.ch;30T NETTO;0.0;N
+D-10780;;Baggenstos Claudia;;Lindenstrasse 21;6415;Arth;+41 78 000 61 38;c.baggenstos@postfach-sz.ch;30T NETTO;0.0;N
+D-10787;K7216;Auf der Maur Michael;;Bachstrasse 73;6443;Morschach;+41 79 000 72 29;;30T NETTO;0.0;N
+D-10794;K4761;Holdener Martin;;Dorfstrasse 70;6418;Rothenthurm;+41 78 000 72 36;m.holdener@talnet-mail.ch;30T NETTO;0.0;N
+D-10801;K9855;Imhof Daniel;;Seestrasse 15;6438;Ibach;+41 41 000 43 86;d.imhof@hausnet-mail.ch;30T NETTO;0.0;N
+D-10808;K1457;Schelbert Peter;;Seestrasse 29;6438;Ibach;+41 76 000 17 82;p.schelbert@seenet-mail.ch;30T NETTO;0.0;N
+D-10815;;Wüthrich Silvia;;Seestrasse 12;6415;Arth;+41 79 000 99 96;;30T NETTO;0.0;N
+D-10822;K8480;Fässler Andrea;;Bergstrasse 49;8820;Wädenswil;+41 76 000 22 82;a.faessler@seenet-mail.ch;30T NETTO;0.0;N
+D-10829;K1163;Weber Monika;;Seestrasse 17;6430;Schwyz;+41 76 000 96 49;m.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-10836;K8956;Rickenbacher Thomas;;Kirchweg 67;6422;Steinen;+41 76 000 70 36;t.rickenbacher@seenet-mail.ch;30T NETTO;0.0;N
+D-10843;K6488;Bürgler Karin;;Bühlweg 45;6423;Seewen;+41 78 000 90 94;k.buergler@postfach-sz.ch;30T NETTO;0.0;N
+D-10850;K5031;Rickenbacher Urs;;Bühlweg 57;6443;Morschach;+41 79 000 35 66;u.rickenbacher@talnet-mail.ch;30T NETTO;0.0;N
+D-10857;K7311;Ott Monika;;Seestrasse 73;6422;Steinen;+41 79 000 59 92;m.ott@postfach-sz.ch;30T NETTO;0.0;N
+D-10864;;Abegg Martin;;Hofmatt 10;6430;Schwyz;+41 78 000 76 17;m.abegg@talnet-mail.ch;30T NETTO;0.0;N
+D-10871;K6215;Kistler Silvia;;Mattenweg 58;6443;Morschach;+41 78 000 95 63;s.kistler@hausnet-mail.ch;30T NETTO;0.0;N
+D-10878;K2750;Kistler Silvia;;Bergstrasse 59;6430;Schwyz;+41 78 000 53 79;s.kistler@talnet-mail.ch;30T NETTO;0.0;N
+D-10885;K6666;Kryenbühl Andreas;;Kirchweg 29;6443;Morschach;+41 76 000 60 52;a.kryenbuehl@talnet-mail.ch;30T NETTO;0.0;N
+D-10892;K6491;Schmidig Michael;;Feldstrasse 23;8843;Oberiberg;+41 76 000 29 60;m.schmidig@seenet-mail.ch;30T NETTO;0.0;N
+D-10899;;Reding Peter;;Seestrasse 81;6430;Schwyz;+41 76 000 27 72;p.reding@seenet-mail.ch;30T NETTO;0.0;N
+D-10906;K7008;Meier Urs;;Bachstrasse 23;8840;Einsiedeln;+41 78 000 96 36;u.meier@postfach-sz.ch;30T NETTO;0.0;N
+D-10913;;Truttmann Franziska;;Sonnenhalde 7;6418;Rothenthurm;+41 79 000 63 70;f.truttmann@postfach-sz.ch;30T NETTO;0.0;N
+D-10920;;Kistler Monika;;Hofmatt 58;6415;Arth;+41 79 000 24 84;m.kistler@postfach-sz.ch;30T NETTO;0.0;N
+D-10927;K6663;Inglin Priska;;Bühlweg 54;6340;Baar;+41 79 000 90 62;;30T NETTO;0.0;N
+D-10934;K5777;Schuler Peter;;Seestrasse 24;8842;Unteriberg;+41 78 000 58 30;p.schuler@hausnet-mail.ch;30T NETTO;0.0;N
+D-10941;K6151;Lüönd Silvia;;Hofmatt 41;6422;Steinen;+41 41 000 31 39;s.lueoend@seenet-mail.ch;30T NETTO;0.0;N
+D-10948;;Schelbert Franziska;;Sonnenhalde 12;6438;Ibach;+41 41 000 48 64;f.schelbert@seenet-mail.ch;30T NETTO;0.0;N
+D-10955;K1167;Holdener Ruth;;Mattenweg 49;6417;Sattel;+41 79 000 59 42;r.holdener@talnet-mail.ch;30T NETTO;0.0;N
+D-10962;K9485;Gwerder Stefan;;Kirchweg 46;6422;Steinen;+41 78 000 79 89;;30T NETTO;0.0;N
+D-10969;K1625;Bucher Daniel;;Feldstrasse 51;6423;Seewen;+41 41 000 55 15;d.bucher@hausnet-mail.ch;30T NETTO;0.0;N
+D-10976;;Holdener Barbara;;Riedstrasse 72;6418;Rothenthurm;+41 41 000 83 96;b.holdener@seenet-mail.ch;30T NETTO;0.0;N
+D-10983;;Schnüriger Markus;;Rosenweg 62;6403;Küssnacht;+41 78 000 38 66;m.schnueriger@postfach-sz.ch;30T NETTO;0.0;N
+D-10990;K4827;Beeler Urs;;Dorfstrasse 24;6410;Goldau;+41 76 000 83 46;u.beeler@hausnet-mail.ch;30T NETTO;0.0;N
+D-10997;K6221;Gwerder Claudia;;Lindenstrasse 35;6422;Steinen;+41 41 000 69 97;c.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-11004;K8409;Camenzind Franziska;;Rosenweg 28;6423;Seewen;+41 79 000 56 70;f.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-11011;K4993;Zwyssig Thomas;;Bühlweg 64;6460;Altdorf;+41 76 000 54 12;t.zwyssig@talnet-mail.ch;30T NETTO;0.0;N
+D-11018;K5514;Schnüriger Franziska;;Mattenweg 4;6418;Rothenthurm;+41 41 000 31 31;f.schnueriger@hausnet-mail.ch;30T NETTO;0.0;N
+D-11025;K9458;Imhof Martin;;Rosenweg 67;6438;Ibach;+41 79 000 17 64;m.imhof@hausnet-mail.ch;30T NETTO;0.0;N
+D-11032;K1590;Ott Urs;;Feldstrasse 57;8842;Unteriberg;+41 79 000 67 44;;30T NETTO;0.0;N
+D-11039;K2722;Lüönd Roland;;Sonnenhalde 24;6430;Schwyz;+41 78 000 64 94;r.lueoend@seenet-mail.ch;30T NETTO;0.0;N
+D-11046;K3612;Ochsner Ruth;;Sonnenhalde 77;6424;Lauerz;+41 76 000 68 73;r.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-11053;K5405;Ott Monika;;Gartenweg 59;6423;Seewen;+41 78 000 72 75;m.ott@talnet-mail.ch;30T NETTO;0.0;N
+D-11060;K7707;Camenzind Daniel;;Dorfstrasse 46;6430;Schwyz;+41 79 000 49 92;d.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-11067;K2263;Wüthrich Sandra;;Bergstrasse 24;6403;Küssnacht;+41 41 000 16 84;s.wuethrich@talnet-mail.ch;30T NETTO;0.0;N
+D-11074;;Truttmann Monika;;Bergstrasse 64;8842;Unteriberg;+41 78 000 82 48;m.truttmann@talnet-mail.ch;30T NETTO;0.0;N
+D-11081;K3189;Holdener Stefan;;Riedstrasse 34;6417;Sattel;+41 79 000 27 16;s.holdener@seenet-mail.ch;30T NETTO;0.0;N
+D-11088;K3329;Ochsner Peter;;Gartenweg 9;6418;Rothenthurm;+41 41 000 82 17;p.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-11095;K8915;Wüthrich Markus;;Gartenweg 15;6440;Brunnen;+41 41 000 86 21;;30T NETTO;0.0;N
+D-11102;K5063;Zehnder Franziska;;Mattenweg 60;6440;Brunnen;+41 76 000 85 32;f.zehnder@postfach-sz.ch;30T NETTO;0.0;N
+D-11109;K4811;Schelbert Michael;;Sonnenhalde 58;6443;Morschach;+41 41 000 74 10;m.schelbert@talnet-mail.ch;30T NETTO;0.0;N
+D-11116;K1922;Betschart Franziska;;Sonnenhalde 38;6440;Brunnen;+41 78 000 90 48;;30T NETTO;0.0;N
+D-11123;K9083;Suter Stefan;;Kirchweg 59;6424;Lauerz;+41 78 000 72 21;s.suter@hausnet-mail.ch;30T NETTO;0.0;N
+D-11130;K2286;Arnold Markus;;Hofmatt 59;6442;Gersau;+41 79 000 99 83;m.arnold@hausnet-mail.ch;30T NETTO;0.0;N
+D-11137;K5328;Schelbert Karin;;Bachstrasse 66;8840;Einsiedeln;+41 78 000 24 22;k.schelbert@postfach-sz.ch;30T NETTO;0.0;N
+D-11144;K7541;Kryenbühl Andreas;;Dorfstrasse 26;6300;Zug;+41 79 000 23 64;a.kryenbuehl@seenet-mail.ch;30T NETTO;0.0;N
+D-11151;K1754;Steiner Lukas;;Gartenweg 28;6443;Morschach;+41 78 000 72 93;l.steiner@postfach-sz.ch;30T NETTO;0.0;N
+D-11158;K8270;Rickenbacher Silvia;;Kirchweg 67;6438;Ibach;+41 41 000 78 85;s.rickenbacher@seenet-mail.ch;30T NETTO;0.0;N
+D-11165;K4969;Bürgler Martin;;Rosenweg 18;6430;Schwyz;+41 78 000 72 62;;30T NETTO;0.0;N
+D-11172;K4661;Meier Andreas;;Gartenweg 51;6440;Brunnen;+41 78 000 83 14;;30T NETTO;0.0;N
+D-11179;K1631;Imhof Michael;;Kirchweg 31;6423;Seewen;+41 78 000 92 82;;30T NETTO;0.0;N
+D-11186;K1885;Schuler Beat;;Kirchweg 59;6438;Ibach;+41 78 000 80 90;;30T NETTO;0.0;N
+D-11193;K8084;Weber Claudia;;Dorfstrasse 62;6424;Lauerz;+41 76 000 48 58;c.weber@talnet-mail.ch;30T NETTO;0.0;N
+D-11200;K7374;Rickenbacher Karin;;Lindenstrasse 22;6340;Baar;+41 41 000 73 93;k.rickenbacher@postfach-sz.ch;30T NETTO;0.0;N
+D-11207;K6922;Wüthrich Thomas;;Rosenweg 61;6443;Morschach;+41 41 000 71 68;;30T NETTO;0.0;N
+D-11214;K4659;Lüönd Sandra;;Feldstrasse 3;6438;Ibach;+41 41 000 34 37;s.lueoend@seenet-mail.ch;30T NETTO;0.0;N
+D-11221;;Steiner Christian;;Bergstrasse 58;6424;Lauerz;+41 41 000 76 44;c.steiner@seenet-mail.ch;30T NETTO;0.0;N
+D-11228;K7213;Schelbert Barbara;;Bühlweg 33;6440;Brunnen;+41 76 000 55 59;b.schelbert@postfach-sz.ch;30T NETTO;0.0;N
+D-11235;K9348;Schmidig Stefan;;Lindenstrasse 6;6430;Schwyz;+41 41 000 92 43;s.schmidig@seenet-mail.ch;30T NETTO;0.0;N
+D-11242;K8857;Schelbert Urs;;Mattenweg 79;6424;Lauerz;+41 78 000 83 91;u.schelbert@seenet-mail.ch;30T NETTO;0.0;N
+D-11249;K4058;Föhn Sandra;;Kirchweg 64;8842;Unteriberg;+41 41 000 54 15;s.foehn@seenet-mail.ch;30T NETTO;0.0;N
+D-11256;K9459;Bürgler Christian;;Feldstrasse 45;6403;Küssnacht;+41 78 000 83 83;;30T NETTO;0.0;N
+D-11263;;Holdener Beat;;Lindenstrasse 70;6403;Küssnacht;+41 41 000 80 92;b.holdener@hausnet-mail.ch;30T NETTO;0.0;N
+D-11270;K6870;Ochsner Christian;;Rebbergstrasse 44;8842;Unteriberg;+41 76 000 10 56;c.ochsner@hausnet-mail.ch;30T NETTO;0.0;N
+D-11277;K9074;Reding Michael;;Rosenweg 13;6440;Brunnen;+41 41 000 21 74;m.reding@postfach-sz.ch;30T NETTO;0.0;N
+D-11284;K4635;Truttmann Stefan;;Feldstrasse 19;6440;Brunnen;+41 78 000 30 97;s.truttmann@hausnet-mail.ch;30T NETTO;0.0;N
+D-11291;K4564;Lüönd Esther;;Hofmatt 67;6424;Lauerz;+41 41 000 68 65;e.lueoend@seenet-mail.ch;30T NETTO;0.0;N
+D-11298;K3615;Ulrich Christian;;Mattenweg 55;8840;Einsiedeln;+41 78 000 17 39;c.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-11305;K7530;Betschart Esther;;Feldstrasse 51;6415;Arth;+41 78 000 30 12;e.betschart@postfach-sz.ch;30T NETTO;0.0;N
+D-11312;K5990;Gwerder Esther;;Kirchweg 32;6424;Lauerz;+41 41 000 82 73;;30T NETTO;0.0;N
+D-11319;K5055;Fässler Claudia;;Feldstrasse 26;6438;Ibach;+41 78 000 33 35;;30T NETTO;0.0;N
+D-11326;K8249;Rickenbacher Thomas;;Mattenweg 78;6423;Seewen;+41 79 000 44 36;t.rickenbacher@talnet-mail.ch;30T NETTO;0.0;N
+D-11333;K2183;Gwerder Markus;;Feldstrasse 5;6424;Lauerz;+41 41 000 79 10;m.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-11340;K3959;Kryenbühl Michael;;Mattenweg 8;8840;Einsiedeln;+41 79 000 10 46;;30T NETTO;0.0;N
+D-11347;K5508;Steiner Christian;;Gartenweg 61;6423;Seewen;+41 78 000 59 19;c.steiner@seenet-mail.ch;30T NETTO;0.0;N
+D-11354;K3745;Bürgler Andreas;;Dorfstrasse 17;8843;Oberiberg;+41 79 000 72 40;;30T NETTO;0.0;N
+D-11361;K3505;Zwyssig Markus;;Rosenweg 50;6440;Brunnen;+41 78 000 47 15;m.zwyssig@postfach-sz.ch;30T NETTO;0.0;N
+D-11368;;Föhn Daniel;;Rosenweg 2;6422;Steinen;+41 41 000 82 98;d.foehn@postfach-sz.ch;30T NETTO;0.0;N
+D-11375;K9447;Baggenstos Andrea;;Bachstrasse 79;6415;Arth;+41 76 000 22 20;a.baggenstos@seenet-mail.ch;30T NETTO;0.0;N
+D-11382;;Rickenbacher Stefan;;Lindenstrasse 28;8840;Einsiedeln;+41 79 000 39 35;s.rickenbacher@hausnet-mail.ch;30T NETTO;0.0;N
+D-11389;;Imhof Esther;;Mattenweg 48;8840;Einsiedeln;+41 78 000 62 27;e.imhof@hausnet-mail.ch;30T NETTO;0.0;N
+D-11396;K8973;Bürgler Michael;;Bühlweg 79;6443;Morschach;+41 76 000 63 83;m.buergler@hausnet-mail.ch;30T NETTO;0.0;N
+D-11403;K4908;Weber Michael;;Bergstrasse 26;6430;Schwyz;+41 79 000 76 77;m.weber@hausnet-mail.ch;30T NETTO;0.0;N
+D-11410;K3201;Kistler Markus;;Bühlweg 74;6004;Luzern;+41 41 000 33 54;m.kistler@seenet-mail.ch;30T NETTO;0.0;N
+D-11417;K9627;Huwyler Roland;;Rebbergstrasse 76;6438;Ibach;+41 78 000 39 93;r.huwyler@hausnet-mail.ch;30T NETTO;0.0;N
+D-11424;K6737;Kistler Priska;;Hofmatt 65;6418;Rothenthurm;+41 79 000 66 22;p.kistler@hausnet-mail.ch;30T NETTO;0.0;N
+D-11431;K4959;Abegg Josef;;Rebbergstrasse 73;6443;Morschach;+41 41 000 34 50;j.abegg@postfach-sz.ch;30T NETTO;0.0;N
+D-11438;K4479;Fuchs Esther;;Hofmatt 42;6300;Zug;+41 76 000 70 41;e.fuchs@postfach-sz.ch;30T NETTO;0.0;N
+D-11445;K2260;Wüthrich Franziska;;Lindenstrasse 68;6438;Ibach;+41 41 000 73 29;f.wuethrich@talnet-mail.ch;30T NETTO;0.0;N
+D-11452;K2627;Heinzer Martin;;Rebbergstrasse 71;6417;Sattel;+41 76 000 13 22;;30T NETTO;0.0;N
+D-11459;K8442;Suter Josef;;Gartenweg 47;6418;Rothenthurm;+41 78 000 66 86;j.suter@hausnet-mail.ch;30T NETTO;0.0;N
+D-11466;K5306;Kistler Nicole;;Mattenweg 28;6430;Schwyz;+41 41 000 69 55;;30T NETTO;0.0;N
+D-11473;K9693;Kryenbühl Sandra;;Riedstrasse 4;6422;Steinen;+41 41 000 89 86;s.kryenbuehl@seenet-mail.ch;30T NETTO;0.0;N
+D-11480;K3135;Beeler Claudia;;Seestrasse 58;6438;Ibach;+41 76 000 72 97;c.beeler@seenet-mail.ch;30T NETTO;0.0;N
+D-11487;K4043;Ochsner Ruth;;Kirchweg 14;6410;Goldau;+41 79 000 44 91;r.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-11494;K8217;Bürgler Daniel;;Lindenstrasse 14;6300;Zug;+41 41 000 87 41;d.buergler@seenet-mail.ch;30T NETTO;0.0;N
+D-11501;K5966;Föhn Roland;;Mattenweg 23;6415;Arth;+41 78 000 94 53;r.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-11508;K6486;Kälin Martin;;Feldstrasse 44;6424;Lauerz;+41 41 000 44 85;m.kaelin@seenet-mail.ch;30T NETTO;0.0;N
+D-11515;K4515;Holdener Beat;;Mattenweg 73;6440;Brunnen;+41 79 000 43 90;b.holdener@talnet-mail.ch;30T NETTO;0.0;N
+D-11522;K7078;Schelbert Claudia;;Kirchweg 57;6443;Morschach;+41 41 000 13 83;c.schelbert@talnet-mail.ch;30T NETTO;0.0;N
+D-11529;K9859;Reding Regula;;Sonnenhalde 10;6418;Rothenthurm;+41 78 000 80 92;r.reding@talnet-mail.ch;30T NETTO;0.0;N
+D-11536;K7396;Auf der Maur Nicole;;Bühlweg 71;6423;Seewen;+41 78 000 89 43;n.aufdermaur@hausnet-mail.ch;30T NETTO;0.0;N
+D-11543;K4773;Ott Stefan;;Hofmatt 45;6403;Küssnacht;+41 76 000 33 90;s.ott@talnet-mail.ch;30T NETTO;0.0;N
+D-11550;K3447;Imhof Lukas;;Sonnenhalde 67;6422;Steinen;+41 78 000 42 23;l.imhof@hausnet-mail.ch;30T NETTO;0.0;N
+D-11557;K6305;Schuler Silvia;;Kirchweg 8;6422;Steinen;+41 79 000 42 35;s.schuler@seenet-mail.ch;30T NETTO;0.0;N
+D-11564;K8177;Ulrich Daniel;;Gartenweg 74;6443;Morschach;+41 76 000 18 78;d.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-11571;K5422;Betschart Roland;;Feldstrasse 3;6422;Steinen;+41 76 000 77 20;;30T NETTO;0.0;N
+D-11578;K1267;Beeler Stefan;;Rebbergstrasse 17;6423;Seewen;+41 41 000 16 83;;30T NETTO;0.0;N
+D-11585;K1978;Suter Andreas;;Gartenweg 52;6418;Rothenthurm;+41 41 000 60 72;a.suter@postfach-sz.ch;30T NETTO;0.0;N
+D-11592;K2529;Gwerder Daniel;;Hofmatt 33;6417;Sattel;+41 76 000 26 77;d.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-11599;K2195;Fässler Priska;;Lindenstrasse 79;6424;Lauerz;+41 79 000 70 40;p.faessler@postfach-sz.ch;30T NETTO;0.0;N
+D-11606;K2907;Gwerder Martin;;Kirchweg 22;6443;Morschach;+41 41 000 51 49;m.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-11613;K4258;Auf der Maur Barbara;;Bühlweg 66;6410;Goldau;+41 41 000 97 54;b.aufdermaur@postfach-sz.ch;30T NETTO;0.0;N
+D-11620;K2428;Gisler Thomas;;Bergstrasse 43;6424;Lauerz;+41 76 000 91 78;t.gisler@talnet-mail.ch;30T NETTO;0.0;N
+D-11627;K8990;Imhof Lukas;;Hofmatt 27;6440;Brunnen;+41 79 000 47 10;l.imhof@talnet-mail.ch;30T NETTO;0.0;N
+D-11634;K1110;Schmidig Stefan;;Bergstrasse 67;6460;Altdorf;+41 76 000 21 93;s.schmidig@talnet-mail.ch;30T NETTO;0.0;N
+D-11641;K5157;Aschwanden Andrea;;Riedstrasse 45;6422;Steinen;+41 76 000 11 83;a.aschwanden@hausnet-mail.ch;30T NETTO;0.0;N
+D-11648;K7778;Annen Andreas;;Hofmatt 24;8842;Unteriberg;+41 76 000 89 55;a.annen@hausnet-mail.ch;30T NETTO;0.0;N
+D-11655;;Imhof Franziska;;Feldstrasse 79;6440;Brunnen;+41 79 000 18 22;;30T NETTO;0.0;N
+D-11662;K2434;Auf der Maur Markus;;Sonnenhalde 15;6440;Brunnen;+41 78 000 84 56;m.aufdermaur@hausnet-mail.ch;30T NETTO;0.0;N
+D-11669;K5944;Schuler Franziska;;Dorfstrasse 48;6443;Morschach;+41 41 000 52 70;f.schuler@postfach-sz.ch;30T NETTO;0.0;N
+D-11676;K4159;Schmidig Ruth;;Mattenweg 9;6442;Gersau;+41 76 000 41 35;r.schmidig@seenet-mail.ch;30T NETTO;0.0;N
+D-11683;K9429;Gisler Priska;;Mattenweg 47;6423;Seewen;+41 76 000 29 76;p.gisler@talnet-mail.ch;30T NETTO;0.0;N
+D-11690;K8027;Zehnder Esther;;Mattenweg 24;6442;Gersau;+41 41 000 81 55;e.zehnder@talnet-mail.ch;30T NETTO;0.0;N
+D-11697;K7343;Heinzer Lukas;;Seestrasse 22;6442;Gersau;+41 78 000 56 61;l.heinzer@talnet-mail.ch;30T NETTO;0.0;N
+D-11704;K5793;Mettler Josef;;Rosenweg 1;6442;Gersau;+41 41 000 84 82;j.mettler@seenet-mail.ch;30T NETTO;0.0;N
+D-11711;K5662;Gwerder Andrea;;Hofmatt 46;6443;Morschach;+41 79 000 90 41;a.gwerder@postfach-sz.ch;30T NETTO;0.0;N
+D-11718;;Schuler Claudia;;Seestrasse 63;6424;Lauerz;+41 76 000 97 15;c.schuler@hausnet-mail.ch;30T NETTO;0.0;N
+D-11725;K5572;Kistler Monika;;Bühlweg 29;6422;Steinen;+41 79 000 21 63;m.kistler@talnet-mail.ch;30T NETTO;0.0;N
+D-11732;K3177;Huwyler Franziska;;Gartenweg 75;8820;Wädenswil;+41 41 000 72 58;f.huwyler@talnet-mail.ch;30T NETTO;0.0;N
+D-11739;K2202;Betschart Thomas;;Sonnenhalde 23;6422;Steinen;+41 41 000 14 87;t.betschart@postfach-sz.ch;30T NETTO;0.0;N
+D-11746;K3689;Rickenbacher Thomas;;Seestrasse 39;6430;Schwyz;+41 76 000 33 67;t.rickenbacher@talnet-mail.ch;30T NETTO;0.0;N
+D-11753;K5281;Meier Christian;;Rosenweg 19;6460;Altdorf;+41 78 000 34 79;c.meier@talnet-mail.ch;30T NETTO;0.0;N
+D-11760;K1264;Schelbert Thomas;;Hofmatt 26;6443;Morschach;+41 78 000 69 45;t.schelbert@postfach-sz.ch;30T NETTO;0.0;N
+D-11767;K2932;Bucher Lukas;;Dorfstrasse 34;6443;Morschach;+41 41 000 87 57;l.bucher@talnet-mail.ch;30T NETTO;0.0;N
+D-11774;K3425;Meier Lukas;;Gartenweg 54;6300;Zug;+41 41 000 47 54;l.meier@seenet-mail.ch;30T NETTO;0.0;N
+D-11781;K1633;Truttmann Roland;;Bachstrasse 53;6422;Steinen;+41 76 000 94 22;;30T NETTO;0.0;N
+D-11788;K6566;Fässler Martin;;Bachstrasse 44;8840;Einsiedeln;+41 79 000 60 76;m.faessler@seenet-mail.ch;30T NETTO;0.0;N
+D-11795;K4578;Gwerder Barbara;;Hofmatt 76;6438;Ibach;+41 79 000 18 95;b.gwerder@hausnet-mail.ch;30T NETTO;0.0;N
+D-11802;K9660;Zehnder Karin;;Sonnenhalde 44;6438;Ibach;+41 79 000 63 83;k.zehnder@talnet-mail.ch;30T NETTO;0.0;N
+D-11809;K1517;Fässler Regula;;Bergstrasse 65;6438;Ibach;+41 76 000 86 50;;30T NETTO;0.0;N
+D-11816;K6846;Heinzer Monika;;Kirchweg 19;8003;Zürich;+41 79 000 88 29;m.heinzer@hausnet-mail.ch;30T NETTO;0.0;N
+D-11823;K1494;Schmidig Josef;;Lindenstrasse 80;6460;Altdorf;+41 41 000 19 88;j.schmidig@postfach-sz.ch;30T NETTO;0.0;N
+D-11830;K7735;Wüthrich Sandra;;Bergstrasse 72;6418;Rothenthurm;+41 78 000 81 53;s.wuethrich@talnet-mail.ch;30T NETTO;0.0;N
+D-11837;K2139;Mettler Nicole;;Sonnenhalde 22;6424;Lauerz;+41 79 000 18 43;n.mettler@postfach-sz.ch;30T NETTO;0.0;N
+D-11844;K7667;Weber Karin;;Bergstrasse 13;6410;Goldau;+41 41 000 99 52;k.weber@talnet-mail.ch;30T NETTO;0.0;N
+D-11851;K5873;Ulrich Nicole;;Bachstrasse 51;6442;Gersau;+41 41 000 71 32;n.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-11858;K6382;Fuchs Priska;;Gartenweg 23;6438;Ibach;+41 78 000 99 56;p.fuchs@talnet-mail.ch;30T NETTO;0.0;N
+D-11865;K9358;Bucher Stefan;;Seestrasse 42;6438;Ibach;+41 76 000 36 90;s.bucher@hausnet-mail.ch;30T NETTO;0.0;N
+D-11872;;Truttmann Michael;;Rosenweg 25;6443;Morschach;+41 41 000 16 44;m.truttmann@seenet-mail.ch;30T NETTO;0.0;N
+D-11879;K1913;Holdener Beat;;Feldstrasse 25;6440;Brunnen;+41 41 000 38 24;b.holdener@talnet-mail.ch;30T NETTO;0.0;N
+D-11886;K5361;Bürgler Monika;;Kirchweg 34;6300;Zug;+41 78 000 90 52;m.buergler@hausnet-mail.ch;30T NETTO;0.0;N
+D-11893;;Zehnder Peter;;Mattenweg 25;6422;Steinen;+41 79 000 24 78;p.zehnder@seenet-mail.ch;30T NETTO;0.0;N
+D-11900;;Zwyssig Esther;;Kirchweg 73;6440;Brunnen;+41 79 000 76 83;e.zwyssig@postfach-sz.ch;30T NETTO;0.0;N
+D-11907;;Kistler Markus;;Riedstrasse 72;8820;Wädenswil;+41 78 000 70 74;m.kistler@seenet-mail.ch;30T NETTO;0.0;N
+D-11914;K5665;Bucher Christian;;Riedstrasse 64;6423;Seewen;+41 79 000 30 95;c.bucher@postfach-sz.ch;30T NETTO;0.0;N
+D-11921;K6368;Reding Claudia;;Sonnenhalde 73;6460;Altdorf;+41 76 000 33 19;c.reding@talnet-mail.ch;30T NETTO;0.0;N
+D-11928;;Huwyler Sandra;;Mattenweg 42;6403;Küssnacht;+41 41 000 59 96;s.huwyler@hausnet-mail.ch;30T NETTO;0.0;N
+D-11935;K8040;Ochsner Nicole;;Riedstrasse 17;6422;Steinen;+41 78 000 72 20;n.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-11942;K6759;Gwerder Josef;;Mattenweg 3;6422;Steinen;+41 78 000 68 50;j.gwerder@postfach-sz.ch;30T NETTO;0.0;N
+D-11949;K9097;Bucher Peter;;Kirchweg 68;6440;Brunnen;+41 78 000 47 93;p.bucher@talnet-mail.ch;30T NETTO;0.0;N
+D-11956;K1384;Bürgler Barbara;;Mattenweg 31;6438;Ibach;+41 78 000 51 87;b.buergler@talnet-mail.ch;30T NETTO;0.0;N
+D-11963;K2656;Weber Roland;;Dorfstrasse 75;6403;Küssnacht;+41 41 000 15 63;r.weber@talnet-mail.ch;30T NETTO;0.0;N
+D-11970;K3616;Weber Stefan;;Lindenstrasse 35;6443;Morschach;+41 78 000 33 81;s.weber@talnet-mail.ch;30T NETTO;0.0;N
+D-11977;K7683;Baggenstos Roland;;Kirchweg 18;6443;Morschach;+41 76 000 56 25;r.baggenstos@talnet-mail.ch;30T NETTO;0.0;N
+D-11984;K3419;Annen Roland;;Dorfstrasse 37;8843;Oberiberg;+41 78 000 26 33;;30T NETTO;0.0;N
+D-11991;;Kälin Esther;;Bühlweg 34;6438;Ibach;+41 41 000 99 47;e.kaelin@hausnet-mail.ch;30T NETTO;0.0;N
+D-11998;K1106;Weber Monika;;Rebbergstrasse 57;6423;Seewen;+41 79 000 37 56;m.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-12005;K8161;Ott Urs;;Kirchweg 30;6403;Küssnacht;+41 79 000 82 84;u.ott@seenet-mail.ch;30T NETTO;0.0;N
+D-12012;K7145;Camenzind Roland;;Seestrasse 4;6422;Steinen;+41 79 000 32 63;r.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-12019;K3018;Aschwanden Daniel;;Rosenweg 62;6440;Brunnen;+41 78 000 96 31;d.aschwanden@talnet-mail.ch;30T NETTO;0.0;N
+D-12026;K8206;Imhof Priska;;Sonnenhalde 38;6422;Steinen;+41 79 000 56 63;;30T NETTO;0.0;N
+D-12033;K1767;Imhof Markus;;Seestrasse 42;6424;Lauerz;+41 78 000 18 96;m.imhof@talnet-mail.ch;30T NETTO;0.0;N
+D-12040;;Camenzind Michael;;Bergstrasse 25;6424;Lauerz;+41 79 000 51 55;m.camenzind@talnet-mail.ch;30T NETTO;0.0;N
+D-12047;K5142;Baggenstos Michael;;Gartenweg 32;6440;Brunnen;+41 78 000 12 12;m.baggenstos@seenet-mail.ch;30T NETTO;0.0;N
+D-12054;K2599;Kryenbühl Karin;;Bühlweg 68;6422;Steinen;+41 41 000 40 10;k.kryenbuehl@talnet-mail.ch;30T NETTO;0.0;N
+D-12061;K7293;Camenzind Andrea;;Bachstrasse 63;6422;Steinen;+41 41 000 58 69;a.camenzind@postfach-sz.ch;30T NETTO;0.0;N
+D-12068;K2888;Camenzind Andrea;;Rosenweg 40;6430;Schwyz;+41 41 000 63 85;a.camenzind@hausnet-mail.ch;30T NETTO;0.0;N
+D-12075;K2863;Niederöst Nicole;;Bergstrasse 23;6424;Lauerz;+41 78 000 17 11;n.niederoest@talnet-mail.ch;30T NETTO;0.0;N
+D-12082;K2628;Imhof Josef;;Sonnenhalde 19;6443;Morschach;+41 76 000 46 69;;30T NETTO;0.0;N
+D-12089;K3708;Suter Sandra;;Bühlweg 45;6423;Seewen;+41 78 000 87 38;;30T NETTO;0.0;N
+D-12096;K9097;Gisler Michael;;Feldstrasse 68;6403;Küssnacht;+41 79 000 40 51;m.gisler@hausnet-mail.ch;30T NETTO;0.0;N
+D-12103;K3118;Lüönd Thomas;;Kirchweg 17;6442;Gersau;+41 79 000 66 58;t.lueoend@talnet-mail.ch;30T NETTO;0.0;N
+D-12110;K4211;Weber Beat;;Rebbergstrasse 17;6403;Küssnacht;+41 41 000 22 94;b.weber@talnet-mail.ch;30T NETTO;0.0;N
+D-12117;K6900;Ulrich Silvia;;Feldstrasse 4;8820;Wädenswil;+41 78 000 77 60;s.ulrich@postfach-sz.ch;30T NETTO;0.0;N
+D-12124;K7222;Camenzind Urs;;Bachstrasse 9;6417;Sattel;+41 41 000 37 84;u.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-12131;;Abegg Urs;;Rosenweg 31;6424;Lauerz;+41 41 000 43 61;;30T NETTO;0.0;N
+D-12138;K6741;Mettler Markus;;Kirchweg 10;6438;Ibach;+41 76 000 69 39;m.mettler@hausnet-mail.ch;30T NETTO;0.0;N
+D-12145;K7161;Bucher Martin;;Hofmatt 61;6443;Morschach;+41 41 000 81 60;m.bucher@talnet-mail.ch;30T NETTO;0.0;N
+D-12152;;Gwerder Daniel;;Lindenstrasse 70;6422;Steinen;+41 79 000 70 30;d.gwerder@postfach-sz.ch;30T NETTO;0.0;N
+D-12159;K4532;Ochsner Stefan;;Riedstrasse 8;8808;Pfäffikon SZ;+41 41 000 89 61;s.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-12166;K4950;Niederöst Roland;;Bachstrasse 40;6423;Seewen;+41 78 000 82 34;r.niederoest@hausnet-mail.ch;30T NETTO;0.0;N
+D-12173;K4443;Schnüriger Claudia;;Gartenweg 30;6410;Goldau;+41 79 000 98 61;c.schnueriger@talnet-mail.ch;30T NETTO;0.0;N
+D-12180;K2879;Baggenstos Sandra;;Bergstrasse 75;6442;Gersau;+41 78 000 77 68;s.baggenstos@postfach-sz.ch;30T NETTO;0.0;N
+D-12187;;Niederöst Barbara;;Feldstrasse 41;6424;Lauerz;+41 79 000 84 42;;30T NETTO;0.0;N
+D-12194;K8480;Beeler Silvia;;Dorfstrasse 55;8840;Einsiedeln;+41 79 000 12 33;s.beeler@hausnet-mail.ch;30T NETTO;0.0;N
+D-12201;;Ott Sandra;;Kirchweg 4;6422;Steinen;+41 79 000 81 15;s.ott@postfach-sz.ch;30T NETTO;0.0;N
+D-12208;K9742;Schelbert Barbara;;Bühlweg 77;6443;Morschach;+41 78 000 74 57;b.schelbert@seenet-mail.ch;30T NETTO;0.0;N
+D-12215;K1963;Truttmann Karin;;Hofmatt 62;6443;Morschach;+41 76 000 95 90;;30T NETTO;0.0;N
+D-12222;K9589;Auf der Maur Thomas;;Bergstrasse 78;6424;Lauerz;+41 41 000 60 82;t.aufdermaur@talnet-mail.ch;30T NETTO;0.0;N
+D-12229;K4014;Kälin Urs;;Mattenweg 75;6417;Sattel;+41 76 000 16 58;u.kaelin@hausnet-mail.ch;30T NETTO;0.0;N
+D-12236;K8952;Schelbert Christian;;Feldstrasse 26;6424;Lauerz;+41 76 000 40 31;c.schelbert@hausnet-mail.ch;30T NETTO;0.0;N
+D-12243;K7722;Auf der Maur Stefan;;Gartenweg 10;6430;Schwyz;+41 76 000 64 93;s.aufdermaur@hausnet-mail.ch;30T NETTO;0.0;N
+D-12250;K7813;Marty Silvia;;Rebbergstrasse 57;8820;Wädenswil;+41 41 000 27 41;s.marty@hausnet-mail.ch;30T NETTO;0.0;N
+D-12257;K6336;Wüthrich Michael;;Gartenweg 77;6440;Brunnen;+41 76 000 92 32;m.wuethrich@postfach-sz.ch;30T NETTO;0.0;N
+D-12264;K7376;Mettler Priska;;Riedstrasse 49;6410;Goldau;+41 78 000 36 21;;30T NETTO;0.0;N
+D-12271;;Zwyssig Josef;;Rebbergstrasse 52;6403;Küssnacht;+41 41 000 62 46;j.zwyssig@seenet-mail.ch;30T NETTO;0.0;N
+D-12278;K3038;Wüthrich Nicole;;Hofmatt 45;6443;Morschach;+41 41 000 85 32;n.wuethrich@seenet-mail.ch;30T NETTO;0.0;N
+D-12285;K8739;Arnold Regula;;Gartenweg 17;6443;Morschach;+41 79 000 70 31;r.arnold@talnet-mail.ch;30T NETTO;0.0;N
+D-12292;K2319;Fässler Esther;;Dorfstrasse 77;8820;Wädenswil;+41 79 000 27 85;e.faessler@talnet-mail.ch;30T NETTO;0.0;N
+D-12299;K7047;Holdener Beat;;Feldstrasse 25;6403;Küssnacht;+41 76 000 33 73;b.holdener@hausnet-mail.ch;30T NETTO;0.0;N
+D-12306;K2512;Schnüriger Peter;;Riedstrasse 58;6440;Brunnen;+41 79 000 93 32;p.schnueriger@postfach-sz.ch;30T NETTO;0.0;N
+D-12313;K7015;Gisler Daniel;;Bergstrasse 40;8842;Unteriberg;+41 78 000 41 44;d.gisler@hausnet-mail.ch;30T NETTO;0.0;N
+D-12320;K3645;Auf der Maur Silvia;;Bühlweg 70;6340;Baar;+41 41 000 87 69;s.aufdermaur@postfach-sz.ch;30T NETTO;0.0;N
+D-12327;K6304;Ulrich Franziska;;Bachstrasse 11;6440;Brunnen;+41 76 000 49 37;;30T NETTO;0.0;N
+D-12334;K2305;Heinzer Urs;;Rosenweg 72;8843;Oberiberg;+41 41 000 31 55;u.heinzer@talnet-mail.ch;30T NETTO;0.0;N
+D-12341;K2801;Wüthrich Martin;;Dorfstrasse 52;6417;Sattel;+41 78 000 58 40;m.wuethrich@seenet-mail.ch;30T NETTO;0.0;N
+D-12348;K4789;Reding Thomas;;Lindenstrasse 29;6423;Seewen;+41 41 000 44 37;t.reding@talnet-mail.ch;30T NETTO;0.0;N
+D-12355;K5299;Weber Nicole;;Seestrasse 1;6443;Morschach;+41 41 000 80 15;n.weber@hausnet-mail.ch;30T NETTO;0.0;N
+D-12362;K7062;Kryenbühl Claudia;;Gartenweg 37;6443;Morschach;+41 76 000 93 14;c.kryenbuehl@seenet-mail.ch;30T NETTO;0.0;N
+D-12369;K6649;Schnüriger Roland;;Kirchweg 66;6423;Seewen;+41 79 000 28 49;r.schnueriger@talnet-mail.ch;30T NETTO;0.0;N
+D-12376;K1507;Lüönd Priska;;Bergstrasse 22;6438;Ibach;+41 76 000 62 13;p.lueoend@hausnet-mail.ch;30T NETTO;0.0;N
+D-12383;K2813;Camenzind Ruth;;Rosenweg 14;6443;Morschach;+41 79 000 70 40;r.camenzind@hausnet-mail.ch;30T NETTO;0.0;N
+D-12390;K5680;Bucher Josef;;Hofmatt 17;6430;Schwyz;+41 78 000 33 10;j.bucher@hausnet-mail.ch;30T NETTO;0.0;N
+D-12397;K3262;Kennel Lukas;;Dorfstrasse 61;6442;Gersau;+41 78 000 19 70;l.kennel@seenet-mail.ch;30T NETTO;0.0;N
+D-12404;;Fuchs Barbara;;Dorfstrasse 64;6438;Ibach;+41 78 000 94 17;b.fuchs@talnet-mail.ch;30T NETTO;0.0;N
+D-12411;;Reding Claudia;;Kirchweg 67;6443;Morschach;+41 78 000 93 25;;30T NETTO;0.0;N
+D-12418;K6759;Weber Ruth;;Sonnenhalde 65;8843;Oberiberg;+41 78 000 16 94;r.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-12425;K1681;Lüönd Martin;;Rosenweg 12;6460;Altdorf;+41 78 000 75 35;m.lueoend@talnet-mail.ch;30T NETTO;0.0;N
+D-12432;K3804;Föhn Andrea;;Bühlweg 43;6415;Arth;+41 41 000 53 82;a.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-12439;K2934;Fässler Martin;;Bachstrasse 57;6423;Seewen;+41 79 000 66 78;m.faessler@talnet-mail.ch;30T NETTO;0.0;N
+D-12446;;Föhn Priska;;Riedstrasse 29;6460;Altdorf;+41 41 000 91 96;p.foehn@postfach-sz.ch;30T NETTO;0.0;N
+D-12453;K4945;Bucher Priska;;Gartenweg 76;6403;Küssnacht;+41 41 000 33 45;p.bucher@hausnet-mail.ch;30T NETTO;0.0;N
+D-12460;K3125;Kälin Sandra;;Mattenweg 65;6415;Arth;+41 79 000 75 78;s.kaelin@seenet-mail.ch;30T NETTO;0.0;N
+D-12467;K1889;Zwyssig Silvia;;Kirchweg 38;6438;Ibach;+41 41 000 20 81;s.zwyssig@talnet-mail.ch;30T NETTO;0.0;N
+D-12474;K2177;Zwyssig Stefan;;Kirchweg 28;6300;Zug;+41 76 000 33 75;s.zwyssig@postfach-sz.ch;30T NETTO;0.0;N
+D-12481;K8871;Heinzer Regula;;Mattenweg 41;6443;Morschach;+41 78 000 40 79;r.heinzer@hausnet-mail.ch;30T NETTO;0.0;N
+D-12488;K9804;Föhn Thomas;;Bühlweg 48;6440;Brunnen;+41 76 000 79 36;t.foehn@seenet-mail.ch;30T NETTO;0.0;N
+D-12495;K7976;Auf der Maur Claudia;;Rebbergstrasse 69;6423;Seewen;+41 76 000 36 88;c.aufdermaur@postfach-sz.ch;30T NETTO;0.0;N
+D-12502;K3321;Niederöst Ruth;;Kirchweg 57;6438;Ibach;+41 78 000 35 96;r.niederoest@postfach-sz.ch;30T NETTO;0.0;N
+D-12509;K7372;Betschart Roland;;Bergstrasse 36;6443;Morschach;+41 78 000 92 86;;30T NETTO;0.0;N
+D-12516;K7985;Suter Thomas;;Rosenweg 24;6460;Altdorf;+41 76 000 13 28;t.suter@seenet-mail.ch;30T NETTO;0.0;N
+D-12523;K9804;Gwerder Esther;;Feldstrasse 68;6442;Gersau;+41 76 000 95 95;e.gwerder@hausnet-mail.ch;30T NETTO;0.0;N
+D-12530;K2185;Fässler Thomas;;Mattenweg 45;6417;Sattel;+41 78 000 45 79;t.faessler@talnet-mail.ch;30T NETTO;0.0;N
+D-12537;K1540;Heinzer Nicole;;Feldstrasse 73;6443;Morschach;+41 78 000 23 19;n.heinzer@hausnet-mail.ch;30T NETTO;0.0;N
+D-12544;;Kennel Esther;;Dorfstrasse 59;6418;Rothenthurm;+41 78 000 25 24;e.kennel@seenet-mail.ch;30T NETTO;0.0;N
+D-12551;K8283;Niederöst Daniel;;Gartenweg 22;6460;Altdorf;+41 78 000 36 72;d.niederoest@seenet-mail.ch;30T NETTO;0.0;N
+D-12558;K7329;Baggenstos Daniel;;Feldstrasse 80;8820;Wädenswil;+41 78 000 24 48;d.baggenstos@hausnet-mail.ch;30T NETTO;0.0;N
+D-12565;K9248;Imhof Michael;;Seestrasse 78;6300;Zug;+41 79 000 82 20;m.imhof@talnet-mail.ch;30T NETTO;0.0;N
+D-12572;K9884;Marty Silvia;;Kirchweg 77;6443;Morschach;+41 76 000 62 90;;30T NETTO;0.0;N
+D-12579;K2853;Bucher Daniel;;Mattenweg 59;8840;Einsiedeln;+41 41 000 15 57;d.bucher@seenet-mail.ch;30T NETTO;0.0;N
+D-12586;K5952;Gwerder Michael;;Dorfstrasse 64;6418;Rothenthurm;+41 76 000 13 76;m.gwerder@hausnet-mail.ch;30T NETTO;0.0;N
+D-12593;K9257;Ulrich Priska;;Riedstrasse 25;6442;Gersau;+41 76 000 74 66;p.ulrich@hausnet-mail.ch;30T NETTO;0.0;N
+D-12600;K7858;Zwyssig Franziska;;Mattenweg 78;6430;Schwyz;+41 41 000 77 33;f.zwyssig@talnet-mail.ch;30T NETTO;0.0;N
+D-12607;K5325;Fässler Claudia;;Bergstrasse 79;8843;Oberiberg;+41 78 000 71 34;c.faessler@seenet-mail.ch;30T NETTO;0.0;N
+D-12614;K4303;Camenzind Regula;;Lindenstrasse 10;6300;Zug;+41 76 000 28 10;r.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-12621;K3916;Ochsner Silvia;;Sonnenhalde 44;6422;Steinen;+41 78 000 13 63;s.ochsner@hausnet-mail.ch;30T NETTO;0.0;N
+D-12628;K8477;Kälin Stefan;;Rebbergstrasse 48;6423;Seewen;+41 78 000 69 76;s.kaelin@talnet-mail.ch;30T NETTO;0.0;N
+D-12635;K2108;Rickenbacher Christian;;Mattenweg 21;8842;Unteriberg;+41 76 000 13 50;c.rickenbacher@postfach-sz.ch;30T NETTO;0.0;N
+D-12642;K3913;Fässler Peter;;Dorfstrasse 69;8840;Einsiedeln;+41 41 000 72 66;;30T NETTO;0.0;N
+D-12649;K6611;Ulrich Barbara;;Feldstrasse 37;6438;Ibach;+41 79 000 34 46;;30T NETTO;0.0;N
+D-12656;;Zehnder Peter;;Seestrasse 79;6442;Gersau;+41 79 000 67 45;p.zehnder@talnet-mail.ch;30T NETTO;0.0;N
+D-12663;K7823;Rickenbacher Daniel;;Hofmatt 13;8843;Oberiberg;+41 78 000 19 99;d.rickenbacher@hausnet-mail.ch;30T NETTO;0.0;N
+D-12670;K2311;Beeler Lukas;;Bergstrasse 56;6424;Lauerz;+41 41 000 22 51;l.beeler@talnet-mail.ch;30T NETTO;0.0;N
+D-12677;;Fuchs Lukas;;Bachstrasse 77;6424;Lauerz;+41 79 000 67 73;l.fuchs@postfach-sz.ch;30T NETTO;0.0;N
+D-12684;K3145;Baggenstos Franziska;;Hofmatt 30;8840;Einsiedeln;+41 78 000 73 40;;30T NETTO;0.0;N
+D-12691;;Annen Urs;;Bachstrasse 28;6442;Gersau;+41 78 000 84 76;u.annen@seenet-mail.ch;30T NETTO;0.0;N
+D-12698;;Annen Thomas;;Dorfstrasse 2;6460;Altdorf;+41 79 000 19 25;t.annen@talnet-mail.ch;30T NETTO;0.0;N
+D-12705;K4114;Annen Lukas;;Feldstrasse 5;6440;Brunnen;+41 41 000 23 73;l.annen@postfach-sz.ch;30T NETTO;0.0;N
+D-12712;K6400;Gisler Franziska;;Kirchweg 70;6300;Zug;+41 41 000 40 83;;30T NETTO;0.0;N
+D-12719;K1817;Betschart Martin;;Gartenweg 60;6443;Morschach;+41 78 000 88 93;m.betschart@seenet-mail.ch;30T NETTO;0.0;N
+D-12726;K5741;Heinzer Beat;;Bachstrasse 56;8842;Unteriberg;+41 41 000 52 42;b.heinzer@hausnet-mail.ch;30T NETTO;0.0;N
+D-12733;K3186;Reding Urs;;Lindenstrasse 79;6423;Seewen;+41 76 000 10 82;u.reding@talnet-mail.ch;30T NETTO;0.0;N
+D-12740;;Mettler Josef;;Seestrasse 78;6417;Sattel;+41 76 000 93 75;j.mettler@postfach-sz.ch;30T NETTO;0.0;N
+D-12747;K4210;Mettler Franziska;;Mattenweg 28;8843;Oberiberg;+41 76 000 74 27;f.mettler@hausnet-mail.ch;30T NETTO;0.0;N
+D-12754;K1521;Kistler Peter;;Rosenweg 7;6440;Brunnen;+41 76 000 47 65;;30T NETTO;0.0;N
+D-12761;K5002;Schuler Martin;;Hofmatt 51;6430;Schwyz;+41 76 000 20 74;m.schuler@talnet-mail.ch;30T NETTO;0.0;N
+D-12768;K2225;Fuchs Stefan;;Bühlweg 29;6004;Luzern;+41 79 000 14 86;s.fuchs@hausnet-mail.ch;30T NETTO;0.0;N
+D-12775;K5795;Betschart Daniel;;Bühlweg 32;6300;Zug;+41 79 000 68 92;d.betschart@seenet-mail.ch;30T NETTO;0.0;N
+D-12782;K4334;Betschart Sandra;;Bachstrasse 72;6443;Morschach;+41 79 000 88 47;s.betschart@seenet-mail.ch;30T NETTO;0.0;N
+D-12789;;Zwyssig Urs;;Lindenstrasse 47;8003;Zürich;+41 78 000 90 47;u.zwyssig@postfach-sz.ch;30T NETTO;0.0;N
+D-12796;;Wüthrich Martin;;Mattenweg 47;6410;Goldau;+41 41 000 28 11;;30T NETTO;0.0;N
+D-12803;;Reding Silvia;;Sonnenhalde 78;8842;Unteriberg;+41 41 000 46 95;;30T NETTO;0.0;N
+D-12810;;Auf der Maur Lukas;;Riedstrasse 63;6424;Lauerz;+41 78 000 74 94;l.aufdermaur@postfach-sz.ch;30T NETTO;0.0;N
+D-12817;K5730;Heinzer Peter;;Riedstrasse 55;8843;Oberiberg;+41 41 000 33 99;p.heinzer@talnet-mail.ch;30T NETTO;0.0;N
+D-12824;K5926;Gwerder Michael;;Kirchweg 28;8840;Einsiedeln;+41 79 000 79 42;m.gwerder@hausnet-mail.ch;30T NETTO;0.0;N
+D-12831;;Ochsner Andreas;;Riedstrasse 46;8843;Oberiberg;+41 76 000 11 41;;30T NETTO;0.0;N
+D-12838;K5425;Fuchs Peter;;Seestrasse 72;6442;Gersau;+41 78 000 55 21;p.fuchs@hausnet-mail.ch;30T NETTO;0.0;N
+D-12845;K6243;Schuler Silvia;;Riedstrasse 10;6423;Seewen;+41 79 000 59 61;s.schuler@talnet-mail.ch;30T NETTO;0.0;N
+D-12852;K3436;Kälin Claudia;;Kirchweg 28;6418;Rothenthurm;+41 41 000 99 43;c.kaelin@seenet-mail.ch;30T NETTO;0.0;N
+D-12859;K1016;Gwerder Esther;;Dorfstrasse 49;6442;Gersau;+41 41 000 40 53;e.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-12866;K6932;Gisler Sandra;;Seestrasse 41;6443;Morschach;+41 41 000 24 11;s.gisler@talnet-mail.ch;30T NETTO;0.0;N
+D-12873;K1560;Reding Lukas;;Mattenweg 17;6460;Altdorf;+41 76 000 38 68;l.reding@hausnet-mail.ch;30T NETTO;0.0;N
+D-12880;K4844;Kistler Josef;;Gartenweg 56;6424;Lauerz;+41 76 000 98 10;j.kistler@hausnet-mail.ch;30T NETTO;0.0;N
+D-12887;K1666;Heinzer Stefan;;Rosenweg 69;6460;Altdorf;+41 76 000 63 31;s.heinzer@seenet-mail.ch;30T NETTO;0.0;N
+D-12894;K8034;Aschwanden Stefan;;Riedstrasse 62;8842;Unteriberg;+41 79 000 76 30;s.aschwanden@hausnet-mail.ch;30T NETTO;0.0;N
+D-12901;K1795;Annen Lukas;;Rosenweg 65;6440;Brunnen;+41 76 000 10 38;l.annen@postfach-sz.ch;30T NETTO;0.0;N
+D-12908;K6424;Gwerder Regula;;Dorfstrasse 2;6410;Goldau;+41 41 000 94 36;r.gwerder@hausnet-mail.ch;30T NETTO;0.0;N
+D-12915;;Arnold Markus;;Sonnenhalde 7;6423;Seewen;+41 78 000 25 56;m.arnold@postfach-sz.ch;30T NETTO;0.0;N
+D-12922;K9520;Zwyssig Urs;;Bergstrasse 20;8840;Einsiedeln;+41 79 000 93 12;u.zwyssig@postfach-sz.ch;30T NETTO;0.0;N
+D-12929;K2970;Ochsner Peter;;Seestrasse 80;6422;Steinen;+41 76 000 84 42;p.ochsner@hausnet-mail.ch;30T NETTO;0.0;N
+D-12936;K6031;Aschwanden Peter;;Rebbergstrasse 22;6423;Seewen;+41 78 000 97 60;p.aschwanden@hausnet-mail.ch;30T NETTO;0.0;N
+D-12943;K3020;Ulrich Silvia;;Bachstrasse 35;8840;Einsiedeln;+41 78 000 41 50;s.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-12950;;Arnold Peter;;Seestrasse 63;6443;Morschach;+41 41 000 12 43;p.arnold@hausnet-mail.ch;30T NETTO;0.0;N
+D-12957;;Kennel Urs;;Gartenweg 46;6422;Steinen;+41 78 000 45 95;u.kennel@seenet-mail.ch;30T NETTO;0.0;N
+D-12964;K1138;Annen Markus;;Feldstrasse 7;6422;Steinen;+41 76 000 85 44;m.annen@talnet-mail.ch;30T NETTO;0.0;N
+D-12971;K5005;Ulrich Monika;;Bachstrasse 14;6460;Altdorf;+41 41 000 30 23;m.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-12978;K8589;Inglin Roland;;Gartenweg 66;6340;Baar;+41 78 000 52 11;r.inglin@hausnet-mail.ch;30T NETTO;0.0;N
+D-12985;K9561;Imhof Christian;;Mattenweg 34;6418;Rothenthurm;+41 41 000 83 44;c.imhof@seenet-mail.ch;30T NETTO;0.0;N
+D-12992;K4922;Rickenbacher Regula;;Bühlweg 42;6423;Seewen;+41 78 000 66 82;r.rickenbacher@talnet-mail.ch;30T NETTO;0.0;N
+D-12999;;Annen Sandra;;Rosenweg 19;6430;Schwyz;+41 41 000 26 25;s.annen@hausnet-mail.ch;30T NETTO;0.0;N
+D-13006;K3767;Beeler Daniel;;Gartenweg 18;8843;Oberiberg;+41 78 000 74 87;d.beeler@hausnet-mail.ch;30T NETTO;0.0;N
+D-13013;;Bucher Roland;;Bergstrasse 32;6440;Brunnen;+41 79 000 88 37;r.bucher@postfach-sz.ch;30T NETTO;0.0;N
+D-13020;K9007;Suter Urs;;Riedstrasse 56;6410;Goldau;+41 79 000 39 64;u.suter@seenet-mail.ch;30T NETTO;0.0;N
+D-13027;K3883;Reding Franziska;;Feldstrasse 78;6423;Seewen;+41 78 000 83 15;f.reding@seenet-mail.ch;30T NETTO;0.0;N
+D-13034;K4363;Abegg Barbara;;Bachstrasse 73;6460;Altdorf;+41 78 000 41 94;b.abegg@postfach-sz.ch;30T NETTO;0.0;N
+D-13041;;Reding Andreas;;Lindenstrasse 54;6403;Küssnacht;+41 41 000 19 64;a.reding@talnet-mail.ch;30T NETTO;0.0;N
+D-13048;K6547;Schnüriger Esther;;Mattenweg 16;6430;Schwyz;+41 79 000 17 46;e.schnueriger@talnet-mail.ch;30T NETTO;0.0;N
+D-13055;K6404;Beeler Thomas;;Riedstrasse 44;6424;Lauerz;+41 41 000 20 88;t.beeler@talnet-mail.ch;30T NETTO;0.0;N
+D-13062;K1080;Wüthrich Markus;;Rebbergstrasse 71;6423;Seewen;+41 79 000 24 98;m.wuethrich@seenet-mail.ch;30T NETTO;0.0;N
+D-13069;K1682;Schnüriger Beat;;Riedstrasse 9;6410;Goldau;+41 76 000 69 20;;30T NETTO;0.0;N
+D-13076;K5757;Mettler Michael;;Kirchweg 55;6443;Morschach;+41 79 000 69 80;m.mettler@talnet-mail.ch;30T NETTO;0.0;N
+D-13083;K1000;Annen Claudia;;Riedstrasse 5;6442;Gersau;+41 78 000 96 64;;30T NETTO;0.0;N
+D-13090;K2672;Kälin Sandra;;Mattenweg 4;8840;Einsiedeln;+41 78 000 85 42;s.kaelin@hausnet-mail.ch;30T NETTO;0.0;N
+D-13097;;Fuchs Josef;;Kirchweg 30;6300;Zug;+41 41 000 64 19;;30T NETTO;0.0;N
+D-13104;K5683;Meier Roland;;Seestrasse 78;6438;Ibach;+41 79 000 51 42;r.meier@seenet-mail.ch;30T NETTO;0.0;N
+D-13111;;Reding Regula;;Bachstrasse 72;6415;Arth;+41 79 000 59 72;r.reding@hausnet-mail.ch;30T NETTO;0.0;N
+D-13118;K6506;Gwerder Esther;;Seestrasse 12;6423;Seewen;+41 41 000 86 93;e.gwerder@hausnet-mail.ch;30T NETTO;0.0;N
+D-13125;K5834;Lüönd Karin;;Feldstrasse 15;6424;Lauerz;+41 41 000 79 99;k.lueoend@seenet-mail.ch;30T NETTO;0.0;N
+D-13132;K8452;Aschwanden Thomas;;Feldstrasse 76;6424;Lauerz;+41 41 000 58 85;t.aschwanden@talnet-mail.ch;30T NETTO;0.0;N
+D-13139;K4537;Rickenbacher Barbara;;Hofmatt 47;6300;Zug;+41 76 000 85 32;;30T NETTO;0.0;N
+D-13146;;Weber Monika;;Riedstrasse 79;6418;Rothenthurm;+41 76 000 74 94;m.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-13153;K4162;Kälin Priska;;Rebbergstrasse 29;6430;Schwyz;+41 78 000 69 65;;30T NETTO;0.0;N
+D-13160;K1802;Föhn Silvia;;Rebbergstrasse 6;6417;Sattel;+41 78 000 73 35;s.foehn@postfach-sz.ch;30T NETTO;0.0;N
+D-13167;;Gwerder Nicole;;Rosenweg 60;6424;Lauerz;+41 41 000 13 78;n.gwerder@postfach-sz.ch;30T NETTO;0.0;N
+D-13174;K5246;Baggenstos Karin;;Seestrasse 21;6410;Goldau;+41 79 000 99 82;k.baggenstos@hausnet-mail.ch;30T NETTO;0.0;N
+D-13181;K1565;Arnold Stefan;;Feldstrasse 34;6423;Seewen;+41 78 000 86 33;s.arnold@postfach-sz.ch;30T NETTO;0.0;N
+D-13188;K8420;Wüthrich Claudia;;Sonnenhalde 14;6443;Morschach;+41 76 000 65 54;c.wuethrich@hausnet-mail.ch;30T NETTO;0.0;N
+D-13195;;Beeler Andreas;;Mattenweg 14;6438;Ibach;+41 76 000 77 20;a.beeler@postfach-sz.ch;30T NETTO;0.0;N
+D-13202;K1326;Truttmann Thomas;;Lindenstrasse 18;6440;Brunnen;+41 78 000 95 82;t.truttmann@talnet-mail.ch;30T NETTO;0.0;N
+D-13209;K6914;Gisler Monika;;Sonnenhalde 51;6417;Sattel;+41 79 000 76 35;m.gisler@seenet-mail.ch;30T NETTO;0.0;N
+D-13216;K4260;Arnold Ruth;;Riedstrasse 18;6424;Lauerz;+41 76 000 88 72;r.arnold@postfach-sz.ch;30T NETTO;0.0;N
+D-13223;K1266;Beeler Claudia;;Rebbergstrasse 20;6438;Ibach;+41 79 000 29 83;c.beeler@seenet-mail.ch;30T NETTO;0.0;N
+D-13230;K2406;Ott Andrea;;Feldstrasse 16;6443;Morschach;+41 79 000 36 45;a.ott@talnet-mail.ch;30T NETTO;0.0;N
+D-13237;;Ochsner Regula;;Bergstrasse 69;6438;Ibach;+41 41 000 18 62;r.ochsner@hausnet-mail.ch;30T NETTO;0.0;N
+D-13244;K7805;Zehnder Karin;;Kirchweg 42;8840;Einsiedeln;+41 79 000 88 42;;30T NETTO;0.0;N
+D-13251;K2340;Zehnder Priska;;Mattenweg 65;6424;Lauerz;+41 78 000 99 39;p.zehnder@seenet-mail.ch;30T NETTO;0.0;N
+D-13258;K5769;Ochsner Franziska;;Sonnenhalde 2;6403;Küssnacht;+41 79 000 48 54;f.ochsner@seenet-mail.ch;30T NETTO;0.0;N
+D-13265;K5854;Gwerder Martin;;Hofmatt 23;6438;Ibach;+41 78 000 30 91;m.gwerder@postfach-sz.ch;30T NETTO;0.0;N
+D-13272;K6173;Holdener Urs;;Feldstrasse 28;6422;Steinen;+41 76 000 11 74;u.holdener@talnet-mail.ch;30T NETTO;0.0;N
+D-13279;K9191;Huwyler Peter;;Hofmatt 30;6340;Baar;+41 78 000 77 84;;30T NETTO;0.0;N
+D-13286;K1727;Bucher Barbara;;Bühlweg 26;6403;Küssnacht;+41 79 000 95 95;b.bucher@seenet-mail.ch;30T NETTO;0.0;N
+D-13293;;Mettler Esther;;Bergstrasse 5;6430;Schwyz;+41 76 000 67 33;e.mettler@hausnet-mail.ch;30T NETTO;0.0;N
+D-13300;K6926;Truttmann Priska;;Bergstrasse 49;6403;Küssnacht;+41 78 000 63 75;p.truttmann@talnet-mail.ch;30T NETTO;0.0;N
+D-13307;K3531;Fuchs Michael;;Rebbergstrasse 44;6443;Morschach;+41 41 000 59 79;m.fuchs@postfach-sz.ch;30T NETTO;0.0;N
+D-13314;K5680;Beeler Beat;;Feldstrasse 66;6442;Gersau;+41 79 000 10 65;b.beeler@talnet-mail.ch;30T NETTO;0.0;N
+D-13321;;Annen Andrea;;Rosenweg 68;8808;Pfäffikon SZ;+41 41 000 78 93;a.annen@hausnet-mail.ch;30T NETTO;0.0;N
+D-13328;K1576;Marty Karin;;Bachstrasse 6;6442;Gersau;+41 79 000 59 94;;30T NETTO;0.0;N
+D-13335;;Ochsner Nicole;;Riedstrasse 50;6424;Lauerz;+41 41 000 78 94;n.ochsner@postfach-sz.ch;30T NETTO;0.0;N
+D-13342;K1832;Steiner Barbara;;Lindenstrasse 74;8003;Zürich;+41 78 000 88 88;;30T NETTO;0.0;N
+D-13349;K8904;Gisler Josef;;Rosenweg 34;6410;Goldau;+41 41 000 12 39;j.gisler@hausnet-mail.ch;30T NETTO;0.0;N
+D-13356;K3633;Föhn Beat;;Lindenstrasse 40;6440;Brunnen;+41 76 000 52 61;b.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-13363;K9629;Arnold Urs;;Feldstrasse 43;6440;Brunnen;+41 79 000 13 83;;30T NETTO;0.0;N
+D-13370;K5310;Meier Beat;;Sonnenhalde 61;8842;Unteriberg;+41 76 000 67 90;b.meier@seenet-mail.ch;30T NETTO;0.0;N
+D-13377;;Annen Urs;;Bachstrasse 78;6300;Zug;+41 78 000 32 55;u.annen@postfach-sz.ch;30T NETTO;0.0;N
+D-13384;K5779;Beeler Sandra;;Dorfstrasse 7;6460;Altdorf;+41 76 000 38 45;s.beeler@hausnet-mail.ch;30T NETTO;0.0;N
+D-13391;K4214;Reding Urs;;Gartenweg 72;6422;Steinen;+41 41 000 20 34;u.reding@hausnet-mail.ch;30T NETTO;0.0;N
+D-13398;K3400;Betschart Thomas;;Seestrasse 19;8842;Unteriberg;+41 41 000 61 80;;30T NETTO;0.0;N
+D-13405;K8630;Fuchs Priska;;Lindenstrasse 19;6440;Brunnen;+41 79 000 78 59;p.fuchs@postfach-sz.ch;30T NETTO;0.0;N
+D-13412;K4633;Steiner Lukas;;Bühlweg 65;6443;Morschach;+41 41 000 53 12;;30T NETTO;0.0;N
+D-13419;K4665;Schelbert Andrea;;Bühlweg 19;6438;Ibach;+41 41 000 51 82;;30T NETTO;0.0;N
+D-13426;K1144;Wüthrich Roland;;Lindenstrasse 20;6340;Baar;+41 76 000 56 50;r.wuethrich@seenet-mail.ch;30T NETTO;0.0;N
+D-13433;K8518;Fässler Christian;;Bachstrasse 73;6440;Brunnen;+41 78 000 10 69;c.faessler@seenet-mail.ch;30T NETTO;0.0;N
+D-13440;K3947;Schuler Andreas;;Bühlweg 56;6423;Seewen;+41 78 000 86 82;a.schuler@seenet-mail.ch;30T NETTO;0.0;N
+D-13447;K8139;Camenzind Priska;;Rebbergstrasse 32;6430;Schwyz;+41 78 000 15 10;p.camenzind@talnet-mail.ch;30T NETTO;0.0;N
+D-13454;K7217;Bürgler Christian;;Gartenweg 51;6423;Seewen;+41 41 000 42 23;c.buergler@postfach-sz.ch;30T NETTO;0.0;N
+D-13461;K8214;Wüthrich Urs;;Sonnenhalde 28;6438;Ibach;+41 41 000 54 87;;30T NETTO;0.0;N
+D-13468;K4884;Camenzind Roland;;Gartenweg 68;6418;Rothenthurm;+41 41 000 27 31;r.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-13475;K1126;Weber Michael;;Lindenstrasse 32;6443;Morschach;+41 76 000 32 72;m.weber@postfach-sz.ch;30T NETTO;0.0;N
+D-13482;K3728;Heinzer Stefan;;Seestrasse 36;6430;Schwyz;+41 78 000 20 19;s.heinzer@postfach-sz.ch;30T NETTO;0.0;N
+D-13489;K9111;Ochsner Claudia;;Bachstrasse 49;6403;Küssnacht;+41 79 000 85 39;c.ochsner@hausnet-mail.ch;30T NETTO;0.0;N
+D-13496;K1059;Gisler Regula;;Lindenstrasse 32;6460;Altdorf;+41 41 000 27 76;r.gisler@hausnet-mail.ch;30T NETTO;0.0;N
+D-13503;;Niederöst Peter;;Kirchweg 14;6403;Küssnacht;+41 41 000 98 83;p.niederoest@hausnet-mail.ch;30T NETTO;0.0;N
+D-13510;K1784;Gisler Sandra;;Lindenstrasse 39;6418;Rothenthurm;+41 76 000 75 23;s.gisler@talnet-mail.ch;30T NETTO;0.0;N
+D-13517;K8096;Mettler Roland;;Mattenweg 28;6415;Arth;+41 41 000 81 15;r.mettler@seenet-mail.ch;30T NETTO;0.0;N
+D-13524;K3145;Zehnder Peter;;Lindenstrasse 59;6417;Sattel;+41 79 000 65 33;p.zehnder@postfach-sz.ch;30T NETTO;0.0;N
+D-13531;K4266;Camenzind Monika;;Lindenstrasse 9;6440;Brunnen;+41 76 000 91 75;m.camenzind@hausnet-mail.ch;30T NETTO;0.0;N
+D-13538;K4367;Mettler Monika;;Bergstrasse 33;6418;Rothenthurm;+41 41 000 70 37;m.mettler@postfach-sz.ch;30T NETTO;0.0;N
+D-13545;K1087;Schmidig Thomas;;Sonnenhalde 60;6403;Küssnacht;+41 41 000 61 64;t.schmidig@talnet-mail.ch;30T NETTO;0.0;N
+D-13552;K5593;Arnold Andrea;;Riedstrasse 45;6442;Gersau;+41 79 000 64 42;a.arnold@hausnet-mail.ch;30T NETTO;0.0;N
+D-13559;K6705;Föhn Andreas;;Feldstrasse 4;6423;Seewen;+41 41 000 49 14;;30T NETTO;0.0;N
+D-13566;K4408;Ulrich Markus;;Dorfstrasse 52;6415;Arth;+41 79 000 65 19;m.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-13573;K7052;Wüthrich Stefan;;Gartenweg 6;6422;Steinen;+41 78 000 36 88;s.wuethrich@talnet-mail.ch;30T NETTO;0.0;N
+D-13580;K6496;Fässler Lukas;;Lindenstrasse 57;6430;Schwyz;+41 79 000 27 89;l.faessler@postfach-sz.ch;30T NETTO;0.0;N
+D-13587;K8254;Schmidig Martin;;Dorfstrasse 9;6417;Sattel;+41 78 000 16 26;m.schmidig@seenet-mail.ch;30T NETTO;0.0;N
+D-13594;;Niederöst Regula;;Lindenstrasse 70;6424;Lauerz;+41 76 000 73 64;;30T NETTO;0.0;N
+D-13601;K9823;Reding Urs;;Kirchweg 25;6423;Seewen;+41 76 000 67 58;;30T NETTO;0.0;N
+D-13608;K8063;Camenzind Daniel;;Feldstrasse 70;6443;Morschach;+41 78 000 21 96;d.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-13615;;Niederöst Andreas;;Rebbergstrasse 51;8842;Unteriberg;+41 41 000 57 31;a.niederoest@seenet-mail.ch;30T NETTO;0.0;N
+D-13622;K4903;Schmidig Christian;;Sonnenhalde 80;6440;Brunnen;+41 76 000 43 11;c.schmidig@hausnet-mail.ch;30T NETTO;0.0;N
+D-13629;;Zehnder Ruth;;Dorfstrasse 3;6438;Ibach;+41 78 000 85 21;r.zehnder@postfach-sz.ch;30T NETTO;0.0;N
+D-13636;K8598;Zwyssig Claudia;;Rebbergstrasse 64;6424;Lauerz;+41 41 000 68 16;c.zwyssig@talnet-mail.ch;30T NETTO;0.0;N
+D-13643;;Ott Priska;;Bühlweg 4;6403;Küssnacht;+41 78 000 84 82;p.ott@seenet-mail.ch;30T NETTO;0.0;N
+D-13650;K6186;Aschwanden Thomas;;Sonnenhalde 7;6424;Lauerz;+41 78 000 20 76;;30T NETTO;0.0;N
+D-13657;K5451;Auf der Maur Beat;;Seestrasse 38;6440;Brunnen;+41 78 000 64 17;b.aufdermaur@talnet-mail.ch;30T NETTO;0.0;N
+D-13664;K8800;Kryenbühl Claudia;;Seestrasse 2;6440;Brunnen;+41 78 000 91 38;c.kryenbuehl@hausnet-mail.ch;30T NETTO;0.0;N
+D-13671;K1435;Kennel Sandra;;Lindenstrasse 26;6430;Schwyz;+41 41 000 89 93;;30T NETTO;0.0;N
+D-13678;K1111;Lüönd Ruth;;Rebbergstrasse 35;6422;Steinen;+41 76 000 88 64;r.lueoend@hausnet-mail.ch;30T NETTO;0.0;N
+D-13685;K2412;Ochsner Silvia;;Hofmatt 65;6430;Schwyz;+41 79 000 54 87;s.ochsner@postfach-sz.ch;30T NETTO;0.0;N
+D-13692;K5829;Ulrich Roland;;Riedstrasse 21;6424;Lauerz;+41 76 000 14 19;r.ulrich@talnet-mail.ch;30T NETTO;0.0;N
+D-13699;K9297;Fässler Andrea;;Dorfstrasse 79;6438;Ibach;+41 41 000 59 92;a.faessler@talnet-mail.ch;30T NETTO;0.0;N
+D-13706;K4601;Gwerder Andrea;;Dorfstrasse 29;6418;Rothenthurm;+41 79 000 29 53;;30T NETTO;0.0;N
+D-13713;K1400;Gwerder Lukas;;Mattenweg 71;6300;Zug;+41 79 000 29 69;l.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-13720;;Heinzer Regula;;Bergstrasse 62;6443;Morschach;+41 41 000 72 24;r.heinzer@hausnet-mail.ch;30T NETTO;0.0;N
+D-13727;K5924;Abegg Stefan;;Rebbergstrasse 76;6440;Brunnen;+41 41 000 84 18;s.abegg@seenet-mail.ch;30T NETTO;0.0;N
+D-13734;K8761;Inglin Martin;;Mattenweg 78;6422;Steinen;+41 79 000 51 27;m.inglin@hausnet-mail.ch;30T NETTO;0.0;N
+D-13741;K5711;Baggenstos Roland;;Hofmatt 74;6442;Gersau;+41 78 000 34 33;r.baggenstos@seenet-mail.ch;30T NETTO;0.0;N
+D-13748;K2696;Mettler Thomas;;Seestrasse 10;6422;Steinen;+41 76 000 68 81;;30T NETTO;0.0;N
+D-13755;K8931;Holdener Franziska;;Bachstrasse 77;6430;Schwyz;+41 41 000 24 79;f.holdener@seenet-mail.ch;30T NETTO;0.0;N
+D-13762;K9065;Kälin Priska;;Seestrasse 6;6460;Altdorf;+41 78 000 36 77;p.kaelin@talnet-mail.ch;30T NETTO;0.0;N
+D-13769;;Zehnder Christian;;Bühlweg 59;6418;Rothenthurm;+41 76 000 46 27;c.zehnder@hausnet-mail.ch;30T NETTO;0.0;N
+D-13776;;Inglin Christian;;Sonnenhalde 64;6442;Gersau;+41 76 000 60 99;c.inglin@postfach-sz.ch;30T NETTO;0.0;N
+D-13783;K7075;Fuchs Josef;;Bühlweg 61;6418;Rothenthurm;+41 76 000 12 40;j.fuchs@seenet-mail.ch;30T NETTO;0.0;N
+D-13790;K7101;Kennel Silvia;;Gartenweg 80;6440;Brunnen;+41 41 000 29 25;s.kennel@talnet-mail.ch;30T NETTO;0.0;N
+D-13797;K3591;Ochsner Andrea;;Rosenweg 15;8840;Einsiedeln;+41 41 000 54 50;a.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-13804;K4987;Abegg Priska;;Seestrasse 62;6403;Küssnacht;+41 41 000 36 86;p.abegg@hausnet-mail.ch;30T NETTO;0.0;N
+D-13811;K6190;Holdener Josef;;Seestrasse 5;6300;Zug;+41 78 000 69 28;j.holdener@seenet-mail.ch;30T NETTO;0.0;N
+D-13818;K1149;Kälin Priska;;Hofmatt 10;6438;Ibach;+41 79 000 40 51;p.kaelin@postfach-sz.ch;30T NETTO;0.0;N
+D-13825;K5248;Inglin Josef;;Feldstrasse 40;6424;Lauerz;+41 76 000 10 88;;30T NETTO;0.0;N
+D-13832;K8899;Zwyssig Markus;;Bergstrasse 57;6438;Ibach;+41 76 000 46 89;m.zwyssig@seenet-mail.ch;30T NETTO;0.0;N
+D-13839;K2722;Betschart Sandra;;Hofmatt 66;6443;Morschach;+41 79 000 86 57;s.betschart@talnet-mail.ch;30T NETTO;0.0;N
+D-13846;K5025;Gisler Stefan;;Dorfstrasse 14;6440;Brunnen;+41 41 000 75 22;s.gisler@seenet-mail.ch;30T NETTO;0.0;N
+D-13853;K9571;Ott Lukas;;Rebbergstrasse 52;6410;Goldau;+41 78 000 10 52;l.ott@postfach-sz.ch;30T NETTO;0.0;N
+D-13860;;Ochsner Peter;;Dorfstrasse 73;6442;Gersau;+41 78 000 68 58;p.ochsner@hausnet-mail.ch;30T NETTO;0.0;N
+D-13867;K5244;Auf der Maur Andreas;;Kirchweg 32;6430;Schwyz;+41 41 000 52 55;a.aufdermaur@seenet-mail.ch;30T NETTO;0.0;N
+D-13874;K1488;Beeler Sandra;;Bühlweg 36;6440;Brunnen;+41 41 000 52 23;;30T NETTO;0.0;N
+D-13881;K7424;Kistler Peter;;Bühlweg 60;6417;Sattel;+41 78 000 22 50;;30T NETTO;0.0;N
+D-13888;K3416;Kennel Peter;;Rosenweg 32;6440;Brunnen;+41 78 000 63 91;p.kennel@seenet-mail.ch;30T NETTO;0.0;N
+D-13895;;Gwerder Beat;;Bühlweg 64;6423;Seewen;+41 78 000 20 83;;30T NETTO;0.0;N
+D-13902;K9118;Schnüriger Karin;;Lindenstrasse 76;6403;Küssnacht;+41 76 000 40 79;k.schnueriger@postfach-sz.ch;30T NETTO;0.0;N
+D-13909;K5498;Bucher Markus;;Dorfstrasse 15;6423;Seewen;+41 79 000 13 36;m.bucher@seenet-mail.ch;30T NETTO;0.0;N
+D-13916;K8504;Schelbert Sandra;;Riedstrasse 66;6410;Goldau;+41 41 000 95 70;s.schelbert@postfach-sz.ch;30T NETTO;0.0;N
+D-13923;K7194;Kryenbühl Roland;;Feldstrasse 57;6430;Schwyz;+41 78 000 50 39;r.kryenbuehl@hausnet-mail.ch;30T NETTO;0.0;N
+D-13930;K6217;Zehnder Peter;;Bergstrasse 45;8840;Einsiedeln;+41 41 000 28 20;p.zehnder@hausnet-mail.ch;30T NETTO;0.0;N
+D-13937;K1898;Baggenstos Stefan;;Bachstrasse 22;6442;Gersau;+41 41 000 45 54;s.baggenstos@seenet-mail.ch;30T NETTO;0.0;N
+D-13944;K3424;Zwyssig Andreas;;Rosenweg 42;6423;Seewen;+41 41 000 57 38;a.zwyssig@seenet-mail.ch;30T NETTO;0.0;N
+D-13951;K2076;Annen Silvia;;Rosenweg 33;6403;Küssnacht;+41 41 000 62 84;;30T NETTO;0.0;N
+D-13958;K8081;Weber Roland;;Sonnenhalde 29;6004;Luzern;+41 41 000 20 43;;30T NETTO;0.0;N
+D-13965;K2593;Camenzind Beat;;Bühlweg 69;6438;Ibach;+41 78 000 96 67;;30T NETTO;0.0;N
+D-13972;K3714;Camenzind Nicole;;Sonnenhalde 59;6440;Brunnen;+41 78 000 41 55;n.camenzind@hausnet-mail.ch;30T NETTO;0.0;N
+D-13979;K4237;Arnold Stefan;;Bachstrasse 5;6460;Altdorf;+41 79 000 41 16;s.arnold@seenet-mail.ch;30T NETTO;0.0;N
+D-13986;;Schmidig Silvia;;Gartenweg 22;6424;Lauerz;+41 78 000 73 67;s.schmidig@postfach-sz.ch;30T NETTO;0.0;N
+D-13993;K4349;Camenzind Markus;;Bühlweg 42;8003;Zürich;+41 76 000 30 25;m.camenzind@hausnet-mail.ch;30T NETTO;0.0;N
+D-14000;K1160;Ott Regula;;Mattenweg 49;6423;Seewen;+41 41 000 59 83;r.ott@postfach-sz.ch;30T NETTO;0.0;N
+D-14007;K7372;Fuchs Monika;;Riedstrasse 25;6440;Brunnen;+41 78 000 27 18;m.fuchs@talnet-mail.ch;30T NETTO;0.0;N
+D-14014;K9482;Bucher Franziska;;Bühlweg 66;6423;Seewen;+41 76 000 36 86;;30T NETTO;0.0;N
+D-14021;K3330;Zehnder Nicole;;Dorfstrasse 53;6430;Schwyz;+41 41 000 32 52;n.zehnder@talnet-mail.ch;30T NETTO;0.0;N
+D-14028;K7060;Mettler Stefan;;Rosenweg 4;6460;Altdorf;+41 78 000 55 79;s.mettler@hausnet-mail.ch;30T NETTO;0.0;N
+D-14035;K4119;Ulrich Josef;;Bühlweg 72;6460;Altdorf;+41 79 000 31 43;j.ulrich@talnet-mail.ch;30T NETTO;0.0;N
+D-14042;;Kennel Priska;;Lindenstrasse 77;6443;Morschach;+41 79 000 23 71;p.kennel@talnet-mail.ch;30T NETTO;0.0;N
+D-14049;K6196;Steiner Andreas;;Bergstrasse 10;6422;Steinen;+41 41 000 98 64;a.steiner@postfach-sz.ch;30T NETTO;0.0;N
+D-14056;K9143;Holdener Thomas;;Bühlweg 49;6300;Zug;+41 79 000 84 52;t.holdener@postfach-sz.ch;30T NETTO;0.0;N
+D-14063;K4445;Truttmann Nicole;;Dorfstrasse 67;6460;Altdorf;+41 78 000 52 99;n.truttmann@hausnet-mail.ch;30T NETTO;0.0;N
+D-14070;K8807;Fuchs Michael;;Rosenweg 1;6422;Steinen;+41 41 000 26 11;m.fuchs@postfach-sz.ch;30T NETTO;0.0;N
+D-14077;;Beeler Daniel;;Seestrasse 33;6443;Morschach;+41 78 000 75 96;d.beeler@postfach-sz.ch;30T NETTO;0.0;N
+D-14084;K5710;Föhn Ruth;;Gartenweg 35;6422;Steinen;+41 79 000 20 66;r.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-14091;K8631;Kälin Andrea;;Riedstrasse 25;6440;Brunnen;+41 76 000 25 79;a.kaelin@talnet-mail.ch;30T NETTO;0.0;N
+D-14098;;Rickenbacher Daniel;;Bergstrasse 18;6438;Ibach;+41 78 000 67 48;d.rickenbacher@hausnet-mail.ch;30T NETTO;0.0;N
+D-14105;K1605;Ott Stefan;;Seestrasse 45;6430;Schwyz;+41 76 000 32 37;s.ott@postfach-sz.ch;30T NETTO;0.0;N
+D-14112;K5147;Föhn Peter;;Hofmatt 10;6442;Gersau;+41 78 000 61 55;p.foehn@postfach-sz.ch;30T NETTO;0.0;N
+D-14119;K7136;Ulrich Barbara;;Mattenweg 51;6430;Schwyz;+41 41 000 67 77;b.ulrich@talnet-mail.ch;30T NETTO;0.0;N
+D-14126;K6260;Suter Markus;;Rebbergstrasse 50;6423;Seewen;+41 76 000 21 33;m.suter@postfach-sz.ch;30T NETTO;0.0;N
+D-14133;K3860;Zehnder Silvia;;Rebbergstrasse 26;6430;Schwyz;+41 79 000 70 95;s.zehnder@hausnet-mail.ch;30T NETTO;0.0;N
+D-14140;;Inglin Regula;;Bergstrasse 63;8842;Unteriberg;+41 76 000 39 75;r.inglin@talnet-mail.ch;30T NETTO;0.0;N
+D-14147;K3929;Truttmann Esther;;Mattenweg 5;6423;Seewen;+41 76 000 30 46;e.truttmann@talnet-mail.ch;30T NETTO;0.0;N
+D-14154;K2495;Bucher Peter;;Riedstrasse 59;6438;Ibach;+41 78 000 95 24;p.bucher@seenet-mail.ch;30T NETTO;0.0;N
+D-14161;K6758;Inglin Josef;;Bühlweg 66;8842;Unteriberg;+41 78 000 58 47;j.inglin@postfach-sz.ch;30T NETTO;0.0;N
+D-14168;;Föhn Regula;;Kirchweg 35;6460;Altdorf;+41 78 000 89 17;r.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-14175;K3263;Bürgler Barbara;;Feldstrasse 43;6440;Brunnen;+41 78 000 17 19;b.buergler@seenet-mail.ch;30T NETTO;0.0;N
+D-14182;;Lüönd Karin;;Sonnenhalde 39;6423;Seewen;+41 78 000 31 14;k.lueoend@hausnet-mail.ch;30T NETTO;0.0;N
+D-14189;K8755;Marty Beat;;Feldstrasse 29;6403;Küssnacht;+41 76 000 79 80;b.marty@postfach-sz.ch;30T NETTO;0.0;N
+D-14196;K6626;Föhn Priska;;Hofmatt 61;6424;Lauerz;+41 76 000 41 95;p.foehn@postfach-sz.ch;30T NETTO;0.0;N
+D-14203;K8919;Lüönd Beat;;Bachstrasse 33;6423;Seewen;+41 78 000 49 49;b.lueoend@talnet-mail.ch;30T NETTO;0.0;N
+D-14210;K8641;Kryenbühl Monika;;Kirchweg 43;6300;Zug;+41 41 000 55 35;m.kryenbuehl@seenet-mail.ch;30T NETTO;0.0;N
+D-14217;K5881;Heinzer Regula;;Feldstrasse 1;8842;Unteriberg;+41 79 000 16 84;r.heinzer@postfach-sz.ch;30T NETTO;0.0;N
+D-14224;K9809;Holdener Urs;;Feldstrasse 67;6424;Lauerz;+41 78 000 96 10;u.holdener@seenet-mail.ch;30T NETTO;0.0;N
+D-14231;;Fuchs Karin;;Feldstrasse 49;6460;Altdorf;+41 41 000 63 66;k.fuchs@talnet-mail.ch;30T NETTO;0.0;N
+D-14238;;Fässler Andreas;;Seestrasse 29;6440;Brunnen;+41 79 000 13 59;a.faessler@hausnet-mail.ch;30T NETTO;0.0;N
+D-14245;K2812;Föhn Claudia;;Riedstrasse 80;6424;Lauerz;+41 78 000 17 82;c.foehn@postfach-sz.ch;30T NETTO;0.0;N
+D-14252;K4158;Fuchs Regula;;Bachstrasse 56;6430;Schwyz;+41 79 000 60 18;r.fuchs@talnet-mail.ch;30T NETTO;0.0;N
+D-14259;K9240;Lüönd Christian;;Dorfstrasse 74;8843;Oberiberg;+41 41 000 61 86;c.lueoend@hausnet-mail.ch;30T NETTO;0.0;N
+D-14266;K5461;Betschart Lukas;;Bergstrasse 21;6410;Goldau;+41 79 000 25 35;l.betschart@talnet-mail.ch;30T NETTO;0.0;N
+D-14273;K1209;Arnold Silvia;;Lindenstrasse 8;6430;Schwyz;+41 79 000 32 30;s.arnold@seenet-mail.ch;30T NETTO;0.0;N
+D-14280;K8177;Schelbert Barbara;;Sonnenhalde 13;6423;Seewen;+41 79 000 26 56;b.schelbert@postfach-sz.ch;30T NETTO;0.0;N
+D-14287;K4091;Meier Thomas;;Hofmatt 45;6424;Lauerz;+41 76 000 88 22;t.meier@postfach-sz.ch;30T NETTO;0.0;N
+D-14294;K1226;Auf der Maur Claudia;;Kirchweg 60;6422;Steinen;+41 78 000 56 91;c.aufdermaur@talnet-mail.ch;30T NETTO;0.0;N
+D-14301;K4205;Huwyler Daniel;;Riedstrasse 38;8808;Pfäffikon SZ;+41 79 000 33 65;d.huwyler@hausnet-mail.ch;30T NETTO;0.0;N
+D-14308;K2994;Camenzind Josef;;Dorfstrasse 61;8840;Einsiedeln;+41 76 000 48 91;j.camenzind@postfach-sz.ch;30T NETTO;0.0;N
+D-14315;K3857;Auf der Maur Markus;;Bergstrasse 76;8842;Unteriberg;+41 79 000 75 16;m.aufdermaur@seenet-mail.ch;30T NETTO;0.0;N
+D-14322;K3498;Rickenbacher Daniel;;Mattenweg 49;6423;Seewen;+41 41 000 65 53;d.rickenbacher@talnet-mail.ch;30T NETTO;0.0;N
+D-14329;;Weber Barbara;;Seestrasse 65;6423;Seewen;+41 78 000 81 95;b.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-14336;K3432;Meier Thomas;;Kirchweg 51;6417;Sattel;+41 41 000 88 55;t.meier@seenet-mail.ch;30T NETTO;0.0;N
+D-14343;K5143;Beeler Josef;;Bergstrasse 61;6004;Luzern;+41 76 000 48 63;j.beeler@talnet-mail.ch;30T NETTO;0.0;N
+D-14350;K8487;Inglin Daniel;;Mattenweg 67;8003;Zürich;+41 79 000 50 96;d.inglin@hausnet-mail.ch;30T NETTO;0.0;N
+D-14357;K5136;Beeler Roland;;Seestrasse 16;6424;Lauerz;+41 76 000 53 19;r.beeler@talnet-mail.ch;30T NETTO;0.0;N
+D-14364;K6782;Bucher Claudia;;Feldstrasse 1;6423;Seewen;+41 79 000 86 99;c.bucher@postfach-sz.ch;30T NETTO;0.0;N
+D-14371;K1078;Suter Regula;;Rosenweg 43;6430;Schwyz;+41 76 000 18 63;;30T NETTO;0.0;N
+D-14378;K4970;Steiner Esther;;Seestrasse 74;6422;Steinen;+41 78 000 25 27;e.steiner@hausnet-mail.ch;30T NETTO;0.0;N
+D-14385;K5611;Rickenbacher Christian;;Gartenweg 72;6004;Luzern;+41 79 000 98 91;c.rickenbacher@hausnet-mail.ch;30T NETTO;0.0;N
+D-14392;K2378;Betschart Sandra;;Feldstrasse 80;6422;Steinen;+41 76 000 32 20;s.betschart@postfach-sz.ch;30T NETTO;0.0;N
+D-14399;K6861;Gwerder Daniel;;Kirchweg 58;8840;Einsiedeln;+41 76 000 37 11;d.gwerder@postfach-sz.ch;30T NETTO;0.0;N
+D-14406;K1237;Rickenbacher Beat;;Mattenweg 40;6418;Rothenthurm;+41 78 000 32 16;b.rickenbacher@postfach-sz.ch;30T NETTO;0.0;N
+D-14413;K7040;Holdener Andrea;;Bergstrasse 42;6424;Lauerz;+41 41 000 24 38;a.holdener@seenet-mail.ch;30T NETTO;0.0;N
+D-14420;K3763;Zehnder Markus;;Dorfstrasse 76;8843;Oberiberg;+41 41 000 26 13;m.zehnder@postfach-sz.ch;30T NETTO;0.0;N
+D-14427;K2170;Betschart Christian;;Riedstrasse 57;6440;Brunnen;+41 41 000 73 54;c.betschart@talnet-mail.ch;30T NETTO;0.0;N
+D-14434;K8890;Heinzer Monika;;Bühlweg 67;6403;Küssnacht;+41 79 000 60 31;m.heinzer@postfach-sz.ch;30T NETTO;0.0;N
+D-14441;K1443;Kälin Markus;;Hofmatt 4;6423;Seewen;+41 41 000 24 78;m.kaelin@talnet-mail.ch;30T NETTO;0.0;N
+D-14448;K6427;Lüönd Thomas;;Sonnenhalde 15;8840;Einsiedeln;+41 78 000 70 20;;30T NETTO;0.0;N
+D-14455;K5811;Ulrich Michael;;Dorfstrasse 8;6430;Schwyz;+41 41 000 63 80;m.ulrich@talnet-mail.ch;30T NETTO;0.0;N
+D-14462;K9269;Föhn Priska;;Riedstrasse 33;6438;Ibach;+41 76 000 65 85;;30T NETTO;0.0;N
+D-14469;K4600;Suter Christian;;Dorfstrasse 35;6430;Schwyz;+41 78 000 94 58;c.suter@talnet-mail.ch;30T NETTO;0.0;N
+D-14476;K7566;Camenzind Barbara;;Rosenweg 33;6440;Brunnen;+41 41 000 83 65;b.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-14483;K7124;Zehnder Martin;;Rosenweg 51;8840;Einsiedeln;+41 41 000 92 34;m.zehnder@talnet-mail.ch;30T NETTO;0.0;N
+D-14490;K6806;Mettler Peter;;Sonnenhalde 26;6440;Brunnen;+41 76 000 33 38;p.mettler@postfach-sz.ch;30T NETTO;0.0;N
+D-14497;K2318;Rickenbacher Urs;;Lindenstrasse 54;6424;Lauerz;+41 76 000 55 91;u.rickenbacher@postfach-sz.ch;30T NETTO;0.0;N
+D-14504;;Baggenstos Priska;;Seestrasse 57;6004;Luzern;+41 76 000 29 52;p.baggenstos@seenet-mail.ch;30T NETTO;0.0;N
+D-14511;;Huwyler Priska;;Kirchweg 55;6422;Steinen;+41 79 000 10 35;p.huwyler@hausnet-mail.ch;30T NETTO;0.0;N
+D-14518;K4478;Inglin Karin;;Rebbergstrasse 19;6443;Morschach;+41 41 000 46 63;k.inglin@hausnet-mail.ch;30T NETTO;0.0;N
+D-14525;K7523;Betschart Markus;;Lindenstrasse 29;6443;Morschach;+41 76 000 12 12;;30T NETTO;0.0;N
+D-14532;K5129;Marty Esther;;Seestrasse 28;6422;Steinen;+41 76 000 82 14;e.marty@talnet-mail.ch;30T NETTO;0.0;N
+D-14539;K9720;Arnold Andrea;;Rebbergstrasse 80;8840;Einsiedeln;+41 76 000 75 75;;30T NETTO;0.0;N
+D-14546;K4603;Inglin Priska;;Sonnenhalde 1;8840;Einsiedeln;+41 76 000 93 71;p.inglin@postfach-sz.ch;30T NETTO;0.0;N
+D-14553;K3070;Ott Priska;;Gartenweg 59;6442;Gersau;+41 41 000 99 82;p.ott@postfach-sz.ch;30T NETTO;0.0;N
+D-14560;K8147;Gwerder Regula;;Hofmatt 16;8843;Oberiberg;+41 76 000 53 45;r.gwerder@talnet-mail.ch;30T NETTO;0.0;N
+D-14567;K9791;Zwyssig Ruth;;Seestrasse 54;6424;Lauerz;+41 79 000 87 74;r.zwyssig@hausnet-mail.ch;30T NETTO;0.0;N
+D-14574;K4074;Auf der Maur Silvia;;Seestrasse 10;6340;Baar;+41 76 000 34 49;s.aufdermaur@talnet-mail.ch;30T NETTO;0.0;N
+D-14581;K5575;Heinzer Andreas;;Gartenweg 29;6403;Küssnacht;+41 78 000 27 20;a.heinzer@seenet-mail.ch;30T NETTO;0.0;N
+D-14588;;Zwyssig Roland;;Rebbergstrasse 23;6430;Schwyz;+41 79 000 16 86;r.zwyssig@talnet-mail.ch;30T NETTO;0.0;N
+D-14595;K5007;Annen Regula;;Mattenweg 68;6417;Sattel;+41 79 000 63 81;r.annen@postfach-sz.ch;30T NETTO;0.0;N
+D-14602;K4339;Beeler Franziska;;Sonnenhalde 68;8003;Zürich;+41 76 000 34 73;;30T NETTO;0.0;N
+D-14609;K6171;Camenzind Nicole;;Bergstrasse 56;6410;Goldau;+41 79 000 22 97;n.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-14616;;Gwerder Thomas;;Bühlweg 79;6403;Küssnacht;+41 41 000 25 64;t.gwerder@seenet-mail.ch;30T NETTO;0.0;N
+D-14623;K3339;Zehnder Christian;;Dorfstrasse 1;6424;Lauerz;+41 79 000 83 79;c.zehnder@hausnet-mail.ch;30T NETTO;0.0;N
+D-14630;K3574;Aschwanden Beat;;Lindenstrasse 53;6415;Arth;+41 78 000 71 14;b.aschwanden@seenet-mail.ch;30T NETTO;0.0;N
+D-14637;K9057;Kistler Silvia;;Dorfstrasse 72;6442;Gersau;+41 76 000 48 20;s.kistler@hausnet-mail.ch;30T NETTO;0.0;N
+D-14644;K3851;Schuler Michael;;Rosenweg 57;6423;Seewen;+41 41 000 10 35;m.schuler@seenet-mail.ch;30T NETTO;0.0;N
+D-14651;K6248;Kistler Markus;;Seestrasse 45;6440;Brunnen;+41 41 000 47 98;;30T NETTO;0.0;N
+D-14658;K7015;Bucher Ruth;;Seestrasse 27;8842;Unteriberg;+41 78 000 90 14;r.bucher@postfach-sz.ch;30T NETTO;0.0;N
+D-14665;K8510;Truttmann Andreas;;Rebbergstrasse 62;8843;Oberiberg;+41 79 000 44 19;a.truttmann@hausnet-mail.ch;30T NETTO;0.0;N
+D-14672;K6499;Meier Peter;;Hofmatt 39;6430;Schwyz;+41 78 000 59 22;p.meier@hausnet-mail.ch;30T NETTO;0.0;N
+D-14679;;Meier Priska;;Hofmatt 76;6423;Seewen;+41 41 000 81 92;p.meier@postfach-sz.ch;30T NETTO;0.0;N
+D-14686;;Wüthrich Roland;;Hofmatt 56;6443;Morschach;+41 79 000 54 61;;30T NETTO;0.0;N
+D-14693;;Bürgler Daniel;;Feldstrasse 16;6422;Steinen;+41 79 000 12 47;d.buergler@talnet-mail.ch;30T NETTO;0.0;N
+D-14700;K1871;Zehnder Sandra;;Kirchweg 45;6440;Brunnen;+41 79 000 88 40;s.zehnder@postfach-sz.ch;30T NETTO;0.0;N
+D-14707;K6678;Reding Nicole;;Gartenweg 35;6460;Altdorf;+41 79 000 15 71;n.reding@seenet-mail.ch;30T NETTO;0.0;N
+D-14714;K3237;Gwerder Karin;;Mattenweg 15;6440;Brunnen;+41 79 000 52 34;k.gwerder@talnet-mail.ch;30T NETTO;0.0;N
+D-14721;K3154;Zehnder Lukas;;Bachstrasse 46;6424;Lauerz;+41 76 000 27 58;l.zehnder@talnet-mail.ch;30T NETTO;0.0;N
+D-14728;;Arnold Andreas;;Bergstrasse 10;6438;Ibach;+41 78 000 76 54;a.arnold@postfach-sz.ch;30T NETTO;0.0;N
+D-14735;K9563;Niederöst Andreas;;Bergstrasse 26;6424;Lauerz;+41 78 000 86 75;a.niederoest@postfach-sz.ch;30T NETTO;0.0;N
+D-14742;K8495;Weber Stefan;;Bergstrasse 5;6440;Brunnen;+41 79 000 12 17;s.weber@hausnet-mail.ch;30T NETTO;0.0;N
+D-14749;K6885;Kryenbühl Thomas;;Feldstrasse 43;6440;Brunnen;+41 78 000 71 87;t.kryenbuehl@postfach-sz.ch;30T NETTO;0.0;N
+D-14756;K6999;Weber Lukas;;Hofmatt 52;8842;Unteriberg;+41 41 000 57 42;l.weber@seenet-mail.ch;30T NETTO;0.0;N
+D-14763;K2756;Föhn Thomas;;Kirchweg 65;6423;Seewen;+41 79 000 80 39;t.foehn@talnet-mail.ch;30T NETTO;0.0;N
+D-14770;K9228;Kryenbühl Martin;;Bachstrasse 1;8820;Wädenswil;+41 76 000 24 88;m.kryenbuehl@talnet-mail.ch;30T NETTO;0.0;N
+D-14777;K4451;Truttmann Thomas;;Bühlweg 25;6422;Steinen;+41 78 000 87 21;t.truttmann@postfach-sz.ch;30T NETTO;0.0;N
+D-14784;K8453;Schelbert Sandra;;Gartenweg 54;8003;Zürich;+41 41 000 46 66;;30T NETTO;0.0;N
+D-14791;;Zwyssig Esther;;Gartenweg 14;6438;Ibach;+41 78 000 10 83;;30T NETTO;0.0;N
+D-14798;;Ulrich Nicole;;Bergstrasse 58;6424;Lauerz;+41 79 000 96 44;n.ulrich@seenet-mail.ch;30T NETTO;0.0;N
+D-14805;K2796;Kistler Peter;;Hofmatt 13;6443;Morschach;+41 79 000 82 85;p.kistler@talnet-mail.ch;30T NETTO;0.0;N
+D-14812;K9117;Föhn Urs;;Mattenweg 30;6417;Sattel;+41 41 000 86 38;u.foehn@hausnet-mail.ch;30T NETTO;0.0;N
+D-14819;K5006;Ulrich Martin;;Feldstrasse 71;6300;Zug;+41 41 000 43 91;m.ulrich@hausnet-mail.ch;30T NETTO;0.0;N
+D-14826;K8469;Marty Andreas;;Riedstrasse 52;6438;Ibach;+41 78 000 53 68;a.marty@talnet-mail.ch;30T NETTO;0.0;N
+D-14833;K2919;Bürgler Thomas;;Rebbergstrasse 15;6410;Goldau;+41 79 000 55 35;t.buergler@seenet-mail.ch;30T NETTO;0.0;N
+D-14840;K1396;Camenzind Claudia;;Bachstrasse 44;6460;Altdorf;+41 79 000 67 15;c.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-14847;K4704;Marty Martin;;Bachstrasse 7;6422;Steinen;+41 78 000 95 86;m.marty@seenet-mail.ch;30T NETTO;0.0;N
+D-14854;;Marty Peter;;Riedstrasse 30;8842;Unteriberg;+41 78 000 72 35;;30T NETTO;0.0;N
+D-14861;K3950;Weber Markus;;Feldstrasse 43;6417;Sattel;+41 79 000 52 76;m.weber@talnet-mail.ch;30T NETTO;0.0;N
+D-14868;K3733;Heinzer Urs;;Rebbergstrasse 3;6440;Brunnen;+41 41 000 70 43;u.heinzer@seenet-mail.ch;30T NETTO;0.0;N
+D-14875;K3943;Bürgler Peter;;Lindenstrasse 34;8843;Oberiberg;+41 78 000 97 19;p.buergler@seenet-mail.ch;30T NETTO;0.0;N
+D-14882;K6075;Heinzer Peter;;Feldstrasse 67;6423;Seewen;+41 76 000 74 41;p.heinzer@hausnet-mail.ch;30T NETTO;0.0;N
+D-14889;K7731;Kennel Nicole;;Rosenweg 40;8842;Unteriberg;+41 41 000 17 24;n.kennel@postfach-sz.ch;30T NETTO;0.0;N
+D-14896;K7161;Heinzer Claudia;;Dorfstrasse 39;6422;Steinen;+41 78 000 50 56;c.heinzer@postfach-sz.ch;30T NETTO;0.0;N
+D-14903;K5135;Marty Barbara;;Lindenstrasse 72;6403;Küssnacht;+41 76 000 97 53;b.marty@postfach-sz.ch;30T NETTO;0.0;N
+D-14910;K2363;Kennel Michael;;Riedstrasse 31;6410;Goldau;+41 79 000 36 85;m.kennel@postfach-sz.ch;30T NETTO;0.0;N
+D-14917;;Fässler Markus;;Kirchweg 35;8840;Einsiedeln;+41 41 000 60 38;m.faessler@seenet-mail.ch;30T NETTO;0.0;N
+D-14924;K8105;Bucher Andrea;;Lindenstrasse 32;6460;Altdorf;+41 78 000 91 67;a.bucher@talnet-mail.ch;30T NETTO;0.0;N
+D-14931;K3230;Mettler Lukas;;Lindenstrasse 14;6430;Schwyz;+41 79 000 23 70;l.mettler@seenet-mail.ch;30T NETTO;0.0;N
+D-14938;K6992;Kälin Daniel;;Lindenstrasse 35;6460;Altdorf;+41 79 000 24 87;d.kaelin@postfach-sz.ch;30T NETTO;0.0;N
+D-14945;K3539;Arnold Michael;;Bühlweg 10;8840;Einsiedeln;+41 79 000 84 85;m.arnold@hausnet-mail.ch;30T NETTO;0.0;N
+D-14952;K9585;Abegg Josef;;Rebbergstrasse 71;6430;Schwyz;+41 78 000 29 23;j.abegg@postfach-sz.ch;30T NETTO;0.0;N
+D-14959;K5021;Betschart Lukas;;Rosenweg 63;8843;Oberiberg;+41 76 000 54 25;l.betschart@seenet-mail.ch;30T NETTO;0.0;N
+D-14966;K4136;Ott Christian;;Mattenweg 59;6415;Arth;+41 41 000 61 39;c.ott@talnet-mail.ch;30T NETTO;0.0;N
+D-14973;K3358;Inglin Esther;;Mattenweg 78;6442;Gersau;+41 78 000 98 81;e.inglin@talnet-mail.ch;30T NETTO;0.0;N
+D-14980;K3623;Schnüriger Esther;;Mattenweg 49;8840;Einsiedeln;+41 78 000 44 43;e.schnueriger@hausnet-mail.ch;30T NETTO;0.0;N
+D-14987;K4023;Marty Barbara;;Lindenstrasse 41;6460;Altdorf;+41 78 000 41 63;b.marty@talnet-mail.ch;30T NETTO;0.0;N
+D-14994;K4394;Schuler Martin;;Bachstrasse 37;6460;Altdorf;+41 79 000 23 95;m.schuler@talnet-mail.ch;30T NETTO;0.0;N
+D-15001;K2298;Steiner Barbara;;Rebbergstrasse 59;6004;Luzern;+41 76 000 74 58;b.steiner@talnet-mail.ch;30T NETTO;0.0;N
+D-15008;K6084;Fuchs Urs;;Bachstrasse 75;8843;Oberiberg;+41 78 000 34 92;u.fuchs@seenet-mail.ch;30T NETTO;0.0;N
+D-15015;K5752;Föhn Lukas;;Hofmatt 15;6415;Arth;+41 79 000 93 87;;30T NETTO;0.0;N
+D-15022;K5098;Camenzind Lukas;;Bühlweg 45;6423;Seewen;+41 76 000 96 95;l.camenzind@seenet-mail.ch;30T NETTO;0.0;N
+D-15029;K3099;Inglin Christian;;Kirchweg 55;6424;Lauerz;+41 76 000 63 22;c.inglin@talnet-mail.ch;30T NETTO;0.0;N
+D-15036;K5122;Ochsner Daniel;;Gartenweg 64;6340;Baar;+41 79 000 17 30;d.ochsner@talnet-mail.ch;30T NETTO;0.0;N
+D-15043;K4447;Rickenbacher Markus;;Hofmatt 74;8808;Pfäffikon SZ;+41 41 000 74 30;m.rickenbacher@hausnet-mail.ch;30T NETTO;0.0;N
+D-15050;K7492;Huwyler Esther;;Bühlweg 11;6430;Schwyz;+41 41 000 93 96;e.huwyler@hausnet-mail.ch;30T NETTO;0.0;N

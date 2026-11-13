@@ -1,0 +1,6 @@
+# CRM and ERP rows added by Case A1 (existing customer D-10122 / KC-20020, no new contacts).
+customers: []
+offers:
+  - {nr: OF-26-0147, date: "2026-06-09", cust: D-10122, obj: "Zustandsaufnahme Flachdach Steinen", line: Beratung, type: Honorarofferte, status: O, pl: CSc, proj: ""}
+leads:
+  - [L-2026-161, KC-20020, "Zustandsaufnahme Flachdächer Hofmattweg Steinen", Beratung, offeriert, 5000, CSc, "2026-05-18", "Mail an info, Begehung 27.05., Umfang geändert 01.06. und 05.06., OF raus 09.06."]

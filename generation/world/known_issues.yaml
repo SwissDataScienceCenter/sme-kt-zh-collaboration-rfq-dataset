@@ -1,0 +1,64 @@
+# Deliberate inconsistencies in the Company world (not tied to a single Case).
+# Case specific flaws are listed in each cases/<id>/case.yaml.
+# Every entry must be traceable to a file so it can serve as ground truth for later evaluation.
+
+- id: KI-01
+  file: company-world/operations/Kalkulationsrichtlinie_v3.2_2024-03.docx
+  where: section 8, example totals block
+  issue: Example uses VAT 7.7 % although the manual is dated March 2024 (correct rate 8.1 %).
+- id: KI-02
+  file: company-world/operations/Faustregeln_BUl.xlsx
+  where: row "Plattenbelag"
+  issue: Waste for slabs 10 % (15 % diagonal) while the costing manual says 8 %.
+- id: KI-03
+  file: company-world/operations/Faustregeln_BUl.xlsx
+  where: rows "Kran", "Allgemein"
+  issue: Rules that exist nowhere else (minimum 4 crane hours, no Skonto for a slow paying property manager, call the owner above CHF 50'000).
+- id: KI-04
+  file: company-world/systems/MetaBau_Export_Artikelstamm_2026-04-30.csv
+  where: rows with STATUS = GESPERRT, column ALT_NR
+  issue: Blocked legacy articles duplicate active ones at old prices; about 5 % of legacy numbers were truncated during the 2021 migration.
+- id: KI-05
+  file: company-world/operations/Preisliste_Systemprodukte_2024.pdf
+  where: whole document
+  issue: Outdated price list still on the file server; Daniel Inderbitzin occasionally quotes from it.
+- id: KI-06
+  file: company-world/organisation/MetaBau_Export_Personal_2026-04-30.xlsx
+  where: columns EINTRITT, AKTIV
+  issue: Entry dates before 2000 in ISO format, later ones as DD.MM.YYYY; former employee Peter Kollmann still listed (AKTIV = N).
+- id: KI-07
+  file: company-world/operations/Regieansaetze_2018-2026.xlsx
+  where: sheet 2022
+  issue: Note that rates were not adjusted mid-year despite inflation; refers to an email that does not exist in the dataset.
+- id: KI-08
+  file: company-world/systems/MetaBau_Export_Artikelstamm_2026-04-30.csv
+  where: encoding and format
+  issue: Export is Windows-1252, semicolon separated, BEZ_1 truncated to 60 characters.
+- id: KI-09
+  file: company-world/operations/templates/Vorlage_Offerte_Word_2016.docx
+  where: section 4, cost table
+  issue: VAT 7.7 % hard coded in the old Word template.
+- id: KI-10
+  file: company-world/operations/templates/Vorlage_Offerte_Word_2016.docx; company-world/operations/Betriebshandbuch_Auftragsabwicklung_v2.1_2023-05.docx
+  where: signature block; section 2 responsibilities
+  issue: Former employee Peter Kollmann (left June 2023) still default signature and responsible for facades.
+- id: KI-11
+  file: company-world/operations/templates/Vorlage_Offerte_Word_2016.docx
+  where: section 6, payment
+  issue: Unfilled Word field "Wählen Sie ein Element aus." left in the template.
+- id: KI-12
+  file: company-world/systems/KundenCockpit_Export_Kontakte_2026-04-30.csv
+  where: rows with Notiz "Import 2022"; column ERP_Debitor
+  issue: Four duplicate companies with spelling variants; about 20 % of contacts without ERP debtor number; private customers from before 2012 missing in the CRM.
+- id: KI-13
+  file: company-world/systems/KundenCockpit_Export_Leads_2026-04-30.csv
+  where: column Status
+  issue: About 12 % of leads still "offeriert" although the ERP shows the offer as won or lost.
+- id: KI-14
+  file: company-world/systems/MetaBau_Export_Projekte_2018-2026.csv
+  where: projects 2018 to 2020
+  issue: Offer numbers in the old KALKO format YYYY-### next to OF-YY-####; old project numbers in ALT_PROJ.
+- id: KI-15
+  file: company-world/systems/MetaBau_Export_Debitoren_2026-04-30.csv
+  where: Arnold & Gisler Immobilien AG, column SKONTO_SPERRE
+  issue: Skonto block exists only in the ERP and in the estimator's rules of thumb, not in the CRM or any manual.

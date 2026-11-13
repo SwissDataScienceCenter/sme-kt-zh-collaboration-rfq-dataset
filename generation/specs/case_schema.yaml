@@ -1,0 +1,38 @@
+# Schema of cases/<id>/case.yaml (ADR 0006). Written first; every Case document is derived from it.
+# Keys in English, values that appear in documents in Swiss German.
+
+id: C1                              # Case ID from plan §6
+title: "Terrassensanierung ..."     # short, German
+business_line: custom_build         # advisory | custom_build | system_product
+offer_type: unit_price_offer        # fee_offer | unit_price_offer | lump_sum_offer | tender_response | configuration_offer | cost_estimate
+difficulty: medium                  # easy | medium | hard
+dates:
+  first_contact: 2026-05-12
+  offer: 2026-07-07                 # determines VAT, rates and price index
+customer:
+  ref: D-12345 | KC-23456 | new     # existing customer from generation/world/customers.csv or "new"
+  new_record: {}                    # full record when ref is new (added via systems_additions.yaml)
+object: {address: "", description: ""}
+staff: {owner: RBe, involved: [EFoe, BUl]}   # initials from organisation.yaml
+scope_facts:                        # the truth about the object, whatever the documents say
+  - "Terrassenfläche effektiv 93 m2"
+assumptions: []                     # assumptions the Offer states (Annahmen)
+client_provisions: []               # Leistungen bauseits
+reservations: []                    # Vorbehalte
+lines:                              # input to pricing.py; unit_price only when not from the Item master
+  - {code: "10.100.01", qty: 1}
+  - {code: "20.110.01", qty: 93, optional: true}
+  - {text: "Regie Reserve", qty: 1, unit: LE, unit_price: 2420, note: "8 h A + 8 h B + Material 500"}
+discount: 0.02
+skonto: true
+expected:                           # filled by pricing.py, never by hand
+  gross: null
+  net: null
+  vat: null
+  total: null
+past_projects: []                   # project numbers frozen into company-world/past-projects (ADR 0005)
+documents:                          # every file of the Case with side and purpose
+  - {path: request/2026-05-12_Mail_Kunde.eml, side: request, purpose: "first RFQ, area stated as ca. 70 m2"}
+flaws:                              # deliberate, each with type from writing_style.md §Flaw types and its location
+  - {id: C1-F1, type: contradiction, where: "request/2026-05-12_Mail_Kunde.eml vs scope_facts", description: "Customer states 70 m2, real area 93 m2"}
+systems_additions: {}               # rows this Case adds to CRM and ERP exports

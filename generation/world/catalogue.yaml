@@ -1,0 +1,88 @@
+# System product catalogue (base year 2026). Prices CHF excl. VAT.
+# Adaptation rules are catalogue rules only (ADR 0004): no norm interpretation needed to price.
+# Prices of other years: base x price_index.system_products, rounded to 10 CHF.
+
+families:
+  velo:
+    name: Fronalp Velo
+    since: 2005
+    code_prefix: "97.100"
+    description: Modularer Velounterstand aus feuerverzinktem und pulverbeschichtetem Stahl, Dach Trapezblech.
+    standard: {module_length_m: 2.50, depth_m: 2.00, clear_height_m: 2.20, bikes_per_module: 5, colour: RAL 7016 Feinstruktur}
+    models:
+      - {code: VU-S, de: "Startmodul (inkl. Endstützen)", unit: Stk, price: 4350}
+      - {code: VU-A, de: Anbaumodul, unit: Stk, price: 3450}
+    options:
+      - {code: VU-OPT-PC,  de: "Dach Polycarbonat statt Trapezblech", unit: Modul, price: 280}
+      - {code: VU-OPT-GD,  de: Gründachvorbereitung, unit: Modul, price: 520}
+      - {code: VU-OPT-RWL, de: Rückwand Lochblech, unit: Modul, price: 690}
+      - {code: VU-OPT-RWP, de: Rückwand Polycarbonat, unit: Modul, price: 590}
+      - {code: VU-OPT-SWL, de: Seitenwand Lochblech, unit: Stk, price: 540}
+      - {code: VU-OPT-BG,  de: "Veloständer Hoch/Tief, 5 Plätze, verzinkt", unit: Modul, price: 690}
+      - {code: VU-OPT-LED, de: "LED-Beleuchtung mit Bewegungsmelder, Leerrohr in Fundament (Elektroanschluss bauseits)", unit: Anlage, price: 1180}
+      - {code: VU-OPT-FU,  de: "Punktfundamente durch Fronalp inkl. Belag schneiden und Entsorgung", unit: Modul, price: 1150}
+      - {code: VU-OPT-RF,  de: "Dachrinne mit Fallrohr", unit: Anlage, price: 590}
+    colour_surcharge: {standard: "RAL 7016 Feinstruktur", other_ral: 0.08, db_colours: 0.12, base: models}
+    assembly: {first_module: 1150, each_additional: 520}
+    adaptation_rules:
+      - "Kürzere Modullänge: Preis wie Standardmodul."
+      - "Tiefe 1.60 m statt 2.00 m: Preis wie Standard."
+      - "Hanglage: Stützenverlängerung bis 30 cm CHF 95 pro Stütze; über 30 cm Abklärung Werkstatt (TRe)."
+      - "Veloständer Hoch/Tief: 1 pro Modul für 5 Velos (Abstand 50 cm). Anlehnbügel für 2 Velos benötigen mehr Platz und sind keine Katalogoption."
+      - "Ohne Rinne läuft das Dachwasser frei ab."
+      - "Montagepauschale inkl. Montage der Optionen."
+  carport:
+    name: Fronalp Carport
+    since: 2009
+    code_prefix: "97.200"
+    description: Carport aus Stahl, feuerverzinkt und pulverbeschichtet, Flachdach mit Trapezblech, Entwässerung über Speier an der Rückseite.
+    standard: {clear_height_m: 2.20, colour: RAL 7016 Feinstruktur, altitude_max_m: 800}
+    models:
+      - {code: CP-E,  de: "Einzelcarport 3.00 x 5.00 m", unit: Stk, price: 8900}
+      - {code: CP-EL, de: "Einzelcarport lang 3.00 x 6.00 m", unit: Stk, price: 9950}
+      - {code: CP-D,  de: "Doppelcarport 6.00 x 5.00 m", unit: Stk, price: 14800}
+    options:
+      - {code: CP-OPT-PC,  de: "Dach Polycarbonat statt Trapezblech", unit: "% Grundpreis", pct: 0.12}
+      - {code: CP-OPT-GDE, de: "Gründachvorbereitung Einzel", unit: Stk, price: 1450}
+      - {code: CP-OPT-GDD, de: "Gründachvorbereitung Doppel", unit: Stk, price: 2600}
+      - {code: CP-OPT-RF,  de: "Dachrinne mit Fallrohr", unit: Stk, price: 690}
+      - {code: CP-OPT-SW,  de: "Seitenwand Lattung Lärche", unit: Seite, price: 1280}
+      - {code: CP-OPT-GR,  de: "Geräteraum 1.50 m, angebaut", unit: Stk, price: 4200}
+      - {code: CP-OPT-FUE, de: "Fundamente durch Fronalp, Einzel", unit: Stk, price: 2400}
+      - {code: CP-OPT-FUD, de: "Fundamente durch Fronalp, Doppel", unit: Stk, price: 3600}
+    colour_surcharge: {standard: "RAL 7016 Feinstruktur", other_ral: 0.08, db_colours: 0.12, base: models}
+    assembly: {CP-E: 1650, CP-EL: 1750, CP-D: 2450}
+    adaptation_rules:
+      - "Überbreite: +2.5 % des Grundpreises je angefangene 10 cm, maximal +60 cm."
+      - "Durchfahrtshöhe 2.40 m statt 2.20 m: +6 % des Grundpreises."
+      - "Standort bis 800 m ü. M.: Standardausführung."
+      - "Standort 801 bis 1200 m ü. M.: Ausführung 'Verstärkt', +18 % des Grundpreises (inkl. Überbreite)."
+      - "Standort über 1200 m ü. M.: keine Katalogofferte, Abklärung Werkstatt (TRe)."
+      - "Berechnung der Zuschläge: alle Prozentzuschläge auf den Grundpreis des Modells; der Zuschlag Verstärkt zusätzlich auf den Zuschlag Überbreite; Zuschläge auf ganze Franken runden."
+      - "Für die Ausführungen Standard (bis 800 m) und Verstärkt (801 bis 1200 m) liegt eine Typenstatik inkl. Fundamente vor, bemessen für die Schneelast nach SIA 261 auf 800 m bzw. 1200 m Bezugshöhe; sie wird dem Baugesuch beigelegt und kann dem Kunden abgegeben werden."
+  vordach:
+    name: Fronalp Vordach
+    since: 2014
+    code_prefix: "97.300"
+    description: Vordach mit Stahlkonsolen und Verbundsicherheitsglas, Wandmontage.
+    standard: {glass: "VSG 2 x 6 mm", colour: RAL 7016 Feinstruktur, wall: Beton oder Mauerwerk}
+    models:
+      - {code: VD-160-100, de: "Vordach Glas 1.60 x 1.00 m", unit: Stk, price: 2450}
+      - {code: VD-200-100, de: "Vordach Glas 2.00 x 1.00 m", unit: Stk, price: 2780}
+      - {code: VD-240-100, de: "Vordach Glas 2.40 x 1.00 m", unit: Stk, price: 3150}
+      - {code: VD-160-120, de: "Vordach Glas 1.60 x 1.20 m", unit: Stk, price: 2740}
+      - {code: VD-200-120, de: "Vordach Glas 2.00 x 1.20 m", unit: Stk, price: 3110}
+      - {code: VD-240-120, de: "Vordach Glas 2.40 x 1.20 m", unit: Stk, price: 3530}
+    options:
+      - {code: VD-OPT-AL,  de: "Eindeckung Aluminiumblech statt Glas", unit: "% Grundpreis", pct: -0.08}
+      - {code: VD-OPT-RI,  de: "Integrierte Rinne mit Speier", unit: Stk, price: 390}
+      - {code: VD-OPT-LED, de: "LED-Leiste (Elektroanschluss bauseits)", unit: Stk, price: 520}
+      - {code: VD-OPT-KTG, de: "Thermisch getrennte Konsole für Aussenwärmedämmung", unit: Konsole, price: 165}
+      - {code: VD-OPT-HOL, de: "Befestigung an Holzfassade, Abklärung und Zusatzmaterial", unit: Pauschal, price: 240}
+    colour_surcharge: {standard: "RAL 7016 Feinstruktur", other_ral: 0.08, db_colours: 0.12, base: models}
+    assembly: {flat: 520}
+    adaptation_rules:
+      - "Konsolen: 2 Stück bis 2.00 m Breite, 3 Stück bei 2.40 m."
+      - "Aussenwärmedämmung: alle Konsolen thermisch getrennt (VD-OPT-KTG)."
+      - "Holzfassade: Pauschale VD-OPT-HOL und Abklärung Werkstatt (TRe)."
+      - "Sonderbreiten: keine Katalogofferte, Offerte als Projektgeschäft."

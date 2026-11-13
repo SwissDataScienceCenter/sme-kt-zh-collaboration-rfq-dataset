@@ -1,0 +1,196 @@
+# Story bible and ground truth for Case S2 (ADR 0006, case_quality.md §2). Q47 to Q50 confirmed by the maintainer 2026-11-11.
+id: S2
+title: Doppelcarport mit Überbreite, Ausführung Verstärkt, Sonnenhaldenweg 6, Oberiberg
+business_line: system_product
+offer_type: configuration_offer
+difficulty: medium               # four catalogue rules at once; altitude and width only clear from the documents
+dates:
+  first_contact: 2026-09-14      # Monday, phone call
+  offer: 2026-09-18              # Friday
+  valid_until: 2026-12-18
+
+customer:
+  ref: new                       # private couple, new customer (B2C)
+  name: Lukas und Sarah Schnüriger, Sonnenhaldenweg 6, 8843 Oberiberg
+  contact: Herr Lukas Schnüriger
+object:
+  address: Sonnenhaldenweg 6, 8843 Oberiberg (Vorplatz an der Strasse, Parzelle 1187)
+  description: Neuer Doppelcarport auf dem Kiesvorplatz vor dem Wohnhaus, für ein Auto und einen VW-Bus mit Dachbox.
+staff: {owner: DIn, involved: [TRe]}
+
+facts:
+  altitude: 1043                 # site plan (Höhenkote Vorplatz 1'043.2)
+  altitude_stated: 800           # customer mail, wrong (S2-F1)
+  width: 6.30                    # customer mail 16.09. (boundary distance)
+  width_first: 6.50              # first mail, outdated (S2-F2)
+  depth: 5.00
+  vehicle_height: 2.25           # VW-Bus mit Dachbox
+  colour: DB 703                 # like the garage door
+  side_walls: 1                  # west, larch
+  gutter: true
+  foundations_by_fronalp: true
+  zone: 2                        # Oberiberg
+derived:
+  width_extra_cm: "round((F.width - 6.00) * 100)"                       # 30
+  width_steps: "ceil(F.width_extra_cm / 10)"                            # 3
+  reinforced: "801 <= F.altitude <= 1200"
+  high_clearance: "F.vehicle_height > 2.20"
+checks:
+  - "F.width_extra_cm == 30 and F.width_extra_cm <= 60 and F.width_steps == 3"
+  - "F.reinforced and F.high_clearance"
+  - "qty('97.200.03') == 1 and qty('97.200.61') == 1 and qty('97.200.63') == 1"
+  - "qty('97.200.62') == 1 and qty('97.200.65') == 1 and qty('97.200.64') == 0"
+  - "qty('97.200.55') == F.side_walls and qty('97.200.54') == 1 and qty('97.200.58') == 1"
+  - "qty('97.200.83') == 1 and qty('10.170.02') == 1"
+
+timeline:
+  - "2026-09-14 09:40 Lukas Schnüriger ruft DIn an (Aktennotiz DIn): Doppelcarport vor dem Haus, Wunsch Montage vor dem Winter, DIn: wegen Bewilligung eher Frühjahr; Situationsplan verlangt; Lead L-2026-241 und Kontakt KC-21048."
+  - "2026-09-14 20:15 Schnüriger mailt: Breite 6.50 m, DB 703, Seitenwand Lärche West, Rinne, 'wir sind auf ca. 800 m', VW-Bus 2.25 m; Situationsplan PDF mit Höhenkote 1'043.2."
+  - "2026-09-16 18:30 Schnüriger: Nachbar besteht auf Grenzabstand, max. 6.30 m; Schwager (Bauingenieur) verlangt Schneelast nach SIA 261; Fundamente durch Fronalp."
+  - "2026-09-17 08:05 DIn bittet TRe, die Anpassungen zu prüfen (Verstärkt, Überbreite, 2.40 m)."
+  - "2026-09-17 13:10 TRe: alles mit Katalog machbar, Typenstatik deckt Breite und Höhe, Höhe ab Situationsplan, Fundamente Doppel; keine eigene Schneelastberechnung; Produktion erst nach Bewilligung, Montage eher Frühjahr."
+  - "2026-09-18 15:30 DIn sendet die Konfigurationsofferte OF-26-0228 als PDF; Montage realistisch Frühjahr 2027."
+systems_state:
+  - "CRM print of lead L-2026-241 with new contact KC-21048 (ERP debtor D-15119 created with the offer)."
+
+client_provisions:
+  - "Baugesuch inkl. Bauprofile durch die Bauherrschaft, Grenz- und Strassenabstände gemäss Baureglement; Typenplan und Typenstatik Ausführung Verstärkt liefern wir"
+  - "Anschluss Fallrohr an Sickerleitung oder Kanalisation"
+  - "Angaben zu Werkleitungen im Bereich der Fundamente"
+  - "Zufahrt für Lastwagen mit Ladekran, Vorplatz frei von Fahrzeugen am Montagetag"
+assumptions:
+  - "Standort 1'043 m ü. M. gemäss Situationsplan: Ausführung Verstärkt"
+  - "Breite 6.30 m (Überbreite 30 cm), Tiefe 5.00 m, Durchfahrtshöhe 2.40 m"
+  - "Vorplatz Kies, eben, 6 frostsichere Punktfundamente gemäss Typenstatik, erstellt ca. 2 Wochen vor der Montage"
+reservations:
+  - "Produktion erst nach rechtskräftiger Baubewilligung; Montage nur bei schneefreiem Platz"
+  - "Preise fest bei Bestellung bis 18.12.2026 und Montage bis 30.06.2027"
+  - "Dach nicht begehbar; keinen Schnee vom Hausdach oder von der Schneeräumung auf das Carportdach schieben"
+  - "Werkleitungen oder Fels im Fundamentbereich werden nach Aufwand verrechnet"
+
+offer:
+  number: OF-26-0228
+  file_name: OF-26-0228_Offerte_Carport_Schnueriger.pdf
+  recipient: ["Herr und Frau", "Lukas und Sarah Schnüriger", "Sonnenhaldenweg 6", "8843 Oberiberg"]
+  signatory: "Lukas und Sarah Schnüriger"
+  object_lines: ["Sonnenhaldenweg 6, 8843 Oberiberg", "Systemprodukte", "Doppelcarport Fronalp Carport, Ausführung Verstärkt"]
+  heading: ["Offerte Fronalp Carport Doppel", "Sonnenhaldenweg 6, 8843 Oberiberg"]
+  project_manager: DIn
+  payment_terms: "30 % bei Produktionsfreigabe nach rechtskräftiger Baubewilligung, 60 % nach Montage, 10 % nach Abnahme; je zahlbar innert 30 Tagen netto"   # b2c_above_20000 (Faustregel 2026), deposit moved to the production release because production waits for the permit
+  discount: 0.0
+  discount_src: "new private customer, standard 0 %"
+  skonto: false                  # instalments for private customers over CHF 20'000 (Faustregel 2026), no Skonto
+  description:
+    - "Fronalp Carport Doppel 6.30 x 5.00 m (Überbreite 30 cm), Ausführung Verstärkt für 801 bis 1200 m ü. M., Durchfahrtshöhe 2.40 m, Farbe DB 703, Dach Trapezblech."
+    - "Lieferfrist 6 bis 8 Wochen ab Auftragsbestätigung und rechtskräftiger Baubewilligung. Typenplan und Typenstatik (SIA 261, 1200 m Bezugshöhe) für das Baugesuch inbegriffen."
+  sections:
+    - title: Fronalp Carport
+      lines:
+        - {code: "97.200.03", qty: 1, src: "price list 2026: Doppelcarport 6.00 x 5.00 m"}
+    - title: Anpassungen
+      lines:
+        - {code: "97.200.61", qty: 1, unit_price: "rf(0.025 * F.width_steps * price('97.200.03'))", detail: ["30 cm: 3 x 2.5 % des Grundpreises"], src: "mail 16.09.: 6.30 m; price list rule Überbreite"}
+        - {code: "97.200.63", qty: 1, unit_price: "rf(0.18 * (price('97.200.03') + rf(0.025 * F.width_steps * price('97.200.03'))))", detail: ["Standort 1'043 m ü. M.: 18 % auf Grundpreis inkl. Überbreite"], src: "site plan 1'043.2 m; price list rule 801 to 1200 m"}
+        - {code: "97.200.62", qty: 1, unit_price: "rf(0.06 * price('97.200.03'))", detail: ["VW-Bus mit Dachbox 2.25 m: 6 % des Grundpreises"], src: "mail 14.09.: 2.25 m > 2.20 m"}
+        - {code: "97.200.65", qty: 1, unit_price: "rf(0.12 * price('97.200.03'))", detail: ["DB 703: 12 % des Grundpreises"], src: "mail 14.09.: DB 703 wie Garagentor; price list colour rule"}
+    - title: Optionen
+      lines:
+        - {code: "97.200.55", qty: 1, src: "mail 14.09.: Seitenwand Lärche Westseite"}
+        - {code: "97.200.54", qty: 1, src: "mail 14.09.: Dachrinne"}
+        - {code: "97.200.58", qty: 1, src: "mail 16.09.: Fundamente durch Fronalp"}
+    - title: Montage und Transport
+      lines:
+        - {code: "97.200.83", qty: 1, src: "price list 2026: Montage CP-D"}
+        - {code: "10.170.02", qty: 1, src: "transport zones: Oberiberg zone 2"}
+
+acceptable_alternatives:
+  - "Zuschläge als eine Position 'Anpassungen' mit Herleitung im Text"
+expected:                      # filled by build_case.py via pricing.py, never by hand
+  gross: 29678.0
+  discount: 0.0
+  skonto: 0.0
+  net: 29678.0
+  vat_rate: 0.081
+  vat: 2403.9
+  total: 32081.9
+  optional_sum: 0.0
+  needs_owner_approval: false
+  lines:
+  - pos: '1.01'
+    code: 97.200.03
+    qty: 1.0
+    unit: Stk
+    unit_price: 14800.0
+    total: 14800.0
+    optional: false
+  - pos: '2.01'
+    code: 97.200.61
+    qty: 1.0
+    unit: Pau
+    unit_price: 1110.0
+    total: 1110.0
+    optional: false
+  - pos: '2.02'
+    code: 97.200.63
+    qty: 1.0
+    unit: Pau
+    unit_price: 2864.0
+    total: 2864.0
+    optional: false
+  - pos: '2.03'
+    code: 97.200.62
+    qty: 1.0
+    unit: Pau
+    unit_price: 888.0
+    total: 888.0
+    optional: false
+  - pos: '2.04'
+    code: 97.200.65
+    qty: 1.0
+    unit: Pau
+    unit_price: 1776.0
+    total: 1776.0
+    optional: false
+  - pos: '3.01'
+    code: 97.200.55
+    qty: 1.0
+    unit: Seite
+    unit_price: 1280.0
+    total: 1280.0
+    optional: false
+  - pos: '3.02'
+    code: 97.200.54
+    qty: 1.0
+    unit: Stk
+    unit_price: 690.0
+    total: 690.0
+    optional: false
+  - pos: '3.03'
+    code: 97.200.58
+    qty: 1.0
+    unit: Stk
+    unit_price: 3600.0
+    total: 3600.0
+    optional: false
+  - pos: '4.01'
+    code: 97.200.83
+    qty: 1.0
+    unit: Pau
+    unit_price: 2450.0
+    total: 2450.0
+    optional: false
+  - pos: '4.02'
+    code: 10.170.02
+    qty: 1.0
+    unit: Pau
+    unit_price: 220.0
+    total: 220.0
+    optional: false
+
+past_projects:
+  - {nr: P-24-083, why: "Einzelcarport Ausführung Verstärkt, Unteriberg 2024 (Herr Beat Heinzer), Preisliste 2024, Zuschlag Verstärkt als eigene Position, Typenstatik im Baugesuch"}
+
+flaws:
+  - {id: S2-F1, type: contradiction, where: "request mail 14.09. vs site plan", description: "Customer says ca. 800 m (standard version), site plan shows 1'043.2 m (reinforced version)", marker: "ca. 800 m"}
+  - {id: S2-F2, type: outdated_value, where: "request mail 14.09. vs mail 16.09.", description: "Width 6.50 m is outdated, valid 6.30 m (boundary distance)", marker: "6.50 m"}
+  - {id: S2-F3, type: norm_trap, where: "request mail 16.09.", description: "Snow load calculation to SIA 261 requested; correct is the catalogue rule with type structural calculation, norm only named (ADR 0004)", marker: "SIA 261"}

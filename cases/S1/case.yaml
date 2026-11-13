@@ -1,0 +1,201 @@
+# Story bible and ground truth for Case S1 (ADR 0006, case_quality.md §2). Confirmed by the maintainer 2026-11-02.
+id: S1
+title: Velounterstand Wohngenossenschaft Rossberg, Goldau
+business_line: system_product
+offer_type: configuration_offer
+difficulty: easy                 # clean baseline: complete web form, no deliberate Case flaws
+dates:
+  form_submitted: 2026-05-05     # Tuesday 20:47
+  lead_created: 2026-05-06
+  offer: 2026-05-08              # Friday, within the 3 working days of the operations manual
+  valid_until: 2026-08-08
+
+customer:
+  ref: D-10157 / KC-20035        # existing customer, ERP discount 2 %
+  name: Wohngenossenschaft Rossberg, Lindenstrasse 40, 6410 Goldau
+  contact: Herr Christian Bucher, Ressort Bau im Vorstand
+object:
+  address: Rossbergstrasse 14, 6410 Goldau (Siedlung Rossberg, between Haus A and Haus B)
+  description: Neuer Velounterstand für 20 Velos auf bestehendem Asphaltplatz entlang des Zauns, eben, Standort ca. 510 m ü. M.
+staff: {owner: DIn, involved: [EFoe]}
+
+facts:
+  bikes: 20
+  bikes_per_module: 5            # catalogue
+  module_length: 2.50            # catalogue
+  available_length: 11.0         # from the customer's sketch
+  back_wall: Lochblech           # all modules
+  side_walls: 1                  # west side (weather side)
+  led: true                      # power in the basement of Haus B, about 8 m; Leerrohr in foundation, connection by the customer's electrician
+  gutter: false                  # not requested; roof water runs off freely
+  foundations_by_fronalp: true
+  ground: Asphalt, eben          # no column extension
+  colour: RAL 7016 Feinstruktur  # standard, no surcharge
+  bike_racks_per_module: 1       # Veloständer Hoch/Tief, 5 places each
+  zone: 1                        # Goldau, price list transport zones
+  altitude_m: 510                # carport rule not relevant for bike shelters
+derived:
+  modules: "ceil(F.bikes / F.bikes_per_module)"
+checks:
+  - "F.modules == ceil(F.bikes / F.bikes_per_module) == 4"
+  - "F.modules * F.module_length <= F.available_length"
+  - "qty('97.100.01') == 1 and qty('97.100.02') == F.modules - 1"
+  - "qty('97.100.53') == F.modules == qty('97.100.58')"
+  - "qty('97.100.55') == F.side_walls"
+  - "opt('97.100.55') == 2 - F.side_walls"
+  - "qty('97.100.56') == F.modules * F.bike_racks_per_module"
+  - "qty('97.100.59') == 0"
+  - "qty('97.100.57') == 1"
+  - "qty('97.100.81') == 1 and qty('97.100.82') == F.modules - 1"
+  - "qty('10.170.01') == 1 and qty('10.170.02') == 0"
+
+timeline:
+  - "2026-05-05 20:47 Herr Bucher fills in the web form 'Anfrage Systemprodukte' with all fields and uploads a photo of a hand sketch of the site."
+  - "2026-05-05 20:47 The website sends the notification mail with the form fields, the JSON export and the sketch to offerten@."
+  - "2026-05-06 07:40 Erika Föhn creates lead L-2026-152 for the existing contact KC-20035 and forwards the mail to Daniel Inderbitzin."
+  - "2026-05-07 DIn checks the site on the sketch and in the CRM history (lost roof offer 2023), configures in MetaBau with the 2026 price list, keeps the ERP discount of 2 % as the answer to the discount question."
+  - "2026-05-08 15:20 DIn sends the Configuration offer OF-26-0116 as PDF to Herr Bucher."
+systems_state:                   # what the estimator sees (Case folder, not the 2026-04-30 exports)
+  - "CRM print of lead L-2026-152 with contact KC-20035 and the history line of the lost offer OF-23-0010."
+  - "ERP debtor D-10157: RABATT_PROZ 2.0, SKONTO_SPERRE N (already in the company export)."
+
+client_provisions:
+  - Baubewilligung (Baugesuch eingereicht am 28.04.2026)
+  - Elektroanschluss der Beleuchtung durch den Elektriker der Genossenschaft; Leerrohr bis zum Fundament vor Beginn der Fundamentarbeiten
+  - Angaben zu Werkleitungen im Bereich der Fundamente
+  - Zufahrt für Lastwagen mit Ladekran bis zum Standort
+assumptions:
+  - "Untergrund Asphalt, eben, ohne Hindernisse im Fundamentbereich"
+  - "Länge 4 Module à 2.50 m = 10.00 m, verfügbar gemäss Skizze 11 m"
+  - "Ohne Dachrinne, das Dachwasser läuft frei auf den Asphaltplatz ab"
+reservations:
+  - Werkleitungen oder Hindernisse im Fundamentbereich werden nach Aufwand verrechnet.
+  - Ausführung nach Vorliegen der rechtskräftigen Baubewilligung.
+
+offer:
+  number: OF-26-0116
+  file_name: OF-26-0116_Offerte_Velounterstand_Rossberg.pdf
+  recipient: ["Wohngenossenschaft Rossberg", "Herr Christian Bucher", "Lindenstrasse 40", "6410 Goldau"]
+  object_lines: ["Rossbergstrasse 14, 6410 Goldau", "Systemprodukte", "Velounterstand Fronalp Velo, 20 Velos"]
+  heading: ["Offerte Velounterstand Fronalp Velo", "Siedlung Rossberg, Rossbergstrasse 14, 6410 Goldau"]
+  project_manager: DIn
+  payment_terms: b2b_default
+  discount: 0.02
+  discount_src: "ERP debtor D-10157 RABATT_PROZ 2.0; customer asks for a cooperative discount, Faustregeln: Genossenschaften 2 % (no extra)"
+  skonto: true
+  description:
+    - "Fronalp Velo, 4 Module à 2.50 m (1 Startmodul, 3 Anbaumodule), Tiefe 2.00 m, lichte Höhe 2.20 m, Dach Trapezblech, Farbe RAL 7016 Feinstruktur."
+    - "Lieferfrist 6 bis 8 Wochen ab Auftragsbestätigung und Farbwahl, Betriebsferien KW 29 bis 31 beachten."
+  sections:
+    - title: Fronalp Velo
+      lines:
+        - {code: "97.100.01", qty: 1, src: "price list 2026; form: 20 Velos -> 4 Module"}
+        - {code: "97.100.02", qty: 3, src: "price list 2026; 4 Module = 1 Start + 3 Anbau"}
+    - title: Optionen
+      lines:
+        - {code: "97.100.53", qty: 4, src: "form: Rückwand Lochblech"}
+        - {code: "97.100.55", qty: 1, src: "form: 1 Seitenwand Westseite"}
+        - {code: "97.100.55", qty: 1, optional: true, detail: ["Seitenwand Ostseite"], src: "Faustregeln: bei 1 Seitenwand die 2. als Option offerieren"}
+        - {code: "97.100.56", qty: 4, src: "form: Veloständer ja; catalogue rule 1 pro Modul"}
+        - {code: "97.100.57", qty: 1, src: "form: Beleuchtung ja"}
+        - {code: "97.100.58", qty: 4, src: "form: Fundamente durch Fronalp; 1 pro Modul"}
+    - title: Montage und Transport
+      lines:
+        - {code: "97.100.81", qty: 1, src: "price list 2026: Montage erstes Modul"}
+        - {code: "97.100.82", qty: 3, src: "price list 2026: jedes weitere Modul"}
+        - {code: "10.170.01", qty: 1, src: "price list 2026 transport zones: Goldau zone 1"}
+
+acceptable_alternatives: []
+expected:                      # filled by build_case.py via pricing.py, never by hand
+  gross: 29370.0
+  discount: 587.4
+  skonto: 587.4
+  net: 28195.2
+  vat_rate: 0.081
+  vat: 2283.8
+  total: 30479.0
+  optional_sum: 540.0
+  needs_owner_approval: false
+  lines:
+  - pos: '1.01'
+    code: 97.100.01
+    qty: 1.0
+    unit: Stk
+    unit_price: 4350.0
+    total: 4350.0
+    optional: false
+  - pos: '1.02'
+    code: 97.100.02
+    qty: 3.0
+    unit: Stk
+    unit_price: 3450.0
+    total: 10350.0
+    optional: false
+  - pos: '2.01'
+    code: 97.100.53
+    qty: 4.0
+    unit: Modul
+    unit_price: 690.0
+    total: 2760.0
+    optional: false
+  - pos: '2.02'
+    code: 97.100.55
+    qty: 1.0
+    unit: Stk
+    unit_price: 540.0
+    total: 540.0
+    optional: false
+  - pos: '2.03'
+    code: 97.100.55
+    qty: 1.0
+    unit: Stk
+    unit_price: 540.0
+    total: 540.0
+    optional: true
+  - pos: '2.04'
+    code: 97.100.56
+    qty: 4.0
+    unit: Modul
+    unit_price: 690.0
+    total: 2760.0
+    optional: false
+  - pos: '2.05'
+    code: 97.100.57
+    qty: 1.0
+    unit: Anlage
+    unit_price: 1180.0
+    total: 1180.0
+    optional: false
+  - pos: '2.06'
+    code: 97.100.58
+    qty: 4.0
+    unit: Modul
+    unit_price: 1150.0
+    total: 4600.0
+    optional: false
+  - pos: '3.01'
+    code: 97.100.81
+    qty: 1.0
+    unit: Pau
+    unit_price: 1150.0
+    total: 1150.0
+    optional: false
+  - pos: '3.02'
+    code: 97.100.82
+    qty: 3.0
+    unit: Pau
+    unit_price: 520.0
+    total: 1560.0
+    optional: false
+  - pos: '3.03'
+    code: 10.170.01
+    qty: 1.0
+    unit: Pau
+    unit_price: 120.0
+    total: 120.0
+    optional: false
+
+past_projects:
+  - {nr: P-25-075, why: "Bike shelter for Genossenschaft Sonnmatt Einsiedeln 2025: 6 modules, polycarbonate roof, no lighting, foundations by the customer, 2025 prices, zone 2"}
+
+flaws: []                        # baseline Case; only Company world known issues apply

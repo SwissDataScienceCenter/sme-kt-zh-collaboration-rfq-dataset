@@ -1,0 +1,35 @@
+# Past project for Case S1 (ADR 0005). Frozen once rendered.
+nr: P-25-075
+for_case: S1
+folder: P-25-075 Velounterstand Einsiedeln
+line: Systemprodukte
+erp_object: Velounterstand Einsiedeln
+ausmass: false
+customer: D-10164          # Genossenschaft Sonnmatt Einsiedeln (base customer, ERP discount 2 %)
+object_lines: ["{addr}", "Systemprodukte", "Velounterstand Fronalp Velo, 30 Velos"]
+offer:
+  number: OF-25-0166
+  date: 2025-06-10
+  layout: "2024"
+  type: Konfigurationsofferte
+  project_manager: DIn
+  payment: b2b_default
+  discount: 0.02
+  skonto: true
+  heading: ["Offerte Velounterstand Fronalp Velo", "{addr}"]
+  client_provisions: ["Fundamente durch Bauherrschaft nach Fundamentplan Fronalp", "Baubewilligung", "Zufahrt für Lastwagen mit Ladekran"]
+  description: ["Fronalp Velo, 6 Module à 2.50 m (1 Startmodul, 5 Anbaumodule), Dach Polycarbonat, Farbe RAL 7016 Feinstruktur.", "Lieferfrist 6 bis 8 Wochen ab Auftragsbestätigung und Farbwahl."]
+  sections:
+    - title: Fronalp Velo
+      lines: [{code: "97.100.01", qty: 1}, {code: "97.100.02", qty: 5}]
+    - title: Optionen
+      lines: [{code: "97.100.51", qty: 6}]
+    - title: Montage und Transport
+      lines: [{code: "97.100.81", qty: 1}, {code: "97.100.82", qty: 5}, {code: "10.170.02", qty: 1}]
+measured:
+  period: "18.08.2025 bis 19.08.2025"
+  invoice_number: RE-25-0398
+  invoice_date: 2025-08-29
+  qty: {}
+  extra: []
+summary: null

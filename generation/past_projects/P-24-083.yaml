@@ -1,0 +1,39 @@
+# Past project for Case S2 (ADR 0005). Frozen once rendered. Number fixed by the date order gate (DL-186, DL-190).
+nr: P-24-083
+for_case: S2
+folder: P-24-083 Carport Einzel Unteriberg
+line: Systemprodukte
+erp_object: Carport Einzel Unteriberg
+ausmass: false
+customer: D-12726          # Herr Beat Heinzer, Bachstrasse 56, Unteriberg (private base customer without other history)
+object_lines: ["{addr}", "Systemprodukte", "Einzelcarport Fronalp Carport, Ausführung Verstärkt"]
+offer:
+  number: OF-24-0209
+  date: 2024-08-20
+  layout: "2024"
+  type: Konfigurationsofferte
+  project_manager: DIn
+  payment: b2c
+  discount: 0.0
+  skonto: true
+  heading: ["Offerte Fronalp Carport Einzel", "{addr}"]
+  client_provisions: ["Baugesuch durch die Bauherrschaft; Typenplan und Typenstatik Ausführung Verstärkt liefern wir", "Zufahrt für Lastwagen mit Ladekran"]
+  description:
+    - "Fronalp Carport Einzel 3.00 x 5.00 m, Ausführung Verstärkt für Standorte 801 bis 1200 m ü. M. (Standort ca. 930 m ü. M.), Farbe RAL 7016 Feinstruktur, Dach Trapezblech."
+    - "Lieferfrist 6 bis 8 Wochen ab Auftragsbestätigung. Typenplan und Typenstatik für das Baugesuch inbegriffen."
+  sections:
+    - title: Fronalp Carport
+      lines:
+        - {code: "97.200.01", qty: 1}
+        - {text: "Zuschlag Ausführung Verstärkt, Standort 801 bis 1200 m ü. M. (18 % des Grundpreises)", qty: 1, unit: Pau, unit_price: "rf(0.18 * price('97.200.01'))"}
+    - title: Optionen
+      lines: [{code: "97.200.57", qty: 1}]
+    - title: Montage und Transport
+      lines: [{code: "97.200.81", qty: 1}, {code: "10.170.02", qty: 1}]
+measured:
+  period: "14.10.2024 bis 22.10.2024"
+  invoice_number: RE-24-0471
+  invoice_date: 2024-10-31
+  qty: {}
+  extra: []
+summary: null

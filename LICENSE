@@ -1,0 +1,27 @@
+This repository is dual-licensed.
+
+Dataset and documentation
+  Everything except the code listed below, i.e. cases/, company-world/,
+  docs/, generation/ source data (YAML, CSV) and the Markdown files, is
+  licensed under the Creative Commons Attribution 4.0 International
+  License (CC BY 4.0). Full text: LICENSE-DATA
+  https://creativecommons.org/licenses/by/4.0/
+
+Code
+  The scripts in generation/scripts/ are licensed under the MIT License.
+  Full text: LICENSE-CODE
+
+Exception
+  The excerpts of Swiss federal law in company-world/regulations/ and the
+  official PDFs in generation/sources/law/ are not protected by copyright
+  (Art. 5 URG, SR 231.1) and are not covered by either license.
+
+Copyright (c) 2026 Swiss Data Science Center (SDSC)
+
+Created by the Swiss Data Science Center (SDSC) for the KMU KI Programm
+of the Canton of Zurich (Kanton Zürich).
+
+Suggested attribution:
+  "RFQ Datensatz: Von der Anfrage zur Offerte", Swiss Data Science Center
+  (SDSC) for the KMU KI Programm of the Canton of Zurich, CC BY 4.0,
+  https://github.com/SwissDataScienceCenter/sme-kt-zh-collaboration-rfq-dataset

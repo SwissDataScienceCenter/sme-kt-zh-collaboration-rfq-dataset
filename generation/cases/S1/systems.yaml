@@ -1,0 +1,6 @@
+# CRM and ERP rows added by Case S1 (existing customer D-10157 / KC-20035, no new contacts).
+customers: []
+offers:
+  - {nr: OF-26-0116, date: "2026-05-08", cust: D-10157, obj: "Velounterstand Goldau", line: Systemprodukte, type: Konfigurationsofferte, status: O, pl: DIn, proj: ""}
+leads:
+  - [L-2026-152, KC-20035, "Velounterstand Siedlung Rossberg Goldau", Systemprodukte, offeriert, 26000, DIn, "2026-05-06", "Webformular, bekannter Kontakt, OF raus 08.05."]

@@ -1,0 +1,155 @@
+# Single source of truth for the organisation of the Company world.
+# Generation facing (English keys). Rendered documents are Swiss German.
+# Phone block 041 000 xx xx is unassigned on purpose; UID has an invalid check digit on purpose.
+
+company:
+  name: Fronalp Metall & Gebäudehülle AG
+  short: Fronalp
+  street: Werkhofstrasse 12
+  zip: "6438"
+  city: Ibach
+  canton: SZ
+  phone_main: "+41 41 000 12 00"
+  phone_picket: "+41 41 000 12 99"
+  email_offers: offerten@fronalp-mgh.ch
+  email_general: info@fronalp-mgh.ch
+  web: www.fronalp-mgh.ch
+  email_pattern: "{first}.{last}@fronalp-mgh.ch"   # lowercase, umlauts as ae/oe/ue
+  uid: CHE-417.293.865
+  vat_suffix: MWST
+  bank: Schwyzer Kantonalbank (fictional IBAN generated per document)
+  founded: 1962
+  legal_form_since: 1988
+  employees_approx: 35
+  slogan: "Metall und Hülle aus einer Hand."
+
+history:
+  - year: 1962
+    event: Alois Schuler opens the "Schlosserei A. Schuler" in Ibach (gates, railings, agricultural repairs).
+  - year: 1979
+    event: Move to the current site at Werkhofstrasse; first welding hall.
+  - year: 1987
+    event: Markus Schuler (son) takes over the sheet metal shop "Spenglerei Betschart" in Seewen; roofing and sheet metal added.
+  - year: 1988
+    event: Founding of Fronalp Metall & Gebäudehülle AG, named after the Fronalpstock visible from the workshop.
+  - year: 1998
+    event: Flat roof and terrace waterproofing added; first project managers hired.
+  - year: 2005
+    event: First System product, the bike shelter line "Fronalp Velo".
+  - year: 2009
+    event: New assembly hall; carport line "Fronalp Carport".
+  - year: 2014
+    event: Canopy line "Fronalp Vordach".
+  - year: 2015
+    event: Claudia Schuler (granddaughter, civil engineer FH) founds the Advisory unit "Fronalp Beratung".
+  - year: 2019
+    event: Claudia Schuler becomes managing director; Markus Schuler stays chairman of the board.
+  - year: 2021
+    event: Switch from the old DOS-era costing software "KALKO 4" to the ERP "MetaBau" (fictional). Article and customer numbers renumbered; old numbers kept only in a free text field.
+  - year: 2022
+    event: CRM "KundenCockpit" (fictional) introduced by Leandro Marty; customers imported from MetaBau, duplicates never fully cleaned.
+  - year: 2024
+    event: MetaBau offer print layout revised (Unit price offers, Tender responses, Configuration offers, Cost estimates); Advisory and Lump sum offers still written in Word.
+
+systems:
+  erp:
+    name: MetaBau
+    since: 2021
+    holds: [item master, customers (debtors), projects, offers, invoices, booked hours]
+    id_formats:
+      customer: "D-#####"          # debtor number, new since 2021
+      customer_legacy: "K####"     # KALKO 4 number, only in free text field "Alt-Nr."
+      project: "P-YY-###"
+      offer: "OF-YY-####"
+      item: "GG.###.##"            # group.number.variant
+  crm:
+    name: KundenCockpit
+    since: 2022
+    holds: [contacts, companies, leads, activities, notes]
+    id_formats:
+      contact: "KC-#####"
+      lead: "L-YYYY-###"
+    known_issues:
+      - Duplicate companies from the 2022 import (spelling variants, "AG" vs "A.G.").
+      - Not all leads linked to an ERP debtor number.
+      - Activity notes written in mixed German and English abbreviations.
+    erp_known_issues:
+      - Personnel entry dates migrated from KALKO 4 keep ISO format (YYYY-MM-DD) for entries before 2000; newer entries use DD.MM.YYYY.
+      - Former employees stay in the personnel export with AKTIV = N.
+  other:
+    - Shared mailbox offerten@ (all RFQs land here; Erika Föhn sorts them).
+    - File server: P:\\Projekte\\<Jahr>\\<Projektnr> <Objekt>\\ with subfolders 01_Anfrage, 02_Kalkulation, 03_Offerte, 04_Ausführung, 05_Abrechnung.
+    - Excel costing sheets per business line; the estimator's private "Faustregeln.xlsx".
+    - Phone and site notes as Word files or photos of handwritten notes.
+
+business_lines:
+  advisory:
+    de: Beratung
+    lead: CSc
+    staff: [CSc, NSu, SKae]
+  custom_build:
+    de: Projektgeschäft (Dach, Spenglerei, Metallbau, Fassade)
+    lead: RBe
+    staff: [RBe, SKae, DIn, BUl]
+  system_product:
+    de: Systemprodukte (Velo, Carport, Vordach)
+    lead: DIn
+    staff: [DIn, TRe]
+
+# initials: first letter of first name + first two letters of last name (umlaut kept in documents)
+# rate_category refers to the rate table (company-world/operations).
+staff:
+  - {id: 1001, ini: CSc, first: Claudia, last: Schuler, role: Geschäftsführerin, unit: Geschäftsleitung, since: 2010, fte: 100, rate_category: advisory_owner,
+     traits: [approves Offers by phone and rarely in writing, signs all Advisory Offers, writes long precise emails, holds the final say on discounts]}
+  - {id: 1000, ini: MSc, first: Markus, last: Schuler, role: Präsident des Verwaltungsrats, unit: Verwaltungsrat, since: 1984, fte: 0, rate_category: none, board_only: true,
+     traits: [no longer employed but drops in weekly, forwards old cases with "wie damals bei ...", source of undocumented rules of thumb]}
+  - {id: 1012, ini: RBe, first: Reto, last: Betschart, role: Projektleiter Dach und Spenglerei, unit: Projektgeschäft, since: 1998, fte: 100, rate_category: project_manager,
+     traits: [very short emails often from his phone, no greeting, own abbreviations, reuses old offers as starting point]}
+  - {id: 1041, ini: SKae, display_ini: SKä, first: Sandra, last: Kälin, role: Projektleiterin Metallbau, unit: Projektgeschäft, since: 2012, fte: 90, rate_category: project_manager,
+     traits: [structured, uses the CRM properly, asks many clarification questions, also supports Advisory on railings]}
+  - {id: 1057, ini: DIn, first: Daniel, last: Inderbitzin, role: Projektleiter Systemprodukte und Fassaden, unit: Systemprodukte, since: 2017, fte: 100, rate_category: project_manager,
+     traits: [handles the web form, copies catalogue text into Offers, occasionally uses an outdated price list]}
+  - {id: 1008, ini: BUl, first: Bruno, last: Ulrich, role: Kalkulator, unit: Projektgeschäft, since: 1985, fte: 80, rate_category: none, retiring: 2027,
+     traits: [keeps rules of thumb in his private Faustregeln.xlsx, knows every past project by heart, retires in 2027 so knowledge transfer is an open issue]}
+  - {id: 1023, ini: EFoe, display_ini: EFö, first: Erika, last: Föhn, role: Leiterin Administration, unit: Administration, since: 2003, fte: 80, rate_category: none,
+     traits: [sorts the shared mailbox, registers RFQs in the CRM, sometimes creates duplicate customers]}
+  - {id: 1078, ini: LMa, first: Leandro, last: Marty, role: Kaufmännischer Angestellter, unit: Administration, since: 2021, fte: 100, rate_category: none,
+     traits: [introduced the CRM, writes activity notes with English abbreviations, prepares ERP exports]}
+  - {id: 1062, ini: NSu, first: Nadine, last: Suter, role: Technikerin Gebäudehülle HF, unit: Beratung, since: 2016, fte: 80, rate_category: advisory_technician,
+     traits: [writes condition reports with many photos, does site visits for Advisory and Custom build]}
+  - {id: 1015, ini: TRe, first: Toni, last: Reichmuth, role: Werkstattchef, unit: Werkstatt, since: 1993, fte: 100, rate_category: workshop,
+     traits: [checks adaptations of System products, writes notes by hand and sends photos of them]}
+  # workshop (metal construction)
+  - {id: 1031, ini: PGw, first: Patrick, last: Gwerder, role: Metallbauer EFZ, unit: Werkstatt, since: 2006, fte: 100, rate_category: workshop}
+  - {id: 1066, ini: SBue, display_ini: SBü, first: Stefan, last: Bürgler, role: Metallbauer EFZ, unit: Werkstatt, since: 2018, fte: 100, rate_category: workshop}
+  - {id: 1052, ini: AKr, first: Arben, last: Krasniqi, role: Metallbauer EFZ, unit: Werkstatt, since: 2014, fte: 100, rate_category: workshop}
+  - {id: 1071, ini: MLu, first: Marco, last: Lüönd, role: Metallbaupraktiker EBA, unit: Werkstatt, since: 2020, fte: 100, rate_category: workshop}
+  - {id: 1048, ini: RHe, first: Roman, last: Heinzer, role: Metallbaukonstrukteur EFZ, unit: Werkstatt, since: 2013, fte: 100, rate_category: workshop}
+  - {id: 1083, ini: JFe, first: João, last: Ferreira, role: Schweisser, unit: Werkstatt, since: 2022, fte: 100, rate_category: workshop}
+  # site assembly roof, sheet metal, metal construction
+  - {id: 1019, ini: HIm, first: Hans, last: Imhof, role: Vorarbeiter Dach und Spenglerei, unit: Montage, since: 1995, fte: 100, rate_category: fitter_a}
+  - {id: 1036, ini: UEh, first: Urs, last: Ehrler, role: Vorarbeiter Metallbau, unit: Montage, since: 2008, fte: 100, rate_category: fitter_a}
+  - {id: 1029, ini: KAn, first: Kurt, last: Annen, role: Spengler EFZ, unit: Montage, since: 2004, fte: 100, rate_category: fitter_a}
+  - {id: 1044, ini: TCa, first: Thomas, last: Camenzind, role: Spengler EFZ, unit: Montage, since: 2011, fte: 100, rate_category: fitter_a}
+  - {id: 1050, ini: LBe, first: Luan, last: Berisha, role: Abdichter EFZ, unit: Montage, since: 2014, fte: 100, rate_category: fitter_a}
+  - {id: 1059, ini: MFa, first: Martin, last: Fässler, role: Dachdecker EFZ, unit: Montage, since: 2016, fte: 100, rate_category: fitter_a}
+  - {id: 1064, ini: DHo, first: David, last: Holdener, role: Metallbauer EFZ (Montage), unit: Montage, since: 2017, fte: 100, rate_category: fitter_a}
+  - {id: 1069, ini: ARo, first: Alessandro, last: Rossi, role: Spengler EFZ, unit: Montage, since: 2019, fte: 100, rate_category: fitter_a}
+  - {id: 1074, ini: SSc, first: Simon, last: Schelbert, role: Metallbauer EFZ (Montage), unit: Montage, since: 2020, fte: 100, rate_category: fitter_a}
+  - {id: 1080, ini: BSc, first: Beat, last: Schmidig, role: Abdichter EFZ, unit: Montage, since: 2021, fte: 100, rate_category: fitter_a}
+  - {id: 1054, ini: RSi, first: Rui, last: Silva, role: Monteur, unit: Montage, since: 2015, fte: 100, rate_category: fitter_b}
+  - {id: 1067, ini: FMe, first: Fabian, last: Mettler, role: Monteur, unit: Montage, since: 2019, fte: 100, rate_category: fitter_b}
+  - {id: 1076, ini: VSh, first: Valon, last: Shala, role: Monteur, unit: Montage, since: 2020, fte: 100, rate_category: fitter_b}
+  - {id: 1085, ini: NKu, first: Nico, last: Kündig, role: Monteur, unit: Montage, since: 2023, fte: 100, rate_category: fitter_b}
+  - {id: 1087, ini: PBi, first: Pirmin, last: Bisig, role: Monteur, unit: Montage, since: 2024, fte: 100, rate_category: fitter_b}
+  - {id: 1089, ini: GSt, first: Gabriel, last: Steiner, role: Monteur, unit: Montage, since: 2025, fte: 80, rate_category: fitter_b}
+  # apprentices
+  - {id: 1091, ini: LAu, first: Lena, last: Auf der Maur, role: Lernende Metallbauerin EFZ (2. Lehrjahr), unit: Werkstatt, since: 2024, fte: 100, rate_category: apprentice}
+  - {id: 1092, ini: JZg, first: Jonas, last: Zgraggen, role: Lernender Spengler EFZ (1. Lehrjahr), unit: Montage, since: 2025, fte: 100, rate_category: apprentice}
+  - {id: 1093, ini: EKa, first: Elias, last: Kälin, role: Lernender Metallbauer EFZ (1. Lehrjahr), unit: Werkstatt, since: 2025, fte: 100, rate_category: apprentice}
+  - {id: 1094, ini: MGw, first: Mia, last: Gwerder, role: Lernende Kauffrau EFZ (1. Lehrjahr), unit: Administration, since: 2025, fte: 100, rate_category: none}
+  # logistics
+  - {id: 1046, ini: WMe, first: Werner, last: Mettler, role: Magaziner und Chauffeur, unit: Werkstatt, since: 2012, fte: 100, rate_category: none}
+  # former employee still in the HR export (realistic artefact)
+  - {id: 1033, ini: PKo, first: Peter, last: Kollmann, role: Projektleiter Fassaden, unit: Projektgeschäft, since: 2007, until: 2023-06-30, fte: 0, rate_category: project_manager,
+     traits: [left in 2023, still appears as contact person in old offers and some CRM leads]}

@@ -1,0 +1,99 @@
+# Past project for Case A1 (ADR 0005, ADR 0007). Frozen once rendered.
+nr: P-25-102
+for_case: A1
+folder: P-25-102 Zustandsaufnahme und Varianten Flachdach Brunnen
+line: Beratung
+ausmass: false
+customer: D-10101          # Arnold & Gisler Immobilien AG, Brunnen (base customer), for the STWEG
+erp_object: Zustandsaufnahme Flachdach Brunnen
+object_lines: ["Mehrfamilienhaus Wylenstrasse 12, 6440 Brunnen", "Beratung", "Zustandsaufnahme und Sanierungsvarianten Flachdach"]
+offer:
+  number: OF-25-0241
+  date: 2025-09-16
+  layout: word_fee
+  type: Honorarofferte
+  project_manager: NSu
+  signed_by: CSc
+  subject: "STWEG Wylenstrasse 12, Brunnen, Zustandsaufnahme und Sanierungsvarianten Flachdach"
+  payment_terms: "30 Tage netto"
+  discount: 0.0
+  skonto: false
+  norms_named: ["SIA 271", "SIA 180", "Suva"]
+  sections:
+    - title: "1 Grundlagen und Bestandesaufnahme"
+      lines:
+        - {code: "99.100.08", qty: 2, text: "Unterlagen sichten, Begehung vorbereiten"}
+        - {code: "99.100.08", qty: 4, text: "Aufnahme Dach vor Ort, Probenahme Schadstoffe"}
+        - {code: "99.100.01", qty: 4, text: "Zweite Person für Anseilschutz und Mithilfe"}
+        - {code: "99.100.08", qty: 2, text: "Begleitung Sondierungen, Feuchtemessung"}
+        - {code: "98.100.05", qty: 2}
+        - {code: "98.100.04", qty: 1}
+    - title: "2 Analyse und Zustandsbericht"
+      lines:
+        - {code: "99.100.08", qty: 8, text: "Auswertung, Zustandsbericht mit Fotodokumentation"}
+        - {code: "99.100.06", qty: 2, text: "Durchsicht Bericht"}
+    - title: "3 Varianten und Kostenschätzung"
+      lines:
+        - {code: "99.100.08", qty: 8, text: "Variante A Reparatur, Variante B Gesamtsanierung mit Wärmedämmung"}
+        - {code: "99.100.07", qty: 6, text: "Kostenschätzung je Variante"}
+        - {code: "99.100.08", qty: 2, text: "Besprechung Ergebnisse mit Verwaltung"}
+        - {code: "99.100.06", qty: 2, text: "Besprechung Ergebnisse mit Verwaltung"}
+    - title: "Spesen"
+      lines:
+        - {code: "98.120.01", qty: 42, text: "3 Fahrten Ibach Brunnen und zurück, je 14 km"}
+  exclusions:
+    - "Thermografie"
+    - "Phase 4 Begleitung Ausschreibung und Ausführung (auf Wunsch separat)"
+    - "Statische Abklärungen durch Ingenieurbüro"
+    - "Schadstoffsanierung und Entsorgung belasteter Materialien"
+    - "Ausführung der Bauarbeiten"
+  assumptions:
+    - "Dachfläche 380 m2 gemäss Plänen 1979 (19.0 x 20.0 m)"
+    - "Zugang über Dachausstieg im Treppenhaus, Aufnahme mit Anseilschutz, immer zu zweit"
+    - "Sondierungen erst nach Vorliegen der Schadstoffanalyse"
+  client_provisions:
+    - "Laborkosten der Schadstoffanalyse (Asbest, PCB, PAK) von Dachpappe und Kitt; Fronalp nimmt die Proben und beauftragt das Labor, Weiterverrechnung zum Nettopreis"
+    - "Vorhandene Pläne"
+  reservations:
+    - "Bei positivem Schadstoffbefund werden die Sondierungen mit Schutzmassnahmen ausgeführt; Mehraufwand nur nach Zustimmung der Auftraggeberin"
+texts:
+  salutation: "Sehr geehrte Frau Niederöst"
+  intro: ["Besten Dank für das Gespräch vom 9. September 2025. Gerne offerieren wir Ihnen die Zustandsaufnahme und zwei Sanierungsvarianten für das Flachdach."]
+  situation:
+    - "Das Flachdach von 1979 ist an mehreren Stellen geflickt. Die Stockwerkeigentümer möchten an der Versammlung im Frühling 2026 über die Sanierung entscheiden und brauchen dafür den Zustand und zwei Varianten mit Kosten."
+  documents: ["Pläne 1979 (Dachaufsicht und Schnitt)", "Rechnungen der Reparaturen 2012 und 2019"]
+  phase_scope:
+    "1 Grundlagen und Bestandesaufnahme": ["Begehung des Dachs mit Fotodokumentation, Probenahme Dachpappe und Kitt für die Asbestanalyse", "2 Sondierungen mit Probeöffnung und Verschluss, Feuchtemessung"]
+    "2 Analyse und Zustandsbericht": ["Zustandsbericht mit Befund, Restlebensdauer und Empfehlung"]
+    "3 Varianten und Kostenschätzung": ["Variante A Reparatur der schadhaften Bereiche, Variante B Gesamtsanierung mit Wärmedämmung nach heutigem Standard", "Kostenschätzung je Variante (Genauigkeit ±25 %) durch unseren Projektleiter Dach, Reto Betschart", "Besprechung der Ergebnisse mit der Verwaltung"]
+  schedule: ["Aufnahme und Probenahme Anfang Oktober 2025, Sondierungen nach dem Laborresultat, Bericht und Varianten bis Ende November 2025."]
+  signature_role: "Geschäftsführerin, Bauingenieurin FH"
+measured:
+  period: "06.10.2025 bis 21.11.2025"
+  invoice_number: RE-25-0517
+  invoice_date: 2025-11-28
+  basis: "Beschreibung (nach Aufwand)"
+  lines:
+    - {code: "99.100.08", qty: 27.5, text: "Beratung Technik (N. Suter)"}
+    - {code: "99.100.06", qty: 5.5, text: "Beratung Geschäftsleitung (C. Schuler)"}
+    - {code: "99.100.07", qty: 6, text: "Beratung Projektleitung (R. Betschart)"}
+    - {code: "99.100.01", qty: 4, text: "Abdichter Anseilschutz (L. Berisha)"}
+    - {code: "98.100.05", qty: 2}
+    - {code: "98.100.04", qty: 1}
+    - {code: "98.120.01", qty: 56, text: "Spesen Beratung, 4 Fahrten Brunnen"}
+    - {text: "Laborkosten Schadstoffanalyse, 4 Proben, Weiterverrechnung netto (Rechnung Labor vom 15.10.2025)", unit: Pau, qty: 1, unit_price: 480}
+  notes: ["Abrechnung nach effektivem Aufwand gemäss Honorarofferte OF-25-0241.",
+          "Mehraufwand Phase 3: zusätzliche Besprechung mit dem Ausschuss der STWEG vom 06.11.2025, 3 Std und 1 Fahrt, offeriert mit Mail vom 31.10.2025 und von der Verwaltung am 03.11.2025 schriftlich bestätigt."]
+hours:                      # MetaBau hours export rows: person, category, month, hours (sum B3 27.5, B1 5.5, B2 6, MA 3)
+  - [NSU, B3, "2025-10", "8.0"]
+  - [LBE, MA, "2025-10", "4.0"]
+  - [NSU, B3, "2025-11", "19.5"]
+  - [CSC, B1, "2025-11", "5.5"]
+  - [RBE, B2, "2025-11", "6.0"]
+summary:
+  team: [NSu, CSc, RBe, LBe]
+  notes:
+    - "Asbestproben Dachpappe und Kitt am 07.10.2025 an Schadstoff-Analytik Zentralschweiz, Resultat negativ am 14.10.2025. Sondierungen deshalb erst am 16.10.2025."
+    - "Aufnahme 4 Std für 380 m2 mit Luan Berisha für den Anseilschutz, Sondierungen 2 Std, Feuchtemessung an 4 Messstellen, Bericht 8 Std."
+    - "Kostenschätzung RBe: Variante A CHF 48'000, Variante B CHF 182'000 (±25 %), je 3 Std."
+    - "Zusätzliche Besprechung mit dem Ausschuss der STWEG am 06.11.2025, Mehraufwand 3 Std und 1 Fahrt, von der Verwaltung schriftlich bestätigt."

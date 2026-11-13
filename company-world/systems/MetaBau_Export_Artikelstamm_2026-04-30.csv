@@ -1,0 +1,265 @@
+ART_NR;WG;ART_TYP;BEZ_1;BEZ_2;ME;VK_PREIS;EK_PREIS;KG_M;LIEF_NR;LIEFERANT;ALT_NR;GUELTIG_AB;STATUS
+10.100.01;10;L;Baustelleninstallation klein, Zu- und Wegtransport Werkzeug ;;Pau;450.00;;;;;;01.01.2026;AKTIV
+10.100.02;10;L;Baustelleninstallation mittel;;Pau;950.00;;;;;K7044;01.01.2026;AKTIV
+10.100.03;10;L;Baustelleninstallation gross inkl. Container;;Pau;2200.00;;;;;;01.01.2026;AKTIV
+10.110.01;10;L;Baustellen-WC, Miete pro Monat;;Mt;445.00;;;S10;Kran & Mulden Muotathal AG;K3829;01.01.2026;AKTIV
+10.120.01;10;L;Mobilkran inkl. An- und Rückfahrt, Auf- und Abbau;;Std;340.00;;;S10;Kran & Mulden Muotathal AG;;01.01.2026;AKTIV
+10.120.02;10;L;Bewilligung Benützung öffentlicher Grund (Kran, Mulde);;Pau;180.00;;;S10;Kran & Mulden Muotathal AG;;01.01.2026;AKTIV
+10.120.03;10;L;Lastwagen mit Ladekran (eigener), inkl. Chauffeur;;Std;165.00;;;;;K6526;01.01.2026;AKTIV
+10.120.91;10;L;Pneukran;;Std;395.00;;;;;K2782;01.03.2021;GESPERRT
+10.130.01;10;L;Leiterlift, Miete pro Tag;;Tag;210.00;;;S10;Kran & Mulden Muotathal AG;K6819;01.01.2026;AKTIV
+10.130.02;10;L;Treppenturm, Miete pro Woche;;Wo;390.00;;;S10;Kran & Mulden Muotathal AG;K5585;01.01.2026;AKTIV
+10.140.01;10;L;Fassadengerüst, Weiterverrechnung Subunternehmer;;m2;24.00;;;;;K9488;01.01.2026;AKTIV
+10.150.01;10;L;Mulde 7 m3 inkl. Entsorgung Bauschutt;;Stk;890.00;;;S10;Kran & Mulden Muotathal AG;;01.01.2026;AKTIV
+10.150.02;10;L;Kranmulde 1 m3 für Sperrgut inkl. Entsorgung;;Stk;435.00;;;S10;Kran & Mulden Muotathal AG;;01.01.2026;AKTIV
+10.160.01;10;L;Seitenschutz temporär, Absturzsicherung;;m;38.00;;;;;K6741;01.01.2026;AKTIV
+10.170.01;10;L;Transportpauschale Zone 1;;Pau;120.00;;;;;;01.01.2026;AKTIV
+10.170.02;10;L;Transportpauschale Zone 2;;Pau;220.00;;;;;;01.01.2026;AKTIV
+10.170.03;10;L;Transportpauschale Zone 3;;Pau;380.00;;;;;;01.01.2026;AKTIV
+10.170.04;10;L;Transportpauschale Zone 4;;Pau;560.00;;;;;K3714;01.01.2026;AKTIV
+10.180.01;10;L;Hubarbeitsbühne, Miete pro Tag;;Tag;420.00;;;S10;Kran & Mulden Muotathal AG;K4706;01.01.2026;AKTIV
+10.190.01;10;L;Baustrom, Anschluss und Verteiler;;Pau;260.00;;;;;K3940;01.01.2026;AKTIV
+10.190.02;10;L;Abdecken und Schützen angrenzender Bauteile;;Pau;780.00;;;;;K2935;01.01.2026;AKTIV
+20.100.01;20;L;Überzug abspitzen, ohne Armierung, Dicke bis 70 mm;;m2;66.00;;;;;;01.01.2026;AKTIV
+20.100.02;20;L;Überzug abspitzen, ohne Armierung, Dicke bis 120 mm;;m2;89.00;;;;;;01.01.2026;AKTIV
+20.110.01;20;L;Plattenbelag inkl. Splitt aufnehmen, Platten reinigen und pa;;m2;35.00;;;;;K8959;01.01.2026;AKTIV
+20.110.02;20;L;Plattenbelag inkl. Splitt aufnehmen und entsorgen;;m2;42.00;;;;;K5438;01.01.2026;AKTIV
+20.120.01;20;L;Flachdachaufbau rückbauen: Bitumenbahnen, Dämmung, Dampfsper;;m2;49.00;;;;;;01.01.2026;AKTIV
+20.120.91;20;L;Rückbau Flachdach;;m2;44.00;;;;;K4967;01.03.2021;GESPERRT
+20.130.01;20;L;Spenglerarbeiten demontieren und entsorgen;;m;28.50;;;;;K2750;01.01.2026;AKTIV
+20.140.01;20;L;Geländer demontieren und entsorgen;;m;42.00;;;;;K8368;01.01.2026;AKTIV
+20.150.01;20;L;Kies abräumen und entsorgen;;m2;18.00;;;;;;01.01.2026;AKTIV
+20.160.01;20;L;Bestehende Stahlbauteile trennen und entsorgen;;kg;1.40;;;;;K6556;01.01.2026;AKTIV
+30.100.01;30;L;Untergrund reinigen und grundieren;;m2;5.25;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+30.110.01;30;L;Dampfsperre Bitumen mit Alu-Einlage, vollflächig aufgeschwei;;m2;18.00;;;S02;Dachmaterial Urmiberg GmbH;K3300;01.01.2026;AKTIV
+30.120.01;30;L;Abdichtung 2-lagig Polymerbitumen;;m2;43.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+30.120.02;30;L;Abdichtung 1-lagig Kunststoffbahn FPO;;m2;39.00;;;S02;Dachmaterial Urmiberg GmbH;K5747;01.01.2026;AKTIV
+30.120.03;30;L;Flüssigabdichtung Balkon, 2-komponentig, inkl. Vlies;;m2;98.00;;;S02;Dachmaterial Urmiberg GmbH;K7265;01.01.2026;AKTIV
+30.120.91;30;L;Abdichtung 2-lagig (ALT, nicht mehr verwenden);;m2;39.00;;;;;K5643;01.03.2021;GESPERRT
+30.130.01;30;L;Aufbordung inkl. Keileinlage, Höhe bis 30 cm;;m;52.00;;;;;;01.01.2026;AKTIV
+30.130.02;30;L;Aufbordung inkl. Keileinlage, Höhe über 30 cm;;m;74.00;;;;;K8555;01.01.2026;AKTIV
+30.130.03;30;L;Anschluss Abdichtung an Fassade mit Klemmprofil;;m;42.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+30.140.01;30;L;Fenstertür mit Flüssigkunststoff abdichten, bis 350 mm;;Stk;520.00;;;;;K4018;01.01.2026;AKTIV
+30.150.01;30;L;Dachablauf inkl. Einbinden in Abdichtung;;Stk;225.00;;;S02;Dachmaterial Urmiberg GmbH;K8841;01.01.2026;AKTIV
+30.150.02;30;L;Notüberlauf mit Tablettanschluss inkl. Kernbohrung;;Stk;885.00;;;S02;Dachmaterial Urmiberg GmbH;K9699;01.01.2026;AKTIV
+30.150.03;30;L;Sanierungseinlauf mit Aufstockelement und Kontrollschacht;;Stk;690.00;;;;;K3592;01.01.2026;AKTIV
+30.150.91;30;L;Ablauf;;Stk;190.00;;;;;K2973;01.03.2021;GESPERRT
+30.160.01;30;L;Abschottung;;Stk;250.00;;;S02;Dachmaterial Urmiberg GmbH;K8673;01.01.2026;AKTIV
+30.170.01;30;L;Drainagematte;;m2;17.00;;;S02;Dachmaterial Urmiberg GmbH;K3100;01.01.2026;AKTIV
+30.180.01;30;L;Untergrundabnahme mit Protokoll;;Pau;600.00;;;;;K5383;01.01.2026;AKTIV
+30.190.01;30;L;Dichtheitsprüfung der Abdichtung (elektrische Leckortung);;Pau;680.00;;;;;K9079;01.01.2026;AKTIV
+30.200.01;30;L;Schutz- und Trennlage;;m2;6.50;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+30.200.02;30;L;Wurzelschutzbahn;;m2;12.00;;;S02;Dachmaterial Urmiberg GmbH;K2473;01.01.2026;AKTIV
+30.210.01;30;L;Flachdachentlüfter;;Stk;165.00;;;S02;Dachmaterial Urmiberg GmbH;K1125;01.01.2026;AKTIV
+30.220.01;30;L;Entwässerungsrinne vor Fenstertür inkl. Anschluss;;Stk;480.00;;;;;;01.01.2026;AKTIV
+40.100.01;40;L;Dämmung PIR alukaschiert 80 mm;;m2;46.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+40.100.02;40;L;Dämmung PIR alukaschiert 120 mm;;m2;58.00;;;S02;Dachmaterial Urmiberg GmbH;K6005;01.01.2026;AKTIV
+40.100.03;40;L;Dämmung PIR alukaschiert 160 mm;;m2;71.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+40.100.04;40;L;Dämmung PIR alukaschiert 200 mm;;m2;84.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+40.100.91;40;L;PIR 80mm alukasch.;;m2;41.00;;;;;K5792;01.03.2021;GESPERRT
+40.110.01;40;L;Gefälledämmung EPS kaschiert, im Mittel 60 mm;;m2;42.00;;;S02;Dachmaterial Urmiberg GmbH;K6760;01.01.2026;AKTIV
+40.110.02;40;L;Gefälledämmung EPS kaschiert, im Mittel 100 mm;;m2;55.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+40.120.01;40;L;Dämmung XPS Umkehrdach 120 mm;;m2;64.00;;;S02;Dachmaterial Urmiberg GmbH;;01.01.2026;AKTIV
+40.130.01;40;L;Mineralwolle Fassade 140 mm;;m2;52.00;;;S02;Dachmaterial Urmiberg GmbH;K4222;01.01.2026;AKTIV
+40.130.02;40;L;Mineralwolle Fassade 180 mm;;m2;61.00;;;S02;Dachmaterial Urmiberg GmbH;K2433;01.01.2026;AKTIV
+50.100.01;50;L;Steinplatten in Splitt verlegen, inkl. Splitt;;m2;260.00;;;S08;Plattenwelt Innerschweiz AG;K6242;01.01.2026;AKTIV
+50.100.02;50;L;Feinsteinzeugplatten 60/60/2 auf Stelzlager, inkl. Lager;;m2;185.00;;;S08;Plattenwelt Innerschweiz AG;;01.01.2026;AKTIV
+50.100.03;50;L;Betonplatten 50/50 in Splitt verlegen;;m2;128.00;;;S08;Plattenwelt Innerschweiz AG;;01.01.2026;AKTIV
+50.100.04;50;L;Bestehende Platten in neuem Splitt wieder verlegen;;m2;115.00;;;;;K6981;01.01.2026;AKTIV
+50.100.91;50;L;Steinplatten Splitt;;m2;235.00;;;;;K7055;01.03.2021;GESPERRT
+50.110.01;50;L;Holzrost Lärche auf Unterkonstruktion;;m2;295.00;;;;;;01.01.2026;AKTIV
+50.120.01;50;L;Rundkies 16/32, Schicht 5 cm;;m2;14.00;;;;;K4275;01.01.2026;AKTIV
+50.130.01;50;L;Extensivbegrünung, Substrat 8 cm, inkl. Ansaat;;m2;58.00;;;;;;01.01.2026;AKTIV
+50.140.01;50;L;Kiesstreifen als Randabschluss;;m;24.00;;;;;K4548;01.01.2026;AKTIV
+50.150.01;50;L;Ersatzplatten liefern, passend zum Bestand (ohne Verlegen);;m2;145.00;;;S08;Plattenwelt Innerschweiz AG;;01.01.2026;AKTIV
+60.100.01;60;L;Dachrandabschluss Winkelblech, Zuschnitt bis 333 mm, Kupfer;;m;128.00;;;S03;Spenglerbedarf Talkessel AG;K5844;01.01.2026;AKTIV
+60.100.02;60;L;Dachrandabschluss Winkelblech, Zuschnitt bis 333 mm, Uginox;;m;104.00;;;S03;Spenglerbedarf Talkessel AG;K7418;01.01.2026;AKTIV
+60.100.03;60;L;Dachrandabschluss Winkelblech, Zuschnitt bis 333 mm, Titanzi;;m;86.00;;;S03;Spenglerbedarf Talkessel AG;K1506;01.01.2026;AKTIV
+60.100.04;60;L;Dachrandabschluss Winkelblech, Zuschnitt bis 333 mm, Alumini;;m;74.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.100.91;60;L;Winkelblech CU;;m;86.00;;;;;K8214;01.03.2021;GESPERRT
+60.110.01;60;L;Mauerabdeckung, Zuschnitt bis 400 mm, Kupfer;;m;168.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.110.02;60;L;Mauerabdeckung, Zuschnitt bis 400 mm, Uginox;;m;138.00;;;S03;Spenglerbedarf Talkessel AG;K7069;01.01.2026;AKTIV
+60.110.03;60;L;Mauerabdeckung, Zuschnitt bis 400 mm, Titanzink;;m;112.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.110.04;60;L;Mauerabdeckung, Zuschnitt bis 400 mm, Aluminium;;m;98.00;;;S03;Spenglerbedarf Talkessel AG;K4369;01.01.2026;AKTIV
+60.120.01;60;L;Deckstreifen inkl. Kittfuge, Kupfer;;m;58.00;;;S03;Spenglerbedarf Talkessel AG;K8924;01.01.2026;AKTIV
+60.120.02;60;L;Deckstreifen inkl. Kittfuge, Uginox;;m;52.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.120.03;60;L;Deckstreifen inkl. Kittfuge, Titanzink;;m;44.00;;;S03;Spenglerbedarf Talkessel AG;K3616;01.01.2026;AKTIV
+60.120.04;60;L;Deckstreifen inkl. Kittfuge, Aluminium;;m;40.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.130.01;60;L;Hängerinne halbrund, Zuschnitt 333 mm, Kupfer;;m;112.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.130.02;60;L;Hängerinne halbrund, Zuschnitt 333 mm, Uginox;;m;104.00;;;S03;Spenglerbedarf Talkessel AG;K4484;01.01.2026;AKTIV
+60.130.03;60;L;Hängerinne halbrund, Zuschnitt 333 mm, Titanzink;;m;82.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.140.01;60;L;Ablaufrohr Ø 100 mm, Kupfer;;m;96.00;;;S03;Spenglerbedarf Talkessel AG;K9618;01.01.2026;AKTIV
+60.140.02;60;L;Ablaufrohr Ø 100 mm, Uginox;;m;88.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.140.03;60;L;Ablaufrohr Ø 100 mm, Titanzink;;m;68.00;;;S03;Spenglerbedarf Talkessel AG;K8579;01.01.2026;AKTIV
+60.150.01;60;L;Einlaufstutzen oder Speier, Kupfer;;Stk;145.00;;;S03;Spenglerbedarf Talkessel AG;K7574;01.01.2026;AKTIV
+60.150.02;60;L;Einlaufstutzen oder Speier, Uginox;;Stk;138.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.150.03;60;L;Einlaufstutzen oder Speier, Titanzink;;Stk;115.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.160.02;60;L;Türschwellenblech, Uginox;;Stk;185.00;;;S03;Spenglerbedarf Talkessel AG;K2511;01.01.2026;AKTIV
+60.170.01;60;L;Fensterbank Kupfer;;m;94.00;;;S03;Spenglerbedarf Talkessel AG;K5129;01.01.2026;AKTIV
+60.170.02;60;L;Fensterbank Uginox;;m;88.00;;;S03;Spenglerbedarf Talkessel AG;K6347;01.01.2026;AKTIV
+60.170.04;60;L;Fensterbank Aluminium, pulverbeschichtet;;m;78.00;;;S03;Spenglerbedarf Talkessel AG;K5696;01.01.2026;AKTIV
+60.180.01;60;L;Kamineinfassung, Kupfer;;Stk;640.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.180.02;60;L;Kamineinfassung, Uginox;;Stk;610.00;;;S03;Spenglerbedarf Talkessel AG;K5201;01.01.2026;AKTIV
+60.185.02;60;L;Dunstrohreinfassung, Uginox;;Stk;145.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.190.03;60;L;Schneefang Rundrohr, Titanzink;;m;58.00;;;S03;Spenglerbedarf Talkessel AG;;01.01.2026;AKTIV
+60.195.01;60;L;Laubfanggitter;;Stk;28.00;;;S03;Spenglerbedarf Talkessel AG;K3808;01.01.2026;AKTIV
+70.100.01;70;M;HEA 100;S235, 16.7 kg/m;kg;2.20;1.85;16.7;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.100.02;70;M;HEA 120;S235, 19.9 kg/m;kg;2.20;1.85;19.9;S01;Stahlhandel Mythenblick AG;K7420;01.01.2026;AKTIV
+70.100.03;70;M;HEA 140;S235, 24.7 kg/m;kg;2.20;1.85;24.7;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.100.04;70;M;HEA 160;S235, 30.4 kg/m;kg;2.20;1.85;30.4;S01;Stahlhandel Mythenblick AG;K8195;01.01.2026;AKTIV
+70.100.05;70;M;HEA 180;S235, 35.5 kg/m;kg;2.20;1.85;35.5;S01;Stahlhandel Mythenblick AG;K3107;01.01.2026;AKTIV
+70.100.06;70;M;HEA 200;S235, 42.3 kg/m;kg;2.20;1.85;42.3;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.100.14;70;M;HEA 160;S355, 30.4 kg/m;kg;2.35;2.00;30.4;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.100.15;70;M;HEA 180;S355, 35.5 kg/m;kg;2.35;2.00;35.5;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.100.16;70;M;HEA 200;S355, 42.3 kg/m;kg;2.35;2.00;42.3;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.110.01;70;M;IPE 100;S235, 8.1 kg/m;kg;2.20;1.85;8.1;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.110.02;70;M;IPE 120;S235, 10.4 kg/m;kg;2.20;1.85;10.4;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.110.03;70;M;IPE 140;S235, 12.9 kg/m;kg;2.20;1.85;12.9;S01;Stahlhandel Mythenblick AG;K4170;01.01.2026;AKTIV
+70.110.04;70;M;IPE 160;S235, 15.8 kg/m;kg;2.20;1.85;15.8;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.110.05;70;M;IPE 180;S235, 18.8 kg/m;kg;2.20;1.85;18.8;S01;Stahlhandel Mythenblick AG;K7623;01.01.2026;AKTIV
+70.110.06;70;M;IPE 200;S235, 22.4 kg/m;kg;2.20;1.85;22.4;S01;Stahlhandel Mythenblick AG;K4065;01.01.2026;AKTIV
+70.120.01;70;M;UNP 100;S235, 10.6 kg/m;kg;2.20;1.85;10.6;S01;Stahlhandel Mythenblick AG;K1261;01.01.2026;AKTIV
+70.120.02;70;M;UNP 120;S235, 13.4 kg/m;kg;2.20;1.85;13.4;S01;Stahlhandel Mythenblick AG;K3183;01.01.2026;AKTIV
+70.120.03;70;M;UNP 140;S235, 16.0 kg/m;kg;2.20;1.85;16.0;S01;Stahlhandel Mythenblick AG;K8881;01.01.2026;AKTIV
+70.120.04;70;M;UNP 160;S235, 18.8 kg/m;kg;2.20;1.85;18.8;S01;Stahlhandel Mythenblick AG;K7612;01.01.2026;AKTIV
+70.120.05;70;M;UNP 180;S235, 22.0 kg/m;kg;2.20;1.85;22.0;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.120.06;70;M;UNP 200;S235, 25.3 kg/m;kg;2.20;1.85;25.3;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.130.01;70;M;Rechteckrohr 60x40x3;S235, 4.35 kg/m;kg;2.20;1.85;4.35;S01;Stahlhandel Mythenblick AG;K8876;01.01.2026;AKTIV
+70.130.02;70;M;Rechteckrohr 80x40x3;S235, 5.29 kg/m;kg;2.20;1.85;5.29;S01;Stahlhandel Mythenblick AG;K8248;01.01.2026;AKTIV
+70.130.03;70;M;Rechteckrohr 100x50x4;S235, 8.59 kg/m;kg;2.20;1.85;8.59;S01;Stahlhandel Mythenblick AG;K9331;01.01.2026;AKTIV
+70.130.04;70;M;Rechteckrohr 120x60x4;S235, 10.5 kg/m;kg;2.20;1.85;10.5;S01;Stahlhandel Mythenblick AG;K3162;01.01.2026;AKTIV
+70.130.91;70;L;RR 60/40/3;;kg;1.95;;;;;K8803;01.03.2021;GESPERRT
+70.140.01;70;M;Quadratrohr 40x40x3;S235, 3.41 kg/m;kg;2.20;1.85;3.41;S01;Stahlhandel Mythenblick AG;K3684;01.01.2026;AKTIV
+70.140.02;70;M;Quadratrohr 50x50x3;S235, 4.35 kg/m;kg;2.20;1.85;4.35;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.140.03;70;M;Quadratrohr 60x60x4;S235, 6.97 kg/m;kg;2.20;1.85;6.97;S01;Stahlhandel Mythenblick AG;K3247;01.01.2026;AKTIV
+70.140.04;70;M;Quadratrohr 80x80x4;S235, 9.22 kg/m;kg;2.20;1.85;9.22;S01;Stahlhandel Mythenblick AG;K6641;01.01.2026;AKTIV
+70.140.05;70;M;Quadratrohr 100x100x5;S235, 14.4 kg/m;kg;2.20;1.85;14.4;S01;Stahlhandel Mythenblick AG;K7146;01.01.2026;AKTIV
+70.150.01;70;M;Flachstahl 40x8;S235, 2.51 kg/m;kg;2.20;1.85;2.51;S01;Stahlhandel Mythenblick AG;K1538;01.01.2026;AKTIV
+70.150.02;70;M;Flachstahl 50x10;S235, 3.93 kg/m;kg;2.20;1.85;3.93;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.150.03;70;M;Flachstahl 60x10;S235, 4.71 kg/m;kg;2.20;1.85;4.71;S01;Stahlhandel Mythenblick AG;K8528;01.01.2026;AKTIV
+70.150.04;70;M;Flachstahl 80x10;S235, 6.28 kg/m;kg;2.20;1.85;6.28;S01;Stahlhandel Mythenblick AG;K8122;01.01.2026;AKTIV
+70.150.05;70;M;Flachstahl 200x12;S235, 18.84 kg/m;kg;2.20;1.85;18.84;S01;Stahlhandel Mythenblick AG;K7693;01.01.2026;AKTIV
+70.160.01;70;M;Rundstahl Ø 12;S235, 0.888 kg/m;kg;2.20;1.85;0.888;S01;Stahlhandel Mythenblick AG;K1623;01.01.2026;AKTIV
+70.160.02;70;M;Rundstahl Ø 16;S235, 1.58 kg/m;kg;2.20;1.85;1.58;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.160.03;70;M;Rundstahl Ø 20;S235, 2.47 kg/m;kg;2.20;1.85;2.47;S01;Stahlhandel Mythenblick AG;K8157;01.01.2026;AKTIV
+70.170.01;70;M;Stahlrohr Ø 42.4 x 2.6;S235, 2.55 kg/m;kg;2.20;1.85;2.55;S01;Stahlhandel Mythenblick AG;K8483;01.01.2026;AKTIV
+70.170.02;70;M;Stahlrohr Ø 48.3 x 2.6;S235, 2.93 kg/m;kg;2.20;1.85;2.93;S01;Stahlhandel Mythenblick AG;K295;01.01.2026;AKTIV
+70.180.01;70;M;Stahlblech 3 mm;S235, 23.6 kg/m2;kg;2.20;1.85;;S01;Stahlhandel Mythenblick AG;K4109;01.01.2026;AKTIV
+70.180.02;70;M;Stahlblech 4 mm;S235, 31.4 kg/m2;kg;2.20;1.85;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.180.03;70;M;Stahlblech 5 mm;S235, 39.3 kg/m2;kg;2.20;1.85;;S01;Stahlhandel Mythenblick AG;K6881;01.01.2026;AKTIV
+70.180.04;70;M;Stahlblech 6 mm;S235, 47.1 kg/m2;kg;2.20;1.85;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.180.05;70;M;Stahlblech 8 mm;S235, 62.8 kg/m2;kg;2.20;1.85;;S01;Stahlhandel Mythenblick AG;K1656;01.01.2026;AKTIV
+70.180.06;70;M;Stahlblech 10 mm;S235, 78.5 kg/m2;kg;2.20;1.85;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.190.01;70;M;Chromstahl 1.4301 Rohr Ø 42.4 x 2.0;1.4301, 2.02 kg/m;kg;7.60;6.40;2.02;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+70.190.02;70;M;Chromstahl 1.4301 Flach 40x8;1.4301, 2.56 kg/m;kg;7.60;6.40;2.56;S01;Stahlhandel Mythenblick AG;K3075;01.01.2026;AKTIV
+70.190.03;70;M;Chromstahl 1.4301 Rohr Ø 33.7 x 2.0;1.4301, 1.58 kg/m;kg;7.60;6.40;1.58;S01;Stahlhandel Mythenblick AG;K1119;01.01.2026;AKTIV
+80.100.01;80;M;Gitterrost 30/30, verzinkt;;m2;145.00;118.00;;S01;Stahlhandel Mythenblick AG;K3167;01.01.2026;AKTIV
+80.110.01;80;M;Treppenstufe Gitterrost 800 mm, mit Rutschkante;;Stk;98.00;79.00;;S01;Stahlhandel Mythenblick AG;K5527;01.01.2026;AKTIV
+80.110.02;80;M;Treppenstufe Gitterrost 1000 mm, mit Rutschkante;;Stk;118.00;95.00;;S01;Stahlhandel Mythenblick AG;K5614;01.01.2026;AKTIV
+80.110.03;80;M;Treppenstufe Gitterrost 1000 mm mit Seitenblechen, zum Ansch;;Stk;165.00;135.00;;S01;Stahlhandel Mythenblick AG;K4129;01.01.2026;AKTIV
+80.120.01;80;M;Glasfüllung VSG 2 x 6 mm, Zuschnitt;;m2;220.00;180.00;;S07;Glas & Plan Fronbach AG;;01.01.2026;AKTIV
+80.120.02;80;M;Glasklemmhalter Chromstahl;;Stk;19.00;14.00;;S07;Glas & Plan Fronbach AG;K5026;01.01.2026;AKTIV
+80.130.01;80;M;Lochblechfüllung 3 mm, verzinkt;;m2;115.00;92.00;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+80.140.01;80;M;Handlaufhalter Chromstahl;;Stk;24.00;18.00;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+80.140.02;80;M;Endkappe Handlauf;;Stk;9.00;6.50;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+80.150.01;80;M;Pfostenfussplatte 150 x 150 x 10 mit Bohrungen;;Stk;29.00;22.00;;S01;Stahlhandel Mythenblick AG;K7469;01.01.2026;AKTIV
+80.160.01;80;M;Edelstahlseil Ø 4 mm inkl. Spanner, Seilfüllung;;m;31.00;24.00;;S01;Stahlhandel Mythenblick AG;;01.01.2026;AKTIV
+80.170.01;80;M;Torbeschlag selbstschliessend mit Kindersicherung;;Stk;230.00;180.00;;S06;Befestigungstechnik Haggen AG;K9854;01.01.2026;AKTIV
+80.200.01;80;L;Montage Geländer, Pfosten aufgedübelt;;m;68.00;;;;;K8937;01.01.2026;AKTIV
+80.200.02;80;L;Montage Geländer, Pfosten seitlich befestigt;;m;79.00;;;;;K9551;01.01.2026;AKTIV
+80.200.03;80;L;Montage Handlauf an Wand;;m;32.00;;;;;K5939;01.01.2026;AKTIV
+80.200.04;80;L;Kernbohrung Ø 50 bis 100 mm;;Stk;85.00;;;;;K6882;01.01.2026;AKTIV
+80.200.05;80;L;Ankerplatte versetzen und vergiessen;;Stk;45.00;;;;;;01.01.2026;AKTIV
+80.200.06;80;L;Geländer demontieren, zwischenlagern und wieder montieren;;m;95.00;;;;;K8842;01.01.2026;AKTIV
+80.200.07;80;L;Geländer erhöhen, Aufsatz an bestehenden Pfosten;;m;145.00;;;;;;01.01.2026;AKTIV
+85.100.01;85;M;Feuerverzinken;;kg;1.15;0.95;;S04;Verzinkerei Seewen-Ost AG;K1925;01.01.2026;AKTIV
+85.100.91;85;L;Verzinken;;kg;0.98;;;;;K3084;01.03.2021;GESPERRT
+85.110.01;85;M;Pulverbeschichten RAL Standard;;m2;34.00;28.00;;S05;Pulverwerk Rotenfluh AG;K1382;01.01.2026;AKTIV
+85.110.02;85;M;Pulverbeschichten Sonderfarbe oder Feinstruktur;;m2;39.00;32.00;;S05;Pulverwerk Rotenfluh AG;K1643;01.01.2026;AKTIV
+85.120.01;85;M;Duplex: verzinkt und pulverbeschichtet;;m2;70.00;58.00;;S05;Pulverwerk Rotenfluh AG;K8759;01.01.2026;AKTIV
+85.130.01;85;M;Mindermengenzuschlag Beschichtung;;Pau;120.00;100.00;;S05;Pulverwerk Rotenfluh AG;K2228;01.01.2026;AKTIV
+90.100.01;90;M;Schwerlastanker M12;;Stk;6.80;5.10;;S06;Befestigungstechnik Haggen AG;K247;01.01.2026;AKTIV
+90.100.02;90;M;Schwerlastanker M16;;Stk;9.60;7.20;;S06;Befestigungstechnik Haggen AG;K8587;01.01.2026;AKTIV
+90.110.01;90;M;Injektionsanker M12 inkl. Mörtel;;Stk;14.50;10.90;;S06;Befestigungstechnik Haggen AG;;01.01.2026;AKTIV
+90.110.02;90;M;Injektionsanker M16 inkl. Mörtel;;Stk;18.90;14.20;;S06;Befestigungstechnik Haggen AG;K3310;01.01.2026;AKTIV
+90.120.01;90;M;Konsole thermisch getrennt für Aussenwärmedämmung;;Stk;68.00;51.00;;S06;Befestigungstechnik Haggen AG;K5337;01.01.2026;AKTIV
+90.130.01;90;M;Schrauben Chromstahl, Paket;;Pak;34.00;26.00;;S06;Befestigungstechnik Haggen AG;;01.01.2026;AKTIV
+90.140.01;90;M;Montagekleinmaterial;;Pau;80.00;60.00;;S06;Befestigungstechnik Haggen AG;K1034;01.01.2026;AKTIV
+90.150.01;90;M;Fugendichtband vorkomprimiert;;m;5.60;4.20;;S06;Befestigungstechnik Haggen AG;K9051;01.01.2026;AKTIV
+90.160.01;90;M;Gewindestange M12 verzinkt;;m;4.20;3.10;;S06;Befestigungstechnik Haggen AG;;01.01.2026;AKTIV
+90.160.02;90;M;Gewindestange M16 verzinkt;;m;7.20;5.40;;S06;Befestigungstechnik Haggen AG;;01.01.2026;AKTIV
+90.170.01;90;M;Holzschrauben Chromstahl 6 x 80, Paket;;Pak;41.00;31.00;;S06;Befestigungstechnik Haggen AG;K8512;01.01.2026;AKTIV
+90.180.01;90;M;Fugendichtstoff MS-Polymer, Kartusche;;Stk;13.50;9.80;;S06;Befestigungstechnik Haggen AG;;01.01.2026;AKTIV
+95.100.01;95;L;Unterkonstruktion Aluminium, justierbar;;m2;48.00;;;S09;Fassadensysteme Lidernen AG;;01.01.2026;AKTIV
+95.110.01;95;L;Fassadenbekleidung Aluminium-Verbundplatte;;m2;165.00;;;S09;Fassadensysteme Lidernen AG;K8228;01.01.2026;AKTIV
+95.110.02;95;L;Fassadenbekleidung Trapezblech;;m2;72.00;;;S09;Fassadensysteme Lidernen AG;K7047;01.01.2026;AKTIV
+95.110.03;95;L;Fassadenbekleidung Faserzementplatten;;m2;118.00;;;S09;Fassadensysteme Lidernen AG;;01.01.2026;AKTIV
+95.120.01;95;L;Fensteranschlussblech Aluminium;;m;64.00;;;S09;Fassadensysteme Lidernen AG;K2419;01.01.2026;AKTIV
+95.130.01;95;L;Lüftungsgitter Sockel und Attika;;m;22.00;;;S09;Fassadensysteme Lidernen AG;;01.01.2026;AKTIV
+95.140.01;95;L;Eckausbildung Fassadenbekleidung;;m;46.00;;;S09;Fassadensysteme Lidernen AG;;01.01.2026;AKTIV
+95.150.01;95;L;Montage Fassadenbekleidung, Zuschlag Höhe über 8 m;;m2;14.00;;;;;;01.01.2026;AKTIV
+97.100.01;97;L;Fronalp Velo Startmodul (inkl. Endstützen);VU-S;Stk;4350.00;;;;;;01.01.2026;AKTIV
+97.100.02;97;L;Fronalp Velo Anbaumodul;VU-A;Stk;3450.00;;;;;K9115;01.01.2026;AKTIV
+97.100.51;97;L;Fronalp Velo Option: Dach Polycarbonat statt Trapezblech;VU-OPT-PC;Modul;280.00;;;;;;01.01.2026;AKTIV
+97.100.52;97;L;Fronalp Velo Option: Gründachvorbereitung;VU-OPT-GD;Modul;520.00;;;;;;01.01.2026;AKTIV
+97.100.53;97;L;Fronalp Velo Option: Rückwand Lochblech;VU-OPT-RWL;Modul;690.00;;;;;;01.01.2026;AKTIV
+97.100.54;97;L;Fronalp Velo Option: Rückwand Polycarbonat;VU-OPT-RWP;Modul;590.00;;;;;;01.01.2026;AKTIV
+97.100.55;97;L;Fronalp Velo Option: Seitenwand Lochblech;VU-OPT-SWL;Stk;540.00;;;;;;01.01.2026;AKTIV
+97.100.56;97;L;Fronalp Velo Option: Veloständer Hoch/Tief, 5 Plätze, verzin;VU-OPT-BG;Modul;690.00;;;;;;01.01.2026;AKTIV
+97.100.57;97;L;Fronalp Velo Option: LED-Beleuchtung mit Bewegungsmelder, Le;VU-OPT-LED;Anlage;1180.00;;;;;;01.01.2026;AKTIV
+97.100.58;97;L;Fronalp Velo Option: Punktfundamente durch Fronalp inkl. Bel;VU-OPT-FU;Modul;1150.00;;;;;;01.01.2026;AKTIV
+97.100.59;97;L;Fronalp Velo Option: Dachrinne mit Fallrohr;VU-OPT-RF;Anlage;590.00;;;;;;01.01.2026;AKTIV
+97.100.81;97;L;Fronalp Velo Montage erstes Modul;Montagepauschale;Pau;1150.00;;;;;K4781;01.01.2026;AKTIV
+97.100.82;97;L;Fronalp Velo Montage jedes weitere Modul;Montagepauschale;Pau;520.00;;;;;K6855;01.01.2026;AKTIV
+97.100.91;97;L;Velounterstand Modul (alt);;Stk;3100.00;;;;;K4482;01.03.2021;GESPERRT
+97.200.01;97;L;Fronalp Carport Einzelcarport 3.00 x 5.00 m;CP-E;Stk;8900.00;;;;;K5033;01.01.2026;AKTIV
+97.200.02;97;L;Fronalp Carport Einzelcarport lang 3.00 x 6.00 m;CP-EL;Stk;9950.00;;;;;K1059;01.01.2026;AKTIV
+97.200.03;97;L;Fronalp Carport Doppelcarport 6.00 x 5.00 m;CP-D;Stk;14800.00;;;;;K265;01.01.2026;AKTIV
+97.200.51;97;L;Fronalp Carport Option: Dach Polycarbonat statt Trapezblech;CP-OPT-PC (+12 %);%;0.00;;;;;;01.01.2026;AKTIV
+97.200.52;97;L;Fronalp Carport Option: Gründachvorbereitung Einzel;CP-OPT-GDE;Stk;1450.00;;;;;;01.01.2026;AKTIV
+97.200.53;97;L;Fronalp Carport Option: Gründachvorbereitung Doppel;CP-OPT-GDD;Stk;2600.00;;;;;;01.01.2026;AKTIV
+97.200.54;97;L;Fronalp Carport Option: Dachrinne mit Fallrohr;CP-OPT-RF;Stk;690.00;;;;;;01.01.2026;AKTIV
+97.200.55;97;L;Fronalp Carport Option: Seitenwand Lattung Lärche;CP-OPT-SW;Seite;1280.00;;;;;;01.01.2026;AKTIV
+97.200.56;97;L;Fronalp Carport Option: Geräteraum 1.50 m, angebaut;CP-OPT-GR;Stk;4200.00;;;;;;01.01.2026;AKTIV
+97.200.57;97;L;Fronalp Carport Option: Fundamente durch Fronalp, Einzel;CP-OPT-FUE;Stk;2400.00;;;;;;01.01.2026;AKTIV
+97.200.58;97;L;Fronalp Carport Option: Fundamente durch Fronalp, Doppel;CP-OPT-FUD;Stk;3600.00;;;;;;01.01.2026;AKTIV
+97.200.61;97;L;Fronalp Carport Zuschlag Überbreite (2.5 % je angefangene 10;;Pau;0.00;;;;;;01.01.2026;AKTIV
+97.200.62;97;L;Fronalp Carport Zuschlag Durchfahrtshöhe 2.40 m (6 %);;Pau;0.00;;;;;K7246;01.01.2026;AKTIV
+97.200.63;97;L;Fronalp Carport Zuschlag Ausführung Verstärkt 801 bis 1200 m;;Pau;0.00;;;;;K4632;01.01.2026;AKTIV
+97.200.64;97;L;Fronalp Carport Farbzuschlag andere RAL-Farbe (8 %);;Pau;0.00;;;;;;01.01.2026;AKTIV
+97.200.65;97;L;Fronalp Carport Farbzuschlag DB-Farbe (12 %);;Pau;0.00;;;;;K2847;01.01.2026;AKTIV
+97.200.81;97;L;Fronalp Carport Montage Carport CP-E;Montagepauschale;Pau;1650.00;;;;;K3809;01.01.2026;AKTIV
+97.200.82;97;L;Fronalp Carport Montage Carport CP-EL;Montagepauschale;Pau;1750.00;;;;;;01.01.2026;AKTIV
+97.200.83;97;L;Fronalp Carport Montage Carport CP-D;Montagepauschale;Pau;2450.00;;;;;K2310;01.01.2026;AKTIV
+97.200.91;97;L;Carport Einzel (alt);;Stk;7600.00;;;;;K7355;01.03.2021;GESPERRT
+97.300.01;97;L;Vordach Glas 1.60 x 1.00 m;VD-160-100;Stk;2450.00;;;;;K301;01.01.2026;AKTIV
+97.300.02;97;L;Vordach Glas 2.00 x 1.00 m;VD-200-100;Stk;2780.00;;;;;K1407;01.01.2026;AKTIV
+97.300.03;97;L;Vordach Glas 2.40 x 1.00 m;VD-240-100;Stk;3150.00;;;;;K2425;01.01.2026;AKTIV
+97.300.04;97;L;Vordach Glas 1.60 x 1.20 m;VD-160-120;Stk;2740.00;;;;;;01.01.2026;AKTIV
+97.300.05;97;L;Vordach Glas 2.00 x 1.20 m;VD-200-120;Stk;3110.00;;;;;;01.01.2026;AKTIV
+97.300.06;97;L;Vordach Glas 2.40 x 1.20 m;VD-240-120;Stk;3530.00;;;;;K7062;01.01.2026;AKTIV
+97.300.51;97;L;Fronalp Vordach Option: Eindeckung Aluminiumblech statt Glas;VD-OPT-AL (-8 %);%;0.00;;;;;;01.01.2026;AKTIV
+97.300.52;97;L;Fronalp Vordach Option: Integrierte Rinne mit Speier;VD-OPT-RI;Stk;390.00;;;;;;01.01.2026;AKTIV
+97.300.53;97;L;Fronalp Vordach Option: LED-Leiste (Elektroanschluss bauseit;VD-OPT-LED;Stk;520.00;;;;;;01.01.2026;AKTIV
+97.300.54;97;L;Fronalp Vordach Option: Thermisch getrennte Konsole für Auss;VD-OPT-KTG;Konsole;165.00;;;;;;01.01.2026;AKTIV
+97.300.55;97;L;Fronalp Vordach Option: Befestigung an Holzfassade, Abklärun;VD-OPT-HOL;Pauschal;240.00;;;;;;01.01.2026;AKTIV
+97.300.81;97;L;Fronalp Vordach Montage Vordach;Montagepauschale;Pau;520.00;;;;;K4298;01.01.2026;AKTIV
+98.100.01;98;L;Zustandsaufnahme vor Ort, Grundpauschale bis 2 Std;;Pau;390.00;;;;;;01.01.2026;AKTIV
+98.100.02;98;L;Drohnenaufnahme Dach und Fassade;;Pau;650.00;;;;;K3739;01.01.2026;AKTIV
+98.100.03;98;L;Thermografie Gebäudehülle;;Pau;480.00;;;;;K3815;01.01.2026;AKTIV
+98.100.04;98;L;Feuchtemessung Dachaufbau, bis 5 Messstellen;;Pau;320.00;;;;;K758;01.01.2026;AKTIV
+98.100.05;98;L;Sondierung Dachaufbau mit Probeöffnung und Verschluss;;Stk;280.00;;;;;K5422;01.01.2026;AKTIV
+98.110.01;98;L;Kurzbericht Zustand (bis 5 Seiten);;Pau;750.00;;;;;K5356;01.03.2021;GESPERRT
+98.110.02;98;L;Variantenstudie Sanierung mit Kostenschätzung;;Pau;1850.00;;;;;K2918;01.03.2021;GESPERRT
+98.120.01;98;L;Spesen Beratung, km-Pauschale;;km;0.90;;;;;K8897;01.01.2026;AKTIV
+99.100.01;99;R;Regie A-Monteur;MA;Std;125.00;;;;;K5552;01.01.2026;AKTIV
+99.100.02;99;R;Regie B-Monteur;MB;Std;115.00;;;;;;01.01.2026;AKTIV
+99.100.03;99;R;Regie Lernende/r;LE;Std;65.00;;;;;K8883;01.01.2026;AKTIV
+99.100.04;99;R;Regie Werkstattstunde;WS;Std;118.00;;;;;;01.01.2026;AKTIV
+99.100.05;99;R;Regie Projektleitung;PL;Std;145.00;;;;;K7806;01.01.2026;AKTIV
+99.100.06;99;R;Regie Beratung Geschäftsleitung;B1;Std;185.00;;;;;;01.01.2026;AKTIV
+99.100.07;99;R;Regie Beratung Projektleitung;B2;Std;155.00;;;;;K7009;01.01.2026;AKTIV
+99.100.08;99;R;Regie Beratung Technik;B3;Std;125.00;;;;;;01.01.2026;AKTIV
+99.100.91;99;L;Monteur;;Std;108.00;;;;;K7853;01.03.2021;GESPERRT
+99.110.01;99;R;Fahrzeugpauschale pro Tag;;Tag;85.00;;;;;K1402;01.01.2026;AKTIV
+99.110.02;99;R;Zuschlag Nacht- und Wochenendarbeit;;%;50.00;;;;;K5321;01.01.2026;AKTIV

@@ -1,0 +1,645 @@
+people:
+  reding: Thomas Reding <thomas.reding@talnet-mail.ch>
+  kaelin: Claudia Kälin <claudia.kaelin@talkessel-schwyz.ch>
+  kran: Disposition Kran & Mulden Muotathal AG <dispo@kmm-muotathal.ch>
+mails:
+- file: request/2026-05-12_Mail_Reding_Anfrage.eml
+  id: m1
+  from: reding
+  to: offerten@fronalp-mgh.ch
+  date: '2026-05-12T19:42:00'
+  subject: Terrasse undicht, Bitte um Offerte
+  mailer: iPhone Mail (21F90)
+  body: 'Grüezi
+
+
+    Ich bin Eigentümer der Attikawohnung an der Seestrasse 18 in Brunnen. Seit dem Winter haben wir ein Problem mit unserer Terrasse: In der Wohnung unter uns (3. OG) sind an der Decke Wasserflecken aufgetaucht,
+    vor allem nach starkem Regen. Ein Bekannter meinte, die Abdichtung sei nach über 30 Jahren wohl am Ende.
+
+
+    Die Terrasse hat ca. 70 m2 (so steht es in der Verkaufsdokumentation), Steinplatten in Splitt verlegt, das Haus ist Baujahr 1994. Am Rand hat es ein Kupferblech.
+
+
+    Könnten Sie uns eine Offerte für die Sanierung machen? Im August haben wir die Eigentümerversammlung und möchten das dort traktandieren.
+
+
+    Fotos anbei.
+
+
+    Freundliche Grüsse
+
+    Thomas Reding
+
+    Seestrasse 18
+
+    6440 Brunnen
+
+    079 000 41 27
+
+    '
+- file: request/2026-05-13_Mail_EFoe_Weiterleitung.eml
+  id: m2
+  from: EFoe
+  to: RBe
+  date: '2026-05-13T08:17:00'
+  subject: 'WG: Terrasse undicht, Bitte um Offerte'
+  body: 'Hallo Reto
+
+
+    zur Bearbeitung, Lead L-2026-158 im KC erfasst (Privatkunde, neu). Fotos waren keine dabei.
+
+
+    Gruss Erika
+
+    '
+  quote:
+  - m1
+- file: request/2026-05-20_Mail_Reding_Plan.eml
+  id: m3
+  from: reding
+  to: RBe
+  date: '2026-05-20T21:05:00'
+  subject: 'AW: Plan Attika'
+  attach_plan: true
+  body: 'Guten Abend Herr Betschart
+
+
+    Wie besprochen der Plan vom Attikageschoss (von 1993, leider nur als Scan). Die Terrasse geht ja noch um die Ecke beim Sitzplatz, deshalb ist sie glaub eher grösser als die 70 m2.
+
+
+    Fotos schicke ich Ihnen noch, ich bin gerade nicht zuhause. Ab dem 25. Mai bin ich dann bis am 20. Juli geschäftlich in Asien, per Mail bin ich aber erreichbar.
+
+
+    Freundliche Grüsse
+
+    Thomas Reding
+
+    '
+  quote_inline:
+  - from: RBe
+    to: reding
+    date: '2026-05-15T11:02:00'
+    subject: Plan Attika
+    body: 'Grüezi Hr. Reding
+
+      wie besprochen bitte Plan Attika per Mail.
+
+      Gruss R. Betschart
+
+
+      Gesendet von meinem iPhone'
+- file: request/2026-06-02_Mail_Talkessel_STWEG.eml
+  id: m4
+  from: kaelin
+  to: offerten@fronalp-mgh.ch
+  cc: reding
+  date: '2026-06-02T14:26:00'
+  subject: STWEG Seestrasse 18 Brunnen, Sanierung Terrasse Attika
+  mailer: Microsoft Outlook 16.0
+  body: 'Sehr geehrte Damen und Herren
+
+
+    Wir verwalten die Stockwerkeigentümergemeinschaft Seestrasse 18 in Brunnen. Herr Reding hat uns informiert, dass er Sie wegen der undichten Terrasse kontaktiert hat. Unser Hauswart hat die Fuge beim
+    Ablauf provisorisch abgedichtet; die Flecken in der Wohnung 3. OG sind seither nicht grösser geworden.
+
+
+    Wir weisen darauf hin, dass die Abdichtung der Terrasse zu den gemeinschaftlichen Teilen gehört. Auftraggeberin ist deshalb die STWEG, vertreten durch uns. Bitte adressieren Sie die Offerte an:
+
+    STWEG Seestrasse 18, c/o Talkessel Immobilien-Treuhand AG, Rebbergstrasse 25, 6430 Schwyz.
+
+
+    Der Plattenbelag gehört zum Sondernutzungsrecht der Attikawohnung. Bitte offerieren Sie deshalb die Wiederverwendung der bestehenden Steinplatten. Die Mehrkosten für einen neuen Belag würde Herr Reding
+    allenfalls selber tragen.
+
+
+    Gemäss unseren Unterlagen (Verkaufsdokumentation 1994) misst die Terrasse ca. 70 m2. Der Ausschuss rechnet mit einem Budget von rund CHF 70''000. Bitte berücksichtigen Sie auch Notüberläufe nach heutiger
+    Norm (SIA 271). Wir holen zwei weitere Offerten ein.
+
+
+    Damit wir die Unterlagen vor den Sommerferien vorbereiten können, benötigen wir Ihre Offerte bis spätestens 8. Juli 2026. Die Eigentümerversammlung findet am 27. August 2026 statt.
+
+
+    Freundliche Grüsse
+
+    Claudia Kälin
+
+    Bewirtschafterin STWEG
+
+    Talkessel Immobilien-Treuhand AG
+
+    Rebbergstrasse 25, 6430 Schwyz
+
+    Tel. +41 41 000 30 89
+
+    '
+- file: request/2026-06-03_Mail_EFoe_STWEG.eml
+  id: m5
+  from: EFoe
+  to: RBe
+  date: '2026-06-03T07:52:00'
+  subject: 'WG: STWEG Seestrasse 18 Brunnen, Sanierung Terrasse Attika'
+  body: 'Hallo Reto
+
+
+    gehört zu deinem Lead L-2026-158 (Reding). Habe die STWEG im KC neu erfasst (KC-21005).
+
+
+    Gruss Erika
+
+    '
+  quote:
+  - m4
+- file: operations/2026-06-22_Mail_Kran_Muotathal.eml
+  id: m6
+  from: kran
+  to: RBe
+  date: '2026-06-22T09:12:00'
+  subject: 'AW: Mobilkran Seestrasse 18 Brunnen'
+  body: 'Hoi Reto
+
+
+    Mobilkran 35 t für die Attika Seestrasse 18 ist ab KW 37 möglich. 16 Std auf 3 Einsätze geht, Mindestverrechnung 4 Std pro Einsatz. Die Bewilligung für den öffentlichen Grund bei der Gemeinde Ingenbohl
+    dauert erfahrungsgemäss 2 bis 3 Wochen, die beantragen wir, Gebühr wird weiterverrechnet.
+
+    Ansatz wie gehabt.
+
+
+    Gruss
+
+    Pius Gwerder
+
+    Disposition
+
+    '
+  quote_inline:
+  - from: RBe
+    to: kran
+    date: '2026-06-19T16:40:00'
+    subject: Mobilkran Seestrasse 18 Brunnen
+    body: 'Hoi Pius
+
+      brauche ca. 16h Kran Attika Seestr. 18 Brunnen, 3 Etappen, ab Sept. Bewilligung?
+
+      Gruss Reto'
+- file: request/2026-06-19_Mail_Talkessel_Besprechungsnotiz.eml
+  id: m_notes
+  from: kaelin
+  to: RBe
+  cc: reding
+  date: '2026-06-19T10:31:00'
+  subject: Besprechungsnotiz Terrasse Seestrasse 18 vom 18.06.2026
+  mailer: Microsoft Outlook 16.0
+  attach_notes: true
+  body: 'Guten Tag Herr Betschart, guten Tag Herr Reding
+
+
+    Besten Dank für die gestrige Besprechung. Im Anhang erhalten Sie unsere Notiz. Bitte melden Sie allfällige Korrekturen bis 24.06.2026.
+
+
+    Freundliche Grüsse
+
+    Claudia Kälin
+
+    Talkessel Immobilien-Treuhand AG
+
+    '
+- file: request/2026-07-01_Mail_Reding_Nachfrage.eml
+  id: m8
+  from: reding
+  to: RBe
+  date: '2026-07-01T07:14:00'
+  subject: Offerte Terrasse?
+  mailer: iPhone Mail (21F90)
+  body: 'Guten Morgen Herr Betschart
+
+    Gibt es schon etwas Neues wegen der Offerte? Frau Kälin braucht sie bis am 8. Juli.
+
+    Gruss Th. Reding
+
+    '
+- file: request/2026-07-01_Mail_RBe_Antwort.eml
+  id: m9
+  from: RBe
+  to: reding
+  date: '2026-07-01T12:03:00'
+  subject: 'AW: Offerte Terrasse?'
+  mailer: iPhone Mail (21F90)
+  body: 'Grüezi Hr. Reding
+
+    kommt bis 7.7. an Verwaltung, Sie in Kopie.
+
+    Gruss R. Betschart
+
+
+    Gesendet von meinem iPhone
+
+    '
+  quote:
+  - m8
+- file: offer/2026-07-07_Mail_RBe_Offerte.eml
+  id: m7
+  from: RBe
+  to: kaelin
+  cc: reding
+  date: '2026-07-07T16:48:00'
+  subject: Offerte OF-26-0178 Terrassensanierung Seestrasse 18 Brunnen
+  attach_offer: true
+  body: 'Grüezi Fr. Kälin
+
+
+    Anbei die Offerte wie besprochen. Grundofferte mit Wiederverwendung der Platten, neuer Belag als Eventualposition (Mehrpreis Hr. Reding).
+
+
+    Gruss
+
+    R. Betschart
+
+    '
+file_note:
+  file: operations/2026-05-15_Aktennotiz_RBe_Telefon_Reding.docx
+  fields:
+  - - Datum / Zeit
+    - 15.05.2026, 10:40
+  - - Erstellt von (Kürzel)
+    - RBe
+  - - Art
+    - Telefon
+  - - Gesprächspartner
+    - Hr. Th. Reding, Eigentümer Attika
+  - - Objekt / Projekt
+    - Seestrasse 18, Brunnen, Terrasse
+  - - CRM-Lead / Offerte
+    - L-2026-158
+  content:
+  - Terr. undicht seit Winter, Flecken an Decke 3. OG.
+  - Fläche gem. Kd. ca. 70 m2, eher 90?? inkl. Sitzplatz um Ecke. Plan folgt per Mail.
+  - Rand Kupfer, Stahlgeländer. 2 Abläufe, Fenstertüren 4 oder 5.
+  - Kd. ab 25.5. bis 20.7. im Ausland (Geschäft), Zugang Terr. nur über Wohnung. Besichtigung vorher nicht mögl., bin bis Ende Mai voll.
+  - Verwaltung Talkessel (Fr. Kälin), gehört evtl. STWEG?
+  - EV im Aug., Offerte bis Anf. Juli.
+  agreements:
+  - Kd. schickt Plan Attika
+  - Offerte nach Plan, evtl. ohne Besichtigung (H1)
+  todos:
+  - - Plan Attika senden
+    - Kd.
+    - 22.05.
+  - - Verwaltung klären wer Auftraggeber
+    - RBe
+    - offen
+meeting_notes:
+  mail_id: m_notes
+  file_name: Besprechungsnotiz_2026-06-18_STWEG_Seestrasse18.docx
+  title: Besprechungsnotiz
+  meta:
+  - - Objekt
+    - STWEG Seestrasse 18, 6440 Brunnen, Sanierung Terrasse Attika
+  - - Datum / Ort
+    - 18.06.2026, 14:00 bis 15:05 Uhr, Microsoft Teams
+  - - Teilnehmende
+    - Herr R. Betschart (Fronalp Metall & Gebäudehülle AG), Herr Th. Reding (Eigentümer Attika, zugeschaltet aus dem Ausland), Frau C. Kälin (Talkessel Immobilien-Treuhand AG, Notiz)
+  - - Verteiler
+    - Teilnehmende, Ausschuss STWEG
+  sections:
+  - - 1. Ausgangslage
+    - - Seit Winter 2025/26 Wasserflecken an der Decke der Wohnung 3. OG unter der Attikaterrasse. Abdichtung von 1994, Steinplatten in Splitt, Dachrand Kupfer, Stahlgeländer.
+      - Provisorische Abdichtung beim Ablauf durch den Hauswart (Mai 2026).
+      - Die Abdichtung ist gemeinschaftliches Eigentum der STWEG, der Plattenbelag Sondernutzungsrecht Attika.
+  - - 2. Fläche
+    - - Gemäss Fronalp nach Plan ca. 93 m2 inkl. Sitzplatz Ost. Gemäss Verkaufsdokumentation 1994 ca. 70 m2. Differenz wird in der Offerte ausgewiesen.
+  - - 3. Vorgehen
+    - - Herr Reding ist bis 20.07. im Ausland. Die Terrasse ist nur über die Attikawohnung zugänglich, eine Besichtigung vor der Offerte ist deshalb nicht möglich.
+      - Fronalp offeriert auf Basis Plan und Annahmen. Die Annahmen werden in der Offerte klar deklariert. Eine Besichtigung erfolgt vor der Ausführung.
+  - - 4. Technisches
+    - - '2 bestehende Dachabläufe, keine Notüberläufe vorhanden. Neu: 1 Notüberlauf.'
+      - 5 Fenstertüren (3 Wohnen, 2 Zimmer) sind anzuschliessen. Der neue Aufbau wird rund 12 cm höher; die Schwellen sind vor Ort zu prüfen.
+      - Dachrand wieder in Kupfer, passend zur Fassade.
+      - Das Stahlgeländer muss für die Arbeiten demontiert und danach wieder montiert werden. Die Geländerhöhe nach der Sanierung ist zu prüfen.
+      - Materialtransport nur per Kran (4. OG). Fronalp rechnet mit ca. 16 Stunden in 3 Einsätzen. Die Bewilligung für den öffentlichen Grund (Gemeinde Ingenbohl) organisiert Fronalp über das Kranunternehmen.
+      - Die Wohnung 3. OG ist bewohnt. Fenster und Fassade sind während der Arbeiten zu schützen.
+      - Die Verwaltung wünscht nach Abschluss einen Nachweis der Dichtheit.
+  - - 5. Kosten
+    - - 'Budget gemäss Vorgabe Ausschuss STWEG: rund CHF 70''000.'
+      - Fronalp schätzt bei vollständigem Neuaufbau mit Dämmung nach heutigem Stand CHF 70'000 bis 85'000.
+      - Grundofferte mit Wiederverwendung der bestehenden Platten (gemeinschaftliche Kosten). Ein neuer Belag wird als Eventualposition offeriert; die Mehrkosten trägt der Eigentümer Attika.
+      - Herr Reding bevorzugt neue Platten und entscheidet bis zur Versammlung.
+  - - 6. Termine
+    - - Offerte bis 08.07.2026 an die Verwaltung, Kopie an Herrn Reding.
+      - Eigentümerversammlung 27.08.2026.
+      - Ausführung frühestens ab September 2026.
+  todos:
+  - - Offerte an STWEG c/o Verwaltung
+    - Fronalp
+    - 08.07.2026
+  - - Entscheid Belag (neu oder wiederverwenden)
+    - Herr Reding
+    - 27.08.2026
+  - - Fotos Terrasse an Fronalp
+    - Herr Reding
+    - offen
+  footer: Ohne Gegenbericht innert 5 Tagen gilt diese Notiz als genehmigt. Schwyz, 19.06.2026, C. Kälin
+plan:
+  attachment_name: Scan_Plan_Attika.pdf
+  title:
+  - Überbauung Seestrasse 18, Brunnen
+  - Attikageschoss 1:100
+  - Plan Nr. 104, Index B
+  - 12.03.1993
+  - Bauatelier Lauerz
+  - Baueingabe
+  - gez. HU / gepr. ZW
+  labels:
+    main: Terrasse 64,5 m2
+    wing: Sitzplatz
+  rooms:
+    Zimmer 1:
+    - 0.0
+    - 5.2
+    - 4.0
+    - 9.4
+    Zimmer 2:
+    - 4.0
+    - 5.2
+    - 7.6
+    - 9.4
+    Wohnen / Essen:
+    - 7.6
+    - 5.2
+    - 12.4
+    - 10.8
+    Korridor:
+    - 0.0
+    - 9.4
+    - 7.6
+    - 10.8
+    Bad:
+    - 0.0
+    - 10.8
+    - 2.8
+    - 13.2
+    Du / WC:
+    - 2.8
+    - 10.8
+    - 4.6
+    - 13.2
+    Reduit:
+    - 4.6
+    - 10.8
+    - 6.2
+    - 13.2
+    Entrée:
+    - 6.2
+    - 10.8
+    - 9.0
+    - 13.2
+    Treppenhaus:
+    - 9.0
+    - 10.8
+    - 12.4
+    - 13.2
+    Küche:
+    - 12.4
+    - 6.5
+    - 16.8
+    - 9.6
+    Arbeiten:
+    - 12.4
+    - 9.6
+    - 16.8
+    - 13.2
+  common:
+  - Treppenhaus
+  entrance: Treppenhaus
+  doors:
+  - rooms:
+    - Entrée
+    - Treppenhaus
+    axis: x
+    at: 9.0
+    span:
+    - 11.4
+    - 12.3
+  - rooms:
+    - Korridor
+    - Entrée
+    axis: y
+    at: 10.8
+    span:
+    - 6.4
+    - 7.2
+  - rooms:
+    - Wohnen / Essen
+    - Entrée
+    axis: y
+    at: 10.8
+    span:
+    - 7.8
+    - 8.7
+  - rooms:
+    - Zimmer 1
+    - Korridor
+    axis: y
+    at: 9.4
+    span:
+    - 1.2
+    - 2.0
+  - rooms:
+    - Zimmer 2
+    - Korridor
+    axis: y
+    at: 9.4
+    span:
+    - 5.0
+    - 5.8
+  - rooms:
+    - Bad
+    - Korridor
+    axis: y
+    at: 10.8
+    span:
+    - 0.8
+    - 1.6
+  - rooms:
+    - Du / WC
+    - Korridor
+    axis: y
+    at: 10.8
+    span:
+    - 3.2
+    - 3.9
+  - rooms:
+    - Reduit
+    - Korridor
+    axis: y
+    at: 10.8
+    span:
+    - 5.0
+    - 5.7
+  - rooms:
+    - Küche
+    - Wohnen / Essen
+    axis: x
+    at: 12.4
+    span:
+    - 7.2
+    - 8.1
+  - rooms:
+    - Arbeiten
+    - Wohnen / Essen
+    axis: x
+    at: 12.4
+    span:
+    - 9.8
+    - 10.6
+  terrace_doors:
+  - room: Zimmer 1
+    axis: y
+    at: 5.2
+    span:
+    - 1.4
+    - 2.4
+  - room: Zimmer 2
+    axis: y
+    at: 5.2
+    span:
+    - 5.0
+    - 6.0
+  - room: Wohnen / Essen
+    axis: y
+    at: 5.2
+    span:
+    - 8.2
+    - 9.2
+  - room: Wohnen / Essen
+    axis: y
+    at: 5.2
+    span:
+    - 9.6
+    - 10.6
+  - room: Wohnen / Essen
+    axis: y
+    at: 5.2
+    span:
+    - 11.0
+    - 12.0
+  windows:
+  - room: Küche
+    axis: y
+    at: 6.5
+    span:
+    - 13.6
+    - 15.2
+  - room: Küche
+    axis: x
+    at: 16.8
+    span:
+    - 7.2
+    - 8.6
+  - room: Arbeiten
+    axis: x
+    at: 16.8
+    span:
+    - 11.0
+    - 12.4
+  - room: Zimmer 1
+    axis: x
+    at: 0.0
+    span:
+    - 6.8
+    - 8.0
+  - room: Bad
+    axis: y
+    at: 13.2
+    span:
+    - 0.8
+    - 1.8
+  - room: Treppenhaus
+    axis: y
+    at: 13.2
+    span:
+    - 10.0
+    - 11.4
+  drains:
+  - - 0.7
+    - 0.7
+  - - 16.1
+    - 0.7
+costing:
+  file: operations/Kalkulation_OF-26-0178_BUl.xlsx
+  notes:
+  - 'Fläche aus Plan 104/1993: 12.40 x 5.20 + 4.40 x 6.50'
+  - 'Platten neu (Eventualpos.): Faustregel +10 %, aufgerundet'
+  - 'Regie Reserve ohne Besichtigung: 12 h A + 12 h B + 800.- Material (Faustregel 2025)'
+  - Rabatt 2 % Stammkunde Verwaltung (Talkessel), Freigabe CSc tel. 06.07.
+  - 'Vergleich P-23-054 Seewen: Fläche effektiv +4.5 % ggü. Plan, Überzug dicker als angenommen'
+  - Equipe 3 Mann, ca. 12 AT; Kran 3 Einsätze
+systems_note: Freigabe tel. CSc 06.07., OF raus 07.07., EV 14.7. abwarten
+crm_print:
+  file: operations/KundenCockpit_Lead_L-2026-158_Druck.pdf
+  printed: 06.07.2026 16:20
+  by: RBe
+  lead:
+  - - Lead
+    - L-2026-158
+  - - Titel
+    - Terrasse undicht Seestrasse 18 Brunnen
+  - - Bereich
+    - Projektgeschäft
+  - - Status
+    - in Bearbeitung
+  - - Verantwortlich
+    - RBe
+  - - Kontakt
+    - KC-21002 Thomas Reding (Privat)
+  - - Erstellt
+    - 13.05.2026 EFö
+  - - Wert geschätzt
+    - CHF 80'000
+  contacts:
+  - - KC-21002
+    - Thomas Reding
+    - Seestrasse 18, 6440 Brunnen
+    - +41 79 000 41 27
+    - thomas.reding@talnet-mail.ch
+    - Privat, neu 13.05.2026
+  - - KC-21005
+    - Stockwerkeigentümergemeinschaft Seestrasse 18
+    - c/o Talkessel Immobilien-Treuhand AG, Rebbergstrasse 25, 6430 Schwyz
+    - +41 41 000 30 89
+    - claudia.kaelin@talkessel-schwyz.ch
+    - 'Firma, neu 03.06.2026, ERP: -'
+  - - KC-20017
+    - Talkessel Immobilien-Treuhand AG
+    - Rebbergstrasse 25, 6430 Schwyz
+    - +41 41 000 30 89
+    - claudia.kaelin@talkessel-schwyz.ch
+    - Verwaltung, Kunde seit 2000 (Import 2022), ERP -
+  activities:
+  - - 13.05.2026
+    - EFö
+    - Mail
+    - Anfrage per Mail offerten@, Lead erfasst, an RBe
+  - - 15.05.2026
+    - RBe
+    - Telefon
+    - Tel. Kd., Plan folgt, Besichtigung erst nach 20.7. mögl.
+  - - 03.06.2026
+    - EFö
+    - Mail
+    - 'Verwaltung Talkessel: Auftraggeberin STWEG, als Firma erfasst KC-21005'
+  - - 18.06.2026
+    - RBe
+    - Termin
+    - Teams mit Fr. Kälin und Hr. Reding, Notiz von Verwaltung am 19.06. erhalten
+  - - 19.06.2026
+    - RBe
+    - Mail
+    - Kran Muotathal angefragt, 16 h in 3 Einsätzen
+  - - 22.06.2026
+    - RBe
+    - Mail
+    - Zusage Kran ab KW 37
+  - - 06.07.2026
+    - RBe
+    - Telefon
+    - Freigabe tel. CSc, 2 % Rabatt wie Stammkunde Talkessel ok

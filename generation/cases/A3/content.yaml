@@ -1,0 +1,288 @@
+# Text sources for Case A3 documents (Swiss German). Rendered by generation/scripts/build_case.py.
+people:
+  schmidig: "Franziska Schmidig <franziska.schmidig@wohnbaugenossenschaft-schwyz.ch>"
+  gwerder: "Bruno Gwerder <bruno.gwerder@wohnbaugenossenschaft-schwyz.ch>"
+  info: "Fronalp Info <info@fronalp-mgh.ch>"
+
+mails:
+  - file: request/2026-09-28_Mail_Schmidig_Anfrage_Gelaender.eml
+    id: m1
+    from: schmidig
+    to: info
+    date: "2026-09-28T07:52:00"
+    subject: "Lockeres Balkongeländer Rütimattstrasse 13, Prüfung Geländer"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Guten Morgen
+
+      Am Wochenende hat uns eine Mieterin an der Rütimattstrasse 13 gemeldet, dass ihr Balkongeländer wackelt. Der Hauswart hat es provisorisch mit einem Spannset gesichert.
+
+      Der Vorstand möchte jetzt die Geländer der ganzen Siedlung Rütimatt prüfen lassen, wie Sie das letztes Jahr in der Bachmatt gemacht haben. Können Sie mich bitte heute zurückrufen?
+
+      Freundliche Grüsse
+      Franziska Schmidig
+      Vorstand, Ressort Bau
+      Wohnbaugenossenschaft Talkessel
+      Gartenweg 4, 6430 Schwyz
+      078 000 18 59
+  - file: request/2026-09-28_Mail_EFoe_Weiterleitung.eml
+    id: m2
+    from: EFoe
+    to: CSc
+    date: "2026-09-28T08:35:00"
+    subject: "WG: Lockeres Balkongeländer Rütimattstrasse 13, Prüfung Geländer"
+    quote: [m1]
+    body: |
+      Hallo Claudia
+
+      Anfrage WBG Talkessel, Kontakt KC-30914 im KC gefunden, Lead L-2026-249 erfasst. Frau Schmidig möchte heute einen Rückruf.
+
+      Gruss Erika
+  - file: request/2026-10-01_Mail_CSc_Richtofferte.eml
+    id: m3
+    from: CSc
+    to: schmidig
+    date: "2026-10-01T16:20:00"
+    subject: "Richtofferte OF-26-0236 Geländerprüfung Siedlung Rütimatt"
+    mailer: "Microsoft Outlook 16.0"
+    attach_files: [operations/OF-26-0236_Richtofferte_Gelaenderpruefung_Ruetimatt.pdf]
+    body: |
+      Grüezi Frau Schmidig
+
+      Wie am Montag besprochen erhalten Sie im Anhang unsere Richtofferte für die Prüfung der Balkongeländer in der Siedlung Rütimatt, als Grundlage für Ihre Vorstandssitzung vom 20. Oktober. Die Treppenhäuser sind wie vereinbart nicht enthalten, da sie 2015 erneuert wurden.
+
+      Die Richtofferte ist unverbindlich und hat eine Genauigkeit von ±25 %, da wir die Siedlung noch nicht gesehen haben. Nach dem Entscheid des Vorstands senden wir Ihnen gerne eine verbindliche Honorarofferte.
+
+      Bitte lassen Sie den Balkon an der Rütimattstrasse 13 bis zur Reparatur gesperrt.
+
+      Freundliche Grüsse
+      Claudia Schuler
+      Geschäftsführerin
+      Fronalp Metall & Gebäudehülle AG
+      Werkhofstrasse 12, 6438 Ibach
+      +41 41 000 12 00
+  - file: request/2026-10-21_Mail_Gwerder_Vorstand.eml
+    id: m4
+    from: gwerder
+    to: CSc
+    cc: schmidig
+    date: "2026-10-21T19:45:00"
+    subject: "AW: Richtofferte OF-26-0236 Geländerprüfung Siedlung Rütimatt"
+    mailer: "Mail für iPhone"
+    quote: [m3]
+    body: |
+      Sehr geehrte Frau Schuler
+
+      Der Vorstand hat an der Sitzung vom 20. Oktober der Geländerprüfung zugestimmt. Nach dem Vorfall an der Rütimattstrasse 13 verlangt unsere Haftpflichtversicherung aber, dass alle Geländer der Siedlung geprüft werden, also alle 40 Balkone und auch die Treppenhäuser.
+
+      Bitte senden Sie uns eine verbindliche Offerte. Den Bericht möchten wir an der Vorstandssitzung vom 19. Januar 2027 von Ihnen vorgestellt haben. Den Auftrag unterschreibe ich als Präsident, Frau Schmidig bleibt Ihre Ansprechperson.
+
+      Freundliche Grüsse
+      Bruno Gwerder
+      Präsident Wohnbaugenossenschaft Talkessel
+  - file: request/2026-10-22_Mail_CSc_Rueckfrage_Treppenhaeuser.eml
+    id: m5
+    from: CSc
+    to: schmidig
+    date: "2026-10-22T08:10:00"
+    subject: "Geländerprüfung Rütimatt, Treppenhäuser und Termine"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Grüezi Frau Schmidig
+
+      Herr Gwerder hat uns geschrieben, dass nun auch die Treppenhäuser geprüft werden sollen. Wissen Sie oder der Hauswart, wie die Treppenhausgeländer von 2015 befestigt sind und wie viele Befestigungen es etwa pro Haus hat? Und ab wann könnten die Mieter für die Aufnahme informiert werden?
+
+      Freundliche Grüsse
+      Claudia Schuler
+  - file: request/2026-10-23_Mail_Schmidig_Treppenhaeuser.eml
+    id: m6
+    from: schmidig
+    to: CSc
+    date: "2026-10-23T11:30:00"
+    subject: "AW: Geländerprüfung Rütimatt, Treppenhäuser und Termine"
+    mailer: "Microsoft Outlook 16.0"
+    quote: [m5]
+    body: |
+      Grüezi Frau Schuler
+
+      Herr Marty, unser Hauswart, sagt, die Geländer und Handläufe in den Treppenhäusern sind seitlich an der Treppe angeschraubt. Er hat im Haus 11 nachgezählt und kommt auf 16 Befestigungen, in den anderen Häusern ist es gleich.
+
+      Die Mieter informieren wir mit einem Aushang eine Woche vorher. Termine sind ab dem 9. November möglich, Herr Marty begleitet Sie.
+
+      Das Geländer an der Rütimattstrasse 13 hat Ihr Monteur am 6. Oktober repariert, der Anker war im Beton ausgebrochen. Herr Marty hat danach an allen Balkongeländern von Hand gerüttelt und nichts Auffälliges gefunden.
+
+      Freundliche Grüsse
+      Franziska Schmidig
+  - file: operations/2026-10-26_Mail_SKae_Stunden.eml
+    id: m7
+    from: SKae
+    to: CSc
+    date: "2026-10-26T09:20:00"
+    subject: "Rütimatt Geländer, meine Stunden"
+    body: |
+      Hallo Claudia
+
+      Für die Rütimatt mit den Treppenhäusern rechne ich 4 Std vor Ort für die Befestigungen und die Korrosion, 3 Std für die Auszugsversuche und Massnahmen im Bericht und 4 Std Kostenschätzung. David macht die Auszugsversuche, er hat in der Woche vom 16. November Zeit.
+
+      Gruss Sandra
+  - file: offer/2026-10-27_Mail_CSc_Honorarofferte.eml
+    id: m8
+    from: CSc
+    to: gwerder
+    cc: schmidig
+    date: "2026-10-27T15:50:00"
+    subject: "Honorarofferte OF-26-0254 Geländerprüfung Siedlung Rütimatt"
+    mailer: "Microsoft Outlook 16.0"
+    attach_offer: true
+    quote: [m4]
+    body: |
+      Sehr geehrter Herr Gwerder
+
+      Besten Dank für den Entscheid des Vorstands. Im Anhang erhalten Sie unsere verbindliche Honorarofferte für die Prüfung aller Geländer der Siedlung Rütimatt.
+
+      Gegenüber der Richtofferte vom 1. Oktober sind auf Wunsch Ihrer Versicherung die drei Treppenhäuser dazugekommen, dazu die Präsentation an der Vorstandssitzung vom 19. Januar 2027, ein Nachtermin für Mieter, die wir nicht antreffen, und eine Startbesprechung mit Frau Schmidig. Vor Rabatt ergibt das:
+
+      - Treppenhäuser mit 6 zusätzlichen Auszugsversuchen: CHF 1'527.50
+      - Präsentation im Vorstand: CHF 495.00
+      - Nachtermin: CHF 250.00
+      - Startbesprechung: CHF 185.00
+      - Koordination drittes Haus, zweiter Prüftag und Fahrten: CHF 226.20
+
+      Zusammen sind das CHF 2'683.70 vor Rabatt; der Umfang bei den Balkonen ist gleich geblieben. Deshalb liegt das Honorar über der Bandbreite von ±25 % der Richtofferte.
+
+      Zu den Balkonen: Die Siedlung hat 40 Wohnungen, aber nur 36 Balkone. Die vier Wohnungen im Erdgeschoss haben Sitzplätze ohne Geländer, diese sind nicht Teil der Prüfung.
+
+      Die Auszugsversuche machen wir als Stichprobe an rund 10 % der Anker, ausgewählt nach der Sichtprüfung. Bitte klären Sie mit Ihrer Versicherung, ob ihr dieses Vorgehen genügt.
+
+      Die Aufnahme planen wir ab Mittwoch, 11. November, die Auszugsversuche in der Woche vom 16. November. Bitte nennen Sie im Aushang auch diese Woche, weil wir für die Versuche rund 15 Wohnungen ein zweites Mal betreten. Rote Befunde melden wir Frau Schmidig und Herrn Marty am gleichen Tag. Den Bericht erhalten Sie bis am 18. Dezember 2026.
+
+      Freundliche Grüsse
+      Claudia Schuler
+      Geschäftsführerin
+      Fronalp Metall & Gebäudehülle AG
+      Werkhofstrasse 12, 6438 Ibach
+      +41 41 000 12 00
+
+file_notes:
+  - file: operations/2026-09-28_Aktennotiz_CSc_Telefon_Schmidig.docx
+    fields:
+      - [Datum / Zeit, "28.09.2026, 10:15"]
+      - [Erstellt von (Kürzel), CSc]
+      - [Art, Telefon]
+      - [Gesprächspartner, "Fr. F. Schmidig, Wohnbaugenossenschaft Talkessel, Ressort Bau"]
+      - [Objekt / Projekt, "Siedlung Rütimatt, Rütimattstrasse 11, 13, 15, Schwyz, Geländerprüfung (L-2026-249)"]
+    content:
+      - "3 Häuser von 1968, je 12 Wohnungen mit Balkon im 1. bis 3. OG (4 pro Geschoss). Im EG Haus 11 zwei Wohnungen, Haus 13 und 15 je eine, alle mit Sitzplatz ohne Geländer; total 40 Wohnungen."
+      - "Balkongeländer original: Stahl, Querstäbe, ca. 90 cm hoch, 2 Pfosten auf Fussplatte mit je 2 Dübeln (Angabe Hauswart)."
+      - "Geländer Haus 13, 2. OG wackelt, Hauswart hat mit Spannset gesichert. Gesagt: Balkon nicht benützen, bis repariert ist."
+      - "Treppenhäuser 2015 erneuert, Geländer und Handläufe neu. Abgemacht: nur die Balkone prüfen, Treppenhäuser nicht."
+      - "Vorgehen wie Bachmatt 2025 mit Auszugsversuchen und Ampel. Vorstand tagt am 20.10. und braucht eine Zahl fürs Budget."
+    agreements:
+      - "Richtofferte nur Balkone bis Ende Woche"
+      - "Reparatur Geländer Haus 13 separat nach Regie durch Montage Metallbau"
+    todos:
+      - [Richtofferte, CSc, "01.10.2026"]
+      - [Reparatur Geländer Haus 13 einplanen, SKä, "02.10.2026"]
+
+crm_print:
+  file: operations/KundenCockpit_Lead_L-2026-249_Druck.pdf
+  printed: "27.10.2026 15:35"
+  by: CSc
+  lead:
+    - [Lead, L-2026-249]
+    - [Titel, Geländerprüfung Siedlung Rütimatt Schwyz]
+    - [Bereich, Beratung]
+    - [Status, offeriert]
+    - [Verantwortlich, CSc]
+    - [Kontakt, "KC-30914 WBG Talkessel (Genossenschaft)"]
+    - [Erstellt, "28.09.2026 EFö"]
+    - [Wert geschätzt, "CHF 6'500"]
+  contacts:
+    - [KC-30914, WBG Talkessel, "Frau Franziska Schmidig, Gartenweg 4, 6430 Schwyz", "+41 41 000 39 29", "", "Genossenschaft, Import 2022, kein ERP Debitor"]
+  activities:
+    - ["28.09.2026", "EFö", "Mail", "Anfrage Geländerprüfung Siedlung Rütimatt, Lead erfasst, an CSc"]
+    - ["28.09.2026", "CSc", "Telefon", "Nur Balkone, Treppenhäuser 2015 neu. Richtofferte bis Ende Woche"]
+    - ["01.10.2026", "CSc", "Offerte", "Richtofferte OF-26-0236 Geländerprüfung Balkone"]
+    - ["21.10.2026", "CSc", "Mail", "Präsident: Vorstand einverstanden, alle Geländer inkl. Treppenhäuser, verbindliche Offerte"]
+
+cost_estimate:
+  file: operations/OF-26-0236_Richtofferte_Gelaenderpruefung_Ruetimatt.docx
+  number: OF-26-0236
+  date: 2026-10-01
+  valid_until: 2027-01-01
+  discount: 0.02
+  recipient: ["Wohnbaugenossenschaft Talkessel", "Frau Franziska Schmidig", "Gartenweg 4", "6430 Schwyz"]
+  subject: "Siedlung Rütimatt, Rütimattstrasse 11, 13 und 15, Schwyz, Prüfung der Balkongeländer"
+  signed_by: CSc
+  payment_terms: "30 Tage netto"
+  norms_named: ["SIA 358", "bfu"]
+  sections:
+    - title: "1 Grundlagen und Vorbereitung"
+      lines:
+        - {code: "99.100.08", qty: 2, text: "Unterlagen sichten, Terminplan und Mieterinformation"}
+    - title: "2 Aufnahme vor Ort und Auszugsversuche"
+      lines:
+        - {code: "99.100.08", qty: 12, text: "Aufnahme 36 Balkongeländer"}
+        - {code: "99.100.07", qty: 3, text: "Beurteilung Befestigungen und Korrosion vor Ort"}
+        - {code: "99.100.01", qty: 7.5, text: "15 Auszugsversuche (je Haus 5) inkl. Verschliessen der Prüfstellen"}
+        - {code: "99.110.01", qty: 1, text: "Fahrzeugpauschale Prüftag"}
+    - title: "3 Bericht mit Ampelbewertung"
+      lines:
+        - {code: "99.100.08", qty: 14, text: "Datenblatt pro Balkongeländer mit Fotos und Ampel, Zusammenfassung"}
+        - {code: "99.100.07", qty: 2, text: "Beurteilung Auszugsversuche, Massnahmen"}
+        - {code: "99.100.06", qty: 2, text: "Durchsicht Bericht"}
+    - title: "4 Massnahmen und Kostenschätzung"
+      lines:
+        - {code: "99.100.07", qty: 3, text: "Kostenschätzung Massnahmen (±25 %)"}
+        - {code: "99.100.08", qty: 2, text: "Massnahmenliste nach Haus und Dringlichkeit"}
+    - title: "Spesen"
+      lines:
+        - {code: "98.120.01", qty: 18, text: "3 Fahrten Ibach Schwyz und zurück, je 6 km"}
+  exclusions:
+    - "Treppenhausgeländer (2015 erneuert, gemäss Telefon vom 28.09.2026 nicht Teil der Prüfung)"
+    - "Reparatur des Geländers Rütimattstrasse 13 und weiterer Geländer"
+    - "Präsentation im Vorstand (auf Wunsch nach Aufwand)"
+  assumptions:
+    - "36 Balkone (je Haus 12 im 1. bis 3. OG), Balkongeländer mit 2 Pfosten und je 2 Ankern"
+    - "Ohne Besichtigung, Angaben gemäss Telefon vom 28.09.2026"
+  client_provisions:
+    - "Information der Mieter und Zugang zu den Wohnungen"
+  reservations: []
+  texts:
+    salutation: "Sehr geehrte Frau Schmidig"
+    intro: ["Besten Dank für das Telefon vom 28. September 2026. Für die Budgetierung im Vorstand erhalten Sie unsere Richtofferte für die Prüfung der Balkongeländer."]
+    situation:
+      - "In der Siedlung Rütimatt ist ein Balkongeländer an der Rütimattstrasse 13 locker. Die Genossenschaft möchte alle Balkongeländer der drei Häuser von 1968 prüfen lassen, im gleichen Vorgehen wie 2025 in der Siedlung Bachmatt."
+    documents: ["Angaben von Frau Schmidig und dem Hauswart am Telefon"]
+    phase_scope:
+      "2 Aufnahme vor Ort und Auszugsversuche": ["Sichtprüfung und Messung jedes Balkongeländers, Auszugsversuche an einer Stichprobe der Anker"]
+      "3 Bericht mit Ampelbewertung": ["Datenblatt pro Geländer mit Ampel Grün, Gelb oder Rot"]
+    accuracy_note: "Es handelt sich um eine unverbindliche Richtofferte mit einer Genauigkeit von ±25 %, erstellt ohne Besichtigung (ungefährer Kostenansatz nach Art. 375 OR). Nach dem Entscheid des Vorstands erhalten Sie eine verbindliche Honorarofferte."
+    schedule: ["Aufnahme im November 2026 möglich, Bericht rund vier Wochen nach der Aufnahme."]
+    signature_role: "Geschäftsführerin, Bauingenieurin FH"
+
+fee_offer:
+  salutation: "Sehr geehrter Herr Gwerder"
+  intro:
+    - "Besten Dank für Ihr Mail vom 21. Oktober 2026 und die Auskünfte von Frau Schmidig. Gerne offerieren wir der Wohnbaugenossenschaft Talkessel die Prüfung aller Geländer der Siedlung Rütimatt."
+    - "Gegenüber unserer Richtofferte OF-26-0236 vom 1. Oktober 2026, die nur die Balkongeländer umfasste, sind auf Wunsch Ihrer Haftpflichtversicherung die drei Treppenhausgeländer mit ihren Auszugsversuchen dazugekommen, ebenso die Präsentation im Vorstand, ein Nachtermin für nicht angetroffene Mieter und eine Startbesprechung."
+  situation:
+    - "An der Rütimattstrasse 13 hat sich im September 2026 ein Balkongeländer gelockert, der Anker war im Beton ausgebrochen; es wurde am 6. Oktober 2026 repariert. Der Hauswart hat danach alle Balkongeländer von Hand geprüft; das ersetzt die Auszugsversuche nicht, weil ein ausgebrochener Anker von aussen oft nicht sichtbar ist. Die Balkongeländer der drei Häuser von 1968 sind original, die Treppenhausgeländer wurden 2015 erneuert."
+    - "Die Siedlung hat 40 Wohnungen und 36 Balkone; die vier Wohnungen im Erdgeschoss haben Sitzplätze ohne Geländer."
+    - "Der Vorstand und die Versicherung möchten wissen, welche Geländer sicher sind, wo sofort gehandelt werden muss und welche Massnahmen in den nächsten Jahren zu budgetieren sind."
+  documents: ["Angaben von Frau Schmidig (Telefon 28.09.2026, Mail 23.10.2026) und des Hauswarts", "Mail des Präsidenten vom 21.10.2026", "Unser Bericht Siedlung Bachmatt 2025 als Vorlage"]
+  phase_scope:
+    "1 Grundlagen und Vorbereitung": ["Terminplan für 36 Wohnungen und 3 Treppenhäuser mit dem Hauswart, Aushang für die Mieter", "Startbesprechung mit dem Ressort Bau"]
+    "2 Aufnahme vor Ort und Auszugsversuche": ["Sichtprüfung und Messung jedes Geländers: Höhe, Öffnungen, Bekletterbarkeit, Korrosion, Befestigung und Spiel von Pfosten und Handlauf", "Beurteilung der Befestigungen durch unsere Projektleiterin Metallbau, Sandra Kälin", "Auszugsversuche mit unserem kalibrierten Prüfgerät an 21 Ankern (je Haus 5 an den Balkonen und 2 im Treppenhaus, rund 10 %), ausgewählt nach der Sichtprüfung nach Risiko (Korrosion, Spiel, Wetterseite); ausgeführt durch einen Monteur", "Zerstörungsfreie Zugprüfung mit einer Prüflast, die unsere Projektleiterin Metallbau aus der Geländerlast festlegt; bestanden, wenn der Anker bei gehaltener Last nicht nachgibt und keine Risse entstehen; Protokoll pro Anker mit Ort, Last, Haltezeit, Resultat und Foto; die Prüfstellen werden verschlossen", "Ein Nachtermin für Mieter, die wir nicht antreffen"]
+    "3 Bericht mit Ampelbewertung": ["Datenblatt pro Geländer mit Fotos, Messwerten und Ampel", "Grün: sicher und gebrauchstauglich, nur Unterhalt (z. B. Schrauben nachziehen, Rostschutz punktuell), keine Frist", "Gelb: keine akute Absturzgefahr, aber Mangel am Zustand (beginnende Korrosion am Pfostenfuss, Spiel) oder Abweichung vom heutigen Stand nach SIA 358 und bfu (Höhe unter 1.00 m, bekletterbar, Öffnungen über 12 cm); Massnahme in 1 bis 2 Jahren oder Nachrüstung in der Massnahmenplanung. Das Datenblatt nennt die Art (Zustand oder Abweichung) und die Frist. Abweichungen, die alle Geländer desselben Typs betreffen, weisen wir einmal pro Typ aus", "Rot: Absturzgefahr oder ungenügende Tragfähigkeit (Auszugsversuch nicht bestanden, starke Korrosion, lockere Befestigung); Meldung und Sicherung am gleichen Tag, Reparatur sofort"]
+    "4 Massnahmen und Kostenschätzung": ["Massnahmenliste nach Haus und Dringlichkeit, Kostenschätzung (±25 %) für die gelben und roten Geländer"]
+    "5 Präsentation im Vorstand": ["Vorstellung von Bericht und Massnahmen an der Vorstandssitzung vom 19. Januar 2027"]
+    "Option: Massnahmenplan und Ausschreibungsunterlagen": ["Massnahmenplan, Leistungsverzeichnis, Pläne und Fotodokumentation für die Ausschreibung der Geländersanierung", "Kann nach dem Bericht bestellt werden"]
+  schedule:
+    - "Aufnahme ab Mittwoch, 11. November 2026, Auszugsversuche in der Woche vom 16. November, Nachtermin bis Ende November."
+    - "Bericht mit Ampelbewertung und Kostenschätzung bis Freitag, 18. Dezember 2026. Präsentation an der Vorstandssitzung vom 19. Januar 2027."
+    - "Voraussetzung ist die Auftragserteilung bis Montag, 2. November 2026, damit der Aushang eine Woche vorher hängt."
+  options_note: "Die Option kann mit dem Auftrag oder nach dem Bericht bestellt werden."
+  closing: ["Bericht und Kostenschätzung dürfen für die Ausschreibung der Geländersanierung verwendet werden. Erstellen wir die Ausschreibungsunterlagen (Option), beteiligen wir uns nicht selbst an der Ausschreibung.", "Wir danken Ihnen für Ihr Vertrauen und stehen für Fragen gerne zur Verfügung."]
+  order_by: "für die Wohnbaugenossenschaft Talkessel"
+  signature_role: "Geschäftsführerin, Bauingenieurin FH"

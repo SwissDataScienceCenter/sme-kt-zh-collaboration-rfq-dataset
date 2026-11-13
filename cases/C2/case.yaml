@@ -1,0 +1,239 @@
+# Story bible and ground truth for Case C2 (ADR 0006, case_quality.md §2). Q41 to Q46 answered by the maintainer 2026-11-11.
+id: C2
+title: Aussentreppe Stahl zum Balkon, Einfamilienhaus Gibelweg 7, Morschach
+business_line: custom_build
+offer_type: lump_sum_offer
+difficulty: hard                 # outdated dimensions, hand sketch, budget hint, old Word template
+dates:
+  first_contact: 2026-08-10      # Monday evening, after the company holidays
+  site_visit: 2026-08-14         # Friday
+  offer: 2026-08-27              # Thursday
+  valid_until: 2026-11-27
+
+customer:
+  ref: new                       # private couple, new customer (B2C)
+  name: Marco und Petra Rickenbacher, Gibelweg 7, 6443 Morschach
+  contact: Herr Marco Rickenbacher
+object:
+  address: Gibelweg 7, 6443 Morschach (Einfamilienhaus am Hang, Gartensitzplatz Südseite)
+  description: Neue gerade Aussentreppe Stahl vom Gartensitzplatz zum Balkon 1. OG entlang der Fassade, als direkter Zugang zur neuen Einliegerwohnung im Obergeschoss.
+staff: {owner: SKae, involved: [EFoe, TRe, RHe]}
+
+facts:
+  height_slab: 2.78              # site measurement SKä: seating area (finished) to balcony slab
+  tiles_new: 0.04                # customer mail 24.08.: new balcony tiles in mortar
+  run_available: 4.20            # site measurement: facade to garden path
+  width: 1.00
+  height_first_mail: 2.60        # outdated (C2-F1)
+  run_first_mail: 4.50           # outdated (C2-F1)
+  budget_hint: 24000             # phone note SKä, incl. everything (C2-F3)
+  zone: 1                        # Morschach
+derived:
+  height: "round(F.height_slab + F.tiles_new, 2)"                       # 2.82
+  risers: "ceil(round(F.height / 0.18, 6))"                             # 16
+  treads: "F.risers - 1"                                                # 15
+  rise: "round(F.height / F.risers, 4)"                                 # 0.1762
+  going: "floor(round((F.run_available - 0.15) / F.treads * 100, 6)) / 100"   # 0.27 (15 cm before the foot)
+  run_used: "round(F.going * F.treads, 2)"                              # 4.05
+  diag: "round(sqrt(F.run_used ** 2 + F.height ** 2), 2)"               # 4.94
+  stringer: "round(F.diag + 0.34, 2)"                                   # 5.28
+  railing: "ceil(round((F.diag + 0.5) * 10, 6)) / 10"                   # 5.5
+  handrail_wall: "ceil(round((F.diag + 0.1) * 10, 6)) / 10"             # 5.1
+  stair_kg: "round(2 * F.stringer * 18.84 + 4 * F.treads + 24, 1)"      # 283.0
+  bars_kg: "round(F.treads * 1.0 * 2.51, 2)"                            # 37.65, rise over 15 cm
+  coat_A: "ceil(round(0.4 * F.risers + 2.0 * F.railing + 0.15 * F.railing + 0.25, 6))"   # 19 (incl. railing handrail and new post)
+  coat_B: "ceil(round(1.2 * F.railing + 0.15 * F.handrail_wall + 0.25, 6))"   # 8 (incl. new post)
+  holders: "ceil(F.handrail_wall)"                                      # 6
+checks:
+  - "F.risers == 16 and F.treads == 15 and F.going == 0.27"
+  - "0.62 <= 2 * F.rise + F.going <= 0.64 and F.rise <= 0.18"
+  - "F.run_used + 0.15 <= F.run_available"
+  - "F.stringer <= 5.5 and F.stringer * 18.84 <= 150"                    # own loader crane
+  - "F.railing == 5.5 and F.coat_A == 19 and F.coat_B == 8"
+
+timeline:
+  - "2026-08-10 21:14 Marco Rickenbacher mailt an info@ mit Foto einer Bleistiftskizze: Höhe ca. 2.60 m laut alten Plänen, Platz ca. 4.50 m, anthrazit wie die Fenster, keine Ahnung was es alles braucht."
+  - "2026-08-11 07:50 EFö erfasst Kontakt KC-21036 und Lead L-2026-224, leitet an SKä weiter."
+  - "2026-08-11 10:30 SKä telefoniert (Aktennotiz): Budget ca. 24'000 alles inklusive, alles aus einer Hand, Einzug Mutter im Dezember, Besichtigung Fr 14.08."
+  - "2026-08-14 16:00 Besichtigung SKä (Aktennotiz mit Aufmass): 2.78 m bis Balkonplatte, 4.20 m bis Gartenweg, Treppe rechts vom Wohnzimmerfenster (Skizze falsch), Geländer Lochblech wie Nachbarn gewünscht, Balkongeländer öffnen, Kran nötig, Gesamtpaket erklärt."
+  - "2026-08-17 SKä fragt Statik Talkessel AG und Bauunternehmung Hinteribach AG an (Höhe ca. 2.80 m, Belag offen)."
+  - "2026-08-19 Hinteribach offeriert 2 Fundamente pauschal 2'830, Fels CHF 380 pro m3."
+  - "2026-08-20 Statik Talkessel offeriert Bemessung inkl. Balkonplatte pauschal 1'250."
+  - "2026-08-24 Rickenbacher: neue Balkonplatten +4 cm; Frage nach einem Türchen im Balkongeländer für die Enkel."
+  - "2026-08-25 TRe prüft: 27 cm Auftritt mit Platz vor dem Antritt, Zwischenstäbe wegen der Enkel, Lochblech 4 h pro m, verschraubte Stufen als günstige Variante."
+  - "2026-08-27 16:10 SKä sendet die Pauschalofferte OF-26-0209 (Word) mit Variante A, Variante B und Option Türchen."
+systems_state:
+  - "CRM print of lead L-2026-224 with new contact KC-21036 (no ERP debtor yet; D-15103 created with the offer)."
+
+client_provisions:
+  - "Unterschrift des Baugesuchs und Vollmacht für die Einreichung durch uns; Bewilligungsgebühren"
+  - "Neue Balkonplatten vor unserem Kontrollaufmass für die Werkstattpläne verlegt"
+  - "Zufahrt für Lastwagen mit Ladekran über die Garagenzufahrt"
+  - "Strom 230 V auf dem Sitzplatz"
+exclusions:
+  - "Beleuchtung der Treppe (empfohlen, durch Elektriker)"
+  - "Anpassungen an Fassade, Plattenbelag Balkon und Gartenweg ausser im Fundamentbereich"
+assumptions:
+  - "Höhe Sitzplatz bis fertiger Balkonbelag 2.82 m (Balkonplatte 2.78 m plus neue Platten 4 cm), verfügbare Länge 4.20 m"
+  - "16 Steigungen à 17.6 cm, 15 Stufen à 27 cm, Lauflänge 4.05 m, 15 cm Platz vor dem Antritt, Breite 1.00 m"
+  - "Anschluss oben mit Injektionsankern an die Balkonplatte gemäss Statik"
+reservations:
+  - "Ausführung nach rechtskräftiger Baubewilligung"
+  - "Muss die Balkonplatte verstärkt oder die Treppe oben auf eigene Stützen gestellt werden, offerieren wir dies nach der Statik separat (Richtpreis CHF 2'500 bis 3'500)"
+  - "Fels oder Werkleitungen im Fundamentbereich: Mehraufwand Baumeister nach Aufwand, Fels CHF 380 pro m3 gemäss Offerte Hinteribach"
+  - "Erhöhung des bestehenden Balkongeländers, falls nach dem neuen Belag oder von der Baubewilligung verlangt: CHF 145 pro m (Eventualposition)"
+  - "Fundamente bei Frost mit Frostschutzmassnahmen nach Aufwand Baumeister"
+
+costing:                         # bottom-up costing (costing manual 3.2, Faustregeln); rows: [group, label, qty, unit, source]
+  A:
+    title: "Variante A: geschweisste Stufen, Duplex anthrazit, Lochblechgeländer, Handlauf Chromstahl an der Wand"
+    rows:
+      - [M, "Wangen Flachstahl 200x12", "2 * F.stringer * 18.84", kg, "ek:70.150.05"]
+      - [M, "Stufenwinkel Flachstahl 50x10 (4 kg pro Stufe)", "4 * F.treads", kg, "ek:70.150.02"]
+      - [M, "Kopf- und Fussplatten Blech 10 mm", 24, kg, "ek:70.180.06"]
+      - [M, "Gitterroststufen 1000 mm mit Rutschkante", "F.treads", Stk, "ek:80.110.02"]
+      - [M, "Zwischenstäbe Flachstahl 40x8 (1 m pro Stufe)", "F.bars_kg", kg, "ek:70.150.01"]
+      - [M, "Geländer Rahmen Flachstahl (10 kg pro m)", "10 * F.railing", kg, "ek:70.150.03"]
+      - [M, "Handlauf Geländer Rohr 42.4", "round(F.railing * 2.55, 2)", kg, "ek:70.170.01"]
+      - [M, "Lochblechfüllung 3 mm (0.9 m2 pro m)", "round(0.9 * F.railing, 2)", m2, "ek:80.130.01"]
+      - [M, "Pfosten Balkongeländer Flachstahl 60x10", "round(1.1 * 4.71, 2)", kg, "ek:70.150.03"]
+      - [M, "Handlauf Wand Chromstahl Rohr 42.4", "round(F.handrail_wall * 2.02, 2)", kg, "ek:70.190.01"]
+      - [M, "Handlaufhalter Chromstahl", "F.holders", Stk, "ek:80.140.01"]
+      - [M, "Endkappen Handlauf", 4, Stk, "ek:80.140.02"]
+      - [M, "Injektionsanker M16 Balkonplatte", 4, Stk, "ek:90.110.02"]
+      - [M, "Gewindestangen M16 für Fundamentanker", 4, m, "ek:90.160.02"]
+      - [M, "Schrauben Chromstahl", 1, Pak, "ek:90.130.01"]
+      - [O, "Duplex verzinkt und pulverbeschichtet", "F.coat_A", m2, "ek:85.120.01"]
+      - [O, "Mindermengenzuschlag Beschichtung (unter 20 m2)", 1, Pau, "ek:85.130.01"]
+      - [W, "Treppe: Wangen, Winkel, Platten (6 h pro Stufe)", "6 * F.treads", Std, "rate:WS"]
+      - [W, "Zwischenstäbe (0.5 h pro Stufe)", "0.5 * F.treads", Std, "rate:WS"]
+      - [W, "Geländer mit Lochblech (4 h pro m)", "ceil(round(4 * F.railing, 6))", Std, "rate:WS"]
+      - [W, "Handlauf an der Wand", 3, Std, "rate:WS"]
+      - [W, "Balkongeländer öffnen", 4, Std, "rate:WS"]
+      - [K, "Werkstattpläne und Pläne Baugesuch", 8, Std, "rate:WS"]
+      - [A, "Montage Treppe mit Geländer, Teile einzeln versetzt (1.5 Tage), A-Monteur", 12.75, Std, "rate:MA"]
+      - [A, "Montage Treppe mit Geländer, Teile einzeln versetzt (1.5 Tage), B-Monteur", 12.75, Std, "rate:MB"]
+      - [A, "Montage Handlauf Wand, A-Monteur", 4.25, Std, "rate:MA"]
+      - [A, "Montage Handlauf Wand, B-Monteur", 4.25, Std, "rate:MB"]
+      - [A, "Balkongeländer öffnen, A-Monteur", 2, Std, "rate:MA"]
+      - [T, "Lastwagen mit Ladekran (Teile unter 150 kg), 2 Einsätze", 3, Std, "vk:10.120.03"]
+      - [T, "Transportpauschale Zone 1", 1, Pau, "vk:10.170.01"]
+      - [T, "Fahrzeugpauschale (angefangene Montagetage)", 3, Tag, "vk:99.110.01"]
+      - [T, "Seitenschutz temporär an der Balkonöffnung", 2, m, "vk:10.160.01"]
+      - [P, "Projektleitung Gesamtpaket", 10, Std, "rate:PL"]
+      - [F, "Statik Talkessel AG, Offerte vom 20.08.2026", 1, Pau, "fix:1250"]
+      - [F, "Bauunternehmung Hinteribach AG, Fundamente, Offerte vom 19.08.2026", 1, Pau, "fix:2830"]
+  B:
+    title: "Variante B: verschraubte Stufen, Treppe feuerverzinkt, Staketengeländer und Wandhandlauf Duplex anthrazit"
+    rows:
+      - [M, "Wangen Flachstahl 200x12", "2 * F.stringer * 18.84", kg, "ek:70.150.05"]
+      - [M, "Kopf- und Fussplatten Blech 10 mm", 24, kg, "ek:70.180.06"]
+      - [M, "Gitterroststufen mit Seitenblechen, verschraubt", "F.treads", Stk, "ek:80.110.03"]
+      - [M, "Zwischenstäbe Flachstahl 40x8 (1 m pro Stufe)", "F.bars_kg", kg, "ek:70.150.01"]
+      - [M, "Geländer Flachstahl-Staketen mit Handlauf (18 kg pro m)", "18 * F.railing", kg, "ek:70.150.01"]
+      - [M, "Pfosten Balkongeländer Flachstahl 60x10", "round(1.1 * 4.71, 2)", kg, "ek:70.150.03"]
+      - [M, "Handlauf Wand Stahlrohr 42.4", "round(F.handrail_wall * 2.55, 2)", kg, "ek:70.170.01"]
+      - [M, "Handlaufhalter", "F.holders", Stk, "ek:80.140.01"]
+      - [M, "Endkappen Handlauf", 4, Stk, "ek:80.140.02"]
+      - [M, "Injektionsanker M16 Balkonplatte", 4, Stk, "ek:90.110.02"]
+      - [M, "Gewindestangen M16 für Fundamentanker", 4, m, "ek:90.160.02"]
+      - [M, "Schrauben Chromstahl", 1, Pak, "ek:90.130.01"]
+      - [O, "Feuerverzinken Treppe (Gewicht x 1.05)", "round((2 * F.stringer * 18.84 + 24 + F.bars_kg) * 1.05, 1)", kg, "ek:85.100.01"]
+      - [O, "Duplex Geländer und Wandhandlauf", "F.coat_B", m2, "ek:85.120.01"]
+      - [O, "Mindermengenzuschlag Beschichtung (unter 20 m2)", 1, Pau, "ek:85.130.01"]
+      - [W, "Treppe mit verschraubten Stufen (3.5 h pro Stufe)", "3.5 * F.treads", Std, "rate:WS"]
+      - [W, "Zwischenstäbe (0.5 h pro Stufe)", "0.5 * F.treads", Std, "rate:WS"]
+      - [W, "Geländer Flachstahl-Staketen (3.5 h pro m)", "ceil(round(3.5 * F.railing, 6))", Std, "rate:WS"]
+      - [W, "Handlauf an der Wand", 3, Std, "rate:WS"]
+      - [W, "Balkongeländer öffnen", 4, Std, "rate:WS"]
+      - [K, "Werkstattpläne und Pläne Baugesuch", 8, Std, "rate:WS"]
+      - [A, "Montage Treppe mit Geländer, Teile einzeln versetzt (1.5 Tage), A-Monteur", 12.75, Std, "rate:MA"]
+      - [A, "Montage Treppe mit Geländer, Teile einzeln versetzt (1.5 Tage), B-Monteur", 12.75, Std, "rate:MB"]
+      - [A, "Montage Handlauf Wand, A-Monteur", 4.25, Std, "rate:MA"]
+      - [A, "Montage Handlauf Wand, B-Monteur", 4.25, Std, "rate:MB"]
+      - [A, "Balkongeländer öffnen, A-Monteur", 2, Std, "rate:MA"]
+      - [T, "Lastwagen mit Ladekran (Teile unter 150 kg), 2 Einsätze", 3, Std, "vk:10.120.03"]
+      - [T, "Transportpauschale Zone 1", 1, Pau, "vk:10.170.01"]
+      - [T, "Fahrzeugpauschale (angefangene Montagetage)", 3, Tag, "vk:99.110.01"]
+      - [T, "Seitenschutz temporär an der Balkonöffnung", 2, m, "vk:10.160.01"]
+      - [P, "Projektleitung Gesamtpaket", 10, Std, "rate:PL"]
+      - [F, "Statik Talkessel AG, Offerte vom 20.08.2026", 1, Pau, "fix:1250"]
+      - [F, "Bauunternehmung Hinteribach AG, Fundamente, Offerte vom 19.08.2026", 1, Pau, "fix:2830"]
+  T:
+    title: "Türchen im Balkongeländer, öffnet zum Balkon, selbstschliessend mit Kindersicherung"
+    rows:
+      - [M, "Rahmen und Füllung Flachstahl", 10, kg, "ek:70.150.01"]
+      - [M, "Torbeschlag selbstschliessend mit Kindersicherung", 1, Stk, "ek:80.170.01"]
+      - [O, "Oberfläche wie Variante (Duplex)", 2, m2, "ek:85.120.01"]
+      - [W, "Türchen herstellen", 5.5, Std, "rate:WS"]
+      - [A, "Türchen montieren, A-Monteur", 1.5, Std, "rate:MA"]
+
+offer:
+  number: OF-26-0209
+  file_name: OF-26-0209_Offerte_Aussentreppe_Rickenbacher.pdf
+  format: word_lump              # Vorlage_Offerte_Word_2016.docx, corrected (C2-F4)
+  recipient: ["Herr und Frau", "Marco und Petra Rickenbacher", "Gibelweg 7", "6443 Morschach"]
+  object: "Einfamilienhaus Gibelweg 7, 6443 Morschach, Aussentreppe zum Balkon"
+  signed_by: SKae
+  project_manager: SKae
+  payment_terms: b2c_above_20000
+  discount: 0.0
+  skonto: false                  # Skonto is a payment option in the conditions, not deducted in Word offers
+  main_variant: A
+  price_hold: 31.03.2027
+  alternatives: [B]
+  option: T
+
+acceptable_alternatives:
+  - "Variante B als Option mit Minderpreis statt als zweiter Pauschalpreis"
+  - "Lochblechgeländer nach Gewicht 18 kg pro m statt Rahmen plus Lochblech"
+  - "Montage Handlauf und Balkongeländer am selben Tag (1.5 Fahrzeugtage)"
+  - "Variante B mit anderen Sparhebeln, wenn sie aus den geschriebenen Regeln folgt (verschraubte Stufen, Oberfläche, Wandhandlauf)"
+  - "Option Türchen ohne Oberflächenunterschied zwischen den Varianten"
+expected:                      # filled by build_case.py via pricing.py, never by hand
+  gross: 33930.0
+  discount: 0.0
+  skonto: 0.0
+  net: 33930.0
+  vat_rate: 0.081
+  vat: 2748.35
+  total: 36678.35
+  optional_sum: 1300.0
+  needs_owner_approval: false
+  lines:
+  - pos: '1.01'
+    code: ''
+    qty: 1.0
+    unit: Pau
+    unit_price: 33930.0
+    total: 33930.0
+    optional: false
+  - pos: '1.02'
+    code: ''
+    qty: 1.0
+    unit: Pau
+    unit_price: 1300.0
+    total: 1300.0
+    optional: true
+  alternatives:
+    A:
+      lump: 33930.0
+      vat: 2748.35
+      total: 36678.35
+      cost: 31411.67
+      risk_profit: 2512.93
+    B:
+      lump: 28480.0
+      vat: 2306.9
+      total: 30786.9
+      cost: 26370.14
+      risk_profit: 2109.61
+
+past_projects:
+  - {nr: P-25-039, why: "Aussentreppe Stahl Einfamilienhaus Lauerz 2025, 14 Steigungen, verzinkt, Staketen, Fundamente durch den Baumeister des Kunden (3 Wochen Verzug), Werkstatt 6.5 h pro Stufe statt 6, Word-Offerte mit 'Gültigkeit 30 Tage' aus der alten Vorlage"}
+
+flaws:
+  - {id: C2-F1, type: outdated_value, where: "request mail 10.08. and sketch vs site note 14.08. and mail 24.08.", description: "Height 2.60 m and run 4.50 m are outdated; valid are 2.78 m + 0.04 m tiles = 2.82 m and 4.20 m", marker: "ca. 2.60 m"}
+  - {id: C2-F2, type: wrong_document, where: "hand sketch photo", description: "Sketch shows the stair left of the window and outdated dimensions", marker: "Skizze"}
+  - {id: C2-F3, type: distractor, where: "file note 11.08.", description: "Budget hint CHF 24'000 incl. VAT; the correct offer does not cut the price, offers a real saving variant B and says honestly that the budget is not reachable", marker: "Budget ca. 24'000"}
+  - {id: C2-F4, type: template_trap, where: "company-world/operations/templates/Vorlage_Offerte_Word_2016.docx", description: "Old template with VAT 7.7 %, validity 30 days and P. Kollmann as signature (KI-09, KI-10); correct: 8.1 %, 3 months, SKä", marker: "MWST 7.7 %"}

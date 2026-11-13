@@ -1,0 +1,168 @@
+# Story bible and ground truth for Case A3 (ADR 0006, ADR 0007, case_quality.md §2). Q51 to Q63 confirmed by the maintainer 2026-11-12.
+id: A3
+title: Prüfung der Balkon- und Treppenhausgeländer, Siedlung Rütimatt, Schwyz
+business_line: advisory
+offer_type: fee_offer            # preceded by a cost estimate (Richtofferte) that is part of the inputs
+difficulty: medium               # verbal agreement vs later email, CRM duplicate, balcony count
+dates:
+  first_contact: 2026-09-28      # Monday
+  cost_estimate: 2026-10-01      # Thursday
+  board_meeting: 2026-10-20      # Tuesday
+  offer: 2026-10-27              # Tuesday
+  valid_until: 2027-01-27
+
+customer:
+  ref: D-10143 / KC-20029        # Wohnbaugenossenschaft Talkessel, Schwyz, existing customer, ERP discount 2 %
+  duplicate: KC-30914            # "WBG Talkessel", import 2022, other phone, no ERP link (A3-F2)
+  contact: Frau Franziska Schmidig, Vorstand Ressort Bau
+  signs: Herr Bruno Gwerder, Präsident (not in CRM)
+object:
+  address: Siedlung Rütimatt, Rütimattstrasse 11, 13 und 15, 6430 Schwyz
+  description: Drei Mehrfamilienhäuser von 1968, je 4 Wohnungen pro Geschoss im 1. bis 3. OG mit Balkon, im EG Wohnungen mit Sitzplatz ohne Geländer; Balkongeländer original (Stahl, Querstäbe, 90 cm, 2 Pfosten auf Fussplatte mit je 2 Ankern); Treppenhausgeländer und Handläufe 2015 erneuert, seitlich an der Treppe befestigt.
+staff: {owner: CSc, involved: [NSu, SKae, DHo, EFoe]}
+
+facts:
+  houses: 3
+  balconies_per_house: 12
+  balconies_stated: 40           # president's mail counts flats (A3-F3)
+  anchors_per_balcony: 4
+  anchors_per_stairwell: 16      # Hauswart via Schmidig 23.10.
+  stairwells: 3
+derived:
+  balconies: "F.houses * F.balconies_per_house"                                   # 36
+  anchors_house: "F.balconies_per_house * F.anchors_per_balcony + F.anchors_per_stairwell"   # 64
+  tests_house: "max(3, ceil(round(0.1 * F.balconies_per_house * F.anchors_per_balcony, 6)) + ceil(round(0.1 * F.anchors_per_stairwell, 6)))"   # 5 + 2 = 7
+  tests: "F.houses * F.tests_house"                                               # 21
+  railings: "F.balconies + F.stairwells"                                          # 39
+checks:
+  - "F.balconies == 36 and F.tests == 21 and F.railings == 39"
+  - "qty('99.100.01') == F.tests * 0.5"
+  - "qty('99.110.01') == 2"
+  - "qty('99.100.06') > 0 and qty('99.100.07') > 0"
+  - "opt('99.100.07') > 0"
+
+timeline:
+  - "2026-09-28 07:52 Schmidig mailt an info@: Balkongeländer Rütimattstrasse 13 locker, Prüfung aller Geländer wie 2025 in der Bachmatt, Rückruf erbeten."
+  - "2026-09-28 08:35 EFö findet den Kontakt KC-30914 (Duplikat), erfasst Lead L-2026-249 und leitet an CSc."
+  - "2026-09-28 10:15 CSc telefoniert mit Schmidig (Aktennotiz): 36 Balkone, Treppenhäuser 2015 erneuert und nicht prüfen, Balkon Haus 13 gesperrt lassen, Richtofferte für den Vorstand bis Ende Woche."
+  - "2026-10-01 16:20 CSc sendet die Richtofferte OF-26-0236 (nur Balkone, ±25 %)."
+  - "2026-10-20 Vorstandssitzung."
+  - "2026-10-21 19:45 Präsident Gwerder: Haftpflichtversicherung verlangt alle Geländer, 'alle 40 Balkone und auch die Treppenhäuser', Präsentation an der Vorstandssitzung vom 19.01.2027, verbindliche Offerte."
+  - "2026-10-22 08:10 CSc fragt Schmidig nach Befestigung der Treppenhausgeländer und Zugang."
+  - "2026-10-23 11:30 Schmidig: seitlich befestigt, ca. 16 Befestigungen pro Haus (Hauswart), Aushang für die Mieter, Termine ab 9. November; Geländer Haus 13 am 06.10. repariert, Hauswart hat alle Balkongeländer von Hand geprüft."
+  - "2026-10-26 09:20 SKä gibt CSc ihre Stunden für Befestigungen, Bericht und Kostenschätzung."
+  - "2026-10-27 15:50 CSc sendet die Honorarofferte OF-26-0254 an den Präsidenten, Kopie Schmidig."
+systems_state:
+  - "CRM print of lead L-2026-249, linked to the duplicate KC-30914 without ERP number and without earlier activities."
+  - "ERP debtor D-10143: RABATT_PROZ 2.0; earlier offers OF-25-0095 (lost) and OF-25-0097 (Geländerprüfung Bachmatt, P-25-047)."
+
+basis_for_estimate:
+  - "P-25-047 Bachmatt 2025, same customer (16 balconies, 2 stairwells): phases, 20 min per balcony, 1.5 h per stairwell, Nachtermin, 10 pull tests, report 20 min per railing + 2 h, presentation as extra effort"
+  - "P-24-124 Küssnacht 2025 (12 balconies, 1 stairwell): origin of the pull test rule, Rot reported the same day"
+  - "Faustregeln Beratung 2025: pull tests 10 % of the anchors per building, min. 3, 0.5 h MA each, vehicle per test day; SKä as B2"
+  - "Richtofferte OF-26-0236 (balconies only) and SKä's hours of 26.10."
+
+assumptions:
+  - "36 Balkone (je Haus 12 im 1. bis 3. OG); die Wohnungen im EG haben Sitzplätze ohne Geländer"
+  - "3 Treppenhausgeländer mit Handlauf von 2015, seitlich befestigt, ca. 16 Befestigungen pro Haus"
+  - "Balkongeländer mit 2 Pfosten auf Fussplatte, je 2 Anker; zusammen rund 64 Anker pro Haus"
+  - "Auszugsversuche als Stichprobe: 10 % der Anker pro Haus, je Haus 5 an den Balkonen und 2 im Treppenhaus, total 21; Auswahl nach der Sichtprüfung nach Risiko (Korrosion, Spiel, Wetterseite)"
+  - "Vorgehen mit Stichprobe bitte mit Ihrer Haftpflichtversicherung abstimmen"
+  - "Zugang zu den Balkonen über die Wohnungen, ein Nachtermin für nicht angetroffene Mieter eingerechnet"
+  - "Fotos zeigen nur die Geländer, Bezeichnung nach Wohnungsnummer; der Bericht geht an den Vorstand und auf Wunsch an die Versicherung"
+  - "Bericht als PDF mit Datenblatt pro Geländer, Massnahmenliste als Excel"
+client_provisions:
+  - "Information der Mieter mit Aushang und Zugang zu den Wohnungen, Hauswart begleitet die Aufnahme"
+  - "Zugang zu rund 15 Wohnungen für die Auszugsversuche in der Woche vom 16. November, Termine im gleichen Aushang"
+  - "Vorhandene Pläne und Unterlagen der Treppenhaussanierung 2015"
+exclusions:
+  - "Reparatur des Geländers Rütimattstrasse 13 (am 06.10.2026 separat nach Regie ausgeführt)"
+  - "Reparatur oder Ersatz von Geländern, Sicherungsmassnahmen bei roten Befunden (nach Regie)"
+  - "Statische Nachweise, Prüfung der Balkonplatten und der Treppenkonstruktion; sichtbare Schäden an den Plattenrändern melden wir und empfehlen eine Abklärung durch einen Ingenieur"
+  - "Sitzplätze und Gartenmauern im EG"
+reservations:
+  - "Fällt ein Auszugsversuch durch, sichert der Monteur das Geländer sofort und informiert den Hauswart; nach Rücksprache verdoppeln wir die Stichprobe in diesem Haus; Mehraufwand nur nach schriftlicher Zustimmung der Auftraggeberin"
+  - "Rote Befunde melden wir am gleichen Tag der Genossenschaft und dem Hauswart; der Hauswart sperrt den Balkon, die Sicherung macht unsere Montage nach Regie"
+  - "Der Bericht beschreibt den sichtbaren Zustand am Tag der Aufnahme und die geprüften Anker; für nicht geprüfte Anker gibt er keine Gewähr"
+  - "Die Offerte beruht auf den Angaben von Frau Schmidig und des Hauswarts, eine Begehung hat nicht stattgefunden; zeigen sich abweichende Verhältnisse, behalten wir uns Anpassungen vor (H1)"
+
+offer:
+  number: OF-26-0254
+  file_name: OF-26-0254_Honorarofferte_Gelaenderpruefung_Ruetimatt.pdf
+  format: word_fee_offer
+  recipient: ["Wohnbaugenossenschaft Talkessel", "Herr Bruno Gwerder, Präsident", "Gartenweg 4", "6430 Schwyz"]
+  subject: "Siedlung Rütimatt, Rütimattstrasse 11, 13 und 15, Schwyz, Prüfung der Balkon- und Treppenhausgeländer"
+  signed_by: CSc
+  project_manager: CSc
+  payment_terms: "30 Tage netto"
+  discount: 0.02
+  discount_src: "ERP D-10143 RABATT_PROZ 2.0 (regular customer); the duplicate KC-30914 has no ERP link (A3-F2)"
+  skonto: false
+  cost_ceiling: true
+  norms_named: ["SIA 358", "bfu"]
+  sections:
+    - title: "1 Grundlagen und Vorbereitung"
+      lines:
+        - {code: "99.100.08", qty: 3, text: "Unterlagen sichten (Pläne, Wohnungsliste, Sanierung 2015), Terminplan und Mieterinformation mit dem Hauswart", src: "P-25-047: 2 h for 2 houses; + 1 h for the third house and 36 flats"}
+        - {code: "99.100.06", qty: 1, text: "Startbesprechung mit dem Ressort Bau", src: "own estimate: scope changed by the president and the insurer, method of the sample to agree"}
+    - title: "2 Aufnahme vor Ort und Auszugsversuche"
+      lines:
+        - {code: "99.100.08", qty: 14, text: "Aufnahme 36 Balkongeländer inkl. Nachtermin", src: "P-25-047: 20 min per balcony (12 h) + Nachtermin 2 h for many flats"}
+        - {code: "99.100.08", qty: 4.5, text: "Aufnahme 3 Treppenhausgeländer", src: "P-25-047, P-24-124: 1.5 h per stairwell; president 21.10.: stairwells included (A3-F1)"}
+        - {code: "99.100.07", qty: 4, text: "Beurteilung Befestigungen und Korrosion vor Ort", src: "SKä mail 26.10.: 4 h on site"}
+        - {code: "99.100.01", qty: 10.5, text: "21 Auszugsversuche (je Haus 5 an den Balkonen, 2 im Treppenhaus) inkl. Protokoll und Verschliessen der Prüfstellen", src: "Faustregel 2025: 10 % of 48 balcony anchors -> 5, of 16 stairwell fixings -> 2, per house; 3 houses; 0.5 h each"}
+        - {code: "99.110.01", qty: 2, text: "Fahrzeugpauschale Prüftage", src: "Faustregel: vehicle per test day; 10.5 h -> 2 days"}
+    - title: "3 Bericht mit Ampelbewertung"
+      lines:
+        - {code: "99.100.08", qty: 15, text: "Datenblatt pro Geländer (36 Balkone, 3 Treppenhäuser) mit Fotos und Ampel, Zusammenfassung", src: "P-25-047: 20 min per railing (39 -> 13 h) + 2 h summary"}
+        - {code: "99.100.07", qty: 3, text: "Beurteilung Auszugsversuche, Massnahmen pro Ampelstufe", src: "SKä mail 26.10.: 3 h"}
+        - {code: "99.100.06", qty: 2, text: "Durchsicht Bericht", src: "P-25-047: 1.5 h for 2 houses; 3 houses"}
+    - title: "4 Massnahmen und Kostenschätzung"
+      lines:
+        - {code: "99.100.07", qty: 4, text: "Kostenschätzung Massnahmen (±25 %) für Gelb und Rot", src: "SKä mail 26.10.: 4 h; P-25-047: 2 h for 2 houses"}
+        - {code: "99.100.08", qty: 2, text: "Massnahmenliste nach Haus und Dringlichkeit", src: "P-25-047: 1 h for 2 houses"}
+    - title: "5 Präsentation im Vorstand"
+      lines:
+        - {code: "99.100.06", qty: 2, text: "Präsentation an der Vorstandssitzung vom 19. Januar 2027", src: "president's mail 21.10.; P-25-047: 2 h B1 as extra effort"}
+        - {code: "99.100.08", qty: 1, text: "Vorbereitung Präsentation", src: "own estimate"}
+    - title: "Spesen"
+      lines:
+        - {code: "98.120.01", qty: 36, text: "6 Fahrten Ibach Schwyz und zurück, je 6 km", src: "P-25-047: 6 km per round trip, 5 trips for 2 houses; start meeting, 3 survey days, Nachtermin, presentation"}
+    - title: "Option: Massnahmenplan und Ausschreibungsunterlagen"
+      lines:
+        - {code: "99.100.07", qty: 8, optional: true, text: "Massnahmenplan und Leistungsverzeichnis für die Geländersanierung", src: "Q59: follow-up after the report"}
+        - {code: "99.100.08", qty: 6, optional: true, text: "Pläne und Fotodokumentation für die Ausschreibung", src: "Q59"}
+        - {code: "99.100.06", qty: 1, optional: true, text: "Durchsicht", src: "Q59"}
+
+evaluation:
+  fee_band: 0.20
+  must_contain:
+    - "36 Balkone, nicht 40 (EG Sitzplätze ohne Geländer)"
+    - "Treppenhäuser im Auftrag, entgegen der Abmachung vom 28.09., mit Begründung (Versicherung, Präsident)"
+    - "Auszugsversuche als Stichprobe nach Faustregel, durch einen Monteur"
+    - "Ampel mit Bedeutung von Grün, Gelb und Rot; Rot am gleichen Tag melden"
+    - "Präsentation im Vorstand vom 19.01.2027"
+    - "Rabatt 2 % aus dem ERP (D-10143), nicht Neukunde (Duplikat KC-30914)"
+    - "Erklärung der Differenz zur Richtofferte"
+    - "Prüflast, Protokoll und Vorgehen bei nicht bestandenem Auszugsversuch"
+    - "Kostendach, Verrechnung nach Aufwand, Präsident als Besteller, CSc unterschreibt"
+  must_not_contain:
+    - "40 Balkone als Grundlage"
+    - "Reparatur des Geländers Haus 13 als Position"
+acceptable_alternatives:
+  - "Phasen 1 bis 5 zusammen 60 bis 75 Std"
+  - "Nachtermin 1.5 bis 2 Std"
+  - "Präsentation im Grundauftrag oder als Option"
+  - "Spesen 24 bis 42 km"
+  - "Fahrzeugpauschale 1 oder 2 Prüftage"
+
+flaws:
+  - {id: A3-F1, type: contradiction, where: "file note 28.09. vs president's mail 21.10.", description: "Verbal agreement: balconies only, stairwells renovated 2015; later written instruction of the president: all railings incl. stairwells", marker: "auch die Treppenhäuser"}
+  - {id: A3-F2, type: id_mismatch, where: "forward mail EFö 28.09., CRM print", description: "Lead linked to the CRM duplicate KC-30914 (no ERP, no history); the customer is D-10143 / KC-20029 with 2 % discount and the 2025 project", marker: "KC-30914"}
+  - {id: A3-F3, type: quantity, where: "president's mail 21.10.", description: "40 counts the flats; 36 balconies, the 4 ground floor flats have patios without railings", marker: "alle 40 Balkone"}
+
+past_projects:
+  - {nr: P-24-124, why: "Seeblick Küssnacht 2025: pull tests added after a loose anchor, origin of the Faustregel"}
+  - {nr: P-25-047, why: "Same customer, Siedlung Bachmatt 2025: phases, times per balcony and railing, Nachtermin, presentation as extra effort"}
+
+expected: {}                     # filled by build_case.py via pricing.py

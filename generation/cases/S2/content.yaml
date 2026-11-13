@@ -1,0 +1,191 @@
+# Text sources for Case S2 documents (Swiss German). Rendered by generation/scripts/build_case.py.
+people:
+  schn: "Lukas Schnüriger <l.schnueriger@talnet-mail.ch>"
+
+mails:
+  - file: request/2026-09-14_Mail_Schnueriger_Angaben_Carport.eml
+    id: m1
+    from: schn
+    to: DIn
+    date: "2026-09-14T20:15:00"
+    subject: "Carport Sonnenhaldenweg 6, Angaben und Situationsplan"
+    mailer: "Mail für iPhone"
+    attach_siteplan: true
+    body: |
+      Grüezi Herr Inderbitzin
+
+      Vielen Dank für das Telefon heute Morgen. Wie besprochen hier unsere Angaben für den Doppelcarport:
+
+      - Breite 6.50 m, Tiefe 5.00 m
+      - Farbe DB 703, gleich wie unser Garagentor
+      - Seitenwand mit Lärchenlatten auf der Westseite, von dort kommt das Wetter
+      - Dachrinne mit Fallrohr
+      - Wir haben einen VW-Bus mit Dachbox, zusammen 2.25 m hoch. Passt das unter den Standard?
+
+      Wir sind hier auf ca. 800 m, das sollte für Ihre Standardausführung ja reichen. Schnee hat es aber im Winter schon einiges, sagen die Nachbarn (wir wohnen erst seit letztem Jahr hier).
+
+      Im Anhang der Situationsplan aus dem Geoportal, den Carport habe ich eingezeichnet. Er soll auf den Kiesplatz vor dem Haus. Schön wäre, wenn er vor dem Winter steht.
+
+      Freundliche Grüsse
+      Lukas Schnüriger
+      Sonnenhaldenweg 6, 8843 Oberiberg
+      079 000 64 21
+  - file: request/2026-09-16_Mail_Schnueriger_Aenderungen.eml
+    id: m2
+    from: schn
+    to: DIn
+    date: "2026-09-16T18:30:00"
+    subject: "AW: Carport Sonnenhaldenweg 6, Angaben und Situationsplan"
+    mailer: "Mail für iPhone"
+    quote: [m1]
+    body: |
+      Grüezi Herr Inderbitzin
+
+      Leider noch zwei Änderungen. Wir haben mit dem Nachbarn auf der Westseite über das Baugesuch gesprochen und er besteht auf dem Grenzabstand. Uns bleiben deshalb nur noch 6.30 m Breite. Die Tiefe bleibt bei 5.00 m.
+
+      Mein Schwager ist Bauingenieur. Er meint, bei uns oben müsse man die Schneelast nach SIA 261 rechnen lassen. Können Sie das machen und was kostet das zusätzlich?
+
+      Die Fundamente sollen bitte auch von Ihnen gemacht werden, wir möchten nicht noch einen Baumeister suchen. Wie viele Fundamente braucht es und muss dafür der ganze Kies weg?
+
+      Das Baugesuch möchten wir einreichen, sobald wir Ihre Unterlagen haben.
+
+      Freundliche Grüsse
+      Lukas und Sarah Schnüriger
+  - file: operations/2026-09-17_Mail_DIn_Pruefung_TRe.eml
+    id: m3
+    from: DIn
+    to: TRe
+    date: "2026-09-17T08:05:00"
+    subject: "Carport Doppel Oberiberg, Anpassungen prüfen"
+    attach_siteplan: true
+    quote: [m2]
+    body: |
+      Hallo Toni
+
+      Doppelcarport CP-D für Neukunden in Oberiberg, Sonnenhaldenweg 6, Parzelle 1187, Situationsplan im Anhang. Der Kunde schreibt, sie seien auf ca. 800 m. Gewünscht sind 6.30 m Breite statt 6.00 m, Durchfahrtshöhe 2.40 m für einen VW-Bus mit Dachbox (2.25 m), DB 703, Seitenwand Lärche West, Rinne, Fundamente durch uns.
+
+      Kannst du bitte kurz bestätigen, dass das alles mit dem Katalog geht? Der Schwager des Kunden will eine Schneelastberechnung nach SIA 261, siehe unten. Reicht unsere Typenstatik fürs Baugesuch?
+
+      Gruss Daniel
+  - file: operations/2026-09-17_Mail_TRe_Antwort.eml
+    id: m4
+    from: TRe
+    to: DIn
+    date: "2026-09-17T13:10:00"
+    subject: "AW: Carport Doppel Oberiberg, Anpassungen prüfen"
+    quote: [m3]
+    body: |
+      Hallo Daniel
+
+      Geht alles mit dem Katalog. Die Typenstatik deckt in beiden Ausführungen, Standard und Verstärkt, Überbreite bis 60 cm und die Durchfahrtshöhe 2.40 m ab.
+
+      Ob Standard oder Verstärkt, hängt vom Standort ab. Die Höhe bitte vom Situationsplan nehmen und nicht aus dem Mail.
+
+      Fundamente: Doppel gemäss Typenstatik, 6 Punktfundamente, frostsicher. Der Kies muss nur bei den Fundamenten weg, der Rest bleibt. Die Fundamente machen wir etwa zwei Wochen vor der Montage.
+
+      Eine eigene Schneelastberechnung machen wir nicht. Die Typenstatik ist nach SIA 261 gerechnet, Verstärkt auf 1200 m Bezugshöhe, und hat für Oberiberg bisher immer gereicht. Der Schwager kann sie gerne anschauen, Typenplan und Statik CP-D Verstärkt liegen im Ordner Systemprodukte, du kannst sie dem Kunden fürs Baugesuch schicken. Will er eine eigene Berechnung, muss der Kunde selber einen Ingenieur beauftragen.
+
+      Sag dem Kunden noch: Bauprofile braucht es fürs Gesuch, das Fallrohr schliesst er selber an die Sickerleitung oder Kanalisation an, und aufs Dach darf kein Schnee vom Hausdach oder vom Schneeräumen, begehbar ist es auch nicht.
+
+      Termin: Produktion erst, wenn die Bewilligung rechtskräftig ist. Mit Publikation und Einsprachefrist reicht das vor dem Schnee kaum, rechne mit Montage im Frühjahr, sobald der Platz schneefrei ist.
+
+      Gruss Toni
+  - file: offer/2026-09-18_Mail_DIn_Offerte.eml
+    id: m5
+    from: DIn
+    to: schn
+    date: "2026-09-18T15:30:00"
+    subject: "Offerte OF-26-0228 Doppelcarport Sonnenhaldenweg 6"
+    mailer: "Microsoft Outlook 16.0"
+    attach_offer: true
+    quote: [m2]
+    body: |
+      Grüezi Herr und Frau Schnüriger
+
+      Vielen Dank für Ihre Angaben. Im Anhang erhalten Sie unsere Offerte für den Doppelcarport mit 6.30 m Breite.
+
+      Ihr Vorplatz liegt gemäss Situationsplan auf 1'043 m ü. M. Für Standorte zwischen 801 und 1200 m bauen wir den Carport in der Ausführung Verstärkt, die für die höhere Schneelast ausgelegt ist. Die Zuschläge für Überbreite, Ausführung Verstärkt, Durchfahrtshöhe 2.40 m und die Farbe DB 703 sind in der Offerte einzeln aufgeführt.
+
+      Zur Schneelast: Für die Ausführungen Standard und Verstärkt liegt eine Typenstatik inkl. Fundamente nach SIA 261 vor, die Ausführung Verstärkt ist auf 1200 m Bezugshöhe bemessen. Typenplan und Typenstatik senden wir Ihnen mit separatem Mail; Sie legen sie dem Baugesuch bei, und Ihr Schwager kann die Statik gerne prüfen. Eine eigene Schneelastberechnung bieten wir nicht an. Wünschen Sie eine weitergehende Berechnung, müssten Sie selber einen Ingenieur beauftragen.
+
+      Die Fundamente erstellen wir: 6 frostsichere Punktfundamente gemäss Typenstatik, etwa zwei Wochen vor der Montage. Der Kies wird nur an diesen Stellen entfernt. Für das Baugesuch braucht es Bauprofile; das Fallrohr schliessen Sie bitte an eine Sickerleitung oder die Kanalisation an.
+
+      Zum Termin: Die Lieferfrist beträgt 6 bis 8 Wochen ab Auftragsbestätigung und rechtskräftiger Baubewilligung. Mit Publikation und Einsprachefrist wird es vor dem Winter leider kaum reichen. Realistisch ist die Montage im Frühjahr 2027, sobald der Platz schneefrei ist. Bei einer Bestellung bis 18. Dezember 2026 halten wir die Preise für eine Montage bis Ende Juni 2027. Die Anzahlung von 30 % stellen wir erst mit der Produktionsfreigabe nach der rechtskräftigen Bewilligung in Rechnung.
+
+      Für Fragen stehe ich Ihnen gerne zur Verfügung.
+
+      Freundliche Grüsse
+      Daniel Inderbitzin
+      Projektleiter Systemprodukte und Fassaden
+      Fronalp Metall & Gebäudehülle AG
+      Werkhofstrasse 12, 6438 Ibach
+      +41 41 000 12 00
+
+siteplan:
+  attachment_name: Situationsplan_Parzelle_1187.pdf
+  view: [-2, 2, 50, 56]
+  header:
+    - "Situationsplan Parzelle 1187, Oberiberg"
+    - "Auszug Geoportal, Grundbuchplan mit Höhenkoten, Ausdruck 14.09.2026 19:58"
+  footer:
+    - "Höhenkoten in m ü. M. Ausdruck nicht massstäblich, Massstab gemäss Massstabsbalken."
+    - "Daten ohne Rechtsverbindlichkeit. Eingezeichneter Carport: eigene Zeichnung."
+  parcel: {xy: [[12, 14], [38, 14.6], [38.6, 43.5], [11.4, 43]], label: "1187", label_xy: [34, 40]}
+  neighbours:
+    - {xy: [[-2, 13.7], [12, 14], [11.4, 43], [-2, 42.7]], label: "1186", label_xy: [4, 39]}
+    - {xy: [[38, 14.6], [50, 14.9], [50, 43.8], [38.6, 43.5]], label: "1188", label_xy: [45, 40]}
+    - {xy: [[-2, 42.7], [11.4, 43], [38.6, 43.5], [50, 43.8], [50, 56], [-2, 56]], label: "1201", label_xy: [26, 51]}
+  buildings:
+    - [19, 27, 12, 10, "Nr. 6"]
+    - [-1, 26, 8, 9, "Nr. 4"]
+    - [42, 27, 8, 9, "Nr. 8"]
+  planned:
+    - [13.0, 17.5, 6.5, 5.0, "Carport"]
+  road: {xy: [[-2, 9.0], [50, 10.3]], label: "Sonnenhaldenweg", label_xy: [26, 6.6], rot: 1.4}
+  spot: [21.0, 20.0, "1'043.2"]
+  texts:
+    - [14.6, 16.2, "6.50 x 5.00", 7.5]
+    - [24.0, 12.0, "+ 1'042.9", 7.5]
+    - [31.5, 24.8, "+ 1'043.6", 7.5]
+    - [14.0, 24.0, "Kies", 7.5]
+
+file_notes:
+  - file: operations/2026-09-14_Aktennotiz_DIn_Telefon_Schnueriger.docx
+    fields:
+      - [Datum / Zeit, "14.09.2026, 09:40"]
+      - [Erstellt von (Kürzel), DIn]
+      - [Art, Telefon]
+      - [Gesprächspartner, "Hr. L. Schnüriger, Privat (KC-21048)"]
+      - [Objekt / Projekt, "Sonnenhaldenweg 6, Oberiberg, Carport Doppel (L-2026-241)"]
+    content:
+      - "Neukunden, wohnen seit 2025 im Haus. Möchten einen Doppelcarport auf dem Kiesvorplatz vor dem Haus, für ein Auto und einen VW-Bus."
+      - "Haben den Fronalp Carport auf der Website gesehen. Typenplan und Typenstatik für das Baugesuch erklärt, Gesuch macht der Kunde selber."
+      - "Lieferfrist 6 bis 8 Wochen, Produktion erst mit rechtskräftiger Baubewilligung. Montage vor dem Winter wird wegen der Bewilligung knapp, eher Frühjahr; so dem Kunden gesagt."
+      - "Masse, Farbe und Optionen schickt der Kunde per Mail. Situationsplan verlangt."
+    agreements:
+      - "Kunde mailt Angaben und Situationsplan heute Abend"
+      - "Offerte bis Ende Woche"
+    todos:
+      - [Anpassungen mit TRe klären, DIn, "17.09.2026"]
+      - [Offerte, DIn, "18.09.2026"]
+
+crm_print:
+  file: operations/KundenCockpit_Lead_L-2026-241_Druck.pdf
+  printed: "18.09.2026 15:12"
+  by: DIn
+  lead:
+    - [Lead, L-2026-241]
+    - [Titel, Carport Doppel Sonnenhaldenweg 6 Oberiberg]
+    - [Bereich, Systemprodukte]
+    - [Status, in Bearbeitung]
+    - [Verantwortlich, DIn]
+    - [Kontakt, "KC-21048 Lukas Schnüriger (Privat)"]
+    - [Erstellt, "14.09.2026 DIn"]
+    - [Wert geschätzt, "CHF 30'000"]
+  contacts:
+    - [KC-21048, Lukas und Sarah Schnüriger, "Herr Lukas Schnüriger, Sonnenhaldenweg 6, 8843 Oberiberg", "+41 79 000 64 21", l.schnueriger@talnet-mail.ch, "Privat, erstellt 14.09.2026, ERP D-15119"]
+  activities:
+    - ["14.09.2026", "DIn", "Telefon", "Anfrage Doppelcarport, Kontakt und Lead erfasst, Situationsplan verlangt"]
+    - ["15.09.2026", "DIn", "Mail", "Angaben und Situationsplan erhalten"]
+    - ["16.09.2026", "DIn", "Mail", "Kunde: Breite neu 6.30 m wegen Grenzabstand, Frage Schneelast SIA 261, Fundamente durch uns"]
+    - ["17.09.2026", "DIn", "Notiz", "Anpassungen mit TRe geklärt, alles Katalog, Montage eher Frühjahr (Bewilligung)"]

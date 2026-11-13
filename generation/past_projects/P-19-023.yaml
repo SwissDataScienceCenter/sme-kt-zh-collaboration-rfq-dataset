@@ -1,0 +1,25 @@
+# Past project for Case C1 (ADR 0005). Pre-MetaBau (KALKO 4 era), documents only as scans.
+nr: P-19-023
+alt: "1923"
+for_case: C1
+folder: P-19-023 Gartenterrasse Brunnen
+customer: D-11095          # Markus Wüthrich, Brunnen (base customer)
+object_lines: ["{addr}", "Flachdach", "Gartenterrasse über Garage"]
+offer:
+  number: "2019-063"
+  date: 2019-03-18
+  layout: word2019
+  project_manager: RBe
+  discount: 0.0
+  skonto: false
+  intro: "Besten Dank für Ihre Anfrage. Gerne offerieren wir Ihnen die Sanierung der Gartenterrasse über der Garage wie folgt:"
+  lines: [{code: "10.100.01", qty: 1}, {code: "10.170.01", qty: 1}, {code: "20.110.02", qty: 46}, {code: "20.120.01", qty: 46},
+          {code: "30.100.01", qty: 46}, {code: "30.120.02", qty: 50}, {code: "30.130.01", qty: 22}, {code: "30.150.01", qty: 1},
+          {code: "40.120.01", qty: 46}, {code: "50.100.03", qty: 50}]
+measured:
+  period: "06.05.2019 bis 17.05.2019"
+  invoice_number: "R-1923"
+  invoice_date: 2019-06-03
+  qty: {"20.110.02": 47.5, "20.120.01": 47.5, "30.100.01": 47.5, "30.120.02": 47.5, "30.130.01": 23, "40.120.01": 47.5, "50.100.03": 47.5}
+  extra: []
+summary: null

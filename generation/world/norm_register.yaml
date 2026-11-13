@@ -1,0 +1,54 @@
+# Norm register source (ADR 0004): number, title, short description in own words. No norm text, no edition years.
+norms:
+  - {nr: "SIA 118", title: "Allgemeine Bedingungen für Bauarbeiten", lines: [Projektgeschäft, Beratung],
+     de: "Vertragsbedingungen für Werkverträge im Bau, unter anderem zu Offerte, Ausmass, Regie, Abnahme und Mängelrechten. Fronalp nennt sie in Offerten und AGB als ergänzende Vertragsgrundlage."}
+  - {nr: "SIA 469", title: "Erhaltung von Bauwerken", lines: [Beratung],
+     de: "Vorgehen bei Zustandserfassung, Beurteilung und Massnahmenplanung bestehender Bauwerke. Rahmen für Zustandsaufnahmen der Beratung."}
+  - {nr: "SIA 112", title: "Modell Bauplanung", lines: [Beratung],
+     de: "Gliedert Bauvorhaben in Phasen von der strategischen Planung bis zur Bewirtschaftung. Die Phasen der Honorarofferten lehnen sich lose daran an."}
+  - {nr: "SIA 271", title: "Abdichtungen von Hochbauten", lines: [Projektgeschäft, Beratung],
+     de: "Anforderungen an Abdichtungen von Flachdächern, Terrassen und Balkonen einschliesslich Anschlüssen und Entwässerung. Grundlage für Flachdach- und Terrassensanierungen."}
+  - {nr: "SIA 232/1", title: "Geneigte Dächer", lines: [Projektgeschäft, Beratung],
+     de: "Planung und Ausführung von Steildächern mit Unterdach und Eindeckung. Relevant für Spenglerarbeiten am Steildach und für Beratungen zu Dachsanierungen."}
+  - {nr: "SIA 232/2", title: "Hinterlüftete Bekleidungen von Aussenwänden", lines: [Projektgeschäft],
+     de: "Konstruktion und Ausführung vorgehängter, hinterlüfteter Fassaden. Grundlage für Fassadenbekleidungen."}
+  - {nr: "SIA 358", title: "Geländer und Brüstungen", lines: [Projektgeschäft, Beratung],
+     de: "Anforderungen an Absturzsicherungen wie Geländer und Brüstungen, unter anderem an Höhe und Öffnungen. Wichtig für Treppen, Balkone und Geländerprüfungen."}
+  - {nr: "SIA 260", title: "Grundlagen der Projektierung von Tragwerken", lines: [Projektgeschäft],
+     de: "Grundsätze für Sicherheit und Gebrauchstauglichkeit von Tragwerken. Wird vom beigezogenen Ingenieurbüro angewendet."}
+  - {nr: "SIA 261", title: "Einwirkungen auf Tragwerke", lines: [Projektgeschäft, Systemprodukte],
+     de: "Lasten wie Schnee, Wind und Nutzlasten in Abhängigkeit vom Standort. Bei Systemprodukten deckt Fronalp dies über die Höhenregeln der Preisliste ab."}
+  - {nr: "SIA 263", title: "Stahlbau", lines: [Projektgeschäft],
+     de: "Bemessung von Stahltragwerken. Relevant für Treppen und Tragkonstruktionen; Nachweise erstellt das Ingenieurbüro."}
+  - {nr: "SN EN 1090-1 und -2", title: "Ausführung von Stahltragwerken und Aluminiumtragwerken", lines: [Projektgeschäft, Systemprodukte],
+     de: "Regelt Herstellung, Ausführungsklassen und Konformitätsnachweis tragender Bauteile. Fronalp führt eine werkseigene Produktionskontrolle nach dieser Norm."}
+  - {nr: "SN EN ISO 1461", title: "Durch Feuerverzinken auf Stahl aufgebrachte Zinküberzüge", lines: [Projektgeschäft, Systemprodukte],
+     de: "Anforderungen an Zinküberzüge auf Stahlteilen. Wird bei der Verzinkerei vorausgesetzt."}
+  - {nr: "SN EN ISO 12944", title: "Korrosionsschutz von Stahlbauten durch Beschichtungssysteme", lines: [Projektgeschäft, Beratung],
+     de: "Einteilung in Korrosivitätskategorien und Schutzdauer von Beschichtungen. Relevant für Duplexbeschichtungen."}
+  - {nr: "SN EN 14449", title: "Verbund-Sicherheitsglas, Konformitätsbewertung", lines: [Projektgeschäft, Systemprodukte],
+     de: "Nachweis der Eigenschaften von Verbund-Sicherheitsglas. Relevant für Glasgeländer und Vordächer."}
+  - {nr: "SIA 180", title: "Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden", lines: [Beratung, Projektgeschäft],
+     de: "Anforderungen an Wärme- und Feuchteschutz der Gebäudehülle. Relevant für Dachsanierungen und Zustandsbeurteilungen."}
+  - {nr: "SIA 380/1", title: "Heizwärmebedarf", lines: [Beratung],
+     de: "Berechnung und Grenzwerte des Heizwärmebedarfs. Relevant bei energetischen Sanierungen; Nachweise erstellt ein Energieplaner."}
+  - {nr: "SIA 500", title: "Hindernisfreie Bauten", lines: [Projektgeschäft, Beratung],
+     de: "Anforderungen an die hindernisfreie Gestaltung von Bauten. Relevant für Rampen, Handläufe und Zugänge."}
+  - {nr: "VKF", title: "Brandschutzvorschriften (Brandschutznorm und Brandschutzrichtlinien)", lines: [Beratung, Projektgeschäft],
+     de: "Kantonal verbindliche Brandschutzvorschriften, unter anderem zu Baustoffen und Abständen. Relevant bei brennbaren Dacheindeckungen und Fassaden."}
+  - {nr: "NPK (CRB)", title: "Normpositionen-Katalog", lines: [Projektgeschäft],
+     de: "Standardisierte Textpositionen für Leistungsverzeichnisse im Bauwesen. Ausschreibungen von Planern kommen meist in dieser Struktur."}
+  - {nr: "SIA 451", title: "Datenformat für Leistungsverzeichnisse", lines: [Projektgeschäft],
+     de: "Austauschformat für Leistungsverzeichnisse zwischen Planern und Unternehmern. MetaBau kann diese Dateien nicht direkt einlesen; Positionen werden von Hand übertragen."}
+  - {nr: "bfu", title: "Fachdokumentation Geländer und Brüstungen", lines: [Beratung, Projektgeschäft],
+     de: "Empfehlungen der Beratungsstelle für Unfallverhütung zu Absturzsicherungen. Wird bei Geländerprüfungen für Wohnbauten beigezogen."}
+  - {nr: "Suva", title: "Publikationen zur Absturzsicherung bei Arbeiten auf Dächern", lines: [Projektgeschäft],
+     de: "Hinweise zu Seitenschutz, Auffangnetzen und Anschlageinrichtungen. Grundlage für die Arbeitsvorbereitung der Montage."}
+laws:
+  - {nr: "SR 220", title: "Obligationenrecht (OR), Werkvertrag Art. 363 bis 379", de: "Rechte und Pflichten bei Werkverträgen, unter anderem Kostenansatz (Art. 375) und Mängelhaftung.", excerpt: true,
+     source: "SR-220-01102026-DE.pdf", pages: [148, 153], out: "Auszug_OR_Werkvertrag_Art-363-379.pdf"}
+  - {nr: "SR 641.20", title: "Mehrwertsteuergesetz (MWSTG), Art. 25 und 26", de: "Steuersätze und Rechnungsstellung.", excerpt: true,
+     source: "SR-641.20-31032025-DE.pdf", pages: [24, 26], out: "Auszug_MWSTG_Art-25-26.pdf"}
+  - {nr: "SR 832.311.141", title: "Bauarbeitenverordnung (BauAV), Arbeiten auf Dächern Art. 41 bis 46", de: "Arbeitssicherheit auf Baustellen, unter anderem Absturzsicherung bei Dacharbeiten.", excerpt: true,
+     source: "SR-832.311.141-01012024-DE.pdf", pages: [12, 14], out: "Auszug_BauAV_Arbeiten-auf-Daechern_Art-41-46.pdf"}
+  - {nr: "Kanton Schwyz", title: "Planungs- und Baugesetz (PBG) mit Vollzugsverordnung", de: "Baubewilligungspflicht, auch für Carports und Velounterstände je nach Gemeinde.", excerpt: false}

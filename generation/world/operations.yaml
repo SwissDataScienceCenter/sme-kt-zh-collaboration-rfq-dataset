@@ -1,0 +1,91 @@
+# Commercial rules, rates, price indices, transport zones and suppliers of the Company world.
+# Generation facing. Prices in CHF excl. VAT. Base year for all prices: 2026.
+
+base_year: 2026
+
+vat:            # Swiss standard rate by document date
+  - {from: 2011-01-01, to: 2017-12-31, rate: 0.080}
+  - {from: 2018-01-01, to: 2023-12-31, rate: 0.077}
+  - {from: 2024-01-01, to: null,       rate: 0.081}
+
+rounding:
+  line_total: 0.01        # quantity x unit price, commercial rounding to the Rappen
+  discount: 0.05          # discount and Skonto amounts rounded to 5 Rappen (MetaBau behaviour)
+  vat: 0.05               # VAT amount rounded to 5 Rappen
+  grand_total: 0.05
+
+commercial_rules:
+  approval_owner_above_net: 50000
+  approval_owner_discount_above: 0.03
+  validity:
+    current_template: 3 months
+    old_word_template: 30 days
+  payment_terms:
+    b2c: "30 Tage netto, innert 10 Tagen 2 % Skonto"
+    b2c_above_20000: "30 % bei Auftragserteilung, 60 % nach Montage, 10 % nach Abnahme; je zahlbar innert 30 Tagen netto"
+    b2b_custom_build_above_30000: "Akontozahlungen nach Baufortschritt bis 90 %, Restzahlung 10 % nach Abnahme; zahlbar innert 30 Tagen netto oder innert 10 Tagen mit 2 % Skonto"
+    b2b_default: "30 Tage netto, innert 10 Tagen 2 % Skonto"
+  skonto: {rate: 0.02, days: 10, base: gross}      # company habit: computed on the gross total, not after discount
+  discount: {standard: 0.0, regular_customer: 0.02}
+  optional_items:
+    current_template: amount shown in brackets, excluded from total
+    old_word_template: separate paragraph "Optional" with unit price in text
+  client_provisions:
+    current_template: text block "Leistungen bauseits"
+    old_word_template: numbered list "Bauseitige Leistungen"
+
+offer_markup:            # bottom-up costing (Lump sum, metal construction)
+  material: 0.15         # on supplier cost (EK)
+  risk_and_profit: 0.08  # on cost total
+  small_order_surcharge: {below_net: 1500, amount: 120}
+
+waste_factors:           # added to measured or assumed quantities
+  membranes: 0.10
+  slabs: 0.08
+  sheet_metal: 0.05
+  steel: 0.03
+
+cost_estimate_accuracy:  # stated on Richtofferten
+  with_site_visit: 0.15
+  without_site_visit: 0.25
+
+transport_zones:         # from Ibach SZ, by road distance
+  - {zone: 1, max_km: 15,   flat: 120, examples: [Schwyz, Brunnen, Seewen, Steinen, Morschach, Lauerz, Goldau]}
+  - {zone: 2, max_km: 40,   flat: 220, examples: [Einsiedeln, Arth, Küssnacht, Altdorf, Zug, Baar, Rothenthurm, Oberiberg, Unteriberg]}
+  - {zone: 3, max_km: 80,   flat: 380, examples: [Luzern, Zürich, Pfäffikon SZ, Wädenswil]}
+  - {zone: 4, max_km: null, flat: 560, examples: [Winterthur, Aarau, Uster]}
+
+rate_categories:        # 2026 rates, CHF per hour; MetaBau code in brackets
+  fitter_a:            {code: MA, de: A-Monteur, rate: 125}
+  fitter_b:            {code: MB, de: B-Monteur, rate: 115}
+  apprentice:          {code: LE, de: Lernende/r, rate: 65}
+  workshop:            {code: WS, de: Werkstattstunde, rate: 118}
+  project_manager:     {code: PL, de: Projektleitung, rate: 145}
+  advisory_owner:      {code: B1, de: Beratung Geschäftsleitung, rate: 185}
+  advisory_pm:         {code: B2, de: Beratung Projektleitung, rate: 155}
+  advisory_technician: {code: B3, de: Beratung Technik, rate: 125}
+surcharges_regie:
+  night_weekend: 0.50
+  vehicle_day: 85
+  small_material_regie: 0.05     # on labour amount
+
+price_index:            # factor relative to 2026; price(year) = price_2026 * index[year]
+  years:              [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+  labour:             [0.90, 0.91, 0.92, 0.93, 0.95, 0.97, 0.98, 0.99, 1.00]
+  steel:              [0.78, 0.76, 0.74, 0.95, 1.10, 0.98, 0.95, 0.96, 1.00]
+  bitumen_insulation: [0.82, 0.83, 0.84, 0.88, 0.95, 0.97, 0.97, 0.98, 1.00]
+  sheet_metal:        [0.80, 0.79, 0.80, 0.92, 1.02, 0.97, 0.96, 0.98, 1.00]
+  other:              [0.88, 0.89, 0.90, 0.91, 0.95, 0.98, 0.99, 0.99, 1.00]
+  system_products:    [0.86, 0.86, 0.87, 0.88, 0.92, 0.94, 0.95, 0.97, 1.00]
+
+suppliers:              # all fictional; check names before publishing
+  - {id: S01, name: Stahlhandel Mythenblick AG, place: Goldau, supplies: steel and stainless}
+  - {id: S02, name: Dachmaterial Urmiberg GmbH, place: Brunnen, supplies: membranes, insulation, drains}
+  - {id: S03, name: Spenglerbedarf Talkessel AG, place: Schwyz, supplies: copper, stainless, titanium zinc, aluminium sheet}
+  - {id: S04, name: Verzinkerei Seewen-Ost AG, place: Seewen, supplies: hot dip galvanising}
+  - {id: S05, name: Pulverwerk Rotenfluh AG, place: Steinen, supplies: powder coating}
+  - {id: S06, name: Befestigungstechnik Haggen AG, place: Einsiedeln, supplies: anchors and fasteners}
+  - {id: S07, name: Glas & Plan Fronbach AG, place: Küssnacht, supplies: laminated safety glass}
+  - {id: S08, name: Plattenwelt Innerschweiz AG, place: Zug, supplies: slabs, stilts}
+  - {id: S09, name: Fassadensysteme Lidernen AG, place: Altdorf, supplies: cladding panels, substructure}
+  - {id: S10, name: Kran & Mulden Muotathal AG, place: Muotathal, supplies: cranes, skips, site toilets, lifts}

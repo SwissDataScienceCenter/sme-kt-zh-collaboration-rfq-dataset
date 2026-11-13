@@ -1,0 +1,717 @@
+type,company,category,salutation,first,last,street,zip,town,phone,email,since,deb,alt,kc,discount,id
+Firma,Arnold & Gisler Immobilien AG,Verwaltung,Frau,Regula,Niederöst,Dorfstrasse 35,6440,Brunnen,+41 79 000 19 33,regula.niederoest@arnold-brunnen.ch,2010,D-10101,K9194,KC-20011,0.0,D-10101
+Firma,Seeblick Liegenschaften GmbH,Verwaltung,Frau,Monika,Fässler,Kirchweg 17,6403,Küssnacht,+41 78 000 16 23,monika.faessler@seeblick-kuessnacht.ch,2023,D-10108,,KC-20014,0.02,D-10108
+Firma,Talkessel Immobilien-Treuhand AG,Verwaltung,Frau,Claudia,Kälin,Rebbergstrasse 25,6430,Schwyz,+41 41 000 30 89,claudia.kaelin@talkessel-schwyz.ch,2000,D-10115,K5854,KC-20017,0.0,D-10115
+Firma,Rigi Verwaltungen AG,Verwaltung,Herr,Andreas,Gisler,Dorfstrasse 8,6410,Goldau,+41 76 000 62 64,andreas.gisler@rigi-goldau.ch,2007,D-10122,K3342,KC-20020,0.0,D-10122
+Firma,Hirschgarten Immobilien AG,Verwaltung,Herr,Andreas,Meier,Kirchweg 17,8003,Zürich,+41 79 000 87 11,andreas.meier@hirschgarten-zuerich.ch,2000,D-10129,K5651,KC-20023,0.02,D-10129
+Firma,Ägeri Haus & Wohnen GmbH,Verwaltung,Frau,Regula,Suter,Kirchweg 6,6300,Zug,+41 41 000 26 51,regula.suter@aegeri-zug.ch,2024,D-10136,,KC-20026,0.0,D-10136
+Firma,Wohnbaugenossenschaft Talkessel,Genossenschaft,Frau,Franziska,Schmidig,Gartenweg 4,6430,Schwyz,+41 78 000 18 59,franziska.schmidig@wohnbaugenossenschaft-schwyz.ch,2025,D-10143,,KC-20029,0.02,D-10143
+Firma,Baugenossenschaft Seewen-Hof,Genossenschaft,Frau,Nicole,Inglin,Hofmatt 59,6423,Seewen,+41 79 000 38 25,nicole.inglin@baugenossenschaft-seewen.ch,2010,D-10150,K3864,KC-20032,0.02,D-10150
+Firma,Wohngenossenschaft Rossberg,Genossenschaft,Herr,Christian,Bucher,Lindenstrasse 40,6410,Goldau,+41 79 000 19 33,christian.bucher@wohngenossenschaft-goldau.ch,2022,D-10157,,KC-20035,0.02,D-10157
+Firma,Genossenschaft Sonnmatt Einsiedeln,Genossenschaft,Herr,Stefan,Kistler,Bühlweg 6,8840,Einsiedeln,+41 76 000 94 31,stefan.kistler@genossenschaft-einsiedeln.ch,2019,D-10164,K5315,KC-20038,0.02,D-10164
+Firma,Bauatelier Lauerz GmbH,Architektur,Frau,Franziska,Meier,Hofmatt 36,6424,Lauerz,+41 79 000 53 69,franziska.meier@bauatelier-lauerz.ch,2000,D-10171,K2546,KC-20041,0.0,D-10171
+Firma,Huwyler Partner Architekten AG,Architektur,Frau,Ruth,Schuler,Rebbergstrasse 40,6403,Küssnacht,+41 78 000 29 61,ruth.schuler@huwyler-kuessnacht.ch,2000,D-10178,K6530,KC-20044,0.0,D-10178
+Firma,Studio Riedmatt Architektur GmbH,Architektur,Herr,Urs,Arnold,Seestrasse 56,6300,Zug,+41 76 000 25 48,urs.arnold@studio-zug.ch,2025,D-10185,,KC-20047,0.0,D-10185
+Firma,Zwyssig Architekten AG,Architektur,Herr,Andreas,Heinzer,Kirchweg 17,6460,Altdorf,+41 76 000 99 68,andreas.heinzer@zwyssig-altdorf.ch,2012,D-10192,K2569,KC-20050,0.0,D-10192
+Firma,Urschweiz GU AG,GU,Frau,Nicole,Kennel,Lindenstrasse 37,6440,Brunnen,+41 78 000 52 89,nicole.kennel@urschweiz-brunnen.ch,2024,D-10199,,KC-20053,0.0,D-10199
+Firma,Zentralbau Generalunternehmung AG,GU,Frau,Monika,Bucher,Feldstrasse 27,6004,Luzern,+41 78 000 65 74,monika.bucher@zentralbau-luzern.ch,2018,D-10206,K3118,KC-20056,0.0,D-10206
+Firma,Genossame Fronbach,Öffentlich,Herr,Daniel,Baggenstos,Bergstrasse 6,6422,Steinen,+41 78 000 27 29,daniel.baggenstos@genossame-steinen.ch,2019,D-10213,K3484,KC-20059,0.0,D-10213
+Firma,Gemeindewerke Seewen-Steinen,Öffentlich,Frau,Regula,Schuler,Riedstrasse 36,6423,Seewen,+41 78 000 46 99,regula.schuler@gemeindewerke-seewen.ch,1999,D-10220,K2943,KC-20062,0.0,D-10220
+Firma,Hotel Bürgenblick AG,Gewerbe,Herr,Andreas,Fuchs,Hofmatt 41,6442,Gersau,+41 78 000 74 72,andreas.fuchs@hotel-gersau.ch,1999,D-10227,K1992,KC-20065,0.0,D-10227
+Firma,Garage Sattelegg AG,Gewerbe,Herr,Roland,Zwyssig,Rosenweg 2,6417,Sattel,+41 41 000 73 78,roland.zwyssig@garage-sattel.ch,2000,D-10234,K2074,KC-20068,0.0,D-10234
+Firma,Bergrestaurant Holzegg GmbH,Gewerbe,Frau,Monika,Suter,Dorfstrasse 14,6430,Schwyz,+41 79 000 64 56,monika.suter@bergrestaurant-schwyz.ch,1999,D-10241,K1702,KC-20071,0.0,D-10241
+Firma,Käserei Muota AG,Gewerbe,Herr,Roland,Beeler,Bachstrasse 13,6430,Schwyz,+41 41 000 61 73,roland.beeler@kaeserei-schwyz.ch,2006,D-10248,K5383,KC-20074,0.0,D-10248
+Firma,Physiozentrum Mythen GmbH,Gewerbe,Herr,Markus,Fuchs,Lindenstrasse 59,6430,Schwyz,+41 79 000 43 56,markus.fuchs@physiozentrum-schwyz.ch,2000,D-10255,K1377,KC-20077,0.0,D-10255
+Firma,Camping Lauerzersee GmbH,Gewerbe,Herr,Christian,Meier,Hofmatt 24,6424,Lauerz,+41 76 000 61 91,christian.meier@camping-lauerz.ch,2023,D-10262,,KC-20080,0.0,D-10262
+Firma,Truttmann Treuhand AG,Verwaltung,Herr,Andreas,Kistler,Feldstrasse 14,6443,Morschach,+41 79 000 89 83,info@truttmann-morschach.ch,2003,D-10269,K2282,KC-20083,0.02,D-10269
+Firma,"Stockwerkeigentümergemeinschaft Gartenweg 23, Sattel",Verwaltung,Herr,Beat,Wüthrich,Seestrasse 30,6417,Sattel,+41 78 000 55 43,info@meier-sattel.ch,1999,D-10276,K4089,KC-20086,0.02,D-10276
+Firma,Meier Treuhand AG,Verwaltung,Herr,Thomas,Inglin,Bachstrasse 29,6460,Altdorf,+41 78 000 71 89,info@meier-altdorf.ch,2012,D-10283,K3370,KC-20089,0.0,D-10283
+Firma,Schmidig Architektur GmbH,Architektur,Frau,Regula,Baggenstos,Dorfstrasse 30,8842,Unteriberg,+41 76 000 56 43,info@schmidig-unteriberg.ch,2010,D-10290,K4510,KC-20092,0.0,D-10290
+Firma,Suter Immobilien GmbH,Verwaltung,Herr,Peter,Lüönd,Bachstrasse 47,6442,Gersau,+41 41 000 12 28,info@suter-gersau.ch,2022,D-10297,,KC-20095,0.02,D-10297
+Firma,Gwerder Architektur GmbH,Architektur,Herr,Andreas,Annen,Bühlweg 23,6422,Steinen,+41 76 000 46 93,info@gwerder-steinen.ch,2007,D-10304,K4363,KC-20098,0.0,D-10304
+Firma,Garage Betschart AG,Gewerbe,Herr,Josef,Kistler,Hofmatt 56,6442,Gersau,+41 76 000 77 93,info@betschart-gersau.ch,2024,D-10311,,KC-20101,0.0,D-10311
+Firma,Erbengemeinschaft Schmidig,Privat,Herr,Martin,Wüthrich,Bachstrasse 48,8820,Wädenswil,+41 76 000 50 41,info@schmidig-waedenswil.ch,2013,D-10318,K6690,KC-20104,0.0,D-10318
+Firma,Garage Zwyssig AG,Gewerbe,Frau,Sandra,Baggenstos,Bergstrasse 53,6422,Steinen,+41 78 000 77 75,info@zwyssig-steinen.ch,2005,D-10325,K2329,KC-20107,0.0,D-10325
+Firma,Bäckerei Ulrich,Gewerbe,Frau,Karin,Fuchs,Sonnenhalde 49,6443,Morschach,+41 79 000 89 22,info@ulrich-morschach.ch,2001,D-10332,K7381,KC-20110,0.0,D-10332
+Firma,Marty Architektur GmbH,Architektur,Frau,Andrea,Föhn,Riedstrasse 13,6422,Steinen,+41 79 000 24 73,info@marty-steinen.ch,1998,D-10339,K7745,KC-20113,0.0,D-10339
+Firma,Ochsner Treuhand AG,Verwaltung,Herr,Lukas,Marty,Bachstrasse 14,6438,Ibach,+41 76 000 60 70,info@ochsner-ibach.ch,2019,D-10346,K4070,KC-20116,0.02,D-10346
+Firma,Ott Holzbau AG,Gewerbe,Herr,Martin,Auf der Maur,Seestrasse 13,6415,Arth,+41 41 000 79 37,info@ott-arth.ch,2019,D-10353,K7212,KC-20119,0.0,D-10353
+Firma,Erbengemeinschaft Annen,Privat,Frau,Ruth,Aschwanden,Riedstrasse 22,6423,Seewen,+41 41 000 90 43,info@annen-seewen.ch,2020,D-10360,K8322,KC-20122,0.0,D-10360
+Firma,Bürgler Architektur GmbH,Architektur,Herr,Daniel,Föhn,Gartenweg 52,6430,Schwyz,+41 79 000 30 30,info@buergler-schwyz.ch,2000,D-10367,K5221,KC-20125,0.0,D-10367
+Firma,Erbengemeinschaft Fuchs,Privat,Frau,Regula,Bürgler,Sonnenhalde 14,6422,Steinen,+41 41 000 46 58,info@fuchs-steinen.ch,2021,D-10374,,KC-20128,0.0,D-10374
+Firma,Beeler Holzbau AG,Gewerbe,Herr,Roland,Schnüriger,Sonnenhalde 15,6403,Küssnacht,+41 78 000 75 36,info@beeler-kuessnacht.ch,2008,D-10381,K1150,KC-20131,0.0,D-10381
+Firma,Holdener Holzbau AG,Gewerbe,Frau,Barbara,Schmidig,Riedstrasse 26,6442,Gersau,+41 78 000 11 21,info@holdener-gersau.ch,2024,D-10388,,KC-20134,0.0,D-10388
+Firma,"Stockwerkeigentümergemeinschaft Bergstrasse 1, Seewen",Verwaltung,Frau,Barbara,Meier,Feldstrasse 33,6423,Seewen,+41 79 000 26 10,info@meier-seewen.ch,1997,D-10395,K6059,KC-20137,0.02,D-10395
+Firma,Garage Annen AG,Gewerbe,Frau,Claudia,Ott,Bühlweg 31,6422,Steinen,+41 79 000 38 38,info@annen-steinen.ch,2017,D-10402,K2155,KC-20140,0.0,D-10402
+Firma,Zehnder Holzbau AG,Gewerbe,Frau,Franziska,Fuchs,Seestrasse 20,6418,Rothenthurm,+41 79 000 13 10,info@zehnder-rothenthurm.ch,1999,D-10409,K8155,KC-20143,0.0,D-10409
+Firma,Garage Fuchs AG,Gewerbe,Frau,Franziska,Arnold,Dorfstrasse 19,6300,Zug,+41 78 000 75 96,info@fuchs-zug.ch,2021,D-10416,,KC-20146,0.0,D-10416
+Firma,Abegg Immobilien GmbH,Verwaltung,Frau,Sandra,Mettler,Bühlweg 44,6403,Küssnacht,+41 41 000 82 98,info@abegg-kuessnacht.ch,2006,D-10423,K6618,KC-20149,0.02,D-10423
+Firma,Lüönd Treuhand AG,Verwaltung,Frau,Regula,Ott,Feldstrasse 53,6424,Lauerz,+41 41 000 59 92,info@lueoend-lauerz.ch,2004,D-10430,K3175,KC-20152,0.0,D-10430
+Firma,Wüthrich Holzbau AG,Gewerbe,Herr,Andreas,Steiner,Rebbergstrasse 19,8843,Oberiberg,+41 79 000 86 38,info@wuethrich-oberiberg.ch,2012,D-10437,K4148,KC-20155,0.0,D-10437
+Firma,Marty Treuhand AG,Verwaltung,Herr,Christian,Niederöst,Dorfstrasse 19,6438,Ibach,+41 78 000 89 36,info@marty-ibach.ch,2011,D-10444,K1828,KC-20158,0.02,D-10444
+Firma,Schelbert Holzbau AG,Gewerbe,Herr,Markus,Heinzer,Bergstrasse 46,6440,Brunnen,+41 76 000 22 44,info@schelbert-brunnen.ch,2007,D-10451,K5826,KC-20161,0.0,D-10451
+Firma,Ulrich Holzbau AG,Gewerbe,Frau,Priska,Weber,Dorfstrasse 43,6460,Altdorf,+41 41 000 38 22,info@ulrich-altdorf.ch,2001,D-10458,K1049,KC-20164,0.0,D-10458
+Firma,Schnüriger Holzbau AG,Gewerbe,Herr,Thomas,Beeler,Sonnenhalde 34,6442,Gersau,+41 76 000 33 28,info@schnueriger-gersau.ch,2000,D-10465,K3333,KC-20167,0.0,D-10465
+Firma,Garage Schuler AG,Gewerbe,Frau,Esther,Fässler,Bühlweg 4,6430,Schwyz,+41 79 000 30 93,info@schuler-schwyz.ch,1996,D-10472,K9295,KC-20170,0.0,D-10472
+Firma,"Stockwerkeigentümergemeinschaft Hofmatt 20, Morschach",Verwaltung,Herr,Peter,Mettler,Bergstrasse 43,6443,Morschach,+41 78 000 86 49,info@meier-morschach.ch,2012,D-10479,K9141,KC-20173,0.0,D-10479
+Firma,Kennel Treuhand AG,Verwaltung,Frau,Karin,Betschart,Gartenweg 53,8843,Oberiberg,+41 76 000 81 54,info@kennel-oberiberg.ch,2005,D-10486,K1140,KC-20176,0.0,D-10486
+Firma,Camenzind Architektur GmbH,Architektur,Herr,Andreas,Bürgler,Kirchweg 50,6440,Brunnen,+41 76 000 91 49,info@camenzind-brunnen.ch,2016,D-10493,K2700,KC-20179,0.0,D-10493
+Firma,Erbengemeinschaft Bürgler,Privat,Herr,Daniel,Fuchs,Kirchweg 9,6443,Morschach,+41 41 000 77 11,info@buergler-morschach.ch,2001,D-10500,K7789,KC-20182,0.0,D-10500
+Firma,Erbengemeinschaft Baggenstos,Privat,Frau,Silvia,Mettler,Feldstrasse 44,8842,Unteriberg,+41 41 000 83 79,info@baggenstos-unteriberg.ch,2019,D-10507,K2542,KC-20185,0.0,D-10507
+Firma,Bäckerei Steiner,Gewerbe,Herr,Markus,Schelbert,Rosenweg 59,6423,Seewen,+41 76 000 28 23,info@steiner-seewen.ch,2004,D-10514,K2763,KC-20188,0.0,D-10514
+Firma,Erbengemeinschaft Mettler,Privat,Herr,Urs,Mettler,Rosenweg 59,8842,Unteriberg,+41 79 000 71 70,info@mettler-unteriberg.ch,2015,D-10521,K5581,KC-20191,0.0,D-10521
+Firma,"Stockwerkeigentümergemeinschaft Rosenweg 35, Brunnen",Verwaltung,Herr,Thomas,Föhn,Kirchweg 57,6440,Brunnen,+41 79 000 19 95,info@rickenbacher-brunnen.ch,2017,D-10528,K3015,KC-20194,0.0,D-10528
+Firma,Kennel Holzbau AG,Gewerbe,Frau,Nicole,Mettler,Rosenweg 45,6430,Schwyz,+41 79 000 68 72,info@kennel-schwyz.ch,2002,D-10535,K4904,KC-20197,0.0,D-10535
+Firma,Bäckerei Meier,Gewerbe,Frau,Sandra,Bucher,Lindenstrasse 58,8840,Einsiedeln,+41 41 000 43 90,info@meier-einsiedeln.ch,2015,D-10542,K5928,KC-20200,0.0,D-10542
+Firma,Schuler Immobilien GmbH,Verwaltung,Herr,Andreas,Bürgler,Rosenweg 33,6423,Seewen,+41 41 000 77 82,info@schuler-seewen.ch,1998,D-10549,K3938,KC-20203,0.02,D-10549
+Firma,Bucher Immobilien GmbH,Verwaltung,Frau,Sandra,Weber,Hofmatt 29,6424,Lauerz,+41 76 000 62 49,info@bucher-lauerz.ch,2023,D-10556,,KC-20206,0.02,D-10556
+Person,,Privat,Herr,Christian,Zwyssig,Rebbergstrasse 3,8808,Pfäffikon SZ,+41 76 000 21 68,c.zwyssig@seenet-mail.ch,2020,D-10563,K8230,KC-20209,0.0,D-10563
+Person,,Privat,Frau,Karin,Föhn,Bachstrasse 28,6438,Ibach,+41 79 000 17 81,k.foehn@hausnet-mail.ch,2004,D-10570,K6959,,0.0,D-10570
+Person,,Privat,Herr,Markus,Föhn,Rebbergstrasse 8,6410,Goldau,+41 79 000 89 30,m.foehn@seenet-mail.ch,2023,D-10577,,KC-20212,0.0,D-10577
+Person,,Privat,Frau,Monika,Arnold,Rebbergstrasse 61,6443,Morschach,+41 76 000 97 85,m.arnold@hausnet-mail.ch,1996,D-10584,K5178,,0.0,D-10584
+Person,,Privat,Herr,Roland,Bürgler,Mattenweg 39,8820,Wädenswil,+41 78 000 35 39,r.buergler@talnet-mail.ch,1993,D-10591,K5777,,0.0,D-10591
+Person,,Privat,Frau,Claudia,Fässler,Riedstrasse 14,6423,Seewen,+41 76 000 73 79,c.faessler@talnet-mail.ch,2025,D-10598,,KC-20215,0.0,D-10598
+Person,,Privat,Herr,Christian,Arnold,Hofmatt 64,6424,Lauerz,+41 76 000 56 96,c.arnold@talnet-mail.ch,2009,D-10605,K8226,,0.0,D-10605
+Person,,Privat,Herr,Beat,Inglin,Bergstrasse 7,8820,Wädenswil,+41 78 000 50 82,b.inglin@hausnet-mail.ch,1994,D-10612,K1758,,0.0,D-10612
+Person,,Privat,Herr,Stefan,Schelbert,Dorfstrasse 69,6340,Baar,+41 76 000 53 64,,2000,D-10619,K7820,,0.0,D-10619
+Person,,Privat,Frau,Barbara,Steiner,Bergstrasse 79,6424,Lauerz,+41 41 000 98 59,b.steiner@seenet-mail.ch,2003,D-10626,K5205,,0.0,D-10626
+Person,,Privat,Herr,Christian,Schelbert,Seestrasse 81,6403,Küssnacht,+41 78 000 84 39,,2005,D-10633,K1375,,0.0,D-10633
+Person,,Privat,Herr,Roland,Camenzind,Sonnenhalde 25,6423,Seewen,+41 78 000 60 79,,2000,D-10640,K2625,,0.0,D-10640
+Person,,Privat,Frau,Nicole,Kennel,Sonnenhalde 16,6440,Brunnen,+41 78 000 32 70,n.kennel@seenet-mail.ch,2020,D-10647,K1940,KC-20218,0.0,D-10647
+Person,,Privat,Herr,Lukas,Zwyssig,Lindenstrasse 41,6460,Altdorf,+41 79 000 35 70,l.zwyssig@hausnet-mail.ch,2014,D-10654,K9172,KC-20221,0.0,D-10654
+Person,,Privat,Herr,Markus,Steiner,Bühlweg 30,6460,Altdorf,+41 78 000 13 39,m.steiner@postfach-sz.ch,2018,D-10661,K7681,KC-20224,0.0,D-10661
+Person,,Privat,Herr,Stefan,Kälin,Riedstrasse 52,8820,Wädenswil,+41 78 000 40 33,,2026,D-10668,,KC-20227,0.0,D-10668
+Person,,Privat,Frau,Monika,Gisler,Bühlweg 69,6415,Arth,+41 78 000 42 79,m.gisler@seenet-mail.ch,1992,D-10675,K4924,,0.0,D-10675
+Person,,Privat,Herr,Urs,Huwyler,Lindenstrasse 32,6438,Ibach,+41 79 000 58 66,u.huwyler@seenet-mail.ch,1999,D-10682,K6157,,0.0,D-10682
+Person,,Privat,Herr,Daniel,Kryenbühl,Bühlweg 46,6300,Zug,+41 78 000 60 75,d.kryenbuehl@postfach-sz.ch,2010,D-10689,K5093,,0.0,D-10689
+Person,,Privat,Frau,Karin,Bürgler,Rosenweg 57,6415,Arth,+41 76 000 44 65,k.buergler@hausnet-mail.ch,2003,D-10696,K4806,,0.0,D-10696
+Person,,Privat,Herr,Peter,Fässler,Riedstrasse 60,6410,Goldau,+41 41 000 28 99,p.faessler@talnet-mail.ch,2020,D-10703,K6598,KC-20230,0.0,D-10703
+Person,,Privat,Herr,Beat,Fuchs,Sonnenhalde 47,6443,Morschach,+41 41 000 84 82,b.fuchs@talnet-mail.ch,1995,D-10710,K8555,,0.0,D-10710
+Person,,Privat,Frau,Claudia,Marty,Bachstrasse 78,6300,Zug,+41 78 000 50 67,c.marty@postfach-sz.ch,2023,D-10717,,KC-20233,0.0,D-10717
+Person,,Privat,Frau,Regula,Gisler,Sonnenhalde 51,6443,Morschach,+41 78 000 92 60,,2003,D-10724,K5684,,0.0,D-10724
+Person,,Privat,Frau,Nicole,Schnüriger,Rosenweg 59,6415,Arth,+41 78 000 42 54,n.schnueriger@seenet-mail.ch,2008,D-10731,K5943,,0.0,D-10731
+Person,,Privat,Herr,Andreas,Arnold,Mattenweg 67,6442,Gersau,+41 78 000 21 11,a.arnold@talnet-mail.ch,2009,D-10738,K1612,,0.0,D-10738
+Person,,Privat,Frau,Priska,Lüönd,Gartenweg 20,6430,Schwyz,+41 76 000 18 58,,1996,D-10745,K1809,,0.0,D-10745
+Person,,Privat,Frau,Monika,Wüthrich,Mattenweg 26,6430,Schwyz,+41 78 000 10 42,m.wuethrich@postfach-sz.ch,2020,D-10752,K4250,KC-20236,0.0,D-10752
+Person,,Privat,Herr,Stefan,Weber,Mattenweg 6,6443,Morschach,+41 79 000 72 62,s.weber@seenet-mail.ch,2017,D-10759,K4715,KC-20239,0.0,D-10759
+Person,,Privat,Frau,Claudia,Camenzind,Rebbergstrasse 51,6438,Ibach,+41 79 000 59 37,c.camenzind@hausnet-mail.ch,1995,D-10766,K8693,,0.0,D-10766
+Person,,Privat,Frau,Ruth,Wüthrich,Kirchweg 75,6460,Altdorf,+41 78 000 33 55,r.wuethrich@hausnet-mail.ch,2003,D-10773,K9384,,0.0,D-10773
+Person,,Privat,Frau,Claudia,Baggenstos,Lindenstrasse 21,6415,Arth,+41 78 000 61 38,c.baggenstos@postfach-sz.ch,2024,D-10780,,KC-20242,0.0,D-10780
+Person,,Privat,Herr,Michael,Auf der Maur,Bachstrasse 73,6443,Morschach,+41 79 000 72 29,,2011,D-10787,K7216,,0.0,D-10787
+Person,,Privat,Herr,Martin,Holdener,Dorfstrasse 70,6418,Rothenthurm,+41 78 000 72 36,m.holdener@talnet-mail.ch,2001,D-10794,K4761,,0.0,D-10794
+Person,,Privat,Herr,Daniel,Imhof,Seestrasse 15,6438,Ibach,+41 41 000 43 86,d.imhof@hausnet-mail.ch,2013,D-10801,K9855,KC-20245,0.0,D-10801
+Person,,Privat,Herr,Peter,Schelbert,Seestrasse 29,6438,Ibach,+41 76 000 17 82,p.schelbert@seenet-mail.ch,2020,D-10808,K1457,KC-20248,0.0,D-10808
+Person,,Privat,Frau,Silvia,Wüthrich,Seestrasse 12,6415,Arth,+41 79 000 99 96,,2023,D-10815,,KC-20251,0.0,D-10815
+Person,,Privat,Frau,Andrea,Fässler,Bergstrasse 49,8820,Wädenswil,+41 76 000 22 82,a.faessler@seenet-mail.ch,2003,D-10822,K8480,,0.0,D-10822
+Person,,Privat,Frau,Monika,Weber,Seestrasse 17,6430,Schwyz,+41 76 000 96 49,m.weber@seenet-mail.ch,2011,D-10829,K1163,,0.0,D-10829
+Person,,Privat,Herr,Thomas,Rickenbacher,Kirchweg 67,6422,Steinen,+41 76 000 70 36,t.rickenbacher@seenet-mail.ch,2010,D-10836,K8956,,0.0,D-10836
+Person,,Privat,Frau,Karin,Bürgler,Bühlweg 45,6423,Seewen,+41 78 000 90 94,k.buergler@postfach-sz.ch,2017,D-10843,K6488,KC-20254,0.0,D-10843
+Person,,Privat,Herr,Urs,Rickenbacher,Bühlweg 57,6443,Morschach,+41 79 000 35 66,u.rickenbacher@talnet-mail.ch,2017,D-10850,K5031,KC-20257,0.0,D-10850
+Person,,Privat,Frau,Monika,Ott,Seestrasse 73,6422,Steinen,+41 79 000 59 92,m.ott@postfach-sz.ch,2016,D-10857,K7311,KC-20260,0.0,D-10857
+Person,,Privat,Herr,Martin,Abegg,Hofmatt 10,6430,Schwyz,+41 78 000 76 17,m.abegg@talnet-mail.ch,2022,D-10864,,KC-20263,0.0,D-10864
+Person,,Privat,Frau,Silvia,Kistler,Mattenweg 58,6443,Morschach,+41 78 000 95 63,s.kistler@hausnet-mail.ch,2011,D-10871,K6215,,0.0,D-10871
+Person,,Privat,Frau,Silvia,Kistler,Bergstrasse 59,6430,Schwyz,+41 78 000 53 79,s.kistler@talnet-mail.ch,2015,D-10878,K2750,KC-20266,0.0,D-10878
+Person,,Privat,Herr,Andreas,Kryenbühl,Kirchweg 29,6443,Morschach,+41 76 000 60 52,a.kryenbuehl@talnet-mail.ch,2013,D-10885,K6666,KC-20269,0.0,D-10885
+Person,,Privat,Herr,Michael,Schmidig,Feldstrasse 23,8843,Oberiberg,+41 76 000 29 60,m.schmidig@seenet-mail.ch,1994,D-10892,K6491,,0.0,D-10892
+Person,,Privat,Herr,Peter,Reding,Seestrasse 81,6430,Schwyz,+41 76 000 27 72,p.reding@seenet-mail.ch,2023,D-10899,,KC-20272,0.0,D-10899
+Person,,Privat,Herr,Urs,Meier,Bachstrasse 23,8840,Einsiedeln,+41 78 000 96 36,u.meier@postfach-sz.ch,2018,D-10906,K7008,KC-20275,0.0,D-10906
+Person,,Privat,Frau,Franziska,Truttmann,Sonnenhalde 7,6418,Rothenthurm,+41 79 000 63 70,f.truttmann@postfach-sz.ch,2025,D-10913,,KC-20278,0.0,D-10913
+Person,,Privat,Frau,Monika,Kistler,Hofmatt 58,6415,Arth,+41 79 000 24 84,m.kistler@postfach-sz.ch,2021,D-10920,,KC-20281,0.0,D-10920
+Person,,Privat,Frau,Priska,Inglin,Bühlweg 54,6340,Baar,+41 79 000 90 62,,2007,D-10927,K6663,,0.0,D-10927
+Person,,Privat,Herr,Roland,Fässler,Bergstrasse 11,6422,Steinen,+41 76 000 93 96,r.faessler@hausnet-mail.ch,2026,,,KC-20284,0.0,KC-20284
+Person,,Privat,Herr,Peter,Schuler,Seestrasse 24,8842,Unteriberg,+41 78 000 58 30,p.schuler@hausnet-mail.ch,2016,D-10934,K5777,KC-20287,0.0,D-10934
+Person,,Privat,Frau,Silvia,Lüönd,Hofmatt 41,6422,Steinen,+41 41 000 31 39,s.lueoend@seenet-mail.ch,2009,D-10941,K6151,,0.0,D-10941
+Person,,Privat,Frau,Franziska,Schelbert,Sonnenhalde 12,6438,Ibach,+41 41 000 48 64,f.schelbert@seenet-mail.ch,2023,D-10948,,KC-20290,0.0,D-10948
+Person,,Privat,Frau,Ruth,Holdener,Mattenweg 49,6417,Sattel,+41 79 000 59 42,r.holdener@talnet-mail.ch,2007,D-10955,K1167,,0.0,D-10955
+Person,,Privat,Herr,Stefan,Gwerder,Kirchweg 46,6422,Steinen,+41 78 000 79 89,,2002,D-10962,K9485,,0.0,D-10962
+Person,,Privat,Herr,Daniel,Bucher,Feldstrasse 51,6423,Seewen,+41 41 000 55 15,d.bucher@hausnet-mail.ch,2000,D-10969,K1625,,0.0,D-10969
+Person,,Privat,Frau,Barbara,Holdener,Riedstrasse 72,6418,Rothenthurm,+41 41 000 83 96,b.holdener@seenet-mail.ch,2021,D-10976,,KC-20293,0.0,D-10976
+Person,,Privat,Herr,Markus,Schnüriger,Rosenweg 62,6403,Küssnacht,+41 78 000 38 66,m.schnueriger@postfach-sz.ch,2023,D-10983,,KC-20296,0.0,D-10983
+Person,,Privat,Herr,Urs,Beeler,Dorfstrasse 24,6410,Goldau,+41 76 000 83 46,u.beeler@hausnet-mail.ch,1995,D-10990,K4827,,0.0,D-10990
+Person,,Privat,Frau,Claudia,Gwerder,Lindenstrasse 35,6422,Steinen,+41 41 000 69 97,c.gwerder@seenet-mail.ch,2000,D-10997,K6221,,0.0,D-10997
+Person,,Privat,Frau,Franziska,Camenzind,Rosenweg 28,6423,Seewen,+41 79 000 56 70,f.camenzind@seenet-mail.ch,1994,D-11004,K8409,,0.0,D-11004
+Person,,Privat,Herr,Thomas,Zwyssig,Bühlweg 64,6460,Altdorf,+41 76 000 54 12,t.zwyssig@talnet-mail.ch,2006,D-11011,K4993,,0.0,D-11011
+Person,,Privat,Frau,Franziska,Schnüriger,Mattenweg 4,6418,Rothenthurm,+41 41 000 31 31,f.schnueriger@hausnet-mail.ch,2003,D-11018,K5514,,0.0,D-11018
+Person,,Privat,Herr,Martin,Imhof,Rosenweg 67,6438,Ibach,+41 79 000 17 64,m.imhof@hausnet-mail.ch,2018,D-11025,K9458,KC-20299,0.0,D-11025
+Person,,Privat,Herr,Urs,Ott,Feldstrasse 57,8842,Unteriberg,+41 79 000 67 44,,2007,D-11032,K1590,,0.0,D-11032
+Person,,Privat,Herr,Roland,Lüönd,Sonnenhalde 24,6430,Schwyz,+41 78 000 64 94,r.lueoend@seenet-mail.ch,2010,D-11039,K2722,,0.0,D-11039
+Person,,Privat,Frau,Ruth,Ochsner,Sonnenhalde 77,6424,Lauerz,+41 76 000 68 73,r.ochsner@talnet-mail.ch,1997,D-11046,K3612,,0.0,D-11046
+Person,,Privat,Frau,Monika,Ott,Gartenweg 59,6423,Seewen,+41 78 000 72 75,m.ott@talnet-mail.ch,1998,D-11053,K5405,,0.0,D-11053
+Person,,Privat,Herr,Daniel,Camenzind,Dorfstrasse 46,6430,Schwyz,+41 79 000 49 92,d.camenzind@seenet-mail.ch,2010,D-11060,K7707,,0.0,D-11060
+Person,,Privat,Frau,Sandra,Wüthrich,Bergstrasse 24,6403,Küssnacht,+41 41 000 16 84,s.wuethrich@talnet-mail.ch,2016,D-11067,K2263,KC-20302,0.0,D-11067
+Person,,Privat,Frau,Monika,Truttmann,Bergstrasse 64,8842,Unteriberg,+41 78 000 82 48,m.truttmann@talnet-mail.ch,2021,D-11074,,KC-20305,0.0,D-11074
+Person,,Privat,Herr,Stefan,Holdener,Riedstrasse 34,6417,Sattel,+41 79 000 27 16,s.holdener@seenet-mail.ch,2015,D-11081,K3189,KC-20308,0.0,D-11081
+Person,,Privat,Herr,Peter,Ochsner,Gartenweg 9,6418,Rothenthurm,+41 41 000 82 17,p.ochsner@talnet-mail.ch,2012,D-11088,K3329,KC-20311,0.0,D-11088
+Person,,Privat,Herr,Markus,Wüthrich,Gartenweg 15,6440,Brunnen,+41 41 000 86 21,,2017,D-11095,K8915,KC-20314,0.0,D-11095
+Person,,Privat,Frau,Franziska,Zehnder,Mattenweg 60,6440,Brunnen,+41 76 000 85 32,f.zehnder@postfach-sz.ch,2006,D-11102,K5063,,0.0,D-11102
+Person,,Privat,Herr,Michael,Schelbert,Sonnenhalde 58,6443,Morschach,+41 41 000 74 10,m.schelbert@talnet-mail.ch,2020,D-11109,K4811,KC-20317,0.0,D-11109
+Person,,Privat,Frau,Franziska,Betschart,Sonnenhalde 38,6440,Brunnen,+41 78 000 90 48,,2004,D-11116,K1922,,0.0,D-11116
+Person,,Privat,Herr,Stefan,Suter,Kirchweg 59,6424,Lauerz,+41 78 000 72 21,s.suter@hausnet-mail.ch,2011,D-11123,K9083,,0.0,D-11123
+Person,,Privat,Herr,Markus,Arnold,Hofmatt 59,6442,Gersau,+41 79 000 99 83,m.arnold@hausnet-mail.ch,1996,D-11130,K2286,,0.0,D-11130
+Person,,Privat,Frau,Karin,Schelbert,Bachstrasse 66,8840,Einsiedeln,+41 78 000 24 22,k.schelbert@postfach-sz.ch,2004,D-11137,K5328,,0.0,D-11137
+Person,,Privat,Herr,Andreas,Kryenbühl,Dorfstrasse 26,6300,Zug,+41 79 000 23 64,a.kryenbuehl@seenet-mail.ch,1998,D-11144,K7541,,0.0,D-11144
+Person,,Privat,Herr,Lukas,Steiner,Gartenweg 28,6443,Morschach,+41 78 000 72 93,l.steiner@postfach-sz.ch,2013,D-11151,K1754,KC-20320,0.0,D-11151
+Person,,Privat,Frau,Silvia,Rickenbacher,Kirchweg 67,6438,Ibach,+41 41 000 78 85,s.rickenbacher@seenet-mail.ch,1995,D-11158,K8270,,0.0,D-11158
+Person,,Privat,Herr,Martin,Bürgler,Rosenweg 18,6430,Schwyz,+41 78 000 72 62,,2002,D-11165,K4969,,0.0,D-11165
+Person,,Privat,Herr,Andreas,Meier,Gartenweg 51,6440,Brunnen,+41 78 000 83 14,,1992,D-11172,K4661,,0.0,D-11172
+Person,,Privat,Herr,Michael,Imhof,Kirchweg 31,6423,Seewen,+41 78 000 92 82,,1993,D-11179,K1631,,0.0,D-11179
+Person,,Privat,Herr,Beat,Schuler,Kirchweg 59,6438,Ibach,+41 78 000 80 90,,2010,D-11186,K1885,,0.0,D-11186
+Person,,Privat,Frau,Claudia,Weber,Dorfstrasse 62,6424,Lauerz,+41 76 000 48 58,c.weber@talnet-mail.ch,2016,D-11193,K8084,KC-20323,0.0,D-11193
+Person,,Privat,Frau,Karin,Rickenbacher,Lindenstrasse 22,6340,Baar,+41 41 000 73 93,k.rickenbacher@postfach-sz.ch,2000,D-11200,K7374,,0.0,D-11200
+Person,,Privat,Herr,Thomas,Wüthrich,Rosenweg 61,6443,Morschach,+41 41 000 71 68,,2020,D-11207,K6922,KC-20326,0.0,D-11207
+Person,,Privat,Frau,Sandra,Lüönd,Feldstrasse 3,6438,Ibach,+41 41 000 34 37,s.lueoend@seenet-mail.ch,2013,D-11214,K4659,KC-20329,0.0,D-11214
+Person,,Privat,Herr,Christian,Steiner,Bergstrasse 58,6424,Lauerz,+41 41 000 76 44,c.steiner@seenet-mail.ch,2022,D-11221,,KC-20332,0.0,D-11221
+Person,,Privat,Frau,Barbara,Schelbert,Bühlweg 33,6440,Brunnen,+41 76 000 55 59,b.schelbert@postfach-sz.ch,1994,D-11228,K7213,,0.0,D-11228
+Person,,Privat,Herr,Stefan,Schmidig,Lindenstrasse 6,6430,Schwyz,+41 41 000 92 43,s.schmidig@seenet-mail.ch,2001,D-11235,K9348,,0.0,D-11235
+Person,,Privat,Herr,Urs,Schelbert,Mattenweg 79,6424,Lauerz,+41 78 000 83 91,u.schelbert@seenet-mail.ch,1992,D-11242,K8857,,0.0,D-11242
+Person,,Privat,Frau,Sandra,Föhn,Kirchweg 64,8842,Unteriberg,+41 41 000 54 15,s.foehn@seenet-mail.ch,2018,D-11249,K4058,KC-20335,0.0,D-11249
+Person,,Privat,Herr,Christian,Bürgler,Feldstrasse 45,6403,Küssnacht,+41 78 000 83 83,,1998,D-11256,K9459,,0.0,D-11256
+Person,,Privat,Herr,Beat,Holdener,Lindenstrasse 70,6403,Küssnacht,+41 41 000 80 92,b.holdener@hausnet-mail.ch,2022,D-11263,,KC-20338,0.0,D-11263
+Person,,Privat,Herr,Christian,Ochsner,Rebbergstrasse 44,8842,Unteriberg,+41 76 000 10 56,c.ochsner@hausnet-mail.ch,2014,D-11270,K6870,KC-20341,0.0,D-11270
+Person,,Privat,Herr,Michael,Reding,Rosenweg 13,6440,Brunnen,+41 41 000 21 74,m.reding@postfach-sz.ch,2001,D-11277,K9074,,0.0,D-11277
+Person,,Privat,Herr,Stefan,Truttmann,Feldstrasse 19,6440,Brunnen,+41 78 000 30 97,s.truttmann@hausnet-mail.ch,2005,D-11284,K4635,,0.0,D-11284
+Person,,Privat,Frau,Esther,Lüönd,Hofmatt 67,6424,Lauerz,+41 41 000 68 65,e.lueoend@seenet-mail.ch,2013,D-11291,K4564,KC-20344,0.0,D-11291
+Person,,Privat,Herr,Christian,Ulrich,Mattenweg 55,8840,Einsiedeln,+41 78 000 17 39,c.ulrich@seenet-mail.ch,2016,D-11298,K3615,KC-20347,0.0,D-11298
+Person,,Privat,Frau,Esther,Betschart,Feldstrasse 51,6415,Arth,+41 78 000 30 12,e.betschart@postfach-sz.ch,2008,D-11305,K7530,,0.0,D-11305
+Person,,Privat,Frau,Esther,Gwerder,Kirchweg 32,6424,Lauerz,+41 41 000 82 73,,1994,D-11312,K5990,,0.0,D-11312
+Person,,Privat,Frau,Claudia,Fässler,Feldstrasse 26,6438,Ibach,+41 78 000 33 35,,2001,D-11319,K5055,,0.0,D-11319
+Person,,Privat,Herr,Thomas,Rickenbacher,Mattenweg 78,6423,Seewen,+41 79 000 44 36,t.rickenbacher@talnet-mail.ch,2016,D-11326,K8249,KC-20350,0.0,D-11326
+Person,,Privat,Herr,Markus,Gwerder,Feldstrasse 5,6424,Lauerz,+41 41 000 79 10,m.gwerder@seenet-mail.ch,1994,D-11333,K2183,,0.0,D-11333
+Person,,Privat,Herr,Michael,Kryenbühl,Mattenweg 8,8840,Einsiedeln,+41 79 000 10 46,,2002,D-11340,K3959,,0.0,D-11340
+Person,,Privat,Herr,Christian,Steiner,Gartenweg 61,6423,Seewen,+41 78 000 59 19,c.steiner@seenet-mail.ch,2019,D-11347,K5508,KC-20353,0.0,D-11347
+Person,,Privat,Herr,Andreas,Bürgler,Dorfstrasse 17,8843,Oberiberg,+41 79 000 72 40,,1999,D-11354,K3745,,0.0,D-11354
+Person,,Privat,Herr,Markus,Zwyssig,Rosenweg 50,6440,Brunnen,+41 78 000 47 15,m.zwyssig@postfach-sz.ch,1997,D-11361,K3505,,0.0,D-11361
+Person,,Privat,Herr,Daniel,Föhn,Rosenweg 2,6422,Steinen,+41 41 000 82 98,d.foehn@postfach-sz.ch,2024,D-11368,,KC-20356,0.0,D-11368
+Person,,Privat,Frau,Andrea,Baggenstos,Bachstrasse 79,6415,Arth,+41 76 000 22 20,a.baggenstos@seenet-mail.ch,2002,D-11375,K9447,,0.0,D-11375
+Person,,Privat,Herr,Stefan,Rickenbacher,Lindenstrasse 28,8840,Einsiedeln,+41 79 000 39 35,s.rickenbacher@hausnet-mail.ch,2025,D-11382,,KC-20359,0.0,D-11382
+Person,,Privat,Frau,Esther,Imhof,Mattenweg 48,8840,Einsiedeln,+41 78 000 62 27,e.imhof@hausnet-mail.ch,2024,D-11389,,KC-20362,0.0,D-11389
+Person,,Privat,Herr,Michael,Bürgler,Bühlweg 79,6443,Morschach,+41 76 000 63 83,m.buergler@hausnet-mail.ch,2009,D-11396,K8973,,0.0,D-11396
+Person,,Privat,Herr,Michael,Weber,Bergstrasse 26,6430,Schwyz,+41 79 000 76 77,m.weber@hausnet-mail.ch,2007,D-11403,K4908,,0.0,D-11403
+Person,,Privat,Herr,Markus,Kistler,Bühlweg 74,6004,Luzern,+41 41 000 33 54,m.kistler@seenet-mail.ch,1992,D-11410,K3201,,0.0,D-11410
+Person,,Privat,Herr,Roland,Huwyler,Rebbergstrasse 76,6438,Ibach,+41 78 000 39 93,r.huwyler@hausnet-mail.ch,2001,D-11417,K9627,,0.0,D-11417
+Person,,Privat,Frau,Priska,Kistler,Hofmatt 65,6418,Rothenthurm,+41 79 000 66 22,p.kistler@hausnet-mail.ch,2015,D-11424,K6737,KC-20365,0.0,D-11424
+Person,,Privat,Herr,Josef,Abegg,Rebbergstrasse 73,6443,Morschach,+41 41 000 34 50,j.abegg@postfach-sz.ch,2011,D-11431,K4959,,0.0,D-11431
+Person,,Privat,Frau,Esther,Fuchs,Hofmatt 42,6300,Zug,+41 76 000 70 41,e.fuchs@postfach-sz.ch,1996,D-11438,K4479,,0.0,D-11438
+Person,,Privat,Frau,Franziska,Wüthrich,Lindenstrasse 68,6438,Ibach,+41 41 000 73 29,f.wuethrich@talnet-mail.ch,1995,D-11445,K2260,,0.0,D-11445
+Person,,Privat,Herr,Martin,Heinzer,Rebbergstrasse 71,6417,Sattel,+41 76 000 13 22,,1997,D-11452,K2627,,0.0,D-11452
+Person,,Privat,Herr,Josef,Suter,Gartenweg 47,6418,Rothenthurm,+41 78 000 66 86,j.suter@hausnet-mail.ch,2012,D-11459,K8442,KC-20368,0.0,D-11459
+Person,,Privat,Frau,Nicole,Kistler,Mattenweg 28,6430,Schwyz,+41 41 000 69 55,,1996,D-11466,K5306,,0.0,D-11466
+Person,,Privat,Frau,Sandra,Kryenbühl,Riedstrasse 4,6422,Steinen,+41 41 000 89 86,s.kryenbuehl@seenet-mail.ch,2011,D-11473,K9693,,0.0,D-11473
+Person,,Privat,Frau,Claudia,Beeler,Seestrasse 58,6438,Ibach,+41 76 000 72 97,c.beeler@seenet-mail.ch,2020,D-11480,K3135,KC-20371,0.0,D-11480
+Person,,Privat,Frau,Ruth,Ochsner,Kirchweg 14,6410,Goldau,+41 79 000 44 91,r.ochsner@talnet-mail.ch,1999,D-11487,K4043,,0.0,D-11487
+Person,,Privat,Herr,Daniel,Bürgler,Lindenstrasse 14,6300,Zug,+41 41 000 87 41,d.buergler@seenet-mail.ch,1993,D-11494,K8217,,0.0,D-11494
+Person,,Privat,Herr,Roland,Föhn,Mattenweg 23,6415,Arth,+41 78 000 94 53,r.foehn@hausnet-mail.ch,2020,D-11501,K5966,KC-20374,0.0,D-11501
+Person,,Privat,Herr,Martin,Kälin,Feldstrasse 44,6424,Lauerz,+41 41 000 44 85,m.kaelin@seenet-mail.ch,2001,D-11508,K6486,,0.0,D-11508
+Person,,Privat,Herr,Beat,Holdener,Mattenweg 73,6440,Brunnen,+41 79 000 43 90,b.holdener@talnet-mail.ch,2009,D-11515,K4515,,0.0,D-11515
+Person,,Privat,Frau,Claudia,Schelbert,Kirchweg 57,6443,Morschach,+41 41 000 13 83,c.schelbert@talnet-mail.ch,2003,D-11522,K7078,,0.0,D-11522
+Person,,Privat,Frau,Regula,Reding,Sonnenhalde 10,6418,Rothenthurm,+41 78 000 80 92,r.reding@talnet-mail.ch,2008,D-11529,K9859,,0.0,D-11529
+Person,,Privat,Frau,Nicole,Auf der Maur,Bühlweg 71,6423,Seewen,+41 78 000 89 43,n.aufdermaur@hausnet-mail.ch,2011,D-11536,K7396,,0.0,D-11536
+Person,,Privat,Herr,Stefan,Ott,Hofmatt 45,6403,Küssnacht,+41 76 000 33 90,s.ott@talnet-mail.ch,2002,D-11543,K4773,,0.0,D-11543
+Person,,Privat,Herr,Lukas,Imhof,Sonnenhalde 67,6422,Steinen,+41 78 000 42 23,l.imhof@hausnet-mail.ch,1993,D-11550,K3447,,0.0,D-11550
+Person,,Privat,Frau,Silvia,Schuler,Kirchweg 8,6422,Steinen,+41 79 000 42 35,s.schuler@seenet-mail.ch,2000,D-11557,K6305,,0.0,D-11557
+Person,,Privat,Herr,Daniel,Ulrich,Gartenweg 74,6443,Morschach,+41 76 000 18 78,d.ulrich@seenet-mail.ch,2014,D-11564,K8177,KC-20377,0.0,D-11564
+Person,,Privat,Herr,Roland,Betschart,Feldstrasse 3,6422,Steinen,+41 76 000 77 20,,2016,D-11571,K5422,KC-20380,0.0,D-11571
+Person,,Privat,Herr,Stefan,Beeler,Rebbergstrasse 17,6423,Seewen,+41 41 000 16 83,,2020,D-11578,K1267,KC-20383,0.0,D-11578
+Person,,Privat,Herr,Andreas,Suter,Gartenweg 52,6418,Rothenthurm,+41 41 000 60 72,a.suter@postfach-sz.ch,1998,D-11585,K1978,,0.0,D-11585
+Person,,Privat,Herr,Daniel,Gwerder,Hofmatt 33,6417,Sattel,+41 76 000 26 77,d.gwerder@seenet-mail.ch,2010,D-11592,K2529,,0.0,D-11592
+Person,,Privat,Frau,Priska,Fässler,Lindenstrasse 79,6424,Lauerz,+41 79 000 70 40,p.faessler@postfach-sz.ch,1996,D-11599,K2195,,0.0,D-11599
+Person,,Privat,Herr,Martin,Gwerder,Kirchweg 22,6443,Morschach,+41 41 000 51 49,m.gwerder@seenet-mail.ch,2020,D-11606,K2907,KC-20386,0.0,D-11606
+Person,,Privat,Frau,Barbara,Auf der Maur,Bühlweg 66,6410,Goldau,+41 41 000 97 54,b.aufdermaur@postfach-sz.ch,2008,D-11613,K4258,,0.0,D-11613
+Person,,Privat,Herr,Thomas,Gisler,Bergstrasse 43,6424,Lauerz,+41 76 000 91 78,t.gisler@talnet-mail.ch,2011,D-11620,K2428,,0.0,D-11620
+Person,,Privat,Herr,Lukas,Imhof,Hofmatt 27,6440,Brunnen,+41 79 000 47 10,l.imhof@talnet-mail.ch,1996,D-11627,K8990,,0.0,D-11627
+Person,,Privat,Herr,Stefan,Schmidig,Bergstrasse 67,6460,Altdorf,+41 76 000 21 93,s.schmidig@talnet-mail.ch,2004,D-11634,K1110,,0.0,D-11634
+Person,,Privat,Frau,Andrea,Aschwanden,Riedstrasse 45,6422,Steinen,+41 76 000 11 83,a.aschwanden@hausnet-mail.ch,2013,D-11641,K5157,KC-20389,0.0,D-11641
+Person,,Privat,Herr,Andreas,Annen,Hofmatt 24,8842,Unteriberg,+41 76 000 89 55,a.annen@hausnet-mail.ch,1997,D-11648,K7778,,0.0,D-11648
+Person,,Privat,Frau,Franziska,Imhof,Feldstrasse 79,6440,Brunnen,+41 79 000 18 22,,2021,D-11655,,KC-20392,0.0,D-11655
+Person,,Privat,Herr,Markus,Auf der Maur,Sonnenhalde 15,6440,Brunnen,+41 78 000 84 56,m.aufdermaur@hausnet-mail.ch,2002,D-11662,K2434,,0.0,D-11662
+Person,,Privat,Frau,Franziska,Schuler,Dorfstrasse 48,6443,Morschach,+41 41 000 52 70,f.schuler@postfach-sz.ch,2020,D-11669,K5944,KC-20395,0.0,D-11669
+Person,,Privat,Frau,Ruth,Schmidig,Mattenweg 9,6442,Gersau,+41 76 000 41 35,r.schmidig@seenet-mail.ch,1996,D-11676,K4159,,0.0,D-11676
+Person,,Privat,Frau,Priska,Gisler,Mattenweg 47,6423,Seewen,+41 76 000 29 76,p.gisler@talnet-mail.ch,2013,D-11683,K9429,KC-20398,0.0,D-11683
+Person,,Privat,Frau,Esther,Zehnder,Mattenweg 24,6442,Gersau,+41 41 000 81 55,e.zehnder@talnet-mail.ch,2012,D-11690,K8027,KC-20401,0.0,D-11690
+Person,,Privat,Herr,Lukas,Heinzer,Seestrasse 22,6442,Gersau,+41 78 000 56 61,l.heinzer@talnet-mail.ch,2002,D-11697,K7343,,0.0,D-11697
+Person,,Privat,Frau,Monika,Wüthrich,Lindenstrasse 72,6403,Küssnacht,+41 78 000 59 42,m.wuethrich@hausnet-mail.ch,2026,,,KC-20404,0.0,KC-20404
+Person,,Privat,Herr,Josef,Mettler,Rosenweg 1,6442,Gersau,+41 41 000 84 82,j.mettler@seenet-mail.ch,2014,D-11704,K5793,KC-20407,0.0,D-11704
+Person,,Privat,Frau,Andrea,Gwerder,Hofmatt 46,6443,Morschach,+41 79 000 90 41,a.gwerder@postfach-sz.ch,2014,D-11711,K5662,KC-20410,0.0,D-11711
+Person,,Privat,Frau,Claudia,Schuler,Seestrasse 63,6424,Lauerz,+41 76 000 97 15,c.schuler@hausnet-mail.ch,2022,D-11718,,KC-20413,0.0,D-11718
+Person,,Privat,Frau,Monika,Kistler,Bühlweg 29,6422,Steinen,+41 79 000 21 63,m.kistler@talnet-mail.ch,2004,D-11725,K5572,,0.0,D-11725
+Person,,Privat,Frau,Franziska,Huwyler,Gartenweg 75,8820,Wädenswil,+41 41 000 72 58,f.huwyler@talnet-mail.ch,2001,D-11732,K3177,,0.0,D-11732
+Person,,Privat,Herr,Thomas,Betschart,Sonnenhalde 23,6422,Steinen,+41 41 000 14 87,t.betschart@postfach-sz.ch,1999,D-11739,K2202,,0.0,D-11739
+Person,,Privat,Herr,Thomas,Rickenbacher,Seestrasse 39,6430,Schwyz,+41 76 000 33 67,t.rickenbacher@talnet-mail.ch,2020,D-11746,K3689,KC-20416,0.0,D-11746
+Person,,Privat,Herr,Christian,Meier,Rosenweg 19,6460,Altdorf,+41 78 000 34 79,c.meier@talnet-mail.ch,2003,D-11753,K5281,,0.0,D-11753
+Person,,Privat,Herr,Thomas,Schelbert,Hofmatt 26,6443,Morschach,+41 78 000 69 45,t.schelbert@postfach-sz.ch,2010,D-11760,K1264,,0.0,D-11760
+Person,,Privat,Herr,Lukas,Bucher,Dorfstrasse 34,6443,Morschach,+41 41 000 87 57,l.bucher@talnet-mail.ch,2014,D-11767,K2932,KC-20419,0.0,D-11767
+Person,,Privat,Herr,Lukas,Meier,Gartenweg 54,6300,Zug,+41 41 000 47 54,l.meier@seenet-mail.ch,2017,D-11774,K3425,KC-20422,0.0,D-11774
+Person,,Privat,Herr,Roland,Truttmann,Bachstrasse 53,6422,Steinen,+41 76 000 94 22,,2011,D-11781,K1633,,0.0,D-11781
+Person,,Privat,Herr,Martin,Fässler,Bachstrasse 44,8840,Einsiedeln,+41 79 000 60 76,m.faessler@seenet-mail.ch,1994,D-11788,K6566,,0.0,D-11788
+Person,,Privat,Frau,Barbara,Gwerder,Hofmatt 76,6438,Ibach,+41 79 000 18 95,b.gwerder@hausnet-mail.ch,1994,D-11795,K4578,,0.0,D-11795
+Person,,Privat,Frau,Karin,Zehnder,Sonnenhalde 44,6438,Ibach,+41 79 000 63 83,k.zehnder@talnet-mail.ch,1997,D-11802,K9660,,0.0,D-11802
+Person,,Privat,Frau,Regula,Fässler,Bergstrasse 65,6438,Ibach,+41 76 000 86 50,,2007,D-11809,K1517,,0.0,D-11809
+Person,,Privat,Frau,Monika,Heinzer,Kirchweg 19,8003,Zürich,+41 79 000 88 29,m.heinzer@hausnet-mail.ch,2014,D-11816,K6846,KC-20425,0.0,D-11816
+Person,,Privat,Herr,Josef,Schmidig,Lindenstrasse 80,6460,Altdorf,+41 41 000 19 88,j.schmidig@postfach-sz.ch,1998,D-11823,K1494,,0.0,D-11823
+Person,,Privat,Frau,Sandra,Wüthrich,Bergstrasse 72,6418,Rothenthurm,+41 78 000 81 53,s.wuethrich@talnet-mail.ch,2008,D-11830,K7735,,0.0,D-11830
+Person,,Privat,Frau,Nicole,Mettler,Sonnenhalde 22,6424,Lauerz,+41 79 000 18 43,n.mettler@postfach-sz.ch,1993,D-11837,K2139,,0.0,D-11837
+Person,,Privat,Frau,Karin,Weber,Bergstrasse 13,6410,Goldau,+41 41 000 99 52,k.weber@talnet-mail.ch,2020,D-11844,K7667,KC-20428,0.0,D-11844
+Person,,Privat,Frau,Nicole,Ulrich,Bachstrasse 51,6442,Gersau,+41 41 000 71 32,n.ulrich@seenet-mail.ch,2009,D-11851,K5873,,0.0,D-11851
+Person,,Privat,Frau,Priska,Fuchs,Gartenweg 23,6438,Ibach,+41 78 000 99 56,p.fuchs@talnet-mail.ch,2001,D-11858,K6382,,0.0,D-11858
+Person,,Privat,Herr,Stefan,Bucher,Seestrasse 42,6438,Ibach,+41 76 000 36 90,s.bucher@hausnet-mail.ch,2020,D-11865,K9358,KC-20431,0.0,D-11865
+Person,,Privat,Herr,Michael,Truttmann,Rosenweg 25,6443,Morschach,+41 41 000 16 44,m.truttmann@seenet-mail.ch,2021,D-11872,,KC-20434,0.0,D-11872
+Person,,Privat,Herr,Beat,Holdener,Feldstrasse 25,6440,Brunnen,+41 41 000 38 24,b.holdener@talnet-mail.ch,2012,D-11879,K1913,KC-20437,0.0,D-11879
+Person,,Privat,Frau,Monika,Bürgler,Kirchweg 34,6300,Zug,+41 78 000 90 52,m.buergler@hausnet-mail.ch,1998,D-11886,K5361,,0.0,D-11886
+Person,,Privat,Herr,Peter,Zehnder,Mattenweg 25,6422,Steinen,+41 79 000 24 78,p.zehnder@seenet-mail.ch,2021,D-11893,,KC-20440,0.0,D-11893
+Person,,Privat,Frau,Esther,Zwyssig,Kirchweg 73,6440,Brunnen,+41 79 000 76 83,e.zwyssig@postfach-sz.ch,2026,D-11900,,KC-20443,0.0,D-11900
+Person,,Privat,Herr,Markus,Kistler,Riedstrasse 72,8820,Wädenswil,+41 78 000 70 74,m.kistler@seenet-mail.ch,2022,D-11907,,KC-20446,0.0,D-11907
+Person,,Privat,Herr,Christian,Bucher,Riedstrasse 64,6423,Seewen,+41 79 000 30 95,c.bucher@postfach-sz.ch,2019,D-11914,K5665,KC-20449,0.0,D-11914
+Person,,Privat,Frau,Claudia,Reding,Sonnenhalde 73,6460,Altdorf,+41 76 000 33 19,c.reding@talnet-mail.ch,2020,D-11921,K6368,KC-20452,0.0,D-11921
+Person,,Privat,Frau,Sandra,Huwyler,Mattenweg 42,6403,Küssnacht,+41 41 000 59 96,s.huwyler@hausnet-mail.ch,2022,D-11928,,KC-20455,0.0,D-11928
+Person,,Privat,Frau,Nicole,Ochsner,Riedstrasse 17,6422,Steinen,+41 78 000 72 20,n.ochsner@talnet-mail.ch,2019,D-11935,K8040,KC-20458,0.0,D-11935
+Person,,Privat,Herr,Josef,Gwerder,Mattenweg 3,6422,Steinen,+41 78 000 68 50,j.gwerder@postfach-sz.ch,2005,D-11942,K6759,,0.0,D-11942
+Person,,Privat,Herr,Peter,Bucher,Kirchweg 68,6440,Brunnen,+41 78 000 47 93,p.bucher@talnet-mail.ch,2006,D-11949,K9097,,0.0,D-11949
+Person,,Privat,Frau,Barbara,Bürgler,Mattenweg 31,6438,Ibach,+41 78 000 51 87,b.buergler@talnet-mail.ch,2010,D-11956,K1384,,0.0,D-11956
+Person,,Privat,Herr,Roland,Weber,Dorfstrasse 75,6403,Küssnacht,+41 41 000 15 63,r.weber@talnet-mail.ch,1992,D-11963,K2656,,0.0,D-11963
+Person,,Privat,Herr,Stefan,Weber,Lindenstrasse 35,6443,Morschach,+41 78 000 33 81,s.weber@talnet-mail.ch,2017,D-11970,K3616,KC-20461,0.0,D-11970
+Person,,Privat,Herr,Roland,Baggenstos,Kirchweg 18,6443,Morschach,+41 76 000 56 25,r.baggenstos@talnet-mail.ch,1997,D-11977,K7683,,0.0,D-11977
+Person,,Privat,Herr,Roland,Annen,Dorfstrasse 37,8843,Oberiberg,+41 78 000 26 33,,1998,D-11984,K3419,,0.0,D-11984
+Person,,Privat,Frau,Esther,Kälin,Bühlweg 34,6438,Ibach,+41 41 000 99 47,e.kaelin@hausnet-mail.ch,2024,D-11991,,KC-20464,0.0,D-11991
+Person,,Privat,Frau,Monika,Weber,Rebbergstrasse 57,6423,Seewen,+41 79 000 37 56,m.weber@seenet-mail.ch,1992,D-11998,K1106,,0.0,D-11998
+Person,,Privat,Herr,Urs,Ott,Kirchweg 30,6403,Küssnacht,+41 79 000 82 84,u.ott@seenet-mail.ch,2009,D-12005,K8161,,0.0,D-12005
+Person,,Privat,Herr,Roland,Camenzind,Seestrasse 4,6422,Steinen,+41 79 000 32 63,r.camenzind@seenet-mail.ch,2008,D-12012,K7145,,0.0,D-12012
+Person,,Privat,Herr,Daniel,Aschwanden,Rosenweg 62,6440,Brunnen,+41 78 000 96 31,d.aschwanden@talnet-mail.ch,1998,D-12019,K3018,,0.0,D-12019
+Person,,Privat,Frau,Priska,Imhof,Sonnenhalde 38,6422,Steinen,+41 79 000 56 63,,2006,D-12026,K8206,,0.0,D-12026
+Person,,Privat,Herr,Markus,Imhof,Seestrasse 42,6424,Lauerz,+41 78 000 18 96,m.imhof@talnet-mail.ch,1993,D-12033,K1767,,0.0,D-12033
+Person,,Privat,Herr,Michael,Camenzind,Bergstrasse 25,6424,Lauerz,+41 79 000 51 55,m.camenzind@talnet-mail.ch,2025,D-12040,,KC-20467,0.0,D-12040
+Person,,Privat,Herr,Michael,Baggenstos,Gartenweg 32,6440,Brunnen,+41 78 000 12 12,m.baggenstos@seenet-mail.ch,2013,D-12047,K5142,KC-20470,0.0,D-12047
+Person,,Privat,Frau,Karin,Kryenbühl,Bühlweg 68,6422,Steinen,+41 41 000 40 10,k.kryenbuehl@talnet-mail.ch,2013,D-12054,K2599,KC-20473,0.0,D-12054
+Person,,Privat,Frau,Andrea,Camenzind,Bachstrasse 63,6422,Steinen,+41 41 000 58 69,a.camenzind@postfach-sz.ch,2018,D-12061,K7293,KC-20476,0.0,D-12061
+Person,,Privat,Frau,Andrea,Camenzind,Rosenweg 40,6430,Schwyz,+41 41 000 63 85,a.camenzind@hausnet-mail.ch,2010,D-12068,K2888,,0.0,D-12068
+Person,,Privat,Frau,Nicole,Niederöst,Bergstrasse 23,6424,Lauerz,+41 78 000 17 11,n.niederoest@talnet-mail.ch,2006,D-12075,K2863,,0.0,D-12075
+Person,,Privat,Herr,Josef,Imhof,Sonnenhalde 19,6443,Morschach,+41 76 000 46 69,,1998,D-12082,K2628,,0.0,D-12082
+Person,,Privat,Frau,Sandra,Suter,Bühlweg 45,6423,Seewen,+41 78 000 87 38,,2008,D-12089,K3708,,0.0,D-12089
+Person,,Privat,Herr,Michael,Gisler,Feldstrasse 68,6403,Küssnacht,+41 79 000 40 51,m.gisler@hausnet-mail.ch,2014,D-12096,K9097,KC-20479,0.0,D-12096
+Person,,Privat,Herr,Thomas,Lüönd,Kirchweg 17,6442,Gersau,+41 79 000 66 58,t.lueoend@talnet-mail.ch,1998,D-12103,K3118,,0.0,D-12103
+Person,,Privat,Herr,Beat,Weber,Rebbergstrasse 17,6403,Küssnacht,+41 41 000 22 94,b.weber@talnet-mail.ch,2004,D-12110,K4211,,0.0,D-12110
+Person,,Privat,Frau,Silvia,Ulrich,Feldstrasse 4,8820,Wädenswil,+41 78 000 77 60,s.ulrich@postfach-sz.ch,2008,D-12117,K6900,,0.0,D-12117
+Person,,Privat,Herr,Urs,Camenzind,Bachstrasse 9,6417,Sattel,+41 41 000 37 84,u.camenzind@seenet-mail.ch,2019,D-12124,K7222,KC-20482,0.0,D-12124
+Person,,Privat,Herr,Urs,Abegg,Rosenweg 31,6424,Lauerz,+41 41 000 43 61,,2024,D-12131,,KC-20485,0.0,D-12131
+Person,,Privat,Herr,Markus,Mettler,Kirchweg 10,6438,Ibach,+41 76 000 69 39,m.mettler@hausnet-mail.ch,2020,D-12138,K6741,KC-20488,0.0,D-12138
+Person,,Privat,Herr,Martin,Bucher,Hofmatt 61,6443,Morschach,+41 41 000 81 60,m.bucher@talnet-mail.ch,2001,D-12145,K7161,,0.0,D-12145
+Person,,Privat,Herr,Daniel,Gwerder,Lindenstrasse 70,6422,Steinen,+41 79 000 70 30,d.gwerder@postfach-sz.ch,2023,D-12152,,KC-20491,0.0,D-12152
+Person,,Privat,Herr,Stefan,Ochsner,Riedstrasse 8,8808,Pfäffikon SZ,+41 41 000 89 61,s.ochsner@talnet-mail.ch,2017,D-12159,K4532,KC-20494,0.0,D-12159
+Person,,Privat,Herr,Roland,Niederöst,Bachstrasse 40,6423,Seewen,+41 78 000 82 34,r.niederoest@hausnet-mail.ch,1999,D-12166,K4950,,0.0,D-12166
+Person,,Privat,Frau,Claudia,Schnüriger,Gartenweg 30,6410,Goldau,+41 79 000 98 61,c.schnueriger@talnet-mail.ch,2011,D-12173,K4443,,0.0,D-12173
+Person,,Privat,Frau,Sandra,Baggenstos,Bergstrasse 75,6442,Gersau,+41 78 000 77 68,s.baggenstos@postfach-sz.ch,2001,D-12180,K2879,,0.0,D-12180
+Person,,Privat,Frau,Barbara,Niederöst,Feldstrasse 41,6424,Lauerz,+41 79 000 84 42,,2024,D-12187,,KC-20497,0.0,D-12187
+Person,,Privat,Frau,Silvia,Beeler,Dorfstrasse 55,8840,Einsiedeln,+41 79 000 12 33,s.beeler@hausnet-mail.ch,1998,D-12194,K8480,,0.0,D-12194
+Person,,Privat,Frau,Sandra,Ott,Kirchweg 4,6422,Steinen,+41 79 000 81 15,s.ott@postfach-sz.ch,2022,D-12201,,KC-20500,0.0,D-12201
+Person,,Privat,Frau,Barbara,Schelbert,Bühlweg 77,6443,Morschach,+41 78 000 74 57,b.schelbert@seenet-mail.ch,2016,D-12208,K9742,KC-20503,0.0,D-12208
+Person,,Privat,Frau,Karin,Truttmann,Hofmatt 62,6443,Morschach,+41 76 000 95 90,,2004,D-12215,K1963,,0.0,D-12215
+Person,,Privat,Herr,Thomas,Auf der Maur,Bergstrasse 78,6424,Lauerz,+41 41 000 60 82,t.aufdermaur@talnet-mail.ch,2009,D-12222,K9589,,0.0,D-12222
+Person,,Privat,Herr,Urs,Kälin,Mattenweg 75,6417,Sattel,+41 76 000 16 58,u.kaelin@hausnet-mail.ch,2013,D-12229,K4014,KC-20506,0.0,D-12229
+Person,,Privat,Herr,Christian,Schelbert,Feldstrasse 26,6424,Lauerz,+41 76 000 40 31,c.schelbert@hausnet-mail.ch,2017,D-12236,K8952,KC-20509,0.0,D-12236
+Person,,Privat,Herr,Stefan,Auf der Maur,Gartenweg 10,6430,Schwyz,+41 76 000 64 93,s.aufdermaur@hausnet-mail.ch,1997,D-12243,K7722,,0.0,D-12243
+Person,,Privat,Frau,Silvia,Marty,Rebbergstrasse 57,8820,Wädenswil,+41 41 000 27 41,s.marty@hausnet-mail.ch,2003,D-12250,K7813,,0.0,D-12250
+Person,,Privat,Herr,Michael,Wüthrich,Gartenweg 77,6440,Brunnen,+41 76 000 92 32,m.wuethrich@postfach-sz.ch,2005,D-12257,K6336,,0.0,D-12257
+Person,,Privat,Frau,Priska,Mettler,Riedstrasse 49,6410,Goldau,+41 78 000 36 21,,1996,D-12264,K7376,,0.0,D-12264
+Person,,Privat,Herr,Josef,Zwyssig,Rebbergstrasse 52,6403,Küssnacht,+41 41 000 62 46,j.zwyssig@seenet-mail.ch,2023,D-12271,,KC-20512,0.0,D-12271
+Person,,Privat,Frau,Nicole,Wüthrich,Hofmatt 45,6443,Morschach,+41 41 000 85 32,n.wuethrich@seenet-mail.ch,2010,D-12278,K3038,,0.0,D-12278
+Person,,Privat,Frau,Regula,Arnold,Gartenweg 17,6443,Morschach,+41 79 000 70 31,r.arnold@talnet-mail.ch,2004,D-12285,K8739,,0.0,D-12285
+Person,,Privat,Frau,Esther,Fässler,Dorfstrasse 77,8820,Wädenswil,+41 79 000 27 85,e.faessler@talnet-mail.ch,2015,D-12292,K2319,KC-20515,0.0,D-12292
+Person,,Privat,Herr,Beat,Holdener,Feldstrasse 25,6403,Küssnacht,+41 76 000 33 73,b.holdener@hausnet-mail.ch,1992,D-12299,K7047,,0.0,D-12299
+Person,,Privat,Herr,Peter,Schnüriger,Riedstrasse 58,6440,Brunnen,+41 79 000 93 32,p.schnueriger@postfach-sz.ch,2011,D-12306,K2512,,0.0,D-12306
+Person,,Privat,Herr,Daniel,Gisler,Bergstrasse 40,8842,Unteriberg,+41 78 000 41 44,d.gisler@hausnet-mail.ch,2003,D-12313,K7015,,0.0,D-12313
+Person,,Privat,Frau,Silvia,Auf der Maur,Bühlweg 70,6340,Baar,+41 41 000 87 69,s.aufdermaur@postfach-sz.ch,2008,D-12320,K3645,,0.0,D-12320
+Person,,Privat,Frau,Franziska,Ulrich,Bachstrasse 11,6440,Brunnen,+41 76 000 49 37,,2019,D-12327,K6304,KC-20518,0.0,D-12327
+Person,,Privat,Herr,Urs,Heinzer,Rosenweg 72,8843,Oberiberg,+41 41 000 31 55,u.heinzer@talnet-mail.ch,1994,D-12334,K2305,,0.0,D-12334
+Person,,Privat,Herr,Martin,Wüthrich,Dorfstrasse 52,6417,Sattel,+41 78 000 58 40,m.wuethrich@seenet-mail.ch,2000,D-12341,K2801,,0.0,D-12341
+Person,,Privat,Herr,Thomas,Reding,Lindenstrasse 29,6423,Seewen,+41 41 000 44 37,t.reding@talnet-mail.ch,2001,D-12348,K4789,,0.0,D-12348
+Person,,Privat,Frau,Nicole,Weber,Seestrasse 1,6443,Morschach,+41 41 000 80 15,n.weber@hausnet-mail.ch,2015,D-12355,K5299,KC-20521,0.0,D-12355
+Person,,Privat,Frau,Claudia,Kryenbühl,Gartenweg 37,6443,Morschach,+41 76 000 93 14,c.kryenbuehl@seenet-mail.ch,1994,D-12362,K7062,,0.0,D-12362
+Person,,Privat,Herr,Roland,Schnüriger,Kirchweg 66,6423,Seewen,+41 79 000 28 49,r.schnueriger@talnet-mail.ch,1996,D-12369,K6649,,0.0,D-12369
+Person,,Privat,Frau,Priska,Lüönd,Bergstrasse 22,6438,Ibach,+41 76 000 62 13,p.lueoend@hausnet-mail.ch,2014,D-12376,K1507,KC-20524,0.0,D-12376
+Person,,Privat,Frau,Ruth,Camenzind,Rosenweg 14,6443,Morschach,+41 79 000 70 40,r.camenzind@hausnet-mail.ch,2017,D-12383,K2813,KC-20527,0.0,D-12383
+Person,,Privat,Herr,Josef,Bucher,Hofmatt 17,6430,Schwyz,+41 78 000 33 10,j.bucher@hausnet-mail.ch,2014,D-12390,K5680,KC-20530,0.0,D-12390
+Person,,Privat,Herr,Lukas,Kennel,Dorfstrasse 61,6442,Gersau,+41 78 000 19 70,l.kennel@seenet-mail.ch,2019,D-12397,K3262,KC-20533,0.0,D-12397
+Person,,Privat,Frau,Barbara,Fuchs,Dorfstrasse 64,6438,Ibach,+41 78 000 94 17,b.fuchs@talnet-mail.ch,2022,D-12404,,KC-20536,0.0,D-12404
+Person,,Privat,Frau,Claudia,Reding,Kirchweg 67,6443,Morschach,+41 78 000 93 25,,2025,D-12411,,KC-20539,0.0,D-12411
+Person,,Privat,Frau,Ruth,Weber,Sonnenhalde 65,8843,Oberiberg,+41 78 000 16 94,r.weber@seenet-mail.ch,2001,D-12418,K6759,,0.0,D-12418
+Person,,Privat,Herr,Martin,Lüönd,Rosenweg 12,6460,Altdorf,+41 78 000 75 35,m.lueoend@talnet-mail.ch,2006,D-12425,K1681,,0.0,D-12425
+Person,,Privat,Frau,Andrea,Föhn,Bühlweg 43,6415,Arth,+41 41 000 53 82,a.foehn@hausnet-mail.ch,2014,D-12432,K3804,KC-20542,0.0,D-12432
+Person,,Privat,Herr,Martin,Fässler,Bachstrasse 57,6423,Seewen,+41 79 000 66 78,m.faessler@talnet-mail.ch,2004,D-12439,K2934,,0.0,D-12439
+Person,,Privat,Frau,Priska,Föhn,Riedstrasse 29,6460,Altdorf,+41 41 000 91 96,p.foehn@postfach-sz.ch,2025,D-12446,,KC-20545,0.0,D-12446
+Person,,Privat,Frau,Priska,Bucher,Gartenweg 76,6403,Küssnacht,+41 41 000 33 45,p.bucher@hausnet-mail.ch,2009,D-12453,K4945,,0.0,D-12453
+Person,,Privat,Frau,Sandra,Kälin,Mattenweg 65,6415,Arth,+41 79 000 75 78,s.kaelin@seenet-mail.ch,2013,D-12460,K3125,KC-20548,0.0,D-12460
+Person,,Privat,Frau,Silvia,Zwyssig,Kirchweg 38,6438,Ibach,+41 41 000 20 81,s.zwyssig@talnet-mail.ch,2006,D-12467,K1889,,0.0,D-12467
+Person,,Privat,Herr,Stefan,Zwyssig,Kirchweg 28,6300,Zug,+41 76 000 33 75,s.zwyssig@postfach-sz.ch,1995,D-12474,K2177,,0.0,D-12474
+Person,,Privat,Frau,Regula,Heinzer,Mattenweg 41,6443,Morschach,+41 78 000 40 79,r.heinzer@hausnet-mail.ch,2014,D-12481,K8871,KC-20551,0.0,D-12481
+Person,,Privat,Herr,Thomas,Föhn,Bühlweg 48,6440,Brunnen,+41 76 000 79 36,t.foehn@seenet-mail.ch,1996,D-12488,K9804,,0.0,D-12488
+Person,,Privat,Frau,Claudia,Auf der Maur,Rebbergstrasse 69,6423,Seewen,+41 76 000 36 88,c.aufdermaur@postfach-sz.ch,2018,D-12495,K7976,KC-20554,0.0,D-12495
+Person,,Privat,Frau,Ruth,Niederöst,Kirchweg 57,6438,Ibach,+41 78 000 35 96,r.niederoest@postfach-sz.ch,1999,D-12502,K3321,,0.0,D-12502
+Person,,Privat,Herr,Roland,Betschart,Bergstrasse 36,6443,Morschach,+41 78 000 92 86,,2000,D-12509,K7372,,0.0,D-12509
+Person,,Privat,Herr,Thomas,Suter,Rosenweg 24,6460,Altdorf,+41 76 000 13 28,t.suter@seenet-mail.ch,2012,D-12516,K7985,KC-20557,0.0,D-12516
+Person,,Privat,Frau,Esther,Gwerder,Feldstrasse 68,6442,Gersau,+41 76 000 95 95,e.gwerder@hausnet-mail.ch,1996,D-12523,K9804,,0.0,D-12523
+Person,,Privat,Herr,Thomas,Fässler,Mattenweg 45,6417,Sattel,+41 78 000 45 79,t.faessler@talnet-mail.ch,2002,D-12530,K2185,,0.0,D-12530
+Person,,Privat,Frau,Nicole,Heinzer,Feldstrasse 73,6443,Morschach,+41 78 000 23 19,n.heinzer@hausnet-mail.ch,2006,D-12537,K1540,,0.0,D-12537
+Person,,Privat,Frau,Esther,Kennel,Dorfstrasse 59,6418,Rothenthurm,+41 78 000 25 24,e.kennel@seenet-mail.ch,2022,D-12544,,KC-20560,0.0,D-12544
+Person,,Privat,Herr,Daniel,Niederöst,Gartenweg 22,6460,Altdorf,+41 78 000 36 72,d.niederoest@seenet-mail.ch,2007,D-12551,K8283,,0.0,D-12551
+Person,,Privat,Herr,Daniel,Baggenstos,Feldstrasse 80,8820,Wädenswil,+41 78 000 24 48,d.baggenstos@hausnet-mail.ch,1992,D-12558,K7329,,0.0,D-12558
+Person,,Privat,Herr,Michael,Imhof,Seestrasse 78,6300,Zug,+41 79 000 82 20,m.imhof@talnet-mail.ch,2000,D-12565,K9248,,0.0,D-12565
+Person,,Privat,Frau,Silvia,Marty,Kirchweg 77,6443,Morschach,+41 76 000 62 90,,1996,D-12572,K9884,,0.0,D-12572
+Person,,Privat,Herr,Daniel,Bucher,Mattenweg 59,8840,Einsiedeln,+41 41 000 15 57,d.bucher@seenet-mail.ch,1995,D-12579,K2853,,0.0,D-12579
+Person,,Privat,Herr,Michael,Gwerder,Dorfstrasse 64,6418,Rothenthurm,+41 76 000 13 76,m.gwerder@hausnet-mail.ch,2011,D-12586,K5952,,0.0,D-12586
+Person,,Privat,Frau,Priska,Ulrich,Riedstrasse 25,6442,Gersau,+41 76 000 74 66,p.ulrich@hausnet-mail.ch,2004,D-12593,K9257,,0.0,D-12593
+Person,,Privat,Frau,Franziska,Zwyssig,Mattenweg 78,6430,Schwyz,+41 41 000 77 33,f.zwyssig@talnet-mail.ch,1997,D-12600,K7858,,0.0,D-12600
+Person,,Privat,Frau,Claudia,Fässler,Bergstrasse 79,8843,Oberiberg,+41 78 000 71 34,c.faessler@seenet-mail.ch,2000,D-12607,K5325,,0.0,D-12607
+Person,,Privat,Frau,Regula,Camenzind,Lindenstrasse 10,6300,Zug,+41 76 000 28 10,r.camenzind@seenet-mail.ch,2008,D-12614,K4303,,0.0,D-12614
+Person,,Privat,Frau,Silvia,Ochsner,Sonnenhalde 44,6422,Steinen,+41 78 000 13 63,s.ochsner@hausnet-mail.ch,2019,D-12621,K3916,KC-20563,0.0,D-12621
+Person,,Privat,Herr,Stefan,Kälin,Rebbergstrasse 48,6423,Seewen,+41 78 000 69 76,s.kaelin@talnet-mail.ch,2014,D-12628,K8477,KC-20566,0.0,D-12628
+Person,,Privat,Herr,Christian,Rickenbacher,Mattenweg 21,8842,Unteriberg,+41 76 000 13 50,c.rickenbacher@postfach-sz.ch,2015,D-12635,K2108,KC-20569,0.0,D-12635
+Person,,Privat,Herr,Peter,Fässler,Dorfstrasse 69,8840,Einsiedeln,+41 41 000 72 66,,2001,D-12642,K3913,,0.0,D-12642
+Person,,Privat,Frau,Barbara,Ulrich,Feldstrasse 37,6438,Ibach,+41 79 000 34 46,,1999,D-12649,K6611,,0.0,D-12649
+Person,,Privat,Herr,Peter,Zehnder,Seestrasse 79,6442,Gersau,+41 79 000 67 45,p.zehnder@talnet-mail.ch,2025,D-12656,,KC-20572,0.0,D-12656
+Person,,Privat,Herr,Daniel,Rickenbacher,Hofmatt 13,8843,Oberiberg,+41 78 000 19 99,d.rickenbacher@hausnet-mail.ch,2006,D-12663,K7823,,0.0,D-12663
+Person,,Privat,Herr,Lukas,Beeler,Bergstrasse 56,6424,Lauerz,+41 41 000 22 51,l.beeler@talnet-mail.ch,1994,D-12670,K2311,,0.0,D-12670
+Person,,Privat,Herr,Lukas,Fuchs,Bachstrasse 77,6424,Lauerz,+41 79 000 67 73,l.fuchs@postfach-sz.ch,2024,D-12677,,KC-20575,0.0,D-12677
+Person,,Privat,Frau,Franziska,Baggenstos,Hofmatt 30,8840,Einsiedeln,+41 78 000 73 40,,2011,D-12684,K3145,,0.0,D-12684
+Person,,Privat,Herr,Urs,Annen,Bachstrasse 28,6442,Gersau,+41 78 000 84 76,u.annen@seenet-mail.ch,2022,D-12691,,KC-20578,0.0,D-12691
+Person,,Privat,Herr,Thomas,Annen,Dorfstrasse 2,6460,Altdorf,+41 79 000 19 25,t.annen@talnet-mail.ch,2023,D-12698,,KC-20581,0.0,D-12698
+Person,,Privat,Herr,Lukas,Annen,Feldstrasse 5,6440,Brunnen,+41 41 000 23 73,l.annen@postfach-sz.ch,2004,D-12705,K4114,,0.0,D-12705
+Person,,Privat,Frau,Franziska,Gisler,Kirchweg 70,6300,Zug,+41 41 000 40 83,,2006,D-12712,K6400,,0.0,D-12712
+Person,,Privat,Herr,Martin,Betschart,Gartenweg 60,6443,Morschach,+41 78 000 88 93,m.betschart@seenet-mail.ch,2003,D-12719,K1817,,0.0,D-12719
+Person,,Privat,Herr,Beat,Heinzer,Bachstrasse 56,8842,Unteriberg,+41 41 000 52 42,b.heinzer@hausnet-mail.ch,2012,D-12726,K5741,KC-20584,0.0,D-12726
+Person,,Privat,Herr,Urs,Reding,Lindenstrasse 79,6423,Seewen,+41 76 000 10 82,u.reding@talnet-mail.ch,1996,D-12733,K3186,,0.0,D-12733
+Person,,Privat,Herr,Stefan,Kistler,Rebbergstrasse 9,6443,Morschach,+41 78 000 85 37,s.kistler@talnet-mail.ch,2026,,,KC-20587,0.0,KC-20587
+Person,,Privat,Herr,Josef,Mettler,Seestrasse 78,6417,Sattel,+41 76 000 93 75,j.mettler@postfach-sz.ch,2021,D-12740,,KC-20590,0.0,D-12740
+Person,,Privat,Frau,Franziska,Mettler,Mattenweg 28,8843,Oberiberg,+41 76 000 74 27,f.mettler@hausnet-mail.ch,2006,D-12747,K4210,,0.0,D-12747
+Person,,Privat,Herr,Peter,Kistler,Rosenweg 7,6440,Brunnen,+41 76 000 47 65,,2018,D-12754,K1521,KC-20593,0.0,D-12754
+Person,,Privat,Herr,Martin,Schuler,Hofmatt 51,6430,Schwyz,+41 76 000 20 74,m.schuler@talnet-mail.ch,2006,D-12761,K5002,,0.0,D-12761
+Person,,Privat,Herr,Stefan,Fuchs,Bühlweg 29,6004,Luzern,+41 79 000 14 86,s.fuchs@hausnet-mail.ch,1997,D-12768,K2225,,0.0,D-12768
+Person,,Privat,Herr,Daniel,Betschart,Bühlweg 32,6300,Zug,+41 79 000 68 92,d.betschart@seenet-mail.ch,1994,D-12775,K5795,,0.0,D-12775
+Person,,Privat,Frau,Sandra,Betschart,Bachstrasse 72,6443,Morschach,+41 79 000 88 47,s.betschart@seenet-mail.ch,2007,D-12782,K4334,,0.0,D-12782
+Person,,Privat,Herr,Urs,Zwyssig,Lindenstrasse 47,8003,Zürich,+41 78 000 90 47,u.zwyssig@postfach-sz.ch,2022,D-12789,,KC-20596,0.0,D-12789
+Person,,Privat,Herr,Martin,Wüthrich,Mattenweg 47,6410,Goldau,+41 41 000 28 11,,2021,D-12796,,KC-20599,0.0,D-12796
+Person,,Privat,Frau,Silvia,Reding,Sonnenhalde 78,8842,Unteriberg,+41 41 000 46 95,,2024,D-12803,,KC-20602,0.0,D-12803
+Person,,Privat,Herr,Lukas,Auf der Maur,Riedstrasse 63,6424,Lauerz,+41 78 000 74 94,l.aufdermaur@postfach-sz.ch,2023,D-12810,,KC-20605,0.0,D-12810
+Person,,Privat,Herr,Peter,Heinzer,Riedstrasse 55,8843,Oberiberg,+41 41 000 33 99,p.heinzer@talnet-mail.ch,1999,D-12817,K5730,,0.0,D-12817
+Person,,Privat,Herr,Michael,Gwerder,Kirchweg 28,8840,Einsiedeln,+41 79 000 79 42,m.gwerder@hausnet-mail.ch,2000,D-12824,K5926,,0.0,D-12824
+Person,,Privat,Herr,Andreas,Ochsner,Riedstrasse 46,8843,Oberiberg,+41 76 000 11 41,,2024,D-12831,,KC-20608,0.0,D-12831
+Person,,Privat,Frau,Sandra,Holdener,Sonnenhalde 39,8842,Unteriberg,+41 78 000 91 59,s.holdener@talnet-mail.ch,2026,,,KC-20611,0.0,KC-20611
+Person,,Privat,Herr,Peter,Fuchs,Seestrasse 72,6442,Gersau,+41 78 000 55 21,p.fuchs@hausnet-mail.ch,1997,D-12838,K5425,,0.0,D-12838
+Person,,Privat,Frau,Silvia,Schuler,Riedstrasse 10,6423,Seewen,+41 79 000 59 61,s.schuler@talnet-mail.ch,2017,D-12845,K6243,KC-20614,0.0,D-12845
+Person,,Privat,Frau,Claudia,Kälin,Kirchweg 28,6418,Rothenthurm,+41 41 000 99 43,c.kaelin@seenet-mail.ch,1998,D-12852,K3436,,0.0,D-12852
+Person,,Privat,Frau,Esther,Gwerder,Dorfstrasse 49,6442,Gersau,+41 41 000 40 53,e.gwerder@seenet-mail.ch,2008,D-12859,K1016,,0.0,D-12859
+Person,,Privat,Frau,Sandra,Gisler,Seestrasse 41,6443,Morschach,+41 41 000 24 11,s.gisler@talnet-mail.ch,1994,D-12866,K6932,,0.0,D-12866
+Person,,Privat,Herr,Lukas,Reding,Mattenweg 17,6460,Altdorf,+41 76 000 38 68,l.reding@hausnet-mail.ch,2018,D-12873,K1560,KC-20617,0.0,D-12873
+Person,,Privat,Herr,Josef,Kistler,Gartenweg 56,6424,Lauerz,+41 76 000 98 10,j.kistler@hausnet-mail.ch,2011,D-12880,K4844,,0.0,D-12880
+Person,,Privat,Herr,Stefan,Heinzer,Rosenweg 69,6460,Altdorf,+41 76 000 63 31,s.heinzer@seenet-mail.ch,2017,D-12887,K1666,KC-20620,0.0,D-12887
+Person,,Privat,Herr,Stefan,Aschwanden,Riedstrasse 62,8842,Unteriberg,+41 79 000 76 30,s.aschwanden@hausnet-mail.ch,2019,D-12894,K8034,KC-20623,0.0,D-12894
+Person,,Privat,Herr,Lukas,Annen,Rosenweg 65,6440,Brunnen,+41 76 000 10 38,l.annen@postfach-sz.ch,2011,D-12901,K1795,,0.0,D-12901
+Person,,Privat,Frau,Regula,Gwerder,Dorfstrasse 2,6410,Goldau,+41 41 000 94 36,r.gwerder@hausnet-mail.ch,1998,D-12908,K6424,,0.0,D-12908
+Person,,Privat,Herr,Markus,Arnold,Sonnenhalde 7,6423,Seewen,+41 78 000 25 56,m.arnold@postfach-sz.ch,2023,D-12915,,KC-20626,0.0,D-12915
+Person,,Privat,Herr,Urs,Zwyssig,Bergstrasse 20,8840,Einsiedeln,+41 79 000 93 12,u.zwyssig@postfach-sz.ch,2017,D-12922,K9520,KC-20629,0.0,D-12922
+Person,,Privat,Herr,Peter,Ochsner,Seestrasse 80,6422,Steinen,+41 76 000 84 42,p.ochsner@hausnet-mail.ch,2007,D-12929,K2970,,0.0,D-12929
+Person,,Privat,Herr,Peter,Aschwanden,Rebbergstrasse 22,6423,Seewen,+41 78 000 97 60,p.aschwanden@hausnet-mail.ch,2002,D-12936,K6031,,0.0,D-12936
+Person,,Privat,Frau,Silvia,Ulrich,Bachstrasse 35,8840,Einsiedeln,+41 78 000 41 50,s.ulrich@seenet-mail.ch,2012,D-12943,K3020,KC-20632,0.0,D-12943
+Person,,Privat,Herr,Peter,Arnold,Seestrasse 63,6443,Morschach,+41 41 000 12 43,p.arnold@hausnet-mail.ch,2022,D-12950,,KC-20635,0.0,D-12950
+Person,,Privat,Herr,Urs,Kennel,Gartenweg 46,6422,Steinen,+41 78 000 45 95,u.kennel@seenet-mail.ch,2025,D-12957,,KC-20638,0.0,D-12957
+Person,,Privat,Herr,Markus,Annen,Feldstrasse 7,6422,Steinen,+41 76 000 85 44,m.annen@talnet-mail.ch,2004,D-12964,K1138,,0.0,D-12964
+Person,,Privat,Frau,Monika,Ulrich,Bachstrasse 14,6460,Altdorf,+41 41 000 30 23,m.ulrich@seenet-mail.ch,2000,D-12971,K5005,,0.0,D-12971
+Person,,Privat,Herr,Roland,Inglin,Gartenweg 66,6340,Baar,+41 78 000 52 11,r.inglin@hausnet-mail.ch,1996,D-12978,K8589,,0.0,D-12978
+Person,,Privat,Herr,Christian,Imhof,Mattenweg 34,6418,Rothenthurm,+41 41 000 83 44,c.imhof@seenet-mail.ch,2018,D-12985,K9561,KC-20641,0.0,D-12985
+Person,,Privat,Frau,Regula,Rickenbacher,Bühlweg 42,6423,Seewen,+41 78 000 66 82,r.rickenbacher@talnet-mail.ch,1992,D-12992,K4922,,0.0,D-12992
+Person,,Privat,Frau,Sandra,Annen,Rosenweg 19,6430,Schwyz,+41 41 000 26 25,s.annen@hausnet-mail.ch,2021,D-12999,,KC-20644,0.0,D-12999
+Person,,Privat,Herr,Daniel,Beeler,Gartenweg 18,8843,Oberiberg,+41 78 000 74 87,d.beeler@hausnet-mail.ch,1996,D-13006,K3767,,0.0,D-13006
+Person,,Privat,Herr,Roland,Bucher,Bergstrasse 32,6440,Brunnen,+41 79 000 88 37,r.bucher@postfach-sz.ch,2023,D-13013,,KC-20647,0.0,D-13013
+Person,,Privat,Herr,Urs,Suter,Riedstrasse 56,6410,Goldau,+41 79 000 39 64,u.suter@seenet-mail.ch,2005,D-13020,K9007,,0.0,D-13020
+Person,,Privat,Frau,Franziska,Reding,Feldstrasse 78,6423,Seewen,+41 78 000 83 15,f.reding@seenet-mail.ch,2006,D-13027,K3883,,0.0,D-13027
+Person,,Privat,Frau,Barbara,Abegg,Bachstrasse 73,6460,Altdorf,+41 78 000 41 94,b.abegg@postfach-sz.ch,1998,D-13034,K4363,,0.0,D-13034
+Person,,Privat,Herr,Andreas,Reding,Lindenstrasse 54,6403,Küssnacht,+41 41 000 19 64,a.reding@talnet-mail.ch,2021,D-13041,,KC-20650,0.0,D-13041
+Person,,Privat,Frau,Esther,Schnüriger,Mattenweg 16,6430,Schwyz,+41 79 000 17 46,e.schnueriger@talnet-mail.ch,1994,D-13048,K6547,,0.0,D-13048
+Person,,Privat,Herr,Thomas,Beeler,Riedstrasse 44,6424,Lauerz,+41 41 000 20 88,t.beeler@talnet-mail.ch,2012,D-13055,K6404,KC-20653,0.0,D-13055
+Person,,Privat,Herr,Markus,Wüthrich,Rebbergstrasse 71,6423,Seewen,+41 79 000 24 98,m.wuethrich@seenet-mail.ch,1999,D-13062,K1080,,0.0,D-13062
+Person,,Privat,Herr,Beat,Schnüriger,Riedstrasse 9,6410,Goldau,+41 76 000 69 20,,1997,D-13069,K1682,,0.0,D-13069
+Person,,Privat,Herr,Michael,Mettler,Kirchweg 55,6443,Morschach,+41 79 000 69 80,m.mettler@talnet-mail.ch,2004,D-13076,K5757,,0.0,D-13076
+Person,,Privat,Frau,Claudia,Annen,Riedstrasse 5,6442,Gersau,+41 78 000 96 64,,1999,D-13083,K1000,,0.0,D-13083
+Person,,Privat,Frau,Sandra,Kälin,Mattenweg 4,8840,Einsiedeln,+41 78 000 85 42,s.kaelin@hausnet-mail.ch,2019,D-13090,K2672,KC-20656,0.0,D-13090
+Person,,Privat,Herr,Josef,Fuchs,Kirchweg 30,6300,Zug,+41 41 000 64 19,,2024,D-13097,,KC-20659,0.0,D-13097
+Person,,Privat,Herr,Roland,Meier,Seestrasse 78,6438,Ibach,+41 79 000 51 42,r.meier@seenet-mail.ch,2014,D-13104,K5683,KC-20662,0.0,D-13104
+Person,,Privat,Frau,Regula,Reding,Bachstrasse 72,6415,Arth,+41 79 000 59 72,r.reding@hausnet-mail.ch,2025,D-13111,,KC-20665,0.0,D-13111
+Person,,Privat,Frau,Esther,Gwerder,Seestrasse 12,6423,Seewen,+41 41 000 86 93,e.gwerder@hausnet-mail.ch,2003,D-13118,K6506,,0.0,D-13118
+Person,,Privat,Frau,Karin,Lüönd,Feldstrasse 15,6424,Lauerz,+41 41 000 79 99,k.lueoend@seenet-mail.ch,1994,D-13125,K5834,,0.0,D-13125
+Person,,Privat,Herr,Thomas,Aschwanden,Feldstrasse 76,6424,Lauerz,+41 41 000 58 85,t.aschwanden@talnet-mail.ch,2004,D-13132,K8452,,0.0,D-13132
+Person,,Privat,Frau,Barbara,Rickenbacher,Hofmatt 47,6300,Zug,+41 76 000 85 32,,2014,D-13139,K4537,KC-20668,0.0,D-13139
+Person,,Privat,Frau,Monika,Weber,Riedstrasse 79,6418,Rothenthurm,+41 76 000 74 94,m.weber@seenet-mail.ch,2021,D-13146,,KC-20671,0.0,D-13146
+Person,,Privat,Frau,Priska,Kälin,Rebbergstrasse 29,6430,Schwyz,+41 78 000 69 65,,2007,D-13153,K4162,,0.0,D-13153
+Person,,Privat,Frau,Silvia,Föhn,Rebbergstrasse 6,6417,Sattel,+41 78 000 73 35,s.foehn@postfach-sz.ch,2016,D-13160,K1802,KC-20674,0.0,D-13160
+Person,,Privat,Frau,Nicole,Gwerder,Rosenweg 60,6424,Lauerz,+41 41 000 13 78,n.gwerder@postfach-sz.ch,2024,D-13167,,KC-20677,0.0,D-13167
+Person,,Privat,Frau,Karin,Baggenstos,Seestrasse 21,6410,Goldau,+41 79 000 99 82,k.baggenstos@hausnet-mail.ch,1993,D-13174,K5246,,0.0,D-13174
+Person,,Privat,Herr,Stefan,Arnold,Feldstrasse 34,6423,Seewen,+41 78 000 86 33,s.arnold@postfach-sz.ch,2017,D-13181,K1565,KC-20680,0.0,D-13181
+Person,,Privat,Frau,Claudia,Wüthrich,Sonnenhalde 14,6443,Morschach,+41 76 000 65 54,c.wuethrich@hausnet-mail.ch,2020,D-13188,K8420,KC-20683,0.0,D-13188
+Person,,Privat,Herr,Andreas,Beeler,Mattenweg 14,6438,Ibach,+41 76 000 77 20,a.beeler@postfach-sz.ch,2024,D-13195,,KC-20686,0.0,D-13195
+Person,,Privat,Herr,Thomas,Truttmann,Lindenstrasse 18,6440,Brunnen,+41 78 000 95 82,t.truttmann@talnet-mail.ch,2010,D-13202,K1326,,0.0,D-13202
+Person,,Privat,Frau,Monika,Gisler,Sonnenhalde 51,6417,Sattel,+41 79 000 76 35,m.gisler@seenet-mail.ch,1997,D-13209,K6914,,0.0,D-13209
+Person,,Privat,Frau,Ruth,Arnold,Riedstrasse 18,6424,Lauerz,+41 76 000 88 72,r.arnold@postfach-sz.ch,1995,D-13216,K4260,,0.0,D-13216
+Person,,Privat,Frau,Claudia,Beeler,Rebbergstrasse 20,6438,Ibach,+41 79 000 29 83,c.beeler@seenet-mail.ch,1993,D-13223,K1266,,0.0,D-13223
+Person,,Privat,Frau,Andrea,Ott,Feldstrasse 16,6443,Morschach,+41 79 000 36 45,a.ott@talnet-mail.ch,2004,D-13230,K2406,,0.0,D-13230
+Person,,Privat,Frau,Regula,Ochsner,Bergstrasse 69,6438,Ibach,+41 41 000 18 62,r.ochsner@hausnet-mail.ch,2026,D-13237,,KC-20689,0.0,D-13237
+Person,,Privat,Frau,Karin,Zehnder,Kirchweg 42,8840,Einsiedeln,+41 79 000 88 42,,2017,D-13244,K7805,KC-20692,0.0,D-13244
+Person,,Privat,Frau,Priska,Zehnder,Mattenweg 65,6424,Lauerz,+41 78 000 99 39,p.zehnder@seenet-mail.ch,2009,D-13251,K2340,,0.0,D-13251
+Person,,Privat,Frau,Franziska,Ochsner,Sonnenhalde 2,6403,Küssnacht,+41 79 000 48 54,f.ochsner@seenet-mail.ch,1994,D-13258,K5769,,0.0,D-13258
+Person,,Privat,Herr,Martin,Gwerder,Hofmatt 23,6438,Ibach,+41 78 000 30 91,m.gwerder@postfach-sz.ch,1996,D-13265,K5854,,0.0,D-13265
+Person,,Privat,Frau,Monika,Zwyssig,Bühlweg 49,6440,Brunnen,+41 79 000 96 45,m.zwyssig@seenet-mail.ch,2026,,,KC-20695,0.0,KC-20695
+Person,,Privat,Herr,Urs,Holdener,Feldstrasse 28,6422,Steinen,+41 76 000 11 74,u.holdener@talnet-mail.ch,2006,D-13272,K6173,,0.0,D-13272
+Person,,Privat,Herr,Peter,Huwyler,Hofmatt 30,6340,Baar,+41 78 000 77 84,,2016,D-13279,K9191,KC-20698,0.0,D-13279
+Person,,Privat,Frau,Barbara,Bucher,Bühlweg 26,6403,Küssnacht,+41 79 000 95 95,b.bucher@seenet-mail.ch,2005,D-13286,K1727,,0.0,D-13286
+Person,,Privat,Frau,Esther,Mettler,Bergstrasse 5,6430,Schwyz,+41 76 000 67 33,e.mettler@hausnet-mail.ch,2022,D-13293,,KC-20701,0.0,D-13293
+Person,,Privat,Frau,Priska,Truttmann,Bergstrasse 49,6403,Küssnacht,+41 78 000 63 75,p.truttmann@talnet-mail.ch,2016,D-13300,K6926,KC-20704,0.0,D-13300
+Person,,Privat,Herr,Michael,Fuchs,Rebbergstrasse 44,6443,Morschach,+41 41 000 59 79,m.fuchs@postfach-sz.ch,2014,D-13307,K3531,KC-20707,0.0,D-13307
+Person,,Privat,Herr,Beat,Beeler,Feldstrasse 66,6442,Gersau,+41 79 000 10 65,b.beeler@talnet-mail.ch,2001,D-13314,K5680,,0.0,D-13314
+Person,,Privat,Frau,Andrea,Annen,Rosenweg 68,8808,Pfäffikon SZ,+41 41 000 78 93,a.annen@hausnet-mail.ch,2021,D-13321,,KC-20710,0.0,D-13321
+Person,,Privat,Frau,Karin,Marty,Bachstrasse 6,6442,Gersau,+41 79 000 59 94,,2010,D-13328,K1576,,0.0,D-13328
+Person,,Privat,Frau,Nicole,Ochsner,Riedstrasse 50,6424,Lauerz,+41 41 000 78 94,n.ochsner@postfach-sz.ch,2021,D-13335,,KC-20713,0.0,D-13335
+Person,,Privat,Frau,Barbara,Steiner,Lindenstrasse 74,8003,Zürich,+41 78 000 88 88,,2016,D-13342,K1832,KC-20716,0.0,D-13342
+Person,,Privat,Herr,Josef,Gisler,Rosenweg 34,6410,Goldau,+41 41 000 12 39,j.gisler@hausnet-mail.ch,1996,D-13349,K8904,,0.0,D-13349
+Person,,Privat,Herr,Beat,Föhn,Lindenstrasse 40,6440,Brunnen,+41 76 000 52 61,b.foehn@hausnet-mail.ch,2016,D-13356,K3633,KC-20719,0.0,D-13356
+Person,,Privat,Herr,Urs,Arnold,Feldstrasse 43,6440,Brunnen,+41 79 000 13 83,,2020,D-13363,K9629,KC-20722,0.0,D-13363
+Person,,Privat,Herr,Beat,Meier,Sonnenhalde 61,8842,Unteriberg,+41 76 000 67 90,b.meier@seenet-mail.ch,2003,D-13370,K5310,,0.0,D-13370
+Person,,Privat,Herr,Urs,Annen,Bachstrasse 78,6300,Zug,+41 78 000 32 55,u.annen@postfach-sz.ch,2025,D-13377,,KC-20725,0.0,D-13377
+Person,,Privat,Frau,Sandra,Beeler,Dorfstrasse 7,6460,Altdorf,+41 76 000 38 45,s.beeler@hausnet-mail.ch,2011,D-13384,K5779,,0.0,D-13384
+Person,,Privat,Herr,Urs,Reding,Gartenweg 72,6422,Steinen,+41 41 000 20 34,u.reding@hausnet-mail.ch,1998,D-13391,K4214,,0.0,D-13391
+Person,,Privat,Herr,Thomas,Betschart,Seestrasse 19,8842,Unteriberg,+41 41 000 61 80,,1997,D-13398,K3400,,0.0,D-13398
+Person,,Privat,Frau,Priska,Fuchs,Lindenstrasse 19,6440,Brunnen,+41 79 000 78 59,p.fuchs@postfach-sz.ch,1992,D-13405,K8630,,0.0,D-13405
+Person,,Privat,Herr,Lukas,Steiner,Bühlweg 65,6443,Morschach,+41 41 000 53 12,,1999,D-13412,K4633,,0.0,D-13412
+Person,,Privat,Frau,Andrea,Schelbert,Bühlweg 19,6438,Ibach,+41 41 000 51 82,,1998,D-13419,K4665,,0.0,D-13419
+Person,,Privat,Herr,Roland,Wüthrich,Lindenstrasse 20,6340,Baar,+41 76 000 56 50,r.wuethrich@seenet-mail.ch,1999,D-13426,K1144,,0.0,D-13426
+Person,,Privat,Herr,Christian,Fässler,Bachstrasse 73,6440,Brunnen,+41 78 000 10 69,c.faessler@seenet-mail.ch,1994,D-13433,K8518,,0.0,D-13433
+Person,,Privat,Herr,Andreas,Schuler,Bühlweg 56,6423,Seewen,+41 78 000 86 82,a.schuler@seenet-mail.ch,2001,D-13440,K3947,,0.0,D-13440
+Person,,Privat,Frau,Priska,Camenzind,Rebbergstrasse 32,6430,Schwyz,+41 78 000 15 10,p.camenzind@talnet-mail.ch,2001,D-13447,K8139,,0.0,D-13447
+Person,,Privat,Herr,Christian,Bürgler,Gartenweg 51,6423,Seewen,+41 41 000 42 23,c.buergler@postfach-sz.ch,2004,D-13454,K7217,,0.0,D-13454
+Person,,Privat,Herr,Urs,Wüthrich,Sonnenhalde 28,6438,Ibach,+41 41 000 54 87,,2011,D-13461,K8214,,0.0,D-13461
+Person,,Privat,Herr,Roland,Camenzind,Gartenweg 68,6418,Rothenthurm,+41 41 000 27 31,r.camenzind@seenet-mail.ch,1993,D-13468,K4884,,0.0,D-13468
+Person,,Privat,Herr,Michael,Weber,Lindenstrasse 32,6443,Morschach,+41 76 000 32 72,m.weber@postfach-sz.ch,2012,D-13475,K1126,KC-20728,0.0,D-13475
+Person,,Privat,Herr,Stefan,Heinzer,Seestrasse 36,6430,Schwyz,+41 78 000 20 19,s.heinzer@postfach-sz.ch,1992,D-13482,K3728,,0.0,D-13482
+Person,,Privat,Frau,Claudia,Ochsner,Bachstrasse 49,6403,Küssnacht,+41 79 000 85 39,c.ochsner@hausnet-mail.ch,2008,D-13489,K9111,,0.0,D-13489
+Person,,Privat,Frau,Regula,Gisler,Lindenstrasse 32,6460,Altdorf,+41 41 000 27 76,r.gisler@hausnet-mail.ch,1996,D-13496,K1059,,0.0,D-13496
+Person,,Privat,Herr,Peter,Niederöst,Kirchweg 14,6403,Küssnacht,+41 41 000 98 83,p.niederoest@hausnet-mail.ch,2026,D-13503,,KC-20731,0.0,D-13503
+Person,,Privat,Frau,Sandra,Gisler,Lindenstrasse 39,6418,Rothenthurm,+41 76 000 75 23,s.gisler@talnet-mail.ch,2000,D-13510,K1784,,0.0,D-13510
+Person,,Privat,Herr,Roland,Mettler,Mattenweg 28,6415,Arth,+41 41 000 81 15,r.mettler@seenet-mail.ch,2010,D-13517,K8096,,0.0,D-13517
+Person,,Privat,Herr,Peter,Zehnder,Lindenstrasse 59,6417,Sattel,+41 79 000 65 33,p.zehnder@postfach-sz.ch,1999,D-13524,K3145,,0.0,D-13524
+Person,,Privat,Frau,Monika,Camenzind,Lindenstrasse 9,6440,Brunnen,+41 76 000 91 75,m.camenzind@hausnet-mail.ch,1993,D-13531,K4266,,0.0,D-13531
+Person,,Privat,Frau,Monika,Mettler,Bergstrasse 33,6418,Rothenthurm,+41 41 000 70 37,m.mettler@postfach-sz.ch,1992,D-13538,K4367,,0.0,D-13538
+Person,,Privat,Herr,Thomas,Schmidig,Sonnenhalde 60,6403,Küssnacht,+41 41 000 61 64,t.schmidig@talnet-mail.ch,2017,D-13545,K1087,KC-20734,0.0,D-13545
+Person,,Privat,Frau,Andrea,Arnold,Riedstrasse 45,6442,Gersau,+41 79 000 64 42,a.arnold@hausnet-mail.ch,2006,D-13552,K5593,,0.0,D-13552
+Person,,Privat,Herr,Andreas,Föhn,Feldstrasse 4,6423,Seewen,+41 41 000 49 14,,2016,D-13559,K6705,KC-20737,0.0,D-13559
+Person,,Privat,Herr,Markus,Ulrich,Dorfstrasse 52,6415,Arth,+41 79 000 65 19,m.ulrich@seenet-mail.ch,1994,D-13566,K4408,,0.0,D-13566
+Person,,Privat,Herr,Stefan,Wüthrich,Gartenweg 6,6422,Steinen,+41 78 000 36 88,s.wuethrich@talnet-mail.ch,2016,D-13573,K7052,KC-20740,0.0,D-13573
+Person,,Privat,Herr,Lukas,Fässler,Lindenstrasse 57,6430,Schwyz,+41 79 000 27 89,l.faessler@postfach-sz.ch,2018,D-13580,K6496,KC-20743,0.0,D-13580
+Person,,Privat,Herr,Martin,Schmidig,Dorfstrasse 9,6417,Sattel,+41 78 000 16 26,m.schmidig@seenet-mail.ch,2005,D-13587,K8254,,0.0,D-13587
+Person,,Privat,Frau,Regula,Niederöst,Lindenstrasse 70,6424,Lauerz,+41 76 000 73 64,,2022,D-13594,,KC-20746,0.0,D-13594
+Person,,Privat,Herr,Urs,Reding,Kirchweg 25,6423,Seewen,+41 76 000 67 58,,2008,D-13601,K9823,,0.0,D-13601
+Person,,Privat,Herr,Daniel,Camenzind,Feldstrasse 70,6443,Morschach,+41 78 000 21 96,d.camenzind@seenet-mail.ch,2019,D-13608,K8063,KC-20749,0.0,D-13608
+Person,,Privat,Herr,Andreas,Niederöst,Rebbergstrasse 51,8842,Unteriberg,+41 41 000 57 31,a.niederoest@seenet-mail.ch,2021,D-13615,,KC-20752,0.0,D-13615
+Person,,Privat,Herr,Christian,Schmidig,Sonnenhalde 80,6440,Brunnen,+41 76 000 43 11,c.schmidig@hausnet-mail.ch,1992,D-13622,K4903,,0.0,D-13622
+Person,,Privat,Frau,Ruth,Zehnder,Dorfstrasse 3,6438,Ibach,+41 78 000 85 21,r.zehnder@postfach-sz.ch,2026,D-13629,,KC-20755,0.0,D-13629
+Person,,Privat,Frau,Claudia,Zwyssig,Rebbergstrasse 64,6424,Lauerz,+41 41 000 68 16,c.zwyssig@talnet-mail.ch,2018,D-13636,K8598,KC-20758,0.0,D-13636
+Person,,Privat,Frau,Priska,Ott,Bühlweg 4,6403,Küssnacht,+41 78 000 84 82,p.ott@seenet-mail.ch,2023,D-13643,,KC-20761,0.0,D-13643
+Person,,Privat,Herr,Thomas,Aschwanden,Sonnenhalde 7,6424,Lauerz,+41 78 000 20 76,,2014,D-13650,K6186,KC-20764,0.0,D-13650
+Person,,Privat,Herr,Beat,Auf der Maur,Seestrasse 38,6440,Brunnen,+41 78 000 64 17,b.aufdermaur@talnet-mail.ch,1999,D-13657,K5451,,0.0,D-13657
+Person,,Privat,Frau,Claudia,Kryenbühl,Seestrasse 2,6440,Brunnen,+41 78 000 91 38,c.kryenbuehl@hausnet-mail.ch,2015,D-13664,K8800,KC-20767,0.0,D-13664
+Person,,Privat,Frau,Sandra,Kennel,Lindenstrasse 26,6430,Schwyz,+41 41 000 89 93,,2002,D-13671,K1435,,0.0,D-13671
+Person,,Privat,Frau,Ruth,Lüönd,Rebbergstrasse 35,6422,Steinen,+41 76 000 88 64,r.lueoend@hausnet-mail.ch,2000,D-13678,K1111,,0.0,D-13678
+Person,,Privat,Frau,Silvia,Ochsner,Hofmatt 65,6430,Schwyz,+41 79 000 54 87,s.ochsner@postfach-sz.ch,2004,D-13685,K2412,,0.0,D-13685
+Person,,Privat,Herr,Roland,Ulrich,Riedstrasse 21,6424,Lauerz,+41 76 000 14 19,r.ulrich@talnet-mail.ch,2016,D-13692,K5829,KC-20770,0.0,D-13692
+Person,,Privat,Frau,Andrea,Fässler,Dorfstrasse 79,6438,Ibach,+41 41 000 59 92,a.faessler@talnet-mail.ch,2019,D-13699,K9297,KC-20773,0.0,D-13699
+Person,,Privat,Frau,Andrea,Gwerder,Dorfstrasse 29,6418,Rothenthurm,+41 79 000 29 53,,1999,D-13706,K4601,,0.0,D-13706
+Person,,Privat,Herr,Lukas,Gwerder,Mattenweg 71,6300,Zug,+41 79 000 29 69,l.gwerder@seenet-mail.ch,1997,D-13713,K1400,,0.0,D-13713
+Person,,Privat,Frau,Regula,Heinzer,Bergstrasse 62,6443,Morschach,+41 41 000 72 24,r.heinzer@hausnet-mail.ch,2024,D-13720,,KC-20776,0.0,D-13720
+Person,,Privat,Herr,Stefan,Abegg,Rebbergstrasse 76,6440,Brunnen,+41 41 000 84 18,s.abegg@seenet-mail.ch,2009,D-13727,K5924,,0.0,D-13727
+Person,,Privat,Herr,Martin,Inglin,Mattenweg 78,6422,Steinen,+41 79 000 51 27,m.inglin@hausnet-mail.ch,1994,D-13734,K8761,,0.0,D-13734
+Person,,Privat,Herr,Roland,Baggenstos,Hofmatt 74,6442,Gersau,+41 78 000 34 33,r.baggenstos@seenet-mail.ch,2006,D-13741,K5711,,0.0,D-13741
+Person,,Privat,Herr,Thomas,Mettler,Seestrasse 10,6422,Steinen,+41 76 000 68 81,,2009,D-13748,K2696,,0.0,D-13748
+Person,,Privat,Frau,Franziska,Holdener,Bachstrasse 77,6430,Schwyz,+41 41 000 24 79,f.holdener@seenet-mail.ch,2008,D-13755,K8931,,0.0,D-13755
+Person,,Privat,Frau,Priska,Kälin,Seestrasse 6,6460,Altdorf,+41 78 000 36 77,p.kaelin@talnet-mail.ch,2013,D-13762,K9065,KC-20779,0.0,D-13762
+Person,,Privat,Herr,Christian,Zehnder,Bühlweg 59,6418,Rothenthurm,+41 76 000 46 27,c.zehnder@hausnet-mail.ch,2024,D-13769,,KC-20782,0.0,D-13769
+Person,,Privat,Herr,Christian,Inglin,Sonnenhalde 64,6442,Gersau,+41 76 000 60 99,c.inglin@postfach-sz.ch,2022,D-13776,,KC-20785,0.0,D-13776
+Person,,Privat,Herr,Josef,Fuchs,Bühlweg 61,6418,Rothenthurm,+41 76 000 12 40,j.fuchs@seenet-mail.ch,2005,D-13783,K7075,,0.0,D-13783
+Person,,Privat,Frau,Silvia,Kennel,Gartenweg 80,6440,Brunnen,+41 41 000 29 25,s.kennel@talnet-mail.ch,2004,D-13790,K7101,,0.0,D-13790
+Person,,Privat,Frau,Andrea,Ochsner,Rosenweg 15,8840,Einsiedeln,+41 41 000 54 50,a.ochsner@talnet-mail.ch,2017,D-13797,K3591,KC-20788,0.0,D-13797
+Person,,Privat,Frau,Priska,Abegg,Seestrasse 62,6403,Küssnacht,+41 41 000 36 86,p.abegg@hausnet-mail.ch,1997,D-13804,K4987,,0.0,D-13804
+Person,,Privat,Herr,Josef,Holdener,Seestrasse 5,6300,Zug,+41 78 000 69 28,j.holdener@seenet-mail.ch,2014,D-13811,K6190,KC-20791,0.0,D-13811
+Person,,Privat,Frau,Priska,Kälin,Hofmatt 10,6438,Ibach,+41 79 000 40 51,p.kaelin@postfach-sz.ch,2009,D-13818,K1149,,0.0,D-13818
+Person,,Privat,Herr,Josef,Inglin,Feldstrasse 40,6424,Lauerz,+41 76 000 10 88,,2012,D-13825,K5248,KC-20794,0.0,D-13825
+Person,,Privat,Herr,Markus,Zwyssig,Bergstrasse 57,6438,Ibach,+41 76 000 46 89,m.zwyssig@seenet-mail.ch,2001,D-13832,K8899,,0.0,D-13832
+Person,,Privat,Frau,Sandra,Betschart,Hofmatt 66,6443,Morschach,+41 79 000 86 57,s.betschart@talnet-mail.ch,2017,D-13839,K2722,KC-20797,0.0,D-13839
+Person,,Privat,Herr,Stefan,Gisler,Dorfstrasse 14,6440,Brunnen,+41 41 000 75 22,s.gisler@seenet-mail.ch,2013,D-13846,K5025,KC-20800,0.0,D-13846
+Person,,Privat,Herr,Lukas,Ott,Rebbergstrasse 52,6410,Goldau,+41 78 000 10 52,l.ott@postfach-sz.ch,2003,D-13853,K9571,,0.0,D-13853
+Person,,Privat,Herr,Peter,Ochsner,Dorfstrasse 73,6442,Gersau,+41 78 000 68 58,p.ochsner@hausnet-mail.ch,2021,D-13860,,KC-20803,0.0,D-13860
+Person,,Privat,Herr,Andreas,Auf der Maur,Kirchweg 32,6430,Schwyz,+41 41 000 52 55,a.aufdermaur@seenet-mail.ch,1992,D-13867,K5244,,0.0,D-13867
+Person,,Privat,Frau,Sandra,Beeler,Bühlweg 36,6440,Brunnen,+41 41 000 52 23,,2018,D-13874,K1488,KC-20806,0.0,D-13874
+Person,,Privat,Herr,Peter,Kistler,Bühlweg 60,6417,Sattel,+41 78 000 22 50,,2006,D-13881,K7424,,0.0,D-13881
+Person,,Privat,Herr,Andreas,Annen,Kirchweg 20,6424,Lauerz,+41 76 000 71 18,a.annen@postfach-sz.ch,2026,,,KC-20809,0.0,KC-20809
+Person,,Privat,Herr,Peter,Kennel,Rosenweg 32,6440,Brunnen,+41 78 000 63 91,p.kennel@seenet-mail.ch,2018,D-13888,K3416,KC-20812,0.0,D-13888
+Person,,Privat,Herr,Beat,Gwerder,Bühlweg 64,6423,Seewen,+41 78 000 20 83,,2022,D-13895,,KC-20815,0.0,D-13895
+Person,,Privat,Frau,Karin,Schnüriger,Lindenstrasse 76,6403,Küssnacht,+41 76 000 40 79,k.schnueriger@postfach-sz.ch,1999,D-13902,K9118,,0.0,D-13902
+Person,,Privat,Herr,Markus,Bucher,Dorfstrasse 15,6423,Seewen,+41 79 000 13 36,m.bucher@seenet-mail.ch,2011,D-13909,K5498,,0.0,D-13909
+Person,,Privat,Frau,Sandra,Schelbert,Riedstrasse 66,6410,Goldau,+41 41 000 95 70,s.schelbert@postfach-sz.ch,2009,D-13916,K8504,,0.0,D-13916
+Person,,Privat,Herr,Roland,Kryenbühl,Feldstrasse 57,6430,Schwyz,+41 78 000 50 39,r.kryenbuehl@hausnet-mail.ch,1993,D-13923,K7194,,0.0,D-13923
+Person,,Privat,Herr,Peter,Zehnder,Bergstrasse 45,8840,Einsiedeln,+41 41 000 28 20,p.zehnder@hausnet-mail.ch,2016,D-13930,K6217,KC-20818,0.0,D-13930
+Person,,Privat,Herr,Stefan,Baggenstos,Bachstrasse 22,6442,Gersau,+41 41 000 45 54,s.baggenstos@seenet-mail.ch,2015,D-13937,K1898,KC-20821,0.0,D-13937
+Person,,Privat,Herr,Andreas,Zwyssig,Rosenweg 42,6423,Seewen,+41 41 000 57 38,a.zwyssig@seenet-mail.ch,2000,D-13944,K3424,,0.0,D-13944
+Person,,Privat,Frau,Silvia,Annen,Rosenweg 33,6403,Küssnacht,+41 41 000 62 84,,1997,D-13951,K2076,,0.0,D-13951
+Person,,Privat,Herr,Roland,Weber,Sonnenhalde 29,6004,Luzern,+41 41 000 20 43,,2001,D-13958,K8081,,0.0,D-13958
+Person,,Privat,Herr,Beat,Camenzind,Bühlweg 69,6438,Ibach,+41 78 000 96 67,,2019,D-13965,K2593,KC-20824,0.0,D-13965
+Person,,Privat,Frau,Nicole,Camenzind,Sonnenhalde 59,6440,Brunnen,+41 78 000 41 55,n.camenzind@hausnet-mail.ch,1993,D-13972,K3714,,0.0,D-13972
+Person,,Privat,Herr,Stefan,Arnold,Bachstrasse 5,6460,Altdorf,+41 79 000 41 16,s.arnold@seenet-mail.ch,1993,D-13979,K4237,,0.0,D-13979
+Person,,Privat,Frau,Silvia,Schmidig,Gartenweg 22,6424,Lauerz,+41 78 000 73 67,s.schmidig@postfach-sz.ch,2021,D-13986,,KC-20827,0.0,D-13986
+Person,,Privat,Herr,Markus,Camenzind,Bühlweg 42,8003,Zürich,+41 76 000 30 25,m.camenzind@hausnet-mail.ch,2006,D-13993,K4349,,0.0,D-13993
+Person,,Privat,Frau,Regula,Ott,Mattenweg 49,6423,Seewen,+41 41 000 59 83,r.ott@postfach-sz.ch,1999,D-14000,K1160,,0.0,D-14000
+Person,,Privat,Frau,Monika,Fuchs,Riedstrasse 25,6440,Brunnen,+41 78 000 27 18,m.fuchs@talnet-mail.ch,2018,D-14007,K7372,KC-20830,0.0,D-14007
+Person,,Privat,Frau,Franziska,Bucher,Bühlweg 66,6423,Seewen,+41 76 000 36 86,,2018,D-14014,K9482,KC-20833,0.0,D-14014
+Person,,Privat,Frau,Nicole,Zehnder,Dorfstrasse 53,6430,Schwyz,+41 41 000 32 52,n.zehnder@talnet-mail.ch,1997,D-14021,K3330,,0.0,D-14021
+Person,,Privat,Herr,Stefan,Mettler,Rosenweg 4,6460,Altdorf,+41 78 000 55 79,s.mettler@hausnet-mail.ch,2011,D-14028,K7060,,0.0,D-14028
+Person,,Privat,Herr,Josef,Ulrich,Bühlweg 72,6460,Altdorf,+41 79 000 31 43,j.ulrich@talnet-mail.ch,2013,D-14035,K4119,KC-20836,0.0,D-14035
+Person,,Privat,Frau,Priska,Kennel,Lindenstrasse 77,6443,Morschach,+41 79 000 23 71,p.kennel@talnet-mail.ch,2021,D-14042,,KC-20839,0.0,D-14042
+Person,,Privat,Herr,Andreas,Steiner,Bergstrasse 10,6422,Steinen,+41 41 000 98 64,a.steiner@postfach-sz.ch,1999,D-14049,K6196,,0.0,D-14049
+Person,,Privat,Herr,Thomas,Holdener,Bühlweg 49,6300,Zug,+41 79 000 84 52,t.holdener@postfach-sz.ch,2020,D-14056,K9143,KC-20842,0.0,D-14056
+Person,,Privat,Frau,Nicole,Truttmann,Dorfstrasse 67,6460,Altdorf,+41 78 000 52 99,n.truttmann@hausnet-mail.ch,2006,D-14063,K4445,,0.0,D-14063
+Person,,Privat,Herr,Michael,Fuchs,Rosenweg 1,6422,Steinen,+41 41 000 26 11,m.fuchs@postfach-sz.ch,1992,D-14070,K8807,,0.0,D-14070
+Person,,Privat,Herr,Daniel,Beeler,Seestrasse 33,6443,Morschach,+41 78 000 75 96,d.beeler@postfach-sz.ch,2024,D-14077,,KC-20845,0.0,D-14077
+Person,,Privat,Frau,Ruth,Föhn,Gartenweg 35,6422,Steinen,+41 79 000 20 66,r.foehn@hausnet-mail.ch,1996,D-14084,K5710,,0.0,D-14084
+Person,,Privat,Frau,Andrea,Kälin,Riedstrasse 25,6440,Brunnen,+41 76 000 25 79,a.kaelin@talnet-mail.ch,2013,D-14091,K8631,KC-20848,0.0,D-14091
+Person,,Privat,Herr,Daniel,Rickenbacher,Bergstrasse 18,6438,Ibach,+41 78 000 67 48,d.rickenbacher@hausnet-mail.ch,2026,D-14098,,KC-20851,0.0,D-14098
+Person,,Privat,Herr,Stefan,Ott,Seestrasse 45,6430,Schwyz,+41 76 000 32 37,s.ott@postfach-sz.ch,1994,D-14105,K1605,,0.0,D-14105
+Person,,Privat,Herr,Peter,Föhn,Hofmatt 10,6442,Gersau,+41 78 000 61 55,p.foehn@postfach-sz.ch,2002,D-14112,K5147,,0.0,D-14112
+Person,,Privat,Frau,Barbara,Ulrich,Mattenweg 51,6430,Schwyz,+41 41 000 67 77,b.ulrich@talnet-mail.ch,1996,D-14119,K7136,,0.0,D-14119
+Person,,Privat,Herr,Markus,Suter,Rebbergstrasse 50,6423,Seewen,+41 76 000 21 33,m.suter@postfach-sz.ch,2004,D-14126,K6260,,0.0,D-14126
+Person,,Privat,Frau,Silvia,Zehnder,Rebbergstrasse 26,6430,Schwyz,+41 79 000 70 95,s.zehnder@hausnet-mail.ch,2000,D-14133,K3860,,0.0,D-14133
+Person,,Privat,Frau,Regula,Inglin,Bergstrasse 63,8842,Unteriberg,+41 76 000 39 75,r.inglin@talnet-mail.ch,2022,D-14140,,KC-20854,0.0,D-14140
+Person,,Privat,Frau,Esther,Truttmann,Mattenweg 5,6423,Seewen,+41 76 000 30 46,e.truttmann@talnet-mail.ch,2000,D-14147,K3929,,0.0,D-14147
+Person,,Privat,Herr,Peter,Bucher,Riedstrasse 59,6438,Ibach,+41 78 000 95 24,p.bucher@seenet-mail.ch,1994,D-14154,K2495,,0.0,D-14154
+Person,,Privat,Herr,Josef,Inglin,Bühlweg 66,8842,Unteriberg,+41 78 000 58 47,j.inglin@postfach-sz.ch,1997,D-14161,K6758,,0.0,D-14161
+Person,,Privat,Frau,Regula,Föhn,Kirchweg 35,6460,Altdorf,+41 78 000 89 17,r.foehn@hausnet-mail.ch,2025,D-14168,,KC-20857,0.0,D-14168
+Person,,Privat,Frau,Barbara,Bürgler,Feldstrasse 43,6440,Brunnen,+41 78 000 17 19,b.buergler@seenet-mail.ch,2000,D-14175,K3263,,0.0,D-14175
+Person,,Privat,Frau,Karin,Lüönd,Sonnenhalde 39,6423,Seewen,+41 78 000 31 14,k.lueoend@hausnet-mail.ch,2021,D-14182,,KC-20860,0.0,D-14182
+Person,,Privat,Herr,Beat,Marty,Feldstrasse 29,6403,Küssnacht,+41 76 000 79 80,b.marty@postfach-sz.ch,1992,D-14189,K8755,,0.0,D-14189
+Person,,Privat,Frau,Priska,Föhn,Hofmatt 61,6424,Lauerz,+41 76 000 41 95,p.foehn@postfach-sz.ch,2018,D-14196,K6626,KC-20863,0.0,D-14196
+Person,,Privat,Herr,Beat,Lüönd,Bachstrasse 33,6423,Seewen,+41 78 000 49 49,b.lueoend@talnet-mail.ch,2015,D-14203,K8919,KC-20866,0.0,D-14203
+Person,,Privat,Frau,Monika,Kryenbühl,Kirchweg 43,6300,Zug,+41 41 000 55 35,m.kryenbuehl@seenet-mail.ch,2010,D-14210,K8641,,0.0,D-14210
+Person,,Privat,Frau,Regula,Heinzer,Feldstrasse 1,8842,Unteriberg,+41 79 000 16 84,r.heinzer@postfach-sz.ch,2003,D-14217,K5881,,0.0,D-14217
+Person,,Privat,Herr,Urs,Holdener,Feldstrasse 67,6424,Lauerz,+41 78 000 96 10,u.holdener@seenet-mail.ch,2006,D-14224,K9809,,0.0,D-14224
+Person,,Privat,Frau,Karin,Fuchs,Feldstrasse 49,6460,Altdorf,+41 41 000 63 66,k.fuchs@talnet-mail.ch,2024,D-14231,,KC-20869,0.0,D-14231
+Person,,Privat,Herr,Andreas,Fässler,Seestrasse 29,6440,Brunnen,+41 79 000 13 59,a.faessler@hausnet-mail.ch,2021,D-14238,,KC-20872,0.0,D-14238
+Person,,Privat,Frau,Claudia,Föhn,Riedstrasse 80,6424,Lauerz,+41 78 000 17 82,c.foehn@postfach-sz.ch,2003,D-14245,K2812,,0.0,D-14245
+Person,,Privat,Frau,Regula,Fuchs,Bachstrasse 56,6430,Schwyz,+41 79 000 60 18,r.fuchs@talnet-mail.ch,2020,D-14252,K4158,KC-20875,0.0,D-14252
+Person,,Privat,Herr,Christian,Lüönd,Dorfstrasse 74,8843,Oberiberg,+41 41 000 61 86,c.lueoend@hausnet-mail.ch,1997,D-14259,K9240,,0.0,D-14259
+Person,,Privat,Herr,Lukas,Betschart,Bergstrasse 21,6410,Goldau,+41 79 000 25 35,l.betschart@talnet-mail.ch,2008,D-14266,K5461,,0.0,D-14266
+Person,,Privat,Frau,Silvia,Arnold,Lindenstrasse 8,6430,Schwyz,+41 79 000 32 30,s.arnold@seenet-mail.ch,2017,D-14273,K1209,KC-20878,0.0,D-14273
+Person,,Privat,Frau,Barbara,Schelbert,Sonnenhalde 13,6423,Seewen,+41 79 000 26 56,b.schelbert@postfach-sz.ch,2017,D-14280,K8177,KC-20881,0.0,D-14280
+Person,,Privat,Herr,Thomas,Meier,Hofmatt 45,6424,Lauerz,+41 76 000 88 22,t.meier@postfach-sz.ch,2002,D-14287,K4091,,0.0,D-14287
+Person,,Privat,Frau,Claudia,Auf der Maur,Kirchweg 60,6422,Steinen,+41 78 000 56 91,c.aufdermaur@talnet-mail.ch,2007,D-14294,K1226,,0.0,D-14294
+Person,,Privat,Herr,Daniel,Huwyler,Riedstrasse 38,8808,Pfäffikon SZ,+41 79 000 33 65,d.huwyler@hausnet-mail.ch,2007,D-14301,K4205,,0.0,D-14301
+Person,,Privat,Herr,Josef,Camenzind,Dorfstrasse 61,8840,Einsiedeln,+41 76 000 48 91,j.camenzind@postfach-sz.ch,2011,D-14308,K2994,,0.0,D-14308
+Person,,Privat,Herr,Markus,Auf der Maur,Bergstrasse 76,8842,Unteriberg,+41 79 000 75 16,m.aufdermaur@seenet-mail.ch,2004,D-14315,K3857,,0.0,D-14315
+Person,,Privat,Herr,Daniel,Rickenbacher,Mattenweg 49,6423,Seewen,+41 41 000 65 53,d.rickenbacher@talnet-mail.ch,2005,D-14322,K3498,,0.0,D-14322
+Person,,Privat,Frau,Barbara,Weber,Seestrasse 65,6423,Seewen,+41 78 000 81 95,b.weber@seenet-mail.ch,2022,D-14329,,KC-20884,0.0,D-14329
+Person,,Privat,Herr,Thomas,Meier,Kirchweg 51,6417,Sattel,+41 41 000 88 55,t.meier@seenet-mail.ch,1992,D-14336,K3432,,0.0,D-14336
+Person,,Privat,Herr,Josef,Beeler,Bergstrasse 61,6004,Luzern,+41 76 000 48 63,j.beeler@talnet-mail.ch,1998,D-14343,K5143,,0.0,D-14343
+Person,,Privat,Herr,Daniel,Inglin,Mattenweg 67,8003,Zürich,+41 79 000 50 96,d.inglin@hausnet-mail.ch,1994,D-14350,K8487,,0.0,D-14350
+Person,,Privat,Herr,Roland,Beeler,Seestrasse 16,6424,Lauerz,+41 76 000 53 19,r.beeler@talnet-mail.ch,2016,D-14357,K5136,KC-20887,0.0,D-14357
+Person,,Privat,Frau,Claudia,Bucher,Feldstrasse 1,6423,Seewen,+41 79 000 86 99,c.bucher@postfach-sz.ch,2014,D-14364,K6782,KC-20890,0.0,D-14364
+Person,,Privat,Frau,Regula,Suter,Rosenweg 43,6430,Schwyz,+41 76 000 18 63,,1995,D-14371,K1078,,0.0,D-14371
+Person,,Privat,Frau,Esther,Steiner,Seestrasse 74,6422,Steinen,+41 78 000 25 27,e.steiner@hausnet-mail.ch,2002,D-14378,K4970,,0.0,D-14378
+Person,,Privat,Herr,Christian,Rickenbacher,Gartenweg 72,6004,Luzern,+41 79 000 98 91,c.rickenbacher@hausnet-mail.ch,2012,D-14385,K5611,KC-20893,0.0,D-14385
+Person,,Privat,Frau,Sandra,Betschart,Feldstrasse 80,6422,Steinen,+41 76 000 32 20,s.betschart@postfach-sz.ch,2000,D-14392,K2378,,0.0,D-14392
+Person,,Privat,Herr,Daniel,Gwerder,Kirchweg 58,8840,Einsiedeln,+41 76 000 37 11,d.gwerder@postfach-sz.ch,1996,D-14399,K6861,,0.0,D-14399
+Person,,Privat,Herr,Beat,Rickenbacher,Mattenweg 40,6418,Rothenthurm,+41 78 000 32 16,b.rickenbacher@postfach-sz.ch,1998,D-14406,K1237,,0.0,D-14406
+Person,,Privat,Frau,Andrea,Holdener,Bergstrasse 42,6424,Lauerz,+41 41 000 24 38,a.holdener@seenet-mail.ch,1993,D-14413,K7040,,0.0,D-14413
+Person,,Privat,Herr,Markus,Zehnder,Dorfstrasse 76,8843,Oberiberg,+41 41 000 26 13,m.zehnder@postfach-sz.ch,2017,D-14420,K3763,KC-20896,0.0,D-14420
+Person,,Privat,Herr,Christian,Betschart,Riedstrasse 57,6440,Brunnen,+41 41 000 73 54,c.betschart@talnet-mail.ch,1996,D-14427,K2170,,0.0,D-14427
+Person,,Privat,Frau,Monika,Heinzer,Bühlweg 67,6403,Küssnacht,+41 79 000 60 31,m.heinzer@postfach-sz.ch,2003,D-14434,K8890,,0.0,D-14434
+Person,,Privat,Herr,Markus,Kälin,Hofmatt 4,6423,Seewen,+41 41 000 24 78,m.kaelin@talnet-mail.ch,1999,D-14441,K1443,,0.0,D-14441
+Person,,Privat,Herr,Thomas,Lüönd,Sonnenhalde 15,8840,Einsiedeln,+41 78 000 70 20,,2002,D-14448,K6427,,0.0,D-14448
+Person,,Privat,Herr,Michael,Ulrich,Dorfstrasse 8,6430,Schwyz,+41 41 000 63 80,m.ulrich@talnet-mail.ch,2011,D-14455,K5811,,0.0,D-14455
+Person,,Privat,Frau,Priska,Föhn,Riedstrasse 33,6438,Ibach,+41 76 000 65 85,,2014,D-14462,K9269,KC-20899,0.0,D-14462
+Person,,Privat,Herr,Christian,Suter,Dorfstrasse 35,6430,Schwyz,+41 78 000 94 58,c.suter@talnet-mail.ch,2019,D-14469,K4600,KC-20902,0.0,D-14469
+Person,,Privat,Frau,Barbara,Camenzind,Rosenweg 33,6440,Brunnen,+41 41 000 83 65,b.camenzind@seenet-mail.ch,2010,D-14476,K7566,,0.0,D-14476
+Person,,Privat,Herr,Martin,Zehnder,Rosenweg 51,8840,Einsiedeln,+41 41 000 92 34,m.zehnder@talnet-mail.ch,2002,D-14483,K7124,,0.0,D-14483
+Person,,Privat,Herr,Peter,Mettler,Sonnenhalde 26,6440,Brunnen,+41 76 000 33 38,p.mettler@postfach-sz.ch,2014,D-14490,K6806,KC-20905,0.0,D-14490
+Person,,Privat,Herr,Urs,Rickenbacher,Lindenstrasse 54,6424,Lauerz,+41 76 000 55 91,u.rickenbacher@postfach-sz.ch,2006,D-14497,K2318,,0.0,D-14497
+Person,,Privat,Frau,Priska,Baggenstos,Seestrasse 57,6004,Luzern,+41 76 000 29 52,p.baggenstos@seenet-mail.ch,2022,D-14504,,KC-20908,0.0,D-14504
+Person,,Privat,Frau,Priska,Huwyler,Kirchweg 55,6422,Steinen,+41 79 000 10 35,p.huwyler@hausnet-mail.ch,2021,D-14511,,KC-20911,0.0,D-14511
+Person,,Privat,Frau,Karin,Inglin,Rebbergstrasse 19,6443,Morschach,+41 41 000 46 63,k.inglin@hausnet-mail.ch,2002,D-14518,K4478,,0.0,D-14518
+Person,,Privat,Herr,Markus,Betschart,Lindenstrasse 29,6443,Morschach,+41 76 000 12 12,,1992,D-14525,K7523,,0.0,D-14525
+Person,,Privat,Frau,Esther,Marty,Seestrasse 28,6422,Steinen,+41 76 000 82 14,e.marty@talnet-mail.ch,2012,D-14532,K5129,KC-20914,0.0,D-14532
+Person,,Privat,Frau,Andrea,Arnold,Rebbergstrasse 80,8840,Einsiedeln,+41 76 000 75 75,,2009,D-14539,K9720,,0.0,D-14539
+Person,,Privat,Frau,Priska,Inglin,Sonnenhalde 1,8840,Einsiedeln,+41 76 000 93 71,p.inglin@postfach-sz.ch,2003,D-14546,K4603,,0.0,D-14546
+Person,,Privat,Frau,Priska,Ott,Gartenweg 59,6442,Gersau,+41 41 000 99 82,p.ott@postfach-sz.ch,2014,D-14553,K3070,KC-20917,0.0,D-14553
+Person,,Privat,Frau,Regula,Gwerder,Hofmatt 16,8843,Oberiberg,+41 76 000 53 45,r.gwerder@talnet-mail.ch,1995,D-14560,K8147,,0.0,D-14560
+Person,,Privat,Herr,Andreas,Inglin,Lindenstrasse 66,6415,Arth,+41 41 000 49 73,a.inglin@talnet-mail.ch,2026,,,KC-20920,0.0,KC-20920
+Person,,Privat,Frau,Ruth,Zwyssig,Seestrasse 54,6424,Lauerz,+41 79 000 87 74,r.zwyssig@hausnet-mail.ch,2011,D-14567,K9791,,0.0,D-14567
+Person,,Privat,Frau,Silvia,Auf der Maur,Seestrasse 10,6340,Baar,+41 76 000 34 49,s.aufdermaur@talnet-mail.ch,2001,D-14574,K4074,,0.0,D-14574
+Person,,Privat,Herr,Andreas,Heinzer,Gartenweg 29,6403,Küssnacht,+41 78 000 27 20,a.heinzer@seenet-mail.ch,1997,D-14581,K5575,,0.0,D-14581
+Person,,Privat,Herr,Roland,Zwyssig,Rebbergstrasse 23,6430,Schwyz,+41 79 000 16 86,r.zwyssig@talnet-mail.ch,2021,D-14588,,KC-20923,0.0,D-14588
+Person,,Privat,Frau,Regula,Annen,Mattenweg 68,6417,Sattel,+41 79 000 63 81,r.annen@postfach-sz.ch,2015,D-14595,K5007,KC-20926,0.0,D-14595
+Person,,Privat,Frau,Franziska,Beeler,Sonnenhalde 68,8003,Zürich,+41 76 000 34 73,,2012,D-14602,K4339,KC-20929,0.0,D-14602
+Person,,Privat,Frau,Nicole,Camenzind,Bergstrasse 56,6410,Goldau,+41 79 000 22 97,n.camenzind@seenet-mail.ch,2004,D-14609,K6171,,0.0,D-14609
+Person,,Privat,Herr,Thomas,Gwerder,Bühlweg 79,6403,Küssnacht,+41 41 000 25 64,t.gwerder@seenet-mail.ch,2022,D-14616,,KC-20932,0.0,D-14616
+Person,,Privat,Herr,Christian,Zehnder,Dorfstrasse 1,6424,Lauerz,+41 79 000 83 79,c.zehnder@hausnet-mail.ch,2000,D-14623,K3339,,0.0,D-14623
+Person,,Privat,Herr,Beat,Aschwanden,Lindenstrasse 53,6415,Arth,+41 78 000 71 14,b.aschwanden@seenet-mail.ch,2020,D-14630,K3574,KC-20935,0.0,D-14630
+Person,,Privat,Frau,Silvia,Kistler,Dorfstrasse 72,6442,Gersau,+41 76 000 48 20,s.kistler@hausnet-mail.ch,2006,D-14637,K9057,,0.0,D-14637
+Person,,Privat,Herr,Michael,Schuler,Rosenweg 57,6423,Seewen,+41 41 000 10 35,m.schuler@seenet-mail.ch,2002,D-14644,K3851,,0.0,D-14644
+Person,,Privat,Herr,Markus,Kistler,Seestrasse 45,6440,Brunnen,+41 41 000 47 98,,2006,D-14651,K6248,,0.0,D-14651
+Person,,Privat,Frau,Ruth,Bucher,Seestrasse 27,8842,Unteriberg,+41 78 000 90 14,r.bucher@postfach-sz.ch,2005,D-14658,K7015,,0.0,D-14658
+Person,,Privat,Herr,Andreas,Truttmann,Rebbergstrasse 62,8843,Oberiberg,+41 79 000 44 19,a.truttmann@hausnet-mail.ch,2019,D-14665,K8510,KC-20938,0.0,D-14665
+Person,,Privat,Herr,Peter,Meier,Hofmatt 39,6430,Schwyz,+41 78 000 59 22,p.meier@hausnet-mail.ch,2006,D-14672,K6499,,0.0,D-14672
+Person,,Privat,Frau,Priska,Meier,Hofmatt 76,6423,Seewen,+41 41 000 81 92,p.meier@postfach-sz.ch,2025,D-14679,,KC-20941,0.0,D-14679
+Person,,Privat,Herr,Roland,Wüthrich,Hofmatt 56,6443,Morschach,+41 79 000 54 61,,2021,D-14686,,KC-20944,0.0,D-14686
+Person,,Privat,Herr,Daniel,Bürgler,Feldstrasse 16,6422,Steinen,+41 79 000 12 47,d.buergler@talnet-mail.ch,2023,D-14693,,KC-20947,0.0,D-14693
+Person,,Privat,Frau,Sandra,Zehnder,Kirchweg 45,6440,Brunnen,+41 79 000 88 40,s.zehnder@postfach-sz.ch,1998,D-14700,K1871,,0.0,D-14700
+Person,,Privat,Frau,Nicole,Reding,Gartenweg 35,6460,Altdorf,+41 79 000 15 71,n.reding@seenet-mail.ch,2003,D-14707,K6678,,0.0,D-14707
+Person,,Privat,Frau,Karin,Gwerder,Mattenweg 15,6440,Brunnen,+41 79 000 52 34,k.gwerder@talnet-mail.ch,1997,D-14714,K3237,,0.0,D-14714
+Person,,Privat,Herr,Lukas,Zehnder,Bachstrasse 46,6424,Lauerz,+41 76 000 27 58,l.zehnder@talnet-mail.ch,1992,D-14721,K3154,,0.0,D-14721
+Person,,Privat,Herr,Andreas,Arnold,Bergstrasse 10,6438,Ibach,+41 78 000 76 54,a.arnold@postfach-sz.ch,2024,D-14728,,KC-20950,0.0,D-14728
+Person,,Privat,Herr,Andreas,Niederöst,Bergstrasse 26,6424,Lauerz,+41 78 000 86 75,a.niederoest@postfach-sz.ch,2006,D-14735,K9563,,0.0,D-14735
+Person,,Privat,Herr,Stefan,Weber,Bergstrasse 5,6440,Brunnen,+41 79 000 12 17,s.weber@hausnet-mail.ch,2005,D-14742,K8495,,0.0,D-14742
+Person,,Privat,Frau,Silvia,Holdener,Seestrasse 17,6340,Baar,+41 76 000 86 15,s.holdener@talnet-mail.ch,2026,,,KC-20953,0.0,KC-20953
+Person,,Privat,Herr,Thomas,Kryenbühl,Feldstrasse 43,6440,Brunnen,+41 78 000 71 87,t.kryenbuehl@postfach-sz.ch,2001,D-14749,K6885,,0.0,D-14749
+Person,,Privat,Herr,Lukas,Weber,Hofmatt 52,8842,Unteriberg,+41 41 000 57 42,l.weber@seenet-mail.ch,2001,D-14756,K6999,,0.0,D-14756
+Person,,Privat,Herr,Thomas,Föhn,Kirchweg 65,6423,Seewen,+41 79 000 80 39,t.foehn@talnet-mail.ch,2007,D-14763,K2756,,0.0,D-14763
+Person,,Privat,Herr,Martin,Kryenbühl,Bachstrasse 1,8820,Wädenswil,+41 76 000 24 88,m.kryenbuehl@talnet-mail.ch,1999,D-14770,K9228,,0.0,D-14770
+Person,,Privat,Herr,Thomas,Truttmann,Bühlweg 25,6422,Steinen,+41 78 000 87 21,t.truttmann@postfach-sz.ch,1995,D-14777,K4451,,0.0,D-14777
+Person,,Privat,Frau,Sandra,Schelbert,Gartenweg 54,8003,Zürich,+41 41 000 46 66,,2017,D-14784,K8453,KC-20956,0.0,D-14784
+Person,,Privat,Frau,Esther,Zwyssig,Gartenweg 14,6438,Ibach,+41 78 000 10 83,,2024,D-14791,,KC-20959,0.0,D-14791
+Person,,Privat,Frau,Nicole,Ulrich,Bergstrasse 58,6424,Lauerz,+41 79 000 96 44,n.ulrich@seenet-mail.ch,2021,D-14798,,KC-20962,0.0,D-14798
+Person,,Privat,Herr,Peter,Kistler,Hofmatt 13,6443,Morschach,+41 79 000 82 85,p.kistler@talnet-mail.ch,2014,D-14805,K2796,KC-20965,0.0,D-14805
+Person,,Privat,Herr,Urs,Föhn,Mattenweg 30,6417,Sattel,+41 41 000 86 38,u.foehn@hausnet-mail.ch,2012,D-14812,K9117,KC-20968,0.0,D-14812
+Person,,Privat,Herr,Martin,Ulrich,Feldstrasse 71,6300,Zug,+41 41 000 43 91,m.ulrich@hausnet-mail.ch,2001,D-14819,K5006,,0.0,D-14819
+Person,,Privat,Herr,Andreas,Marty,Riedstrasse 52,6438,Ibach,+41 78 000 53 68,a.marty@talnet-mail.ch,1992,D-14826,K8469,,0.0,D-14826
+Person,,Privat,Herr,Thomas,Bürgler,Rebbergstrasse 15,6410,Goldau,+41 79 000 55 35,t.buergler@seenet-mail.ch,2020,D-14833,K2919,KC-20971,0.0,D-14833
+Person,,Privat,Frau,Claudia,Camenzind,Bachstrasse 44,6460,Altdorf,+41 79 000 67 15,c.camenzind@seenet-mail.ch,1995,D-14840,K1396,,0.0,D-14840
+Person,,Privat,Herr,Martin,Marty,Bachstrasse 7,6422,Steinen,+41 78 000 95 86,m.marty@seenet-mail.ch,2012,D-14847,K4704,KC-20974,0.0,D-14847
+Person,,Privat,Herr,Peter,Marty,Riedstrasse 30,8842,Unteriberg,+41 78 000 72 35,,2024,D-14854,,KC-20977,0.0,D-14854
+Person,,Privat,Herr,Markus,Weber,Feldstrasse 43,6417,Sattel,+41 79 000 52 76,m.weber@talnet-mail.ch,2010,D-14861,K3950,,0.0,D-14861
+Person,,Privat,Herr,Urs,Heinzer,Rebbergstrasse 3,6440,Brunnen,+41 41 000 70 43,u.heinzer@seenet-mail.ch,2004,D-14868,K3733,,0.0,D-14868
+Person,,Privat,Herr,Peter,Bürgler,Lindenstrasse 34,8843,Oberiberg,+41 78 000 97 19,p.buergler@seenet-mail.ch,2017,D-14875,K3943,KC-20980,0.0,D-14875
+Person,,Privat,Herr,Peter,Heinzer,Feldstrasse 67,6423,Seewen,+41 76 000 74 41,p.heinzer@hausnet-mail.ch,2009,D-14882,K6075,,0.0,D-14882
+Person,,Privat,Frau,Nicole,Kennel,Rosenweg 40,8842,Unteriberg,+41 41 000 17 24,n.kennel@postfach-sz.ch,2018,D-14889,K7731,KC-20983,0.0,D-14889
+Person,,Privat,Frau,Claudia,Heinzer,Dorfstrasse 39,6422,Steinen,+41 78 000 50 56,c.heinzer@postfach-sz.ch,2017,D-14896,K7161,KC-20986,0.0,D-14896
+Person,,Privat,Frau,Barbara,Marty,Lindenstrasse 72,6403,Küssnacht,+41 76 000 97 53,b.marty@postfach-sz.ch,2007,D-14903,K5135,,0.0,D-14903
+Person,,Privat,Herr,Michael,Kennel,Riedstrasse 31,6410,Goldau,+41 79 000 36 85,m.kennel@postfach-sz.ch,1994,D-14910,K2363,,0.0,D-14910
+Person,,Privat,Herr,Markus,Fässler,Kirchweg 35,8840,Einsiedeln,+41 41 000 60 38,m.faessler@seenet-mail.ch,2021,D-14917,,KC-20989,0.0,D-14917
+Person,,Privat,Frau,Andrea,Bucher,Lindenstrasse 32,6460,Altdorf,+41 78 000 91 67,a.bucher@talnet-mail.ch,1999,D-14924,K8105,,0.0,D-14924
+Person,,Privat,Herr,Lukas,Mettler,Lindenstrasse 14,6430,Schwyz,+41 79 000 23 70,l.mettler@seenet-mail.ch,2010,D-14931,K3230,,0.0,D-14931
+Person,,Privat,Herr,Daniel,Kälin,Lindenstrasse 35,6460,Altdorf,+41 79 000 24 87,d.kaelin@postfach-sz.ch,1994,D-14938,K6992,,0.0,D-14938
+Person,,Privat,Herr,Michael,Arnold,Bühlweg 10,8840,Einsiedeln,+41 79 000 84 85,m.arnold@hausnet-mail.ch,2019,D-14945,K3539,KC-20992,0.0,D-14945
+Person,,Privat,Herr,Josef,Abegg,Rebbergstrasse 71,6430,Schwyz,+41 78 000 29 23,j.abegg@postfach-sz.ch,1993,D-14952,K9585,,0.0,D-14952
+Person,,Privat,Herr,Lukas,Betschart,Rosenweg 63,8843,Oberiberg,+41 76 000 54 25,l.betschart@seenet-mail.ch,2016,D-14959,K5021,KC-20995,0.0,D-14959
+Person,,Privat,Herr,Christian,Ott,Mattenweg 59,6415,Arth,+41 41 000 61 39,c.ott@talnet-mail.ch,1996,D-14966,K4136,,0.0,D-14966
+Person,,Privat,Frau,Esther,Inglin,Mattenweg 78,6442,Gersau,+41 78 000 98 81,e.inglin@talnet-mail.ch,1997,D-14973,K3358,,0.0,D-14973
+Person,,Privat,Frau,Esther,Schnüriger,Mattenweg 49,8840,Einsiedeln,+41 78 000 44 43,e.schnueriger@hausnet-mail.ch,2004,D-14980,K3623,,0.0,D-14980
+Person,,Privat,Frau,Barbara,Marty,Lindenstrasse 41,6460,Altdorf,+41 78 000 41 63,b.marty@talnet-mail.ch,2010,D-14987,K4023,,0.0,D-14987
+Person,,Privat,Herr,Martin,Schuler,Bachstrasse 37,6460,Altdorf,+41 79 000 23 95,m.schuler@talnet-mail.ch,2014,D-14994,K4394,KC-20998,0.0,D-14994
+Person,,Privat,Frau,Barbara,Steiner,Rebbergstrasse 59,6004,Luzern,+41 76 000 74 58,b.steiner@talnet-mail.ch,2018,D-15001,K2298,KC-21001,0.0,D-15001
+Person,,Privat,Herr,Urs,Fuchs,Bachstrasse 75,8843,Oberiberg,+41 78 000 34 92,u.fuchs@seenet-mail.ch,2006,D-15008,K6084,,0.0,D-15008
+Person,,Privat,Herr,Lukas,Föhn,Hofmatt 15,6415,Arth,+41 79 000 93 87,,2005,D-15015,K5752,,0.0,D-15015
+Person,,Privat,Herr,Lukas,Camenzind,Bühlweg 45,6423,Seewen,+41 76 000 96 95,l.camenzind@seenet-mail.ch,1993,D-15022,K5098,,0.0,D-15022
+Person,,Privat,Herr,Christian,Inglin,Kirchweg 55,6424,Lauerz,+41 76 000 63 22,c.inglin@talnet-mail.ch,1996,D-15029,K3099,,0.0,D-15029
+Person,,Privat,Herr,Daniel,Ochsner,Gartenweg 64,6340,Baar,+41 79 000 17 30,d.ochsner@talnet-mail.ch,1992,D-15036,K5122,,0.0,D-15036
+Person,,Privat,Herr,Markus,Rickenbacher,Hofmatt 74,8808,Pfäffikon SZ,+41 41 000 74 30,m.rickenbacher@hausnet-mail.ch,2000,D-15043,K4447,,0.0,D-15043
+Person,,Privat,Frau,Esther,Huwyler,Bühlweg 11,6430,Schwyz,+41 41 000 93 96,e.huwyler@hausnet-mail.ch,2001,D-15050,K7492,,0.0,D-15050

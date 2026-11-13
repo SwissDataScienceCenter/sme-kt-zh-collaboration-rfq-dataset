@@ -1,0 +1,14 @@
+# Real third-party samples (anonymised offers, emails, tenders).
+# Used for inspiration only, never copied into the dataset, never published.
+_private_samples/
+.DS_Store
+
+# Files to remove by hand (deleting is not enabled for Claude)
+_to_delete/
+
+# Review bundles for QA agents (derived, not part of the dataset)
+_review/
+
+# Python build files
+__pycache__/
+*.pyc

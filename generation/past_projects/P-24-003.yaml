@@ -1,0 +1,85 @@
+# Past project for Case A1 (ADR 0005, ADR 0007). Frozen once rendered.
+nr: P-24-003
+for_case: A1
+folder: P-24-003 Zustandsaufnahme Flachdach Ibach
+line: Beratung
+ausmass: false
+customer: D-10346          # Ochsner Treuhand AG, Ibach (base customer)
+erp_object: Zustandsaufnahme Flachdach Ibach
+object_lines: ["Gewerbehaus Industriestrasse 9, 6438 Ibach", "Beratung", "Zustandsaufnahme Flachdach"]
+offer:
+  number: OF-24-0029
+  date: 2024-02-13
+  layout: word_fee
+  type: Honorarofferte
+  project_manager: NSu
+  signed_by: CSc
+  subject: "Gewerbehaus Industriestrasse 9, Ibach, Zustandsaufnahme Flachdach"
+  payment_terms: "30 Tage netto"
+  discount: 0.0
+  skonto: false
+  norms_named: ["SIA 271", "Suva"]
+  sections:
+    - title: "1 Grundlagen und Bestandesaufnahme"
+      lines:
+        - {code: "99.100.08", qty: 2, text: "Unterlagen sichten, Begehung vorbereiten"}
+        - {code: "99.100.08", qty: 5, text: "Aufnahme Dach vor Ort"}
+        - {code: "99.100.01", qty: 5, text: "Zweite Person für Anseilschutz und Mithilfe"}
+        - {code: "99.100.08", qty: 2, text: "Begleitung Sondierungen, Feuchtemessung"}
+        - {code: "98.100.02", qty: 1}
+        - {code: "98.100.03", qty: 1}
+        - {code: "98.100.05", qty: 3}
+        - {code: "98.100.04", qty: 1}
+    - title: "2 Analyse und Zustandsbericht"
+      lines:
+        - {code: "99.100.08", qty: 8, text: "Auswertung, Zustandsbericht mit Fotodokumentation"}
+        - {code: "99.100.06", qty: 2, text: "Durchsicht Bericht"}
+        - {code: "99.100.08", qty: 1, text: "Besprechung Bericht mit Eigentümerin"}
+        - {code: "99.100.06", qty: 1, text: "Besprechung Bericht mit Eigentümerin"}
+    - title: "Spesen"
+      lines:
+        - {code: "98.120.01", qty: 12, text: "2 Fahrten Ibach, je 6 km"}
+  exclusions:
+    - "Sanierungsvarianten und Kostenschätzung (auf Wunsch separat)"
+    - "Statische Abklärungen durch Ingenieurbüro"
+    - "Ausführung der Bauarbeiten"
+  assumptions:
+    - "Dachfläche 450 m2 gemäss Plänen 1981 (15.0 x 30.0 m)"
+    - "Zugang über Steigleiter an der Nordfassade, Aufnahme mit Anseilschutz, immer zu zweit"
+    - "Dachbahnen gemäss Produktdatenblatt 1981 in den Unterlagen der Verwaltung asbestfrei deklariert, Anschlüsse mit Blechkappen ohne Kittfugen; keine Schadstoffanalyse vorgesehen"
+    - "Thermografie in der Heizperiode bei mindestens 15 °C Unterschied zwischen innen und aussen"
+  client_provisions:
+    - "Zugang zu den Büros im Obergeschoss für die Aufnahme der Feuchteflecken"
+    - "Vorhandene Pläne und Baubeschrieb"
+texts:
+  salutation: "Sehr geehrter Herr Marty"
+  intro: ["Besten Dank für Ihre Anfrage vom 6. Februar 2024. Gerne offerieren wir Ihnen die Zustandsaufnahme des Flachdachs."]
+  situation:
+    - "Der Mieter meldet Feuchteflecken an der Decke der Büros im Obergeschoss. Die Eigentümerin möchte den Zustand des Flachdachs von 1981 und seine Restlebensdauer kennen, um den Unterhalt der nächsten Jahre zu planen."
+  documents: ["Pläne und Baubeschrieb 1981 (Kopie Verwaltung)", "Fotos des Mieters vom Januar 2024"]
+  phase_scope:
+    "1 Grundlagen und Bestandesaufnahme": ["Begehung des Dachs mit Fotodokumentation, Drohnenaufnahme, Thermografie am frühen Morgen", "3 Sondierungen mit Probeöffnung und Verschluss, Feuchtemessung"]
+    "2 Analyse und Zustandsbericht": ["Zustandsbericht mit Befund, Ursache der Feuchteflecken, Restlebensdauer und Empfehlung", "Besprechung des Berichts mit der Eigentümerin"]
+  schedule: ["Thermografie und Aufnahme Ende Februar 2024, solange die Nächte kalt sind. Bericht rund drei Wochen nach der Aufnahme."]
+  signature_role: "Geschäftsführerin, Bauingenieurin FH"
+measured:
+  period: "26.02.2024 bis 22.03.2024"
+  invoice_number: RE-24-0098
+  invoice_date: 2024-03-22
+  basis: "Beschreibung (nach Aufwand)"
+  lines:
+    - {code: "99.100.08", qty: 17, text: "Beratung Technik (N. Suter)"}
+    - {code: "99.100.01", qty: 5, text: "Abdichter Anseilschutz (L. Berisha)"}
+    - {code: "99.100.06", qty: 3, text: "Beratung Geschäftsleitung (C. Schuler)"}
+    - {code: "98.100.02", qty: 1}
+    - {code: "98.100.03", qty: 1}
+    - {code: "98.100.05", qty: 3}
+    - {code: "98.100.04", qty: 1}
+    - {code: "98.120.01", qty: 18, text: "Spesen Beratung, 3 Fahrten Ibach"}
+  notes: ["Abrechnung nach effektivem Aufwand gemäss Honorarofferte OF-24-0029. Das Kostendach ist eingehalten."]
+summary:
+  team: [NSu, CSc, LBe]
+  notes:
+    - "Thermografie am 27.02.2024 früh morgens bei minus 4 °C aussen, gute Bilder."
+    - "Feuchte im Aufbau an 2 von 5 Messstellen, beide beim Einlauf Ost. Restlebensdauer 5 bis 8 Jahre bei Reparatur der Anschlüsse."
+    - "Aufnahme 5 Std wie offeriert, mit Luan Berisha für den Anseilschutz, Sondierungen 2 Std, Bericht 7 Std statt 8. Zusätzliche Fahrt für die Thermografie am Morgen."

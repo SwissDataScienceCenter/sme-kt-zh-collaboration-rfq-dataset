@@ -1,0 +1,13 @@
+# CRM and ERP rows added by Case C1 (merged by build_case.py into systems_additions.yaml).
+customers:
+  - {type: Person, company: "", category: Privat, salutation: Herr, first: Thomas, last: Reding, street: Seestrasse 18, zip: "6440", town: Brunnen,
+     phone: "+41 79 000 41 27", email: thomas.reding@talnet-mail.ch, since: 2026, deb: "", alt: "", kc: KC-21002, discount: 0.0, id: KC-21002,
+     crm_created: 13.05.2026, crm_note: "Attika Seestr. 18, Terrasse undicht"}
+  - {type: Firma, company: "Stockwerkeigentümergemeinschaft Seestrasse 18", category: Verwaltung, salutation: Frau, first: Claudia, last: Kälin,
+     street: Rebbergstrasse 25, zip: "6430", town: Schwyz, phone: "+41 41 000 30 89", email: claudia.kaelin@talkessel-schwyz.ch, since: 2026,
+     deb: D-15057, alt: "", kc: KC-21005, discount: 0.0, id: D-15057, crm_deb: "", crm_created: 03.06.2026, crm_note: "c/o Talkessel Immobilien-Treuhand AG"}
+offers:
+  - {nr: OF-26-0178, date: "2026-07-07", cust: D-15057, obj: "Terrassensanierung Brunnen", line: Projektgeschäft, type: Einheitspreisofferte,
+     status: O, pl: RBe, proj: ""}
+leads:
+  - [L-2026-158, KC-21002, "Terrasse undicht Seestrasse 18 Brunnen", Projektgeschäft, offeriert, 80000, RBe, "2026-05-13", "Freigabe tel. CSc 06.07., OF raus 07.07., EV 14.7. abwarten"]

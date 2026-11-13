@@ -1,0 +1,784 @@
+OF_NR;DATUM;DEB_NR;OBJEKT;BER;OFF_ART;BETRAG_NETTO;STAT;PL;PROJ_NR
+OF-24-0001;02.01.2024;D-10983;Spenglerarbeiten Steildach Küssnacht;PROJ;Pauschalofferte;45735.00;V;RBE;
+OF-24-0002;02.01.2024;D-11473;Terrassensanierung Steinen;PROJ;Einheitspreisofferte;47205.00;Z;RBE;
+OF-24-0003;04.01.2024;D-13937;Velounterstand Gersau;SYST;Konfigurationsofferte;8260.00;V;DIN;
+OF-24-0004;08.01.2024;D-10178;Aussentreppe Stahl Küssnacht;PROJ;Eingabe LV;217435.00;V;SKÄ;
+OF-24-0005;08.01.2024;D-11039;Flachdachsanierung Schwyz;PROJ;Pauschalofferte;61845.00;Z;RBE;
+OF-24-0006;08.01.2024;D-13671;Carport Doppel Schwyz;SYST;Richtofferte;17655.00;A;DIN;P-24-002
+OF-24-0007;08.01.2024;D-11571;Spenglerarbeiten Steildach Steinen;PROJ;Pauschalofferte;76555.00;V;RBE;
+OF-24-0008;09.01.2024;D-12999;Flachdachsanierung Schwyz;PROJ;Einheitspreisofferte;51160.00;V;RBE;
+OF-24-0009;10.01.2024;D-12600;Treppengeländer innen Schwyz;PROJ;Einheitspreisofferte;31420.00;V;SKÄ;
+OF-24-0010;12.01.2024;D-10171;Treppengeländer innen Lauerz;PROJ;Eingabe LV;94990.00;A;SKÄ;P-24-018
+OF-24-0011;15.01.2024;D-11417;Zustandsaufnahme Flachdach Ibach;BERA;Honorarofferte;3980.00;V;NSU;
+OF-24-0012;15.01.2024;D-10304;Terrassensanierung Steinen;PROJ;Eingabe LV;117470.00;Z;RBE;
+OF-24-0013;15.01.2024;D-12684;Attikaabschluss Einsiedeln;PROJ;Pauschalofferte;44410.00;A;RBE;P-24-001
+OF-24-0014;16.01.2024;D-14756;Carport Einzel Unteriberg;SYST;Richtofferte;4915.00;A;DIN;P-24-009
+OF-24-0015;16.01.2024;D-10304;Spenglerarbeiten Steildach Steinen;PROJ;Eingabe LV;222630.00;V;RBE;
+OF-24-0016;17.01.2024;D-12859;Velounterstand Gersau;SYST;Konfigurationsofferte;6200.00;Z;DIN;
+OF-24-0017;17.01.2024;D-12551;Machbarkeitsstudie Dachaufbau Altdorf;BERA;Honorarofferte;9540.00;V;NSU;
+OF-24-0018;18.01.2024;D-14511;Sanierungskonzept Fassade Steinen;BERA;Honorarofferte;6850.00;A;CSC;P-24-004
+OF-24-0019;22.01.2024;D-14462;Carport Einzel Ibach;SYST;Konfigurationsofferte;5050.00;A;DIN;P-24-014
+OF-24-0020;24.01.2024;D-10675;Vordach Hauseingang Arth;SYST;Konfigurationsofferte;7540.00;A;DIN;P-24-005
+OF-24-0021;25.01.2024;D-11466;Balkongeländer Schwyz;PROJ;Einheitspreisofferte;45900.00;Z;SKÄ;
+OF-24-0022;26.01.2024;D-14665;Machbarkeitsstudie Dachaufbau Oberiberg;BERA;Honorarofferte;2500.00;A;NSU;P-24-007
+OF-24-0023;29.01.2024;D-12628;Balkongeländer Seewen;PROJ;Pauschalofferte;41630.00;V;SKÄ;
+OF-24-0024;29.01.2024;D-12292;Machbarkeitsstudie Dachaufbau Wädenswil;BERA;Honorarofferte;4050.00;Z;NSU;
+OF-24-0025;29.01.2024;D-12383;Variantenstudie Terrasse Morschach;BERA;Honorarofferte;2500.00;A;NSU;P-24-020
+OF-24-0026;05.02.2024;D-12145;Attikaabschluss Morschach;PROJ;Pauschalofferte;15365.00;V;RBE;
+OF-24-0027;08.02.2024;D-14546;Geländerprüfung Einsiedeln;BERA;Honorarofferte;7315.00;V;NSU;
+OF-24-0028;13.02.2024;D-14210;Terrassensanierung Zug;PROJ;Einheitspreisofferte;59270.00;A;RBE;P-24-022
+OF-24-0029;13.02.2024;D-10346;Zustandsaufnahme Flachdach Ibach;BERA;Honorarofferte;5627.80;A;NSU;P-24-003
+OF-24-0030;14.02.2024;D-10360;Sanierungskonzept Fassade Seewen;BERA;Honorarofferte;4980.00;A;NSU;P-24-017
+OF-24-0031;15.02.2024;D-14805;Dachrandsanierung Morschach;PROJ;Einheitspreisofferte;104920.00;V;RBE;
+OF-24-0032;19.02.2024;D-10171;Treppengeländer innen Lauerz;PROJ;Eingabe LV;103980.00;V;SKÄ;
+OF-24-0033;19.02.2024;D-14455;Vordach Hauseingang Schwyz;SYST;Konfigurationsofferte;5970.00;A;DIN;P-24-013
+OF-24-0034;19.02.2024;D-13083;Dachrandsanierung Gersau;PROJ;Pauschalofferte;68905.00;V;RBE;
+OF-24-0035;19.02.2024;D-13384;Dachrandsanierung Altdorf;PROJ;Pauschalofferte;34040.00;Z;RBE;
+OF-24-0036;22.02.2024;D-11032;Vordach Hauseingang Unteriberg;SYST;Konfigurationsofferte;7635.00;V;DIN;
+OF-24-0037;22.02.2024;D-11067;Velounterstand Küssnacht;SYST;Richtofferte;4500.00;Z;DIN;
+OF-24-0038;26.02.2024;D-14644;Spenglerarbeiten Steildach Seewen;PROJ;Pauschalofferte;41535.00;V;RBE;
+OF-24-0039;26.02.2024;D-12327;Carport Doppel Brunnen;SYST;Richtofferte;14610.00;V;DIN;
+OF-24-0040;26.02.2024;D-10787;Fassadenbekleidung Morschach;PROJ;Pauschalofferte;113095.00;V;DIN;
+OF-24-0041;26.02.2024;D-14049;Velounterstand Steinen;SYST;Konfigurationsofferte;16160.00;A;DIN;P-24-023
+OF-24-0042;28.02.2024;D-12005;Balkongeländer Küssnacht;PROJ;Einheitspreisofferte;72470.00;V;SKÄ;
+OF-24-0043;01.03.2024;D-12453;Carport Doppel Küssnacht;SYST;Konfigurationsofferte;20785.00;A;DIN;P-24-006
+OF-24-0044;01.03.2024;D-10171;Attikaabschluss Lauerz;PROJ;Eingabe LV;40000.00;V;RBE;
+OF-24-0045;01.03.2024;D-13517;Spenglerarbeiten Steildach Arth;PROJ;Richtofferte;98795.00;V;RBE;
+OF-24-0046;01.03.2024;D-14896;Variantenstudie Terrasse Steinen;BERA;Honorarofferte;3165.00;A;CSC;P-24-010
+OF-24-0047;04.03.2024;D-12166;Spenglerarbeiten Steildach Seewen;PROJ;Pauschalofferte;149100.00;V;RBE;
+OF-24-0048;04.03.2024;D-10367;Fassadenbekleidung Schwyz;PROJ;Eingabe LV;229840.00;A;DIN;P-24-008
+OF-24-0049;04.03.2024;D-10304;Treppengeländer innen Steinen;PROJ;Eingabe LV;40000.00;V;SKÄ;
+OF-24-0050;05.03.2024;D-10472;Variantenstudie Terrasse Schwyz;BERA;Honorarofferte;4050.00;V;NSU;
+OF-24-0051;08.03.2024;D-14770;Vordach Hauseingang Wädenswil;SYST;Konfigurationsofferte;6060.00;A;DIN;P-24-011
+OF-24-0052;08.03.2024;D-11697;Dachrandsanierung Gersau;PROJ;Einheitspreisofferte;45115.00;V;RBE;
+OF-24-0053;11.03.2024;D-11718;Flachdachsanierung Lauerz;PROJ;Pauschalofferte;38490.00;V;RBE;
+OF-24-0054;13.03.2024;D-11158;Balkongeländer Ibach;PROJ;Pauschalofferte;52075.00;A;SKÄ;P-24-016
+OF-24-0055;14.03.2024;D-12236;Terrassensanierung Lauerz;PROJ;Richtofferte;70220.00;V;RBE;
+OF-24-0056;15.03.2024;D-14525;Geländerprüfung Morschach;BERA;Honorarofferte;16000.00;A;NSU;P-24-015
+OF-24-0057;15.03.2024;D-11620;Treppengeländer innen Lauerz;PROJ;Richtofferte;41335.00;Z;SKÄ;
+OF-24-0058;18.03.2024;D-13097;Flachdachsanierung Zug;PROJ;Pauschalofferte;36415.00;V;RBE;
+OF-24-0059;18.03.2024;D-12985;Carport Einzel Rothenthurm;SYST;Konfigurationsofferte;8315.00;A;DIN;P-24-034
+OF-24-0060;20.03.2024;D-13433;Attikaabschluss Brunnen;PROJ;Einheitspreisofferte;46250.00;V;RBE;
+OF-24-0061;20.03.2024;D-12866;Treppengeländer innen Morschach;PROJ;Einheitspreisofferte;92790.00;A;SKÄ;P-24-012
+OF-24-0062;21.03.2024;D-13426;Spenglerarbeiten Steildach Baar;PROJ;Richtofferte;20635.00;Z;RBE;
+OF-24-0063;22.03.2024;D-11046;Fassadenbekleidung Lauerz;PROJ;Richtofferte;34605.00;V;DIN;
+OF-24-0064;22.03.2024;D-13433;Machbarkeitsstudie Dachaufbau Brunnen;BERA;Honorarofferte;2990.00;A;NSU;P-24-047
+OF-24-0065;25.03.2024;D-14938;Velounterstand Altdorf;SYST;Richtofferte;12650.00;A;DIN;P-24-025
+OF-24-0066;25.03.2024;D-12544;Carport Einzel Rothenthurm;SYST;Richtofferte;7010.00;A;DIN;P-24-019
+OF-24-0067;28.03.2024;D-10290;Terrassensanierung Unteriberg;PROJ;Eingabe LV;229675.00;Z;RBE;
+OF-24-0068;02.04.2024;D-11648;Spenglerarbeiten Steildach Unteriberg;PROJ;Einheitspreisofferte;107385.00;Z;RBE;
+OF-24-0069;04.04.2024;D-10178;Spenglerarbeiten Steildach Küssnacht;PROJ;Eingabe LV;53640.00;V;RBE;
+OF-24-0070;05.04.2024;D-12355;Machbarkeitsstudie Dachaufbau Morschach;BERA;Honorarofferte;4760.00;Z;CSC;
+OF-24-0071;05.04.2024;D-12579;Spenglerarbeiten Steildach Einsiedeln;PROJ;Einheitspreisofferte;42270.00;V;RBE;
+OF-24-0072;08.04.2024;D-11571;Spenglerarbeiten Steildach Steinen;PROJ;Einheitspreisofferte;21790.00;A;RBE;P-24-027
+OF-24-0073;08.04.2024;D-12824;Carport Einzel Einsiedeln;SYST;Konfigurationsofferte;4500.00;A;DIN;P-24-021
+OF-24-0074;08.04.2024;D-13006;Carport Einzel Oberiberg;SYST;Richtofferte;12885.00;A;DIN;P-24-028
+OF-24-0075;08.04.2024;D-12257;Carport Doppel Brunnen;SYST;Konfigurationsofferte;14295.00;A;DIN;P-24-029
+OF-24-0076;08.04.2024;D-10493;Balkongeländer Brunnen;PROJ;Eingabe LV;67115.00;A;SKÄ;P-24-030
+OF-24-0077;09.04.2024;D-10171;Attikaabschluss Lauerz;PROJ;Eingabe LV;243475.00;Z;RBE;
+OF-24-0078;10.04.2024;D-14686;Fassadenbekleidung Morschach;PROJ;Einheitspreisofferte;180000.00;V;DIN;
+OF-24-0079;10.04.2024;D-10304;Terrassensanierung Steinen;PROJ;Eingabe LV;150505.00;Z;RBE;
+OF-24-0080;10.04.2024;D-14623;Aussentreppe Stahl Lauerz;PROJ;Einheitspreisofferte;76550.00;A;SKÄ;P-24-055
+OF-24-0081;11.04.2024;D-12922;Terrassensanierung Einsiedeln;PROJ;Einheitspreisofferte;27760.00;V;RBE;
+OF-24-0082;12.04.2024;D-14616;Attikaabschluss Küssnacht;PROJ;Einheitspreisofferte;55705.00;V;RBE;
+OF-24-0083;15.04.2024;D-12579;Treppengeländer innen Einsiedeln;PROJ;Richtofferte;95980.00;A;SKÄ;P-24-046
+OF-24-0084;15.04.2024;D-10570;Variantenstudie Terrasse Ibach;BERA;Honorarofferte;2965.00;V;CSC;
+OF-24-0085;15.04.2024;D-12698;Flachdachsanierung Altdorf;PROJ;Einheitspreisofferte;48690.00;A;RBE;P-24-049
+OF-24-0086;15.04.2024;D-11158;Velounterstand Ibach;SYST;Konfigurationsofferte;13060.00;V;DIN;
+OF-24-0087;15.04.2024;D-12789;Vordach Hauseingang Zürich;SYST;Richtofferte;19705.00;A;DIN;P-24-052
+OF-24-0088;15.04.2024;D-12285;Balkongeländer Morschach;PROJ;Richtofferte;33575.00;A;SKÄ;P-24-053
+OF-24-0089;16.04.2024;D-11753;Balkongeländer Altdorf;PROJ;Einheitspreisofferte;28750.00;Z;SKÄ;
+OF-24-0090;16.04.2024;D-13916;Zustandsaufnahme Flachdach Goldau;BERA;Honorarofferte;5640.00;Z;NSU;
+OF-24-0091;22.04.2024;D-13902;Geländerprüfung Küssnacht;BERA;Honorarofferte;5910.00;Z;CSC;
+OF-24-0092;22.04.2024;D-14189;Spenglerarbeiten Steildach Küssnacht;PROJ;Richtofferte;63570.00;Z;RBE;
+OF-24-0093;25.04.2024;D-14686;Spenglerarbeiten Steildach Morschach;PROJ;Pauschalofferte;87895.00;V;RBE;
+OF-24-0094;26.04.2024;D-13601;Zustandsaufnahme Flachdach Seewen;BERA;Honorarofferte;4480.00;A;CSC;P-24-024
+OF-24-0095;29.04.2024;D-10836;Machbarkeitsstudie Dachaufbau Steinen;BERA;Honorarofferte;3990.00;A;NSU;P-24-041
+OF-24-0096;29.04.2024;D-11599;Velounterstand Lauerz;SYST;Richtofferte;9460.00;A;DIN;P-24-058
+OF-24-0097;29.04.2024;D-14182;Machbarkeitsstudie Dachaufbau Seewen;BERA;Honorarofferte;8935.00;A;CSC;P-24-061
+OF-24-0098;01.05.2024;D-10360;Dachrandsanierung Seewen;PROJ;Richtofferte;65115.00;A;RBE;P-24-064
+OF-24-0099;03.05.2024;D-13965;Attikaabschluss Ibach;PROJ;Pauschalofferte;41955.00;A;RBE;P-24-057
+OF-24-0100;03.05.2024;D-10178;Terrassensanierung Küssnacht;PROJ;Eingabe LV;86860.00;Z;RBE;
+OF-24-0101;03.05.2024;D-10206;Dachrandsanierung Luzern;PROJ;Richtofferte;48315.00;V;RBE;
+OF-24-0102;06.05.2024;D-11704;Dachrandsanierung Gersau;PROJ;Richtofferte;151350.00;V;RBE;
+OF-24-0103;06.05.2024;D-12481;Carport Einzel Morschach;SYST;Richtofferte;8475.00;A;DIN;P-24-031
+OF-24-0104;06.05.2024;D-12047;Aussentreppe Stahl Brunnen;PROJ;Einheitspreisofferte;35865.00;A;SKÄ;P-24-050
+OF-24-0105;06.05.2024;D-11984;Vordach Hauseingang Oberiberg;SYST;Richtofferte;5335.00;V;DIN;
+OF-24-0106;07.05.2024;D-11074;Machbarkeitsstudie Dachaufbau Unteriberg;BERA;Honorarofferte;5915.00;Z;NSU;
+OF-24-0107;10.05.2024;D-10906;Geländerprüfung Einsiedeln;BERA;Honorarofferte;11785.00;V;CSC;
+OF-24-0108;13.05.2024;D-10752;Vordach Hauseingang Schwyz;SYST;Konfigurationsofferte;9265.00;A;DIN;P-24-026
+OF-24-0109;13.05.2024;D-11095;Aussentreppe Stahl Brunnen;PROJ;Richtofferte;49690.00;V;SKÄ;
+OF-24-0110;15.05.2024;D-13174;Zustandsaufnahme Flachdach Goldau;BERA;Honorarofferte;2500.00;Z;NSU;
+OF-24-0111;17.05.2024;D-11536;Flachdachsanierung Seewen;PROJ;Einheitspreisofferte;36055.00;V;RBE;
+OF-24-0112;21.05.2024;D-13916;Geländerprüfung Goldau;BERA;Honorarofferte;3580.00;V;CSC;
+OF-24-0113;21.05.2024;D-11620;Vordach Hauseingang Lauerz;SYST;Richtofferte;5590.00;A;DIN;P-24-033
+OF-24-0114;21.05.2024;D-14245;Terrassensanierung Lauerz;PROJ;Pauschalofferte;47170.00;A;RBE;P-24-056
+OF-24-0115;21.05.2024;D-11522;Spenglerarbeiten Steildach Morschach;PROJ;Einheitspreisofferte;72400.00;A;RBE;P-24-044
+OF-24-0116;21.05.2024;D-12999;Vordach Hauseingang Schwyz;SYST;Richtofferte;12785.00;A;DIN;P-24-032
+OF-24-0117;21.05.2024;D-13825;Flachdachsanierung Lauerz;PROJ;Einheitspreisofferte;18525.00;Z;RBE;
+OF-24-0118;21.05.2024;D-14070;Dachrandsanierung Steinen;PROJ;Richtofferte;23975.00;V;RBE;
+OF-24-0119;21.05.2024;D-14714;Flachdachsanierung Brunnen;PROJ;Einheitspreisofferte;44770.00;Z;RBE;
+OF-24-0120;22.05.2024;D-10304;Flachdachsanierung Steinen;PROJ;Eingabe LV;53835.00;Z;RBE;
+OF-24-0121;24.05.2024;D-12684;Vordach Hauseingang Einsiedeln;SYST;Konfigurationsofferte;6825.00;A;DIN;P-24-040
+OF-24-0122;27.05.2024;D-12698;Geländerprüfung Altdorf;BERA;Honorarofferte;4445.00;A;CSC;P-24-067
+OF-24-0123;27.05.2024;D-13825;Velounterstand Lauerz;SYST;Konfigurationsofferte;17925.00;A;DIN;P-24-054
+OF-24-0124;27.05.2024;D-10178;Terrassensanierung Küssnacht;PROJ;Eingabe LV;49795.00;Z;RBE;
+OF-24-0125;03.06.2024;D-10339;Terrassensanierung Steinen;PROJ;Eingabe LV;203945.00;V;RBE;
+OF-24-0126;03.06.2024;D-10626;Carport Einzel Lauerz;SYST;Konfigurationsofferte;6315.00;V;DIN;
+OF-24-0127;03.06.2024;D-10339;Balkongeländer Steinen;PROJ;Eingabe LV;85015.00;A;SKÄ;P-24-042
+OF-24-0128;03.06.2024;D-12719;Flachdachsanierung Morschach;PROJ;Pauschalofferte;10595.00;A;RBE;P-24-035
+OF-24-0129;03.06.2024;D-10325;Treppengeländer innen Steinen;PROJ;Einheitspreisofferte;36710.00;A;SKÄ;P-24-066
+OF-24-0130;03.06.2024;D-14084;Carport Einzel Steinen;SYST;Richtofferte;4660.00;A;DIN;P-24-037
+OF-24-0131;03.06.2024;D-12229;Vordach Hauseingang Sattel;SYST;Richtofferte;11580.00;V;DIN;
+OF-24-0132;04.06.2024;D-11732;Carport Einzel Wädenswil;SYST;Konfigurationsofferte;4725.00;Z;DIN;
+OF-24-0133;07.06.2024;D-12005;Carport Einzel Küssnacht;SYST;Konfigurationsofferte;13705.00;A;DIN;P-24-073
+OF-24-0134;10.06.2024;D-13174;Aussentreppe Stahl Goldau;PROJ;Einheitspreisofferte;31315.00;A;SKÄ;P-24-071
+OF-24-0135;10.06.2024;D-14238;Vordach Hauseingang Brunnen;SYST;Richtofferte;4500.00;Z;DIN;
+OF-24-0136;10.06.2024;D-14518;Spenglerarbeiten Steildach Morschach;PROJ;Richtofferte;22150.00;V;RBE;
+OF-24-0137;12.06.2024;D-10626;Vordach Hauseingang Lauerz;SYST;Konfigurationsofferte;8415.00;A;DIN;P-24-039
+OF-24-0138;12.06.2024;D-11277;Velounterstand Brunnen;SYST;Konfigurationsofferte;9245.00;A;DIN;P-24-051
+OF-24-0139;12.06.2024;D-12369;Treppengeländer innen Seewen;PROJ;Richtofferte;77400.00;A;SKÄ;P-24-036
+OF-24-0140;13.06.2024;D-11179;Vordach Hauseingang Seewen;SYST;Konfigurationsofferte;8535.00;Z;DIN;
+OF-24-0141;14.06.2024;D-10633;Dachrandsanierung Küssnacht;PROJ;Richtofferte;33105.00;A;RBE;P-24-045
+OF-24-0142;14.06.2024;D-10549;Sanierungskonzept Fassade Seewen;BERA;Honorarofferte;4985.00;V;NSU;
+OF-24-0143;14.06.2024;D-11802;Fassadenbekleidung Ibach;PROJ;Einheitspreisofferte;29795.00;A;DIN;P-24-059
+OF-24-0144;14.06.2024;D-13188;Terrassensanierung Morschach;PROJ;Richtofferte;22100.00;V;RBE;
+OF-24-0145;17.06.2024;D-10122;Aussentreppe Stahl Goldau;PROJ;Einheitspreisofferte;37220.00;V;SKÄ;
+OF-24-0146;17.06.2024;D-15050;Vordach Hauseingang Schwyz;SYST;Richtofferte;19240.00;A;DIN;P-24-038
+OF-24-0147;17.06.2024;D-13510;Vordach Hauseingang Rothenthurm;SYST;Konfigurationsofferte;7700.00;V;DIN;
+OF-24-0148;17.06.2024;D-10171;Balkongeländer Lauerz;PROJ;Eingabe LV;148270.00;A;SKÄ;P-24-062
+OF-24-0149;18.06.2024;D-14700;Spenglerarbeiten Steildach Brunnen;PROJ;Einheitspreisofferte;117265.00;A;RBE;P-24-069
+OF-24-0150;18.06.2024;D-14630;Flachdachsanierung Arth;PROJ;Richtofferte;180000.00;V;RBE;
+OF-24-0151;24.06.2024;D-12992;Spenglerarbeiten Steildach Seewen;PROJ;Einheitspreisofferte;22845.00;A;RBE;P-24-048
+OF-24-0152;24.06.2024;D-11676;Vordach Hauseingang Gersau;SYST;Konfigurationsofferte;10500.00;A;DIN;P-24-060
+OF-24-0153;24.06.2024;D-13342;Terrassensanierung Zürich;PROJ;Pauschalofferte;150790.00;Z;RBE;
+OF-24-0154;25.06.2024;D-14140;Fassadenbekleidung Unteriberg;PROJ;Pauschalofferte;66545.00;V;DIN;
+OF-24-0155;25.06.2024;D-12761;Geländerprüfung Schwyz;BERA;Honorarofferte;2500.00;Z;CSC;
+OF-24-0156;26.06.2024;D-14343;Fassadenbekleidung Luzern;PROJ;Einheitspreisofferte;20160.00;V;DIN;
+OF-24-0157;26.06.2024;D-10374;Dachrandsanierung Steinen;PROJ;Einheitspreisofferte;73360.00;A;RBE;P-24-079
+OF-24-0158;27.06.2024;D-13118;Vordach Hauseingang Seewen;SYST;Richtofferte;12800.00;V;DIN;
+OF-24-0159;27.06.2024;D-13776;Attikaabschluss Gersau;PROJ;Richtofferte;25765.00;A;RBE;P-24-080
+OF-24-0160;28.06.2024;D-10346;Sanierungskonzept Fassade Ibach;BERA;Honorarofferte;2500.00;A;CSC;P-24-063
+OF-24-0161;01.07.2024;D-10178;Aussentreppe Stahl Küssnacht;PROJ;Eingabe LV;336645.00;V;SKÄ;
+OF-24-0162;02.07.2024;D-13342;Terrassensanierung Zürich;PROJ;Richtofferte;110000.00;V;RBE;
+OF-24-0163;02.07.2024;D-14777;Dachrandsanierung Steinen;PROJ;Einheitspreisofferte;56825.00;V;RBE;
+OF-24-0164;04.07.2024;D-11200;Carport Doppel Baar;SYST;Richtofferte;11495.00;A;DIN;P-24-043
+OF-24-0165;05.07.2024;D-10171;Aussentreppe Stahl Lauerz;PROJ;Eingabe LV;87715.00;V;SKÄ;
+OF-24-0166;08.07.2024;D-13958;Machbarkeitsstudie Dachaufbau Luzern;BERA;Honorarofferte;2765.00;A;CSC;P-24-090
+OF-24-0167;08.07.2024;D-10941;Sanierungskonzept Fassade Steinen;BERA;Honorarofferte;4255.00;Z;CSC;
+OF-24-0168;08.07.2024;D-12915;Sanierungskonzept Fassade Seewen;BERA;Honorarofferte;5920.00;A;CSC;P-24-092
+OF-24-0169;09.07.2024;D-14392;Treppengeländer innen Steinen;PROJ;Einheitspreisofferte;28175.00;A;SKÄ;P-24-065
+OF-24-0170;10.07.2024;D-12334;Spenglerarbeiten Steildach Oberiberg;PROJ;Einheitspreisofferte;27205.00;V;RBE;
+OF-24-0171;11.07.2024;D-12593;Treppengeländer innen Gersau;PROJ;Pauschalofferte;24560.00;A;SKÄ;P-24-089
+OF-24-0172;11.07.2024;D-10269;Spenglerarbeiten Steildach Morschach;PROJ;Einheitspreisofferte;31615.00;V;RBE;
+OF-24-0173;05.08.2024;D-10542;Balkongeländer Einsiedeln;PROJ;Einheitspreisofferte;56720.00;Z;SKÄ;
+OF-24-0174;05.08.2024;D-10451;Carport Einzel Brunnen;SYST;Konfigurationsofferte;4500.00;A;DIN;P-24-070
+OF-24-0175;05.08.2024;D-14994;Carport Einzel Altdorf;SYST;Richtofferte;9895.00;V;DIN;
+OF-24-0176;05.08.2024;D-12047;Sanierungskonzept Fassade Brunnen;BERA;Honorarofferte;2500.00;A;CSC;P-24-097
+OF-24-0177;05.08.2024;D-13041;Dachrandsanierung Küssnacht;PROJ;Richtofferte;57190.00;V;RBE;
+OF-24-0178;05.08.2024;D-11844;Flachdachsanierung Goldau;PROJ;Einheitspreisofferte;24235.00;A;RBE;P-24-086
+OF-24-0179;05.08.2024;D-11830;Variantenstudie Terrasse Rothenthurm;BERA;Honorarofferte;3205.00;A;CSC;P-24-098
+OF-24-0180;05.08.2024;D-10493;Spenglerarbeiten Steildach Brunnen;PROJ;Eingabe LV;63765.00;Z;RBE;
+OF-24-0181;05.08.2024;D-10367;Fassadenbekleidung Schwyz;PROJ;Eingabe LV;345745.00;V;DIN;
+OF-24-0182;05.08.2024;D-11914;Vordach Hauseingang Seewen;SYST;Richtofferte;7385.00;A;DIN;P-24-081
+OF-24-0183;05.08.2024;D-10339;Attikaabschluss Steinen;PROJ;Eingabe LV;147445.00;A;RBE;P-24-095
+OF-24-0184;05.08.2024;D-12117;Aussentreppe Stahl Wädenswil;PROJ;Pauschalofferte;49370.00;Z;SKÄ;
+OF-24-0185;05.08.2024;D-11200;Machbarkeitsstudie Dachaufbau Baar;BERA;Honorarofferte;2500.00;A;NSU;P-24-078
+OF-24-0186;05.08.2024;D-11011;Geländerprüfung Altdorf;BERA;Honorarofferte;3965.00;A;NSU;P-24-076
+OF-24-0187;06.08.2024;D-13391;Treppengeländer innen Steinen;PROJ;Einheitspreisofferte;137625.00;V;SKÄ;
+OF-24-0188;07.08.2024;D-10178;Spenglerarbeiten Steildach Küssnacht;PROJ;Eingabe LV;350000.00;V;RBE;
+OF-24-0189;07.08.2024;D-12159;Balkongeländer Pfäffikon SZ;PROJ;Pauschalofferte;42465.00;V;SKÄ;
+OF-24-0190;07.08.2024;D-13720;Fassadenbekleidung Morschach;PROJ;Einheitspreisofferte;39955.00;A;DIN;P-24-068
+OF-24-0191;08.08.2024;D-12901;Aussentreppe Stahl Brunnen;PROJ;Einheitspreisofferte;98760.00;V;SKÄ;
+OF-24-0192;08.08.2024;D-11417;Carport Einzel Ibach;SYST;Richtofferte;7540.00;A;DIN;P-24-072
+OF-24-0193;12.08.2024;D-13433;Balkongeländer Brunnen;PROJ;Einheitspreisofferte;35045.00;Z;SKÄ;
+OF-24-0194;12.08.2024;D-10892;Spenglerarbeiten Steildach Oberiberg;PROJ;Einheitspreisofferte;27490.00;V;RBE;
+OF-24-0195;12.08.2024;D-10290;Aussentreppe Stahl Unteriberg;PROJ;Eingabe LV;40255.00;A;SKÄ;P-24-101
+OF-24-0196;12.08.2024;D-11158;Vordach Hauseingang Ibach;SYST;Konfigurationsofferte;14115.00;Z;DIN;
+OF-24-0197;13.08.2024;D-13685;Sanierungskonzept Fassade Schwyz;BERA;Honorarofferte;5105.00;V;CSC;
+OF-24-0198;16.08.2024;D-14357;Spenglerarbeiten Steildach Lauerz;PROJ;Einheitspreisofferte;32040.00;V;RBE;
+OF-24-0199;16.08.2024;D-12229;Balkongeländer Sattel;PROJ;Einheitspreisofferte;23285.00;A;SKÄ;P-24-074
+OF-24-0200;16.08.2024;D-10290;Spenglerarbeiten Steildach Unteriberg;PROJ;Eingabe LV;122240.00;Z;RBE;
+OF-24-0201;19.08.2024;D-10584;Attikaabschluss Morschach;PROJ;Einheitspreisofferte;39450.00;V;RBE;
+OF-24-0202;19.08.2024;D-11354;Geländerprüfung Oberiberg;BERA;Honorarofferte;5530.00;A;NSU;P-24-103
+OF-24-0203;19.08.2024;D-14427;Dachrandsanierung Brunnen;PROJ;Einheitspreisofferte;80615.00;V;RBE;
+OF-24-0204;19.08.2024;D-10311;Machbarkeitsstudie Dachaufbau Gersau;BERA;Honorarofferte;7985.00;A;CSC;P-24-075
+OF-24-0205;19.08.2024;D-14756;Vordach Hauseingang Unteriberg;SYST;Konfigurationsofferte;5950.00;V;DIN;
+OF-24-0206;19.08.2024;D-13748;Carport Doppel Steinen;SYST;Konfigurationsofferte;13150.00;Z;DIN;
+OF-24-0207;20.08.2024;D-13251;Carport Einzel Lauerz;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-24-0208;20.08.2024;D-13160;Geländerprüfung Sattel;BERA;Honorarofferte;4475.00;V;CSC;
+OF-24-0209;20.08.2024;D-12726;Carport Einzel Unteriberg;SYST;Konfigurationsofferte;14053.00;A;DIN;P-24-083
+OF-24-0210;21.08.2024;D-10304;Flachdachsanierung Steinen;PROJ;Eingabe LV;44495.00;A;RBE;P-24-077
+OF-24-0211;27.08.2024;D-10640;Balkongeländer Seewen;PROJ;Pauschalofferte;41220.00;A;SKÄ;P-24-082
+OF-24-0212;27.08.2024;D-14994;Aussentreppe Stahl Altdorf;PROJ;Pauschalofferte;37165.00;V;SKÄ;
+OF-24-0213;27.08.2024;D-13608;Carport Doppel Morschach;SYST;Konfigurationsofferte;4610.00;A;DIN;P-24-105
+OF-24-0214;28.08.2024;D-13489;Zustandsaufnahme Flachdach Küssnacht;BERA;Honorarofferte;3665.00;V;NSU;
+OF-24-0215;02.09.2024;D-10339;Treppengeländer innen Steinen;PROJ;Eingabe LV;85580.00;A;SKÄ;P-24-084
+OF-24-0216;03.09.2024;D-12936;Balkongeländer Seewen;PROJ;Einheitspreisofferte;28845.00;A;SKÄ;P-24-093
+OF-24-0217;05.09.2024;D-10563;Attikaabschluss Pfäffikon SZ;PROJ;Einheitspreisofferte;47565.00;A;RBE;P-24-109
+OF-24-0218;09.09.2024;D-10773;Velounterstand Altdorf;SYST;Konfigurationsofferte;5325.00;V;DIN;
+OF-24-0219;09.09.2024;D-11158;Dachrandsanierung Ibach;PROJ;Einheitspreisofferte;42305.00;V;RBE;
+OF-24-0220;09.09.2024;D-14791;Attikaabschluss Ibach;PROJ;Einheitspreisofferte;57320.00;V;RBE;
+OF-24-0221;09.09.2024;D-10290;Balkongeländer Unteriberg;PROJ;Eingabe LV;182015.00;A;SKÄ;P-24-115
+OF-24-0222;10.09.2024;D-14154;Geländerprüfung Ibach;BERA;Honorarofferte;3615.00;A;CSC;P-24-102
+OF-24-0223;10.09.2024;D-11417;Velounterstand Ibach;SYST;Richtofferte;6400.00;V;DIN;
+OF-24-0224;11.09.2024;D-11858;Fassadenbekleidung Ibach;PROJ;Pauschalofferte;14530.00;V;DIN;
+OF-24-0225;11.09.2024;D-10745;Carport Doppel Schwyz;SYST;Konfigurationsofferte;9450.00;A;DIN;P-24-104
+OF-24-0226;12.09.2024;D-10493;Terrassensanierung Brunnen;PROJ;Eingabe LV;93405.00;A;RBE;P-24-122
+OF-24-0227;13.09.2024;D-10899;Carport Einzel Schwyz;SYST;Richtofferte;18740.00;V;DIN;
+OF-24-0228;16.09.2024;D-10724;Vordach Hauseingang Morschach;SYST;Konfigurationsofferte;6815.00;A;DIN;P-24-094
+OF-24-0229;17.09.2024;D-13286;Carport Einzel Küssnacht;SYST;Richtofferte;5180.00;Z;DIN;
+OF-24-0230;17.09.2024;D-14707;Fassadenbekleidung Altdorf;PROJ;Pauschalofferte;20720.00;A;DIN;P-24-091
+OF-24-0231;19.09.2024;D-14805;Treppengeländer innen Morschach;PROJ;Einheitspreisofferte;36500.00;A;SKÄ;P-24-100
+OF-24-0232;19.09.2024;D-13328;Dachrandsanierung Gersau;PROJ;Pauschalofferte;37235.00;Z;RBE;
+OF-24-0233;19.09.2024;D-10192;Treppengeländer innen Altdorf;PROJ;Eingabe LV;243750.00;A;SKÄ;P-24-116
+OF-24-0234;23.09.2024;D-14651;Spenglerarbeiten Steildach Brunnen;PROJ;Richtofferte;30415.00;V;RBE;
+OF-24-0235;23.09.2024;D-13349;Carport Einzel Goldau;SYST;Konfigurationsofferte;12440.00;A;DIN;P-24-106
+OF-24-0236;24.09.2024;D-14973;Carport Doppel Gersau;SYST;Richtofferte;16820.00;V;DIN;
+OF-24-0237;24.09.2024;D-12425;Terrassensanierung Altdorf;PROJ;Pauschalofferte;35310.00;V;RBE;
+OF-24-0238;25.09.2024;D-10395;Fassadenbekleidung Seewen;PROJ;Einheitspreisofferte;38555.00;V;DIN;
+OF-24-0239;25.09.2024;D-11305;Terrassensanierung Arth;PROJ;Pauschalofferte;18675.00;V;RBE;
+OF-24-0240;26.09.2024;D-10570;Dachrandsanierung Ibach;PROJ;Einheitspreisofferte;43745.00;V;RBE;
+OF-24-0241;30.09.2024;D-11347;Aussentreppe Stahl Seewen;PROJ;Einheitspreisofferte;69250.00;A;SKÄ;P-24-085
+OF-24-0242;01.10.2024;D-10339;Dachrandsanierung Steinen;PROJ;Eingabe LV;59665.00;A;RBE;P-24-087
+OF-24-0243;02.10.2024;D-14903;Zustandsaufnahme Flachdach Küssnacht;BERA;Honorarofferte;3840.00;V;NSU;
+OF-24-0244;02.10.2024;D-13846;Carport Einzel Brunnen;SYST;Konfigurationsofferte;5620.00;A;DIN;P-24-119
+OF-24-0245;03.10.2024;D-12943;Balkongeländer Einsiedeln;PROJ;Richtofferte;62960.00;A;SKÄ;P-24-121
+OF-24-0246;03.10.2024;D-13482;Dachrandsanierung Schwyz;PROJ;Einheitspreisofferte;58070.00;V;RBE;
+OF-24-0247;04.10.2024;D-14308;Carport Einzel Einsiedeln;SYST;Richtofferte;7405.00;A;DIN;P-24-107
+OF-24-0248;04.10.2024;D-14770;Flachdachsanierung Wädenswil;PROJ;Einheitspreisofferte;28650.00;Z;RBE;
+OF-24-0249;08.10.2024;D-11417;Balkongeländer Ibach;PROJ;Pauschalofferte;24755.00;V;SKÄ;
+OF-24-0250;09.10.2024;D-12026;Carport Doppel Steinen;SYST;Konfigurationsofferte;10460.00;A;DIN;P-24-128
+OF-24-0251;09.10.2024;D-11438;Spenglerarbeiten Steildach Zug;PROJ;Einheitspreisofferte;40800.00;V;RBE;
+OF-24-0252;10.10.2024;D-13720;Spenglerarbeiten Steildach Morschach;PROJ;Pauschalofferte;69745.00;A;RBE;P-24-088
+OF-24-0253;11.10.2024;D-13146;Fassadenbekleidung Rothenthurm;PROJ;Einheitspreisofferte;79740.00;V;DIN;
+OF-24-0254;14.10.2024;D-14721;Spenglerarbeiten Steildach Lauerz;PROJ;Richtofferte;11155.00;A;RBE;P-24-112
+OF-24-0255;14.10.2024;D-12943;Machbarkeitsstudie Dachaufbau Einsiedeln;BERA;Honorarofferte;12540.00;A;NSU;P-24-129
+OF-24-0256;14.10.2024;D-12642;Carport Einzel Einsiedeln;SYST;Richtofferte;10225.00;A;DIN;P-24-113
+OF-24-0257;14.10.2024;D-11403;Geländerprüfung Schwyz;BERA;Honorarofferte;3970.00;A;CSC;P-24-126
+OF-24-0258;14.10.2024;D-11893;Carport Einzel Steinen;SYST;Richtofferte;10715.00;A;DIN;P-24-110
+OF-24-0259;14.10.2024;D-13825;Attikaabschluss Lauerz;PROJ;Richtofferte;40965.00;A;RBE;P-24-127
+OF-24-0260;17.10.2024;D-11774;Flachdachsanierung Zug;PROJ;Pauschalofferte;68210.00;V;RBE;
+OF-24-0261;18.10.2024;D-14399;Vordach Hauseingang Einsiedeln;SYST;Richtofferte;4500.00;Z;DIN;
+OF-24-0262;18.10.2024;D-10339;Balkongeländer Steinen;PROJ;Eingabe LV;282500.00;V;SKÄ;
+OF-24-0263;21.10.2024;D-12964;Machbarkeitsstudie Dachaufbau Steinen;BERA;Honorarofferte;5470.00;A;NSU;P-24-134
+OF-24-0264;21.10.2024;D-10171;Aussentreppe Stahl Lauerz;PROJ;Eingabe LV;251570.00;A;SKÄ;P-24-099
+OF-24-0265;21.10.2024;D-12215;Carport Doppel Morschach;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-24-0266;21.10.2024;D-14798;Carport Einzel Lauerz;SYST;Konfigurationsofferte;4500.00;A;DIN;P-24-108
+OF-24-0267;22.10.2024;D-13083;Velounterstand Gersau;SYST;Konfigurationsofferte;6750.00;A;DIN;P-24-133
+OF-24-0268;22.10.2024;D-13909;Balkongeländer Seewen;PROJ;Einheitspreisofferte;39135.00;V;SKÄ;
+OF-24-0269;22.10.2024;D-12894;Carport Einzel Unteriberg;SYST;Richtofferte;18840.00;A;DIN;P-24-096
+OF-24-0270;23.10.2024;D-14392;Spenglerarbeiten Steildach Steinen;PROJ;Einheitspreisofferte;29495.00;V;RBE;
+OF-24-0271;25.10.2024;D-13496;Carport Doppel Altdorf;SYST;Konfigurationsofferte;7345.00;A;DIN;P-24-118
+OF-24-0272;28.10.2024;D-13552;Attikaabschluss Gersau;PROJ;Einheitspreisofferte;49920.00;V;RBE;
+OF-24-0273;28.10.2024;D-14672;Terrassensanierung Schwyz;PROJ;Einheitspreisofferte;28250.00;V;RBE;
+OF-24-0274;28.10.2024;D-10290;Dachrandsanierung Unteriberg;PROJ;Eingabe LV;53150.00;V;RBE;
+OF-24-0275;04.11.2024;D-13797;Carport Doppel Einsiedeln;SYST;Richtofferte;14885.00;A;DIN;P-24-138
+OF-24-0276;04.11.2024;D-14728;Attikaabschluss Ibach;PROJ;Einheitspreisofferte;46695.00;V;RBE;
+OF-24-0277;04.11.2024;D-12873;Attikaabschluss Altdorf;PROJ;Pauschalofferte;60695.00;Z;RBE;
+OF-24-0278;05.11.2024;D-12705;Dachrandsanierung Brunnen;PROJ;Einheitspreisofferte;25340.00;A;RBE;P-24-114
+OF-24-0279;07.11.2024;D-11438;Attikaabschluss Zug;PROJ;Richtofferte;57760.00;V;RBE;
+OF-24-0280;12.11.2024;D-14238;Balkongeländer Brunnen;PROJ;Pauschalofferte;71060.00;V;SKÄ;
+OF-24-0281;14.11.2024;D-12551;Terrassensanierung Altdorf;PROJ;Einheitspreisofferte;128300.00;V;RBE;
+OF-24-0282;15.11.2024;D-12936;Dachrandsanierung Seewen;PROJ;Pauschalofferte;74660.00;Z;RBE;
+OF-24-0283;15.11.2024;D-10108;Geländerprüfung Küssnacht;BERA;Honorarofferte;2194.20;A;NSU;P-24-124
+OF-24-0284;18.11.2024;D-10115;Variantenstudie Terrasse Schwyz;BERA;Honorarofferte;13880.00;A;NSU;P-24-123
+OF-24-0285;18.11.2024;D-14819;Vordach Hauseingang Zug;SYST;Konfigurationsofferte;18865.00;A;DIN;P-24-131
+OF-24-0286;18.11.2024;D-13965;Aussentreppe Stahl Ibach;PROJ;Einheitspreisofferte;27840.00;V;SKÄ;
+OF-24-0287;19.11.2024;D-11564;Fassadenbekleidung Morschach;PROJ;Pauschalofferte;38250.00;V;DIN;
+OF-24-0288;19.11.2024;D-13251;Spenglerarbeiten Steildach Lauerz;PROJ;Pauschalofferte;86865.00;V;RBE;
+OF-24-0289;20.11.2024;D-12145;Geländerprüfung Morschach;BERA;Honorarofferte;8180.00;Z;CSC;
+OF-24-0290;22.11.2024;D-11431;Terrassensanierung Morschach;PROJ;Pauschalofferte;70550.00;A;RBE;P-24-132
+OF-24-0291;25.11.2024;D-10192;Spenglerarbeiten Steildach Altdorf;PROJ;Eingabe LV;73605.00;Z;RBE;
+OF-24-0292;25.11.2024;D-10745;Machbarkeitsstudie Dachaufbau Schwyz;BERA;Honorarofferte;6105.00;V;CSC;
+OF-24-0293;25.11.2024;D-13671;Balkongeländer Schwyz;PROJ;Einheitspreisofferte;50910.00;V;SKÄ;
+OF-24-0294;25.11.2024;D-11711;Treppengeländer innen Morschach;PROJ;Einheitspreisofferte;21560.00;V;SKÄ;
+OF-24-0295;26.11.2024;D-13664;Machbarkeitsstudie Dachaufbau Brunnen;BERA;Honorarofferte;3090.00;A;CSC;P-24-111
+OF-24-0296;28.11.2024;D-13034;Velounterstand Altdorf;SYST;Konfigurationsofferte;4500.00;A;DIN;P-24-135
+OF-24-0297;28.11.2024;D-12929;Fassadenbekleidung Steinen;PROJ;Einheitspreisofferte;38015.00;V;DIN;
+OF-24-0298;02.12.2024;D-14784;Carport Einzel Zürich;SYST;Konfigurationsofferte;8560.00;A;DIN;P-24-136
+OF-24-0299;02.12.2024;D-12572;Carport Einzel Morschach;SYST;Richtofferte;16935.00;A;DIN;P-24-117
+OF-24-0300;04.12.2024;D-12061;Spenglerarbeiten Steildach Steinen;PROJ;Richtofferte;12235.00;A;RBE;P-24-146
+OF-24-0301;04.12.2024;D-14882;Spenglerarbeiten Steildach Seewen;PROJ;Einheitspreisofferte;36645.00;V;RBE;
+OF-24-0302;04.12.2024;D-12838;Carport Doppel Gersau;SYST;Konfigurationsofferte;13175.00;V;DIN;
+OF-24-0303;04.12.2024;D-11774;Zustandsaufnahme Flachdach Zug;BERA;Honorarofferte;7670.00;A;NSU;P-24-141
+OF-24-0304;05.12.2024;D-12558;Sanierungskonzept Fassade Wädenswil;BERA;Honorarofferte;5475.00;A;NSU;P-24-143
+OF-24-0305;05.12.2024;D-13300;Variantenstudie Terrasse Küssnacht;BERA;Honorarofferte;4870.00;A;NSU;P-24-142
+OF-24-0306;06.12.2024;D-10304;Dachrandsanierung Steinen;PROJ;Eingabe LV;190795.00;V;RBE;
+OF-24-0307;09.12.2024;D-14434;Variantenstudie Terrasse Küssnacht;BERA;Honorarofferte;3460.00;A;CSC;P-24-125
+OF-24-0308;09.12.2024;D-12922;Variantenstudie Terrasse Einsiedeln;BERA;Honorarofferte;3350.00;V;CSC;
+OF-24-0309;09.12.2024;D-14917;Terrassensanierung Einsiedeln;PROJ;Richtofferte;70140.00;A;RBE;P-24-120
+OF-24-0310;11.12.2024;D-10570;Geländerprüfung Ibach;BERA;Honorarofferte;2665.00;A;CSC;P-24-130
+OF-24-0311;11.12.2024;D-14392;Carport Doppel Steinen;SYST;Konfigurationsofferte;12365.00;V;DIN;
+OF-24-0312;11.12.2024;D-12439;Carport Doppel Seewen;SYST;Richtofferte;10530.00;A;DIN;P-24-147
+OF-24-0313;12.12.2024;D-10556;Velounterstand Lauerz;SYST;Konfigurationsofferte;7370.00;V;DIN;
+OF-24-0314;12.12.2024;D-12208;Treppengeländer innen Morschach;PROJ;Einheitspreisofferte;55075.00;V;SKÄ;
+OF-24-0315;12.12.2024;D-13650;Treppengeländer innen Lauerz;PROJ;Einheitspreisofferte;65210.00;V;SKÄ;
+OF-24-0316;13.12.2024;D-12418;Aussentreppe Stahl Oberiberg;PROJ;Pauschalofferte;78455.00;V;SKÄ;
+OF-24-0317;16.12.2024;D-11732;Aussentreppe Stahl Wädenswil;PROJ;Einheitspreisofferte;50680.00;V;SKÄ;
+OF-24-0318;16.12.2024;D-10983;Vordach Hauseingang Küssnacht;SYST;Konfigurationsofferte;8740.00;Z;DIN;
+OF-24-0319;16.12.2024;D-11578;Fassadenbekleidung Seewen;PROJ;Pauschalofferte;18265.00;A;DIN;P-24-145
+OF-24-0320;17.12.2024;D-14280;Carport Einzel Seewen;SYST;Konfigurationsofferte;9075.00;A;DIN;P-24-139
+OF-24-0321;17.12.2024;D-11389;Fassadenbekleidung Einsiedeln;PROJ;Richtofferte;79940.00;V;DIN;
+OF-24-0322;17.12.2024;D-13895;Carport Doppel Seewen;SYST;Richtofferte;12480.00;A;DIN;P-24-137
+OF-24-0323;19.12.2024;D-10150;Vordach Hauseingang Seewen;SYST;Konfigurationsofferte;9980.00;V;DIN;
+OF-24-0324;20.12.2024;D-14882;Carport Doppel Seewen;SYST;Konfigurationsofferte;18225.00;A;DIN;P-24-140
+OF-24-0325;23.12.2024;D-14567;Sanierungskonzept Fassade Lauerz;BERA;Honorarofferte;8620.00;Z;CSC;
+OF-24-0326;23.12.2024;D-14511;Carport Einzel Steinen;SYST;Richtofferte;8875.00;A;DIN;P-24-144
+OF-24-0327;23.12.2024;D-10367;Dachrandsanierung Schwyz;PROJ;Eingabe LV;47115.00;V;RBE;
+OF-24-0328;23.12.2024;D-10367;Dachrandsanierung Schwyz;PROJ;Eingabe LV;83160.00;Z;RBE;
+OF-24-0329;24.12.2024;D-10444;Terrassensanierung Ibach;PROJ;Richtofferte;42365.00;Z;RBE;
+OF-24-0330;27.12.2024;D-14469;Attikaabschluss Schwyz;PROJ;Einheitspreisofferte;25690.00;V;RBE;
+OF-24-0331;27.12.2024;D-10290;Aussentreppe Stahl Unteriberg;PROJ;Eingabe LV;138565.00;V;SKÄ;
+OF-25-0001;02.01.2025;D-14112;Spenglerarbeiten Steildach Gersau;PROJ;Richtofferte;84215.00;Z;RBE;
+OF-25-0002;02.01.2025;D-11123;Vordach Hauseingang Lauerz;SYST;Konfigurationsofferte;10135.00;A;DIN;P-25-028
+OF-25-0003;02.01.2025;D-13034;Vordach Hauseingang Altdorf;SYST;Konfigurationsofferte;5160.00;V;DIN;
+OF-25-0004;03.01.2025;D-11382;Dachrandsanierung Einsiedeln;PROJ;Einheitspreisofferte;35795.00;V;RBE;
+OF-25-0005;03.01.2025;D-14602;Variantenstudie Terrasse Zürich;BERA;Honorarofferte;10545.00;A;NSU;P-25-001
+OF-25-0006;07.01.2025;D-13965;Aussentreppe Stahl Ibach;PROJ;Einheitspreisofferte;37895.00;V;SKÄ;
+OF-25-0007;07.01.2025;D-12327;Zustandsaufnahme Flachdach Brunnen;BERA;Honorarofferte;2500.00;A;CSC;P-25-010
+OF-25-0008;07.01.2025;D-10171;Terrassensanierung Lauerz;PROJ;Eingabe LV;58865.00;V;RBE;
+OF-25-0009;07.01.2025;D-13356;Velounterstand Brunnen;SYST;Konfigurationsofferte;17280.00;A;DIN;P-25-009
+OF-25-0010;07.01.2025;D-14833;Vordach Hauseingang Goldau;SYST;Richtofferte;14800.00;A;DIN;P-25-019
+OF-25-0011;07.01.2025;D-12334;Carport Doppel Oberiberg;SYST;Konfigurationsofferte;18000.00;V;DIN;
+OF-25-0012;07.01.2025;D-14742;Carport Einzel Brunnen;SYST;Konfigurationsofferte;5210.00;A;DIN;P-25-015
+OF-25-0013;07.01.2025;D-14357;Balkongeländer Lauerz;PROJ;Einheitspreisofferte;26240.00;V;SKÄ;
+OF-25-0014;08.01.2025;D-11886;Spenglerarbeiten Steildach Zug;PROJ;Richtofferte;180000.00;A;RBE;P-25-024
+OF-25-0015;08.01.2025;D-13776;Flachdachsanierung Gersau;PROJ;Pauschalofferte;32270.00;V;RBE;
+OF-25-0016;10.01.2025;D-10948;Vordach Hauseingang Ibach;SYST;Konfigurationsofferte;8010.00;V;DIN;
+OF-25-0017;13.01.2025;D-12061;Treppengeländer innen Steinen;PROJ;Einheitspreisofferte;110855.00;V;SKÄ;
+OF-25-0018;13.01.2025;D-11760;Velounterstand Morschach;SYST;Konfigurationsofferte;9870.00;A;DIN;P-25-002
+OF-25-0019;13.01.2025;D-10941;Carport Doppel Steinen;SYST;Richtofferte;4500.00;V;DIN;
+OF-25-0020;15.01.2025;D-10311;Carport Doppel Gersau;SYST;Richtofferte;23055.00;A;DIN;P-25-003
+OF-25-0021;17.01.2025;D-14630;Carport Einzel Arth;SYST;Konfigurationsofferte;8065.00;A;DIN;P-25-027
+OF-25-0022;20.01.2025;D-13244;Variantenstudie Terrasse Einsiedeln;BERA;Honorarofferte;9390.00;V;CSC;
+OF-25-0023;20.01.2025;D-10927;Balkongeländer Baar;PROJ;Pauschalofferte;18535.00;A;SKÄ;P-25-036
+OF-25-0024;20.01.2025;D-15036;Carport Einzel Baar;SYST;Richtofferte;4825.00;A;DIN;P-25-004
+OF-25-0025;20.01.2025;D-10577;Carport Doppel Goldau;SYST;Richtofferte;9280.00;A;DIN;P-25-038
+OF-25-0026;22.01.2025;D-11354;Dachrandsanierung Oberiberg;PROJ;Pauschalofferte;90125.00;V;RBE;
+OF-25-0027;23.01.2025;D-10339;Balkongeländer Steinen;PROJ;Eingabe LV;95010.00;A;SKÄ;P-25-029
+OF-25-0028;24.01.2025;D-12194;Vordach Hauseingang Einsiedeln;SYST;Konfigurationsofferte;14930.00;V;DIN;
+OF-25-0029;24.01.2025;D-11564;Terrassensanierung Morschach;PROJ;Einheitspreisofferte;68785.00;A;RBE;P-25-005
+OF-25-0030;24.01.2025;D-11396;Attikaabschluss Morschach;PROJ;Richtofferte;35050.00;Z;RBE;
+OF-25-0031;24.01.2025;D-12600;Aussentreppe Stahl Schwyz;PROJ;Richtofferte;60605.00;V;SKÄ;
+OF-25-0032;24.01.2025;D-10395;Dachrandsanierung Seewen;PROJ;Pauschalofferte;48155.00;V;RBE;
+OF-25-0033;27.01.2025;D-11179;Treppengeländer innen Seewen;PROJ;Richtofferte;82570.00;A;SKÄ;P-25-030
+OF-25-0034;27.01.2025;D-10724;Flachdachsanierung Morschach;PROJ;Pauschalofferte;66505.00;V;RBE;
+OF-25-0035;27.01.2025;D-13937;Attikaabschluss Gersau;PROJ;Einheitspreisofferte;42375.00;A;RBE;P-25-041
+OF-25-0036;03.02.2025;D-11130;Balkongeländer Gersau;PROJ;Richtofferte;43000.00;A;SKÄ;P-25-017
+OF-25-0037;03.02.2025;D-11921;Treppengeländer innen Altdorf;PROJ;Pauschalofferte;23880.00;A;SKÄ;P-25-006
+OF-25-0038;03.02.2025;D-13748;Dachrandsanierung Steinen;PROJ;Einheitspreisofferte;24810.00;Z;RBE;
+OF-25-0039;04.02.2025;D-10941;Carport Doppel Steinen;SYST;Richtofferte;4500.00;V;DIN;
+OF-25-0040;04.02.2025;D-13867;Spenglerarbeiten Steildach Schwyz;PROJ;Einheitspreisofferte;30810.00;A;RBE;P-25-025
+OF-25-0041;04.02.2025;D-12866;Aussentreppe Stahl Morschach;PROJ;Pauschalofferte;30035.00;A;SKÄ;P-25-022
+OF-25-0042;10.02.2025;D-10227;Flachdachsanierung Gersau;PROJ;Richtofferte;42195.00;A;RBE;P-25-020
+OF-25-0043;10.02.2025;D-14798;Geländerprüfung Lauerz;BERA;Honorarofferte;6500.00;A;CSC;P-25-007
+OF-25-0044;11.02.2025;D-10171;Aussentreppe Stahl Lauerz;PROJ;Eingabe LV;67195.00;A;SKÄ;P-25-046
+OF-25-0045;11.02.2025;D-14875;Vordach Hauseingang Oberiberg;SYST;Konfigurationsofferte;4500.00;Z;DIN;
+OF-25-0046;12.02.2025;D-12180;Attikaabschluss Gersau;PROJ;Einheitspreisofferte;49075.00;Z;RBE;
+OF-25-0047;13.02.2025;D-13349;Dachrandsanierung Goldau;PROJ;Richtofferte;35915.00;V;RBE;
+OF-25-0048;17.02.2025;D-10367;Dachrandsanierung Schwyz;PROJ;Eingabe LV;72055.00;A;RBE;P-25-042
+OF-25-0049;17.02.2025;D-12936;Spenglerarbeiten Steildach Seewen;PROJ;Richtofferte;46975.00;V;RBE;
+OF-25-0050;18.02.2025;D-12383;Velounterstand Morschach;SYST;Konfigurationsofferte;14165.00;Z;DIN;
+OF-25-0051;18.02.2025;D-10808;Zustandsaufnahme Flachdach Ibach;BERA;Honorarofferte;3125.00;A;CSC;P-25-013
+OF-25-0052;18.02.2025;D-10843;Attikaabschluss Seewen;PROJ;Pauschalofferte;104630.00;Z;RBE;
+OF-25-0053;21.02.2025;D-11291;Velounterstand Lauerz;SYST;Konfigurationsofferte;7455.00;Z;DIN;
+OF-25-0054;21.02.2025;D-10192;Terrassensanierung Altdorf;PROJ;Eingabe LV;74390.00;V;RBE;
+OF-25-0055;24.02.2025;D-10570;Sanierungskonzept Fassade Ibach;BERA;Honorarofferte;2500.00;A;NSU;P-25-018
+OF-25-0056;24.02.2025;D-10682;Aussentreppe Stahl Ibach;PROJ;Pauschalofferte;108210.00;Z;SKÄ;
+OF-25-0057;25.02.2025;D-13881;Geländerprüfung Sattel;BERA;Honorarofferte;5095.00;A;CSC;P-25-052
+OF-25-0058;25.02.2025;D-12383;Aussentreppe Stahl Morschach;PROJ;Richtofferte;171775.00;V;SKÄ;
+OF-25-0059;26.02.2025;D-10304;Dachrandsanierung Steinen;PROJ;Eingabe LV;40000.00;A;RBE;P-25-008
+OF-25-0060;26.02.2025;D-11704;Aussentreppe Stahl Gersau;PROJ;Richtofferte;35210.00;A;SKÄ;P-25-011
+OF-25-0061;26.02.2025;D-10885;Balkongeländer Morschach;PROJ;Richtofferte;33760.00;V;SKÄ;
+OF-25-0062;26.02.2025;D-10332;Balkongeländer Morschach;PROJ;Pauschalofferte;104215.00;A;SKÄ;P-25-033
+OF-25-0063;27.02.2025;D-14224;Variantenstudie Terrasse Lauerz;BERA;Honorarofferte;2710.00;A;NSU;P-25-035
+OF-25-0064;28.02.2025;D-14469;Carport Einzel Schwyz;SYST;Konfigurationsofferte;7855.00;Z;DIN;
+OF-25-0065;03.03.2025;D-14238;Velounterstand Brunnen;SYST;Konfigurationsofferte;13945.00;A;DIN;P-25-051
+OF-25-0066;03.03.2025;D-12565;Treppengeländer innen Zug;PROJ;Einheitspreisofferte;61145.00;V;SKÄ;
+OF-25-0067;04.03.2025;D-11039;Zustandsaufnahme Flachdach Schwyz;BERA;Honorarofferte;5755.00;V;CSC;
+OF-25-0068;05.03.2025;D-10437;Dachrandsanierung Oberiberg;PROJ;Pauschalofferte;180000.00;A;RBE;P-25-044
+OF-25-0069;05.03.2025;D-13874;Variantenstudie Terrasse Brunnen;BERA;Honorarofferte;5895.00;A;CSC;P-25-053
+OF-25-0070;06.03.2025;D-13160;Terrassensanierung Sattel;PROJ;Richtofferte;77700.00;A;RBE;P-25-012
+OF-25-0071;07.03.2025;D-13489;Spenglerarbeiten Steildach Küssnacht;PROJ;Richtofferte;29575.00;A;RBE;P-25-021
+OF-25-0072;07.03.2025;D-12516;Spenglerarbeiten Steildach Altdorf;PROJ;Richtofferte;24575.00;V;RBE;
+OF-25-0073;10.03.2025;D-15022;Balkongeländer Seewen;PROJ;Einheitspreisofferte;87170.00;A;SKÄ;P-25-032
+OF-25-0074;10.03.2025;D-10906;Zustandsaufnahme Flachdach Einsiedeln;BERA;Honorarofferte;2500.00;V;CSC;
+OF-25-0075;10.03.2025;D-12061;Balkongeländer Steinen;PROJ;Pauschalofferte;78490.00;Z;SKÄ;
+OF-25-0076;10.03.2025;D-14889;Treppengeländer innen Unteriberg;PROJ;Einheitspreisofferte;63215.00;A;SKÄ;P-25-014
+OF-25-0077;10.03.2025;D-13867;Dachrandsanierung Schwyz;PROJ;Einheitspreisofferte;59855.00;A;RBE;P-25-016
+OF-25-0078;11.03.2025;D-11746;Flachdachsanierung Schwyz;PROJ;Richtofferte;43070.00;A;RBE;P-25-040
+OF-25-0079;17.03.2025;D-13965;Sanierungskonzept Fassade Ibach;BERA;Honorarofferte;3095.00;A;CSC;P-25-049
+OF-25-0080;17.03.2025;D-13139;Zustandsaufnahme Flachdach Zug;BERA;Honorarofferte;13505.00;V;CSC;
+OF-25-0081;17.03.2025;D-10983;Carport Doppel Küssnacht;SYST;Konfigurationsofferte;13675.00;V;DIN;
+OF-25-0082;17.03.2025;D-11655;Flachdachsanierung Brunnen;PROJ;Pauschalofferte;12115.00;A;RBE;P-25-050
+OF-25-0083;18.03.2025;D-11739;Velounterstand Steinen;SYST;Konfigurationsofferte;10630.00;V;DIN;
+OF-25-0084;18.03.2025;D-10605;Aussentreppe Stahl Lauerz;PROJ;Pauschalofferte;20710.00;A;SKÄ;P-25-039
+OF-25-0085;21.03.2025;D-10507;Zustandsaufnahme Flachdach Unteriberg;BERA;Honorarofferte;14800.00;A;NSU;P-25-023
+OF-25-0086;24.03.2025;D-10549;Spenglerarbeiten Steildach Seewen;PROJ;Einheitspreisofferte;44585.00;V;RBE;
+OF-25-0087;24.03.2025;D-10185;Spenglerarbeiten Steildach Zug;PROJ;Eingabe LV;43070.00;Z;RBE;
+OF-25-0088;24.03.2025;D-13027;Variantenstudie Terrasse Seewen;BERA;Honorarofferte;9890.00;V;NSU;
+OF-25-0089;24.03.2025;D-10171;Flachdachsanierung Lauerz;PROJ;Eingabe LV;93750.00;Z;RBE;
+OF-25-0090;24.03.2025;D-13580;Flachdachsanierung Schwyz;PROJ;Richtofferte;63630.00;A;RBE;P-25-043
+OF-25-0091;24.03.2025;D-12600;Variantenstudie Terrasse Schwyz;BERA;Honorarofferte;4780.00;A;NSU;P-25-026
+OF-25-0092;25.03.2025;D-10367;Spenglerarbeiten Steildach Schwyz;PROJ;Eingabe LV;56695.00;V;RBE;
+OF-25-0093;25.03.2025;D-10304;Aussentreppe Stahl Steinen;PROJ;Eingabe LV;109510.00;Z;SKÄ;
+OF-25-0094;27.03.2025;D-13895;Zustandsaufnahme Flachdach Seewen;BERA;Honorarofferte;4055.00;A;NSU;P-25-034
+OF-25-0095;27.03.2025;D-10143;Flachdachsanierung Schwyz;PROJ;Einheitspreisofferte;49685.00;V;RBE;
+OF-25-0096;28.03.2025;D-13594;Variantenstudie Terrasse Lauerz;BERA;Honorarofferte;2935.00;A;NSU;P-25-031
+OF-25-0097;01.04.2025;D-10143;Geländerprüfung Schwyz;BERA;Honorarofferte;4394.05;A;CSC;P-25-047
+OF-25-0098;03.04.2025;D-11879;Terrassensanierung Brunnen;PROJ;Pauschalofferte;68745.00;V;RBE;
+OF-25-0099;07.04.2025;D-10129;Aussentreppe Stahl Zürich;PROJ;Richtofferte;33090.00;V;SKÄ;
+OF-25-0100;07.04.2025;D-13384;Balkongeländer Altdorf;PROJ;Einheitspreisofferte;28245.00;A;SKÄ;P-25-060
+OF-25-0101;07.04.2025;D-14490;Carport Einzel Brunnen;SYST;Konfigurationsofferte;7560.00;A;DIN;P-25-048
+OF-25-0102;08.04.2025;D-12474;Balkongeländer Zug;PROJ;Richtofferte;36615.00;V;SKÄ;
+OF-25-0103;09.04.2025;D-11389;Carport Doppel Einsiedeln;SYST;Konfigurationsofferte;5320.00;V;DIN;
+OF-25-0104;10.04.2025;D-13349;Vordach Hauseingang Goldau;SYST;Konfigurationsofferte;7250.00;V;DIN;
+OF-25-0105;11.04.2025;D-14546;Vordach Hauseingang Einsiedeln;SYST;Richtofferte;4500.00;V;DIN;
+OF-25-0106;14.04.2025;D-10171;Dachrandsanierung Lauerz;PROJ;Eingabe LV;298740.00;V;RBE;
+OF-25-0107;14.04.2025;D-14469;Carport Einzel Schwyz;SYST;Konfigurationsofferte;5915.00;A;DIN;P-25-037
+OF-25-0108;14.04.2025;D-10696;Vordach Hauseingang Arth;SYST;Konfigurationsofferte;5045.00;A;DIN;P-25-056
+OF-25-0109;22.04.2025;D-14665;Flachdachsanierung Oberiberg;PROJ;Pauschalofferte;82495.00;V;RBE;
+OF-25-0110;22.04.2025;D-12159;Flachdachsanierung Pfäffikon SZ;PROJ;Richtofferte;19740.00;V;RBE;
+OF-25-0111;22.04.2025;D-10521;Carport Doppel Unteriberg;SYST;Konfigurationsofferte;21140.00;A;DIN;P-25-065
+OF-25-0112;22.04.2025;D-11235;Velounterstand Schwyz;SYST;Konfigurationsofferte;15115.00;A;DIN;P-25-045
+OF-25-0113;22.04.2025;D-12593;Fassadenbekleidung Gersau;PROJ;Einheitspreisofferte;90135.00;V;DIN;
+OF-25-0114;23.04.2025;D-13650;Terrassensanierung Lauerz;PROJ;Pauschalofferte;51770.00;Z;RBE;
+OF-25-0115;24.04.2025;D-13517;Velounterstand Arth;SYST;Richtofferte;9855.00;A;DIN;P-25-070
+OF-25-0116;25.04.2025;D-12348;Carport Doppel Seewen;SYST;Konfigurationsofferte;14350.00;Z;DIN;
+OF-25-0117;28.04.2025;D-10339;Treppengeländer innen Steinen;PROJ;Eingabe LV;106935.00;Z;SKÄ;
+OF-25-0118;28.04.2025;D-10493;Spenglerarbeiten Steildach Brunnen;PROJ;Eingabe LV;118115.00;V;RBE;
+OF-25-0119;28.04.2025;D-12621;Flachdachsanierung Steinen;PROJ;Pauschalofferte;46630.00;V;RBE;
+OF-25-0120;28.04.2025;D-10990;Aussentreppe Stahl Goldau;PROJ;Richtofferte;68755.00;V;SKÄ;
+OF-25-0121;28.04.2025;D-12502;Flachdachsanierung Ibach;PROJ;Einheitspreisofferte;38675.00;A;RBE;P-25-055
+OF-25-0122;01.05.2025;D-12754;Carport Doppel Brunnen;SYST;Konfigurationsofferte;9085.00;V;DIN;
+OF-25-0123;01.05.2025;D-13790;Velounterstand Brunnen;SYST;Konfigurationsofferte;7250.00;A;DIN;P-25-059
+OF-25-0124;02.05.2025;D-13489;Fassadenbekleidung Küssnacht;PROJ;Einheitspreisofferte;68930.00;V;DIN;
+OF-25-0125;02.05.2025;D-14637;Sanierungskonzept Fassade Gersau;BERA;Honorarofferte;4550.00;A;CSC;P-25-066
+OF-25-0126;05.05.2025;D-11858;Vordach Hauseingang Ibach;SYST;Richtofferte;9735.00;A;DIN;P-25-079
+OF-25-0127;05.05.2025;D-10990;Aussentreppe Stahl Goldau;PROJ;Einheitspreisofferte;24255.00;A;SKÄ;P-25-058
+OF-25-0128;05.05.2025;D-13937;Terrassensanierung Gersau;PROJ;Einheitspreisofferte;43745.00;V;RBE;
+OF-25-0129;07.05.2025;D-10822;Terrassensanierung Wädenswil;PROJ;Einheitspreisofferte;25365.00;V;RBE;
+OF-25-0130;07.05.2025;D-10857;Spenglerarbeiten Steildach Steinen;PROJ;Einheitspreisofferte;104485.00;V;RBE;
+OF-25-0131;08.05.2025;D-11928;Velounterstand Küssnacht;SYST;Konfigurationsofferte;13160.00;A;DIN;P-25-082
+OF-25-0132;08.05.2025;D-14084;Spenglerarbeiten Steildach Steinen;PROJ;Richtofferte;29710.00;V;RBE;
+OF-25-0133;09.05.2025;D-11802;Carport Doppel Ibach;SYST;Richtofferte;7705.00;V;DIN;
+OF-25-0134;12.05.2025;D-13405;Zustandsaufnahme Flachdach Brunnen;BERA;Honorarofferte;2500.00;V;NSU;
+OF-25-0135;12.05.2025;D-14798;Carport Einzel Lauerz;SYST;Konfigurationsofferte;4820.00;A;DIN;P-25-076
+OF-25-0136;12.05.2025;D-14217;Velounterstand Unteriberg;SYST;Konfigurationsofferte;7345.00;A;DIN;P-25-072
+OF-25-0137;12.05.2025;D-13293;Balkongeländer Schwyz;PROJ;Pauschalofferte;40245.00;A;SKÄ;P-25-069
+OF-25-0138;14.05.2025;D-13643;Spenglerarbeiten Steildach Küssnacht;PROJ;Richtofferte;27260.00;Z;RBE;
+OF-25-0139;15.05.2025;D-12922;Carport Einzel Einsiedeln;SYST;Konfigurationsofferte;8520.00;A;DIN;P-25-054
+OF-25-0140;15.05.2025;D-13356;Dachrandsanierung Brunnen;PROJ;Pauschalofferte;36570.00;V;RBE;
+OF-25-0141;16.05.2025;D-14392;Carport Doppel Steinen;SYST;Konfigurationsofferte;8665.00;V;DIN;
+OF-25-0142;19.05.2025;D-13825;Sanierungskonzept Fassade Lauerz;BERA;Honorarofferte;6920.00;A;CSC;P-25-084
+OF-25-0143;19.05.2025;D-10129;Carport Doppel Zürich;SYST;Richtofferte;10125.00;V;DIN;
+OF-25-0144;21.05.2025;D-10451;Spenglerarbeiten Steildach Brunnen;PROJ;Einheitspreisofferte;24940.00;V;RBE;
+OF-25-0145;21.05.2025;D-10367;Dachrandsanierung Schwyz;PROJ;Eingabe LV;75970.00;V;RBE;
+OF-25-0146;22.05.2025;D-11235;Zustandsaufnahme Flachdach Schwyz;BERA;Honorarofferte;3745.00;V;NSU;
+OF-25-0147;23.05.2025;D-12089;Vordach Hauseingang Seewen;SYST;Konfigurationsofferte;8510.00;A;DIN;P-25-074
+OF-25-0148;26.05.2025;D-13734;Fassadenbekleidung Steinen;PROJ;Einheitspreisofferte;15700.00;Z;DIN;
+OF-25-0149;26.05.2025;D-10122;Variantenstudie Terrasse Goldau;BERA;Honorarofferte;3425.00;V;CSC;
+OF-25-0150;26.05.2025;D-10983;Dachrandsanierung Küssnacht;PROJ;Pauschalofferte;35145.00;Z;RBE;
+OF-25-0151;27.05.2025;D-11704;Flachdachsanierung Gersau;PROJ;Pauschalofferte;46855.00;V;RBE;
+OF-25-0152;27.05.2025;D-10192;Aussentreppe Stahl Altdorf;PROJ;Eingabe LV;84750.00;A;SKÄ;P-25-062
+OF-25-0153;27.05.2025;D-12012;Aussentreppe Stahl Steinen;PROJ;Richtofferte;45040.00;V;SKÄ;
+OF-25-0154;28.05.2025;D-11816;Vordach Hauseingang Zürich;SYST;Richtofferte;24960.00;A;DIN;P-25-083
+OF-25-0155;28.05.2025;D-13979;Machbarkeitsstudie Dachaufbau Altdorf;BERA;Honorarofferte;6585.00;Z;CSC;
+OF-25-0156;02.06.2025;D-10178;Balkongeländer Küssnacht;PROJ;Eingabe LV;60230.00;V;SKÄ;
+OF-25-0157;02.06.2025;D-11326;Geländerprüfung Seewen;BERA;Honorarofferte;2755.00;A;CSC;P-25-057
+OF-25-0158;02.06.2025;D-13909;Variantenstudie Terrasse Seewen;BERA;Honorarofferte;2500.00;A;NSU;P-25-071
+OF-25-0159;04.06.2025;D-11039;Terrassensanierung Schwyz;PROJ;Pauschalofferte;10070.00;V;RBE;
+OF-25-0160;05.06.2025;D-11914;Flachdachsanierung Seewen;PROJ;Einheitspreisofferte;50215.00;A;RBE;P-25-067
+OF-25-0161;05.06.2025;D-11515;Sanierungskonzept Fassade Brunnen;BERA;Honorarofferte;2500.00;V;CSC;
+OF-25-0162;06.06.2025;D-11585;Carport Einzel Rothenthurm;SYST;Konfigurationsofferte;12155.00;Z;DIN;
+OF-25-0163;10.06.2025;D-12796;Carport Doppel Goldau;SYST;Konfigurationsofferte;5640.00;V;DIN;
+OF-25-0164;10.06.2025;D-13783;Vordach Hauseingang Rothenthurm;SYST;Konfigurationsofferte;8820.00;A;DIN;P-25-088
+OF-25-0165;10.06.2025;D-10339;Flachdachsanierung Steinen;PROJ;Eingabe LV;225960.00;V;RBE;
+OF-25-0166;10.06.2025;D-10164;Velounterstand Einsiedeln;SYST;Konfigurationsofferte;25901.40;A;DIN;P-25-075
+OF-25-0167;11.06.2025;D-10297;Carport Einzel Gersau;SYST;Konfigurationsofferte;5640.00;A;DIN;P-25-077
+OF-25-0168;16.06.2025;D-13111;Carport Doppel Arth;SYST;Konfigurationsofferte;5025.00;A;DIN;P-25-089
+OF-25-0169;16.06.2025;D-14147;Vordach Hauseingang Seewen;SYST;Konfigurationsofferte;8030.00;A;DIN;P-25-096
+OF-25-0170;16.06.2025;D-10192;Fassadenbekleidung Altdorf;PROJ;Eingabe LV;275190.00;A;DIN;P-25-064
+OF-25-0171;16.06.2025;D-12761;Machbarkeitsstudie Dachaufbau Schwyz;BERA;Honorarofferte;11470.00;A;NSU;P-25-068
+OF-25-0172;16.06.2025;D-11774;Terrassensanierung Zug;PROJ;Einheitspreisofferte;92745.00;A;RBE;P-25-087
+OF-25-0173;20.06.2025;D-10773;Zustandsaufnahme Flachdach Altdorf;BERA;Honorarofferte;3500.00;A;CSC;P-25-095
+OF-25-0174;23.06.2025;D-13412;Carport Doppel Morschach;SYST;Richtofferte;15270.00;V;DIN;
+OF-25-0175;23.06.2025;D-13146;Carport Einzel Rothenthurm;SYST;Richtofferte;17890.00;V;DIN;
+OF-25-0176;23.06.2025;D-11165;Balkongeländer Schwyz;PROJ;Einheitspreisofferte;39685.00;A;SKÄ;P-25-110
+OF-25-0177;24.06.2025;D-14189;Balkongeländer Küssnacht;PROJ;Richtofferte;77150.00;A;SKÄ;P-25-080
+OF-25-0178;26.06.2025;D-14336;Dachrandsanierung Sattel;PROJ;Pauschalofferte;29370.00;A;RBE;P-25-107
+OF-25-0179;27.06.2025;D-12362;Flachdachsanierung Morschach;PROJ;Einheitspreisofferte;56130.00;A;RBE;P-25-097
+OF-25-0180;01.07.2025;D-10927;Spenglerarbeiten Steildach Baar;PROJ;Einheitspreisofferte;15050.00;Z;RBE;
+OF-25-0181;03.07.2025;D-10493;Treppengeländer innen Brunnen;PROJ;Eingabe LV;175165.00;V;SKÄ;
+OF-25-0182;04.07.2025;D-11837;Attikaabschluss Lauerz;PROJ;Einheitspreisofferte;69000.00;A;RBE;P-25-063
+OF-25-0183;07.07.2025;D-11151;Carport Doppel Morschach;SYST;Richtofferte;4505.00;A;DIN;P-25-073
+OF-25-0184;07.07.2025;D-13762;Vordach Hauseingang Altdorf;SYST;Richtofferte;15470.00;A;DIN;P-25-078
+OF-25-0185;08.07.2025;D-11718;Vordach Hauseingang Lauerz;SYST;Konfigurationsofferte;17790.00;A;DIN;P-25-090
+OF-25-0186;08.07.2025;D-10822;Vordach Hauseingang Wädenswil;SYST;Richtofferte;6880.00;A;DIN;P-25-105
+OF-25-0187;09.07.2025;D-12208;Machbarkeitsstudie Dachaufbau Morschach;BERA;Honorarofferte;5910.00;A;CSC;P-25-103
+OF-25-0188;10.07.2025;D-12698;Vordach Hauseingang Altdorf;SYST;Konfigurationsofferte;15485.00;V;DIN;
+OF-25-0189;10.07.2025;D-10913;Fassadenbekleidung Rothenthurm;PROJ;Einheitspreisofferte;53665.00;A;DIN;P-25-061
+OF-25-0190;11.07.2025;D-13209;Machbarkeitsstudie Dachaufbau Sattel;BERA;Honorarofferte;3045.00;A;NSU;P-25-099
+OF-25-0191;04.08.2025;D-13895;Velounterstand Seewen;SYST;Konfigurationsofferte;16050.00;V;DIN;
+OF-25-0192;04.08.2025;D-14000;Fassadenbekleidung Seewen;PROJ;Einheitspreisofferte;99300.00;A;DIN;P-25-081
+OF-25-0193;04.08.2025;D-15029;Balkongeländer Lauerz;PROJ;Richtofferte;98305.00;A;SKÄ;P-25-100
+OF-25-0194;04.08.2025;D-10486;Aussentreppe Stahl Oberiberg;PROJ;Einheitspreisofferte;118035.00;A;SKÄ;P-25-085
+OF-25-0195;04.08.2025;D-10339;Dachrandsanierung Steinen;PROJ;Eingabe LV;139080.00;A;RBE;P-25-108
+OF-25-0196;04.08.2025;D-12831;Velounterstand Oberiberg;SYST;Richtofferte;13715.00;A;DIN;P-25-101
+OF-25-0197;04.08.2025;D-10738;Carport Einzel Gersau;SYST;Konfigurationsofferte;13420.00;V;DIN;
+OF-25-0198;04.08.2025;D-10493;Attikaabschluss Brunnen;PROJ;Eingabe LV;120425.00;A;RBE;P-25-086
+OF-25-0199;04.08.2025;D-11326;Attikaabschluss Seewen;PROJ;Richtofferte;27335.00;A;RBE;P-25-109
+OF-25-0200;04.08.2025;D-12159;Dachrandsanierung Pfäffikon SZ;PROJ;Pauschalofferte;27845.00;A;RBE;P-25-093
+OF-25-0201;04.08.2025;D-13769;Carport Einzel Rothenthurm;SYST;Richtofferte;6445.00;A;DIN;P-25-115
+OF-25-0202;04.08.2025;D-12614;Variantenstudie Terrasse Zug;BERA;Honorarofferte;4315.00;V;CSC;
+OF-25-0203;04.08.2025;D-12320;Fassadenbekleidung Baar;PROJ;Richtofferte;52770.00;Z;DIN;
+OF-25-0204;04.08.2025;D-14203;Velounterstand Seewen;SYST;Richtofferte;11700.00;V;DIN;
+OF-25-0205;04.08.2025;D-10815;Spenglerarbeiten Steildach Arth;PROJ;Einheitspreisofferte;38020.00;V;RBE;
+OF-25-0206;04.08.2025;D-12824;Flachdachsanierung Einsiedeln;PROJ;Einheitspreisofferte;58245.00;A;RBE;P-25-104
+OF-25-0207;04.08.2025;D-12999;Flachdachsanierung Schwyz;PROJ;Einheitspreisofferte;112490.00;V;RBE;
+OF-25-0208;07.08.2025;D-13062;Carport Einzel Seewen;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-25-0209;08.08.2025;D-13699;Carport Einzel Ibach;SYST;Konfigurationsofferte;25090.00;V;DIN;
+OF-25-0210;08.08.2025;D-10892;Dachrandsanierung Oberiberg;PROJ;Richtofferte;96540.00;Z;RBE;
+OF-25-0211;11.08.2025;D-12950;Attikaabschluss Morschach;PROJ;Einheitspreisofferte;56975.00;A;RBE;P-25-098
+OF-25-0212;11.08.2025;D-13748;Spenglerarbeiten Steildach Steinen;PROJ;Einheitspreisofferte;82530.00;A;RBE;P-25-118
+OF-25-0213;11.08.2025;D-14952;Carport Doppel Schwyz;SYST;Konfigurationsofferte;17935.00;A;DIN;P-25-094
+OF-25-0214;11.08.2025;D-14826;Velounterstand Ibach;SYST;Konfigurationsofferte;13010.00;V;DIN;
+OF-25-0215;11.08.2025;D-11284;Spenglerarbeiten Steildach Brunnen;PROJ;Pauschalofferte;42610.00;A;RBE;P-25-091
+OF-25-0216;13.08.2025;D-12264;Velounterstand Goldau;SYST;Konfigurationsofferte;11365.00;A;DIN;P-25-114
+OF-25-0217;21.08.2025;D-14742;Carport Doppel Brunnen;SYST;Richtofferte;14980.00;V;DIN;
+OF-25-0218;25.08.2025;D-10255;Treppengeländer innen Schwyz;PROJ;Einheitspreisofferte;40310.00;V;SKÄ;
+OF-25-0219;25.08.2025;D-10745;Balkongeländer Schwyz;PROJ;Einheitspreisofferte;80220.00;V;SKÄ;
+OF-25-0220;25.08.2025;D-12173;Aussentreppe Stahl Goldau;PROJ;Richtofferte;40930.00;V;SKÄ;
+OF-25-0221;26.08.2025;D-14182;Spenglerarbeiten Steildach Seewen;PROJ;Pauschalofferte;30865.00;V;RBE;
+OF-25-0222;26.08.2025;D-11963;Attikaabschluss Küssnacht;PROJ;Einheitspreisofferte;30945.00;V;RBE;
+OF-25-0223;27.08.2025;D-12845;Aussentreppe Stahl Seewen;PROJ;Einheitspreisofferte;24845.00;A;SKÄ;P-25-092
+OF-25-0224;28.08.2025;D-11074;Carport Einzel Unteriberg;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-121
+OF-25-0225;01.09.2025;D-14343;Carport Doppel Luzern;SYST;Konfigurationsofferte;12095.00;A;DIN;P-25-113
+OF-25-0226;02.09.2025;D-15015;Attikaabschluss Arth;PROJ;Pauschalofferte;49465.00;A;RBE;P-25-106
+OF-25-0227;02.09.2025;D-10339;Dachrandsanierung Steinen;PROJ;Eingabe LV;64035.00;V;RBE;
+OF-25-0228;03.09.2025;D-10934;Carport Doppel Unteriberg;SYST;Konfigurationsofferte;13415.00;A;DIN;P-25-131
+OF-25-0229;04.09.2025;D-10304;Fassadenbekleidung Steinen;PROJ;Eingabe LV;210980.00;V;DIN;
+OF-25-0230;04.09.2025;D-14504;Balkongeländer Luzern;PROJ;Richtofferte;62260.00;A;SKÄ;P-25-111
+OF-25-0231;08.09.2025;D-10171;Flachdachsanierung Lauerz;PROJ;Eingabe LV;219660.00;V;RBE;
+OF-25-0232;08.09.2025;D-10864;Velounterstand Schwyz;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-25-0233;08.09.2025;D-13468;Carport Einzel Rothenthurm;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-25-0234;08.09.2025;D-10493;Fassadenbekleidung Brunnen;PROJ;Eingabe LV;106315.00;V;DIN;
+OF-25-0235;11.09.2025;D-14427;Geländerprüfung Brunnen;BERA;Honorarofferte;4295.00;A;NSU;P-25-130
+OF-25-0236;12.09.2025;D-12229;Balkongeländer Sattel;PROJ;Richtofferte;56915.00;A;SKÄ;P-25-139
+OF-25-0237;15.09.2025;D-11354;Vordach Hauseingang Oberiberg;SYST;Richtofferte;4500.00;V;DIN;
+OF-25-0238;15.09.2025;D-13356;Treppengeländer innen Brunnen;PROJ;Einheitspreisofferte;49265.00;V;SKÄ;
+OF-25-0239;15.09.2025;D-10262;Variantenstudie Terrasse Lauerz;BERA;Honorarofferte;9885.00;A;CSC;P-25-116
+OF-25-0240;16.09.2025;D-12992;Velounterstand Seewen;SYST;Konfigurationsofferte;10300.00;A;DIN;P-25-125
+OF-25-0241;16.09.2025;D-10101;Zustandsaufnahme Flachdach Brunnen;BERA;Honorarofferte;6272.80;A;NSU;P-25-102
+OF-25-0242;17.09.2025;D-10444;Flachdachsanierung Ibach;PROJ;Richtofferte;43915.00;A;RBE;P-25-120
+OF-25-0243;22.09.2025;D-12747;Terrassensanierung Oberiberg;PROJ;Richtofferte;66240.00;V;RBE;
+OF-25-0244;22.09.2025;D-10171;Flachdachsanierung Lauerz;PROJ;Eingabe LV;79265.00;V;RBE;
+OF-25-0245;22.09.2025;D-10283;Carport Einzel Altdorf;SYST;Richtofferte;5840.00;V;DIN;
+OF-25-0246;24.09.2025;D-12950;Dachrandsanierung Morschach;PROJ;Einheitspreisofferte;52140.00;V;RBE;
+OF-25-0247;24.09.2025;D-14581;Velounterstand Küssnacht;SYST;Konfigurationsofferte;18235.00;A;DIN;P-25-137
+OF-25-0248;24.09.2025;D-13678;Sanierungskonzept Fassade Steinen;BERA;Honorarofferte;8795.00;A;CSC;P-25-135
+OF-25-0249;25.09.2025;D-12831;Aussentreppe Stahl Oberiberg;PROJ;Einheitspreisofferte;91625.00;V;SKÄ;
+OF-25-0250;25.09.2025;D-11480;Carport Doppel Ibach;SYST;Konfigurationsofferte;25520.00;V;DIN;
+OF-25-0251;25.09.2025;D-11522;Carport Doppel Morschach;SYST;Konfigurationsofferte;7025.00;A;DIN;P-25-119
+OF-25-0252;25.09.2025;D-12047;Vordach Hauseingang Brunnen;SYST;Konfigurationsofferte;9255.00;A;DIN;P-25-134
+OF-25-0253;29.09.2025;D-12138;Vordach Hauseingang Ibach;SYST;Konfigurationsofferte;5895.00;V;DIN;
+OF-25-0254;29.09.2025;D-11690;Aussentreppe Stahl Gersau;PROJ;Einheitspreisofferte;34260.00;Z;SKÄ;
+OF-25-0255;29.09.2025;D-10626;Terrassensanierung Lauerz;PROJ;Einheitspreisofferte;180000.00;V;RBE;
+OF-25-0256;01.10.2025;D-14728;Geländerprüfung Ibach;BERA;Honorarofferte;10460.00;V;NSU;
+OF-25-0257;03.10.2025;D-14917;Velounterstand Einsiedeln;SYST;Konfigurationsofferte;19525.00;A;DIN;P-25-136
+OF-25-0258;03.10.2025;D-10745;Machbarkeitsstudie Dachaufbau Schwyz;BERA;Honorarofferte;9715.00;V;CSC;
+OF-25-0259;03.10.2025;D-14910;Vordach Hauseingang Goldau;SYST;Konfigurationsofferte;21580.00;A;DIN;P-25-123
+OF-25-0260;06.10.2025;D-11039;Vordach Hauseingang Schwyz;SYST;Konfigurationsofferte;18075.00;Z;DIN;
+OF-25-0261;06.10.2025;D-14077;Treppengeländer innen Morschach;PROJ;Richtofferte;35395.00;V;SKÄ;
+OF-25-0262;06.10.2025;D-10822;Terrassensanierung Wädenswil;PROJ;Einheitspreisofferte;61610.00;V;RBE;
+OF-25-0263;06.10.2025;D-11242;Zustandsaufnahme Flachdach Lauerz;BERA;Honorarofferte;7000.00;A;NSU;P-25-124
+OF-25-0264;06.10.2025;D-11263;Balkongeländer Küssnacht;PROJ;Einheitspreisofferte;69260.00;A;SKÄ;P-25-122
+OF-25-0265;06.10.2025;D-10220;Aussentreppe Stahl Seewen;PROJ;Einheitspreisofferte;94350.00;V;SKÄ;
+OF-25-0266;06.10.2025;D-13440;Vordach Hauseingang Seewen;SYST;Richtofferte;8285.00;A;DIN;P-25-112
+OF-25-0267;08.10.2025;D-10584;Attikaabschluss Morschach;PROJ;Pauschalofferte;44520.00;V;RBE;
+OF-25-0268;08.10.2025;D-13797;Balkongeländer Einsiedeln;PROJ;Einheitspreisofferte;55275.00;Z;SKÄ;
+OF-25-0269;13.10.2025;D-10801;Velounterstand Ibach;SYST;Konfigurationsofferte;18935.00;A;DIN;P-25-117
+OF-25-0270;13.10.2025;D-11725;Sanierungskonzept Fassade Steinen;BERA;Honorarofferte;2500.00;V;NSU;
+OF-25-0271;13.10.2025;D-14532;Aussentreppe Stahl Steinen;PROJ;Pauschalofferte;73010.00;V;SKÄ;
+OF-25-0272;14.10.2025;D-11326;Vordach Hauseingang Seewen;SYST;Richtofferte;6450.00;A;DIN;P-25-132
+OF-25-0273;14.10.2025;D-12810;Variantenstudie Terrasse Lauerz;BERA;Honorarofferte;11095.00;V;CSC;
+OF-25-0274;15.10.2025;D-13496;Machbarkeitsstudie Dachaufbau Altdorf;BERA;Honorarofferte;3995.00;V;CSC;
+OF-25-0275;16.10.2025;D-11067;Treppengeländer innen Küssnacht;PROJ;Pauschalofferte;62730.00;V;SKÄ;
+OF-25-0276;20.10.2025;D-11249;Balkongeländer Unteriberg;PROJ;Einheitspreisofferte;77645.00;A;SKÄ;P-25-145
+OF-25-0277;20.10.2025;D-11151;Carport Einzel Morschach;SYST;Konfigurationsofferte;4500.00;Z;DIN;
+OF-25-0278;20.10.2025;D-13636;Dachrandsanierung Lauerz;PROJ;Einheitspreisofferte;47820.00;V;RBE;
+OF-25-0279;21.10.2025;D-10178;Flachdachsanierung Küssnacht;PROJ;Eingabe LV;111275.00;A;RBE;P-25-127
+OF-25-0280;22.10.2025;D-13188;Velounterstand Morschach;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-25-0281;23.10.2025;D-13496;Carport Einzel Altdorf;SYST;Konfigurationsofferte;9685.00;V;DIN;
+OF-25-0282;24.10.2025;D-11669;Spenglerarbeiten Steildach Morschach;PROJ;Richtofferte;40445.00;A;RBE;P-25-129
+OF-25-0283;27.10.2025;D-10304;Treppengeländer innen Steinen;PROJ;Eingabe LV;194175.00;V;SKÄ;
+OF-25-0284;27.10.2025;D-11053;Carport Doppel Seewen;SYST;Richtofferte;16265.00;A;DIN;P-25-151
+OF-25-0285;27.10.2025;D-12838;Machbarkeitsstudie Dachaufbau Gersau;BERA;Honorarofferte;6475.00;V;CSC;
+OF-25-0286;27.10.2025;D-11697;Fassadenbekleidung Gersau;PROJ;Einheitspreisofferte;114285.00;V;DIN;
+OF-25-0287;27.10.2025;D-14140;Carport Doppel Unteriberg;SYST;Konfigurationsofferte;7880.00;A;DIN;P-25-133
+OF-25-0288;27.10.2025;D-12040;Spenglerarbeiten Steildach Lauerz;PROJ;Richtofferte;156285.00;A;RBE;P-25-141
+OF-25-0289;27.10.2025;D-12005;Fassadenbekleidung Küssnacht;PROJ;Einheitspreisofferte;7060.00;A;DIN;P-25-153
+OF-25-0290;03.11.2025;D-10591;Fassadenbekleidung Wädenswil;PROJ;Richtofferte;45750.00;V;DIN;
+OF-25-0291;03.11.2025;D-12418;Vordach Hauseingang Oberiberg;SYST;Konfigurationsofferte;8070.00;Z;DIN;
+OF-25-0292;03.11.2025;D-13279;Flachdachsanierung Baar;PROJ;Richtofferte;37550.00;V;RBE;
+OF-25-0293;05.11.2025;D-14497;Carport Doppel Lauerz;SYST;Konfigurationsofferte;5710.00;V;DIN;
+OF-25-0294;05.11.2025;D-11942;Balkongeländer Steinen;PROJ;Pauschalofferte;27010.00;A;SKÄ;P-25-126
+OF-25-0295;06.11.2025;D-10934;Vordach Hauseingang Unteriberg;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-140
+OF-25-0296;07.11.2025;D-12285;Machbarkeitsstudie Dachaufbau Morschach;BERA;Honorarofferte;3485.00;A;NSU;P-25-154
+OF-25-0297;07.11.2025;D-14784;Flachdachsanierung Zürich;PROJ;Einheitspreisofferte;25820.00;Z;RBE;
+OF-25-0298;07.11.2025;D-13951;Vordach Hauseingang Küssnacht;SYST;Konfigurationsofferte;11000.00;V;DIN;
+OF-25-0299;10.11.2025;D-13412;Vordach Hauseingang Morschach;SYST;Konfigurationsofferte;7985.00;V;DIN;
+OF-25-0300;12.11.2025;D-13097;Vordach Hauseingang Zug;SYST;Konfigurationsofferte;5115.00;A;DIN;P-25-155
+OF-25-0301;12.11.2025;D-10339;Flachdachsanierung Steinen;PROJ;Eingabe LV;105595.00;Z;RBE;
+OF-25-0302;13.11.2025;D-10178;Terrassensanierung Küssnacht;PROJ;Eingabe LV;140185.00;V;RBE;
+OF-25-0303;14.11.2025;D-14511;Variantenstudie Terrasse Steinen;BERA;Honorarofferte;8800.00;A;NSU;P-25-149
+OF-25-0304;14.11.2025;D-14938;Variantenstudie Terrasse Altdorf;BERA;Honorarofferte;2680.00;A;NSU;P-25-156
+OF-25-0305;17.11.2025;D-13426;Balkongeländer Baar;PROJ;Einheitspreisofferte;80925.00;V;SKÄ;
+OF-25-0306;17.11.2025;D-10465;Velounterstand Gersau;SYST;Konfigurationsofferte;10660.00;A;DIN;P-25-150
+OF-25-0307;18.11.2025;D-12271;Velounterstand Küssnacht;SYST;Richtofferte;8370.00;A;DIN;P-25-146
+OF-25-0308;19.11.2025;D-14245;Sanierungskonzept Fassade Lauerz;BERA;Honorarofferte;4480.00;V;CSC;
+OF-25-0309;19.11.2025;D-12649;Carport Einzel Ibach;SYST;Konfigurationsofferte;6325.00;V;DIN;
+OF-25-0310;24.11.2025;D-10591;Carport Einzel Wädenswil;SYST;Konfigurationsofferte;6580.00;V;DIN;
+OF-25-0311;24.11.2025;D-11347;Spenglerarbeiten Steildach Seewen;PROJ;Pauschalofferte;48945.00;Z;RBE;
+OF-25-0312;24.11.2025;D-10339;Flachdachsanierung Steinen;PROJ;Eingabe LV;64635.00;V;RBE;
+OF-25-0313;24.11.2025;D-10290;Balkongeländer Unteriberg;PROJ;Eingabe LV;138290.00;V;SKÄ;
+OF-25-0314;25.11.2025;D-11298;Sanierungskonzept Fassade Einsiedeln;BERA;Honorarofferte;2500.00;V;NSU;
+OF-25-0315;25.11.2025;D-13062;Velounterstand Seewen;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-128
+OF-25-0316;25.11.2025;D-13657;Velounterstand Brunnen;SYST;Konfigurationsofferte;5305.00;A;DIN;P-25-138
+OF-25-0317;26.11.2025;D-12460;Machbarkeitsstudie Dachaufbau Arth;BERA;Honorarofferte;16000.00;V;NSU;
+OF-25-0318;28.11.2025;D-13692;Carport Doppel Lauerz;SYST;Konfigurationsofferte;4500.00;V;DIN;
+OF-25-0319;01.12.2025;D-11473;Flachdachsanierung Steinen;PROJ;Einheitspreisofferte;19360.00;V;RBE;
+OF-25-0320;05.12.2025;D-11480;Vordach Hauseingang Ibach;SYST;Konfigurationsofferte;10565.00;V;DIN;
+OF-25-0321;05.12.2025;D-10794;Terrassensanierung Rothenthurm;PROJ;Pauschalofferte;12750.00;V;RBE;
+OF-25-0322;09.12.2025;D-14595;Velounterstand Sattel;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-159
+OF-25-0323;09.12.2025;D-13797;Carport Doppel Einsiedeln;SYST;Konfigurationsofferte;6800.00;A;DIN;P-25-144
+OF-25-0324;09.12.2025;D-10402;Vordach Hauseingang Steinen;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-161
+OF-25-0325;09.12.2025;D-10969;Flachdachsanierung Seewen;PROJ;Einheitspreisofferte;109400.00;V;RBE;
+OF-25-0326;09.12.2025;D-11956;Spenglerarbeiten Steildach Ibach;PROJ;Pauschalofferte;92860.00;V;RBE;
+OF-25-0327;10.12.2025;D-13881;Velounterstand Sattel;SYST;Konfigurationsofferte;20075.00;A;DIN;P-25-148
+OF-25-0328;11.12.2025;D-10731;Carport Doppel Arth;SYST;Konfigurationsofferte;6525.00;A;DIN;P-25-157
+OF-25-0329;11.12.2025;D-13097;Aussentreppe Stahl Zug;PROJ;Richtofferte;58345.00;V;SKÄ;
+OF-25-0330;11.12.2025;D-11655;Vordach Hauseingang Brunnen;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-152
+OF-25-0331;11.12.2025;D-11802;Aussentreppe Stahl Ibach;PROJ;Einheitspreisofferte;36590.00;V;SKÄ;
+OF-25-0332;15.12.2025;D-11249;Carport Einzel Unteriberg;SYST;Konfigurationsofferte;26875.00;A;DIN;P-25-142
+OF-25-0333;16.12.2025;D-11004;Carport Doppel Seewen;SYST;Konfigurationsofferte;15930.00;A;DIN;P-25-147
+OF-25-0334;17.12.2025;D-10367;Fassadenbekleidung Schwyz;PROJ;Eingabe LV;90875.00;A;DIN;P-25-160
+OF-25-0335;17.12.2025;D-14084;Geländerprüfung Steinen;BERA;Honorarofferte;11190.00;A;CSC;P-25-162
+OF-25-0336;22.12.2025;D-12509;Aussentreppe Stahl Morschach;PROJ;Richtofferte;65575.00;A;SKÄ;P-25-143
+OF-25-0337;22.12.2025;D-10304;Spenglerarbeiten Steildach Steinen;PROJ;Eingabe LV;73865.00;V;RBE;
+OF-25-0338;22.12.2025;D-12439;Velounterstand Seewen;SYST;Konfigurationsofferte;6915.00;Z;DIN;
+OF-25-0339;24.12.2025;D-12628;Balkongeländer Seewen;PROJ;Pauschalofferte;53440.00;V;SKÄ;
+OF-25-0340;29.12.2025;D-10185;Terrassensanierung Zug;PROJ;Eingabe LV;52915.00;V;RBE;
+OF-25-0341;29.12.2025;D-12516;Velounterstand Altdorf;SYST;Konfigurationsofferte;4500.00;A;DIN;P-25-158
+OF-25-0342;29.12.2025;D-10220;Carport Einzel Seewen;SYST;Richtofferte;5880.00;A;DIN;P-25-163
+OF-26-0001;02.01.2026;D-10178;Aussentreppe Stahl Küssnacht;PROJ;Eingabe LV;241670.00;V;SKÄ;
+OF-26-0002;02.01.2026;D-13832;Velounterstand Ibach;SYST;Konfigurationsofferte;4500.00;A;DIN;P-26-002
+OF-26-0003;02.01.2026;D-10913;Attikaabschluss Rothenthurm;PROJ;Richtofferte;35855.00;Z;RBE;
+OF-26-0004;02.01.2026;D-14301;Vordach Hauseingang Pfäffikon SZ;SYST;Richtofferte;13380.00;V;DIN;
+OF-26-0005;05.01.2026;D-14861;Dachrandsanierung Sattel;PROJ;Einheitspreisofferte;122485.00;V;RBE;
+OF-26-0006;05.01.2026;D-12719;Dachrandsanierung Morschach;PROJ;Einheitspreisofferte;51960.00;A;RBE;P-26-001
+OF-26-0007;05.01.2026;D-10997;Fassadenbekleidung Steinen;PROJ;Richtofferte;53335.00;A;DIN;P-26-003
+OF-26-0008;07.01.2026;D-12299;Spenglerarbeiten Steildach Küssnacht;PROJ;Richtofferte;53470.00;V;RBE;
+OF-26-0009;07.01.2026;D-11711;Dachrandsanierung Morschach;PROJ;Einheitspreisofferte;37460.00;V;RBE;
+OF-26-0010;07.01.2026;D-10192;Dachrandsanierung Altdorf;PROJ;Eingabe LV;57680.00;A;RBE;P-26-010
+OF-26-0011;07.01.2026;D-14427;Carport Doppel Brunnen;SYST;Richtofferte;5500.00;Z;DIN;
+OF-26-0012;08.01.2026;D-12075;Dachrandsanierung Lauerz;PROJ;Einheitspreisofferte;10935.00;V;RBE;
+OF-26-0013;09.01.2026;D-13517;Attikaabschluss Arth;PROJ;Pauschalofferte;30500.00;Z;RBE;
+OF-26-0014;12.01.2026;D-13643;Vordach Hauseingang Küssnacht;SYST;Konfigurationsofferte;13255.00;V;DIN;
+OF-26-0015;12.01.2026;D-12719;Velounterstand Morschach;SYST;Konfigurationsofferte;8185.00;V;DIN;
+OF-26-0016;12.01.2026;D-14714;Balkongeländer Brunnen;PROJ;Einheitspreisofferte;48645.00;V;SKÄ;
+OF-26-0017;12.01.2026;D-11872;Vordach Hauseingang Morschach;SYST;Konfigurationsofferte;10705.00;A;DIN;P-26-018
+OF-26-0018;14.01.2026;D-10927;Velounterstand Baar;SYST;Konfigurationsofferte;5480.00;V;DIN;
+OF-26-0019;15.01.2026;D-14651;Aussentreppe Stahl Brunnen;PROJ;Einheitspreisofferte;65990.00;Z;SKÄ;
+OF-26-0020;16.01.2026;D-13230;Dachrandsanierung Morschach;PROJ;Einheitspreisofferte;54575.00;V;RBE;
+OF-26-0021;19.01.2026;D-14455;Treppengeländer innen Schwyz;PROJ;Pauschalofferte;43400.00;V;SKÄ;
+OF-26-0022;21.01.2026;D-11928;Velounterstand Küssnacht;SYST;Konfigurationsofferte;18625.00;Z;DIN;
+OF-26-0023;21.01.2026;D-14301;Sanierungskonzept Fassade Pfäffikon SZ;BERA;Honorarofferte;8025.00;V;NSU;
+OF-26-0024;21.01.2026;D-10297;Sanierungskonzept Fassade Gersau;BERA;Honorarofferte;6780.00;A;CSC;P-26-004
+OF-26-0025;21.01.2026;D-13846;Fassadenbekleidung Brunnen;PROJ;Einheitspreisofferte;60500.00;Z;DIN;
+OF-26-0026;22.01.2026;D-13454;Fassadenbekleidung Seewen;PROJ;Einheitspreisofferte;23035.00;V;DIN;
+OF-26-0027;22.01.2026;D-12642;Flachdachsanierung Einsiedeln;PROJ;Richtofferte;129825.00;Z;RBE;
+OF-26-0028;26.01.2026;D-14252;Vordach Hauseingang Schwyz;SYST;Richtofferte;15935.00;V;DIN;
+OF-26-0029;26.01.2026;D-11550;Attikaabschluss Steinen;PROJ;Pauschalofferte;24695.00;A;RBE;P-26-007
+OF-26-0030;26.01.2026;D-12887;Flachdachsanierung Altdorf;PROJ;Pauschalofferte;55150.00;V;RBE;
+OF-26-0031;26.01.2026;D-10990;Spenglerarbeiten Steildach Goldau;PROJ;Einheitspreisofferte;34590.00;V;RBE;
+OF-26-0032;26.01.2026;D-11452;Vordach Hauseingang Sattel;SYST;Konfigurationsofferte;23540.00;A;DIN;P-26-014
+OF-26-0033;26.01.2026;D-14224;Dachrandsanierung Lauerz;PROJ;Richtofferte;66320.00;A;RBE;P-26-005
+OF-26-0034;28.01.2026;D-10304;Terrassensanierung Steinen;PROJ;Eingabe LV;144635.00;V;RBE;
+OF-26-0035;02.02.2026;D-14805;Flachdachsanierung Morschach;PROJ;Einheitspreisofferte;37035.00;A;RBE;P-26-008
+OF-26-0036;02.02.2026;D-12460;Machbarkeitsstudie Dachaufbau Arth;BERA;Honorarofferte;3940.00;A;NSU;P-26-020
+OF-26-0037;09.02.2026;D-15043;Geländerprüfung Pfäffikon SZ;BERA;Honorarofferte;3655.00;A;NSU;P-26-026
+OF-26-0038;09.02.2026;D-12509;Carport Einzel Morschach;SYST;Richtofferte;10100.00;A;DIN;P-26-019
+OF-26-0039;09.02.2026;D-14777;Aussentreppe Stahl Steinen;PROJ;Einheitspreisofferte;39040.00;A;SKÄ;P-26-013
+OF-26-0040;16.02.2026;D-14959;Dachrandsanierung Oberiberg;PROJ;Richtofferte;41195.00;V;RBE;
+OF-26-0041;16.02.2026;D-10724;Dachrandsanierung Morschach;PROJ;Einheitspreisofferte;14495.00;V;RBE;
+OF-26-0042;16.02.2026;D-12838;Velounterstand Gersau;SYST;Konfigurationsofferte;12580.00;A;DIN;P-26-021
+OF-26-0043;16.02.2026;D-10731;Vordach Hauseingang Arth;SYST;Richtofferte;4500.00;A;DIN;P-26-011
+OF-26-0044;20.02.2026;D-14217;Fassadenbekleidung Unteriberg;PROJ;Pauschalofferte;78595.00;A;DIN;P-26-006
+OF-26-0045;20.02.2026;D-13797;Flachdachsanierung Einsiedeln;PROJ;Einheitspreisofferte;60770.00;V;RBE;
+OF-26-0046;23.02.2026;D-12775;Dachrandsanierung Zug;PROJ;Pauschalofferte;63885.00;V;RBE;
+OF-26-0047;23.02.2026;D-12775;Vordach Hauseingang Zug;SYST;Konfigurationsofferte;16440.00;V;DIN;
+OF-26-0048;23.02.2026;D-12992;Dachrandsanierung Seewen;PROJ;Einheitspreisofferte;20110.00;V;RBE;
+OF-26-0049;23.02.2026;D-14070;Velounterstand Steinen;SYST;Richtofferte;4925.00;A;DIN;P-26-009
+OF-26-0050;24.02.2026;D-10269;Variantenstudie Terrasse Morschach;BERA;Honorarofferte;8900.00;A;CSC;P-26-027
+OF-26-0051;27.02.2026;KC-20284;Balkongeländer Steinen;PROJ;Einheitspreisofferte;99620.00;A;SKÄ;P-26-017
+OF-26-0052;02.03.2026;D-12411;Velounterstand Morschach;SYST;Konfigurationsofferte;7845.00;A;DIN;P-26-015
+OF-26-0053;02.03.2026;D-11795;Balkongeländer Ibach;PROJ;Richtofferte;24160.00;O;SKÄ;
+OF-26-0054;02.03.2026;D-14336;Velounterstand Sattel;SYST;Konfigurationsofferte;8780.00;O;DIN;
+OF-26-0055;02.03.2026;D-10955;Velounterstand Sattel;SYST;Richtofferte;22105.00;A;DIN;P-26-031
+OF-26-0056;02.03.2026;D-11697;Aussentreppe Stahl Gersau;PROJ;Pauschalofferte;45955.00;V;SKÄ;
+OF-26-0057;02.03.2026;D-10570;Carport Doppel Ibach;SYST;Konfigurationsofferte;12075.00;O;DIN;
+OF-26-0058;02.03.2026;D-10696;Treppengeländer innen Arth;PROJ;Pauschalofferte;28815.00;A;SKÄ;P-26-012
+OF-26-0059;04.03.2026;D-11578;Spenglerarbeiten Steildach Seewen;PROJ;Pauschalofferte;63795.00;A;RBE;P-26-029
+OF-26-0060;06.03.2026;D-12852;Sanierungskonzept Fassade Rothenthurm;BERA;Honorarofferte;3735.00;O;NSU;
+OF-26-0061;09.03.2026;D-13629;Carport Einzel Ibach;SYST;Konfigurationsofferte;9315.00;O;DIN;
+OF-26-0062;11.03.2026;D-13069;Carport Einzel Goldau;SYST;Konfigurationsofferte;17990.00;O;DIN;
+OF-26-0063;11.03.2026;D-14777;Attikaabschluss Steinen;PROJ;Einheitspreisofferte;96390.00;O;RBE;
+OF-26-0064;12.03.2026;D-14980;Flachdachsanierung Einsiedeln;PROJ;Einheitspreisofferte;55040.00;O;RBE;
+OF-26-0065;16.03.2026;D-12089;Carport Einzel Seewen;SYST;Richtofferte;6955.00;A;DIN;P-26-016
+OF-26-0066;16.03.2026;D-14938;Sanierungskonzept Fassade Altdorf;BERA;Honorarofferte;5220.00;O;NSU;
+OF-26-0067;18.03.2026;D-10346;Attikaabschluss Ibach;PROJ;Pauschalofferte;25080.00;O;RBE;
+OF-26-0068;18.03.2026;D-10395;Vordach Hauseingang Seewen;SYST;Konfigurationsofferte;4500.00;O;DIN;
+OF-26-0069;20.03.2026;D-11788;Velounterstand Einsiedeln;SYST;Konfigurationsofferte;20210.00;A;DIN;P-26-024
+OF-26-0070;20.03.2026;D-12243;Velounterstand Schwyz;SYST;Konfigurationsofferte;15210.00;O;DIN;
+OF-26-0071;23.03.2026;D-11368;Balkongeländer Steinen;PROJ;Einheitspreisofferte;65355.00;A;SKÄ;P-26-030
+OF-26-0072;23.03.2026;D-12397;Vordach Hauseingang Gersau;SYST;Richtofferte;31670.00;V;DIN;
+OF-26-0073;23.03.2026;D-10178;Spenglerarbeiten Steildach Küssnacht;PROJ;Eingabe LV;350000.00;A;RBE;P-26-022
+OF-26-0074;25.03.2026;D-10290;Balkongeländer Unteriberg;PROJ;Eingabe LV;151335.00;O;SKÄ;
+OF-26-0075;25.03.2026;D-12446;Vordach Hauseingang Altdorf;SYST;Konfigurationsofferte;31775.00;O;DIN;
+OF-26-0076;25.03.2026;D-12432;Flachdachsanierung Arth;PROJ;Richtofferte;38390.00;O;RBE;
+OF-26-0077;26.03.2026;D-13629;Spenglerarbeiten Steildach Ibach;PROJ;Einheitspreisofferte;35510.00;O;RBE;
+OF-26-0078;26.03.2026;D-12572;Terrassensanierung Morschach;PROJ;Richtofferte;180000.00;V;RBE;
+OF-26-0079;27.03.2026;D-12523;Fassadenbekleidung Gersau;PROJ;Einheitspreisofferte;81480.00;O;DIN;
+OF-26-0080;30.03.2026;D-10367;Fassadenbekleidung Schwyz;PROJ;Eingabe LV;194770.00;V;DIN;
+OF-26-0081;07.04.2026;D-10346;Fassadenbekleidung Ibach;PROJ;Einheitspreisofferte;49055.00;O;DIN;
+OF-26-0082;07.04.2026;D-10493;Aussentreppe Stahl Brunnen;PROJ;Eingabe LV;40000.00;O;SKÄ;
+OF-26-0083;07.04.2026;D-12544;Dachrandsanierung Rothenthurm;PROJ;Einheitspreisofferte;70800.00;O;RBE;
+OF-26-0084;07.04.2026;D-12096;Dachrandsanierung Küssnacht;PROJ;Pauschalofferte;47120.00;O;RBE;
+OF-26-0085;07.04.2026;D-14322;Spenglerarbeiten Steildach Seewen;PROJ;Einheitspreisofferte;86885.00;O;RBE;
+OF-26-0086;07.04.2026;D-10598;Velounterstand Seewen;SYST;Konfigurationsofferte;6980.00;O;DIN;
+OF-26-0087;08.04.2026;D-11669;Vordach Hauseingang Morschach;SYST;Konfigurationsofferte;12340.00;A;DIN;P-26-023
+OF-26-0088;08.04.2026;D-14630;Vordach Hauseingang Arth;SYST;Richtofferte;10535.00;A;DIN;P-26-032
+OF-26-0089;09.04.2026;D-12607;Terrassensanierung Oberiberg;PROJ;Einheitspreisofferte;73590.00;O;RBE;
+OF-26-0090;13.04.2026;D-12313;Treppengeländer innen Unteriberg;PROJ;Einheitspreisofferte;80610.00;V;SKÄ;
+OF-26-0091;13.04.2026;D-11256;Terrassensanierung Küssnacht;PROJ;Richtofferte;56650.00;A;RBE;P-26-028
+OF-26-0092;14.04.2026;D-10696;Carport Doppel Arth;SYST;Konfigurationsofferte;4500.00;O;DIN;
+OF-26-0093;14.04.2026;D-10178;Fassadenbekleidung Küssnacht;PROJ;Eingabe LV;166160.00;O;DIN;
+OF-26-0094;14.04.2026;D-10437;Dachrandsanierung Oberiberg;PROJ;Pauschalofferte;86700.00;V;RBE;
+OF-26-0095;15.04.2026;D-10416;Balkongeländer Zug;PROJ;Einheitspreisofferte;53905.00;V;SKÄ;
+OF-26-0096;15.04.2026;D-13881;Variantenstudie Terrasse Sattel;BERA;Honorarofferte;12375.00;V;CSC;
+OF-26-0097;15.04.2026;D-13419;Fassadenbekleidung Ibach;PROJ;Richtofferte;38920.00;O;DIN;
+OF-26-0098;15.04.2026;D-12789;Sanierungskonzept Fassade Zürich;BERA;Honorarofferte;2885.00;O;CSC;
+OF-26-0099;16.04.2026;D-14357;Variantenstudie Terrasse Lauerz;BERA;Honorarofferte;5200.00;O;NSU;
+OF-26-0100;20.04.2026;D-11949;Flachdachsanierung Brunnen;PROJ;Einheitspreisofferte;53875.00;O;RBE;
+OF-26-0101;20.04.2026;D-11214;Geländerprüfung Ibach;BERA;Honorarofferte;2500.00;O;NSU;
+OF-26-0102;20.04.2026;D-12313;Variantenstudie Terrasse Unteriberg;BERA;Honorarofferte;4405.00;A;NSU;P-26-025
+OF-26-0103;22.04.2026;D-14189;Flachdachsanierung Küssnacht;PROJ;Einheitspreisofferte;17495.00;O;RBE;
+OF-26-0104;22.04.2026;D-13930;Aussentreppe Stahl Einsiedeln;PROJ;Einheitspreisofferte;22710.00;O;SKÄ;
+OF-26-0105;24.04.2026;D-11095;Sanierungskonzept Fassade Brunnen;BERA;Honorarofferte;4525.00;V;NSU;
+OF-26-0106;27.04.2026;D-13867;Machbarkeitsstudie Dachaufbau Schwyz;BERA;Honorarofferte;5245.00;O;CSC;
+OF-26-0107;27.04.2026;D-10647;Carport Doppel Brunnen;SYST;Konfigurationsofferte;4500.00;O;DIN;
+OF-26-0108;27.04.2026;D-12166;Variantenstudie Terrasse Seewen;BERA;Honorarofferte;4000.00;A;CSC;P-26-033
+OF-26-0109;27.04.2026;D-13818;Treppengeländer innen Ibach;PROJ;Einheitspreisofferte;94585.00;O;SKÄ;
+OF-26-0110;28.04.2026;D-13244;Vordach Hauseingang Einsiedeln;SYST;Konfigurationsofferte;5575.00;O;DIN;

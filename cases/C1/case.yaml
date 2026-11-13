@@ -1,0 +1,417 @@
+# Ground truth for Case C1 (ADR 0006). Written first; all C1 documents derive from it.
+# "expected" is filled by generation/scripts/build_case.py via pricing.py, never by hand.
+id: C1
+title: Terrassensanierung Attikawohnung Seestrasse 18, Brunnen
+business_line: custom_build
+offer_type: unit_price_offer
+difficulty: medium
+dates:
+  first_contact: 2026-05-12
+  offer: 2026-07-07
+  valid_until: 2026-10-07
+  owners_meeting: 2026-08-27
+
+customer:                      # the Besteller is the condominium, represented by its property manager
+  ref: new
+  besteller: STWEG Seestrasse 18
+  represented_by: Talkessel Immobilien-Treuhand AG (D-10115, KC-20017), Frau Claudia Kälin
+  initiator: Thomas Reding, owner of the attic flat (private, not the Besteller)
+object:
+  address: Seestrasse 18, 6440 Brunnen
+  description: Attikaterrasse (4. OG) über beheizten Wohnungen, Baujahr 1994, Steinplatten in Splitt auf 2-lagiger Bitumenabdichtung, Kupferblech am Dachrand, Stahlgeländer h 1.00 m an den offenen Rändern. Undicht, Wasserflecken in der Wohnung 3. OG.
+staff: {owner: RBe, involved: [EFoe, BUl, CSc, LMa]}
+
+facts:                         # single numeric source; derived values computed by build_case.py (DL-156)
+  terrace_main: {width: 12.40, depth: 5.20}     # south of the attic, x 0..12.40
+  terrace_wing: {width: 4.40, depth: 6.50}      # east part "Sitzplatz", x 12.40..16.80
+  attic_depth_behind_main: 8.00
+  window_doors: 5                               # 2 rooms + 3 living room, all on the main terrace
+  drains: 2
+  emergency_overflows_existing: 0
+  storey: 4
+  edge_material: Kupfer
+  railing: open edges                           # steel railing on all open edges (length = edge_open)
+  crane_hours: 16                               # 3 lifts: strip-out, build-up material, slabs back
+checks:                        # evaluated by build_case.py; F = facts incl. derived, qty(code) = offered quantity (base lines)
+  - "round(F.area) == 93"
+  - "qty('20.110.01') == round(F.area)"
+  - "qty('30.120.01') == ceil(F.area * 1.10)"
+  - "qty('30.130.01') == ceil(F.edge_open + F.edge_facade)"
+  - "qty('20.130.01') == ceil(F.edge_open + F.edge_facade)"
+  - "qty('60.100.01') == ceil(F.edge_open * 1.05)"
+  - "qty('60.120.01') == ceil(F.edge_facade * 1.05)"
+  - "qty('10.160.01') == ceil(F.edge_open) == qty('80.200.06')"
+  - "qty('30.140.01') == F.window_doors == qty('60.160.02') == PLAN.terrace_doors"
+  - "qty('30.150.03') == F.drains == PLAN.drains == qty('30.150.02')"
+  - "qty('10.150.01') == ceil(F.area / 60)"
+  - "qty('10.120.01') == F.crane_hours"
+  - "qty('50.100.04') == round(F.area)"
+  - "qty('50.150.01') == ceil(F.area * 0.10)"
+  - "qty('50.140.01') == ceil(F.edge_open) == opt('80.200.07')"
+  - "opt('50.100.01') == ceil(F.area * 1.10)"
+  - "opt('30.220.01') == F.window_doors"
+scope_facts:
+  - "Terrassenfläche effektiv 93.08 m2: Hauptfläche 12.40 x 5.20 m = 64.48 m2 plus Sitzplatz 4.40 x 6.50 m = 28.60 m2 (L-Form)."
+  - "Offene Ränder mit Kupfer-Winkelblech und Stahlgeländer (Süd 16.80 + West 5.20 + Ost 6.50): 28.5 m. Anschluss an Fassade (12.40 + Versatz 1.30 + 4.40): 18.1 m."
+  - "5 Fenstertüren, 2 Dachabläufe, keine Notüberläufe vorhanden; Küche hat ein Fenster (keine Tür) zum Sitzplatz."
+  - "Attika im 4. OG, Material nur per Kran; Bewilligung öffentlicher Grund bei der Gemeinde Ingenbohl nötig."
+  - "Herr Reding vom 25.05. bis 20.07. im Ausland; Zugang zur Terrasse nur über seine Wohnung. Deshalb keine Besichtigung vor der Offerte."
+  - "Wohnung 3. OG bewohnt; Verwaltung verlangt Nachweis der Dichtheit nach Abschluss."
+  - "Abdichtung gemeinschaftlich (STWEG), Plattenbelag Sondernutzungsrecht Attika: Grundofferte mit Wiederverwendung der Platten, neuer Belag als Mehrpreis zulasten Eigentümer."
+  - "Neuer Aufbau rund 12 cm höher als Bestand: Schwellen der Fenstertüren und Geländerhöhe vor Ort zu prüfen."
+assumptions:
+  - "Fläche gemäss Plan Nr. 104: 93 m2"
+  - "Bestehende Dämmung durchnässt, vollständiger Ersatz von Dämmung und Dampfsperre"
+  - "Kein Gefälle in der Rohdecke; Gefälle mit Gefälledämmung"
+  - "Anschlusshöhen bei den Fenstertüren mit den Massnahmen gemäss Offerte ausreichend"
+client_provisions:
+  - Unentgeltlicher Strom- und Wasseranschluss
+  - Platz für Mulde und Kran vor der Liegenschaft (Bewilligung öffentlicher Grund durch Fronalp)
+  - Freier Zugang zur Terrasse über die Attikawohnung
+  - Räumen der Terrasse (Möbel, Pflanzentröge)
+reservations:
+  - Anschlusshöhen bei den Fenstertüren und Geländerhöhe werden vor Ausführung geprüft; allfällige Massnahmen gemäss Eventualpositionen.
+  - Nicht sichtbare Mängel am Untergrund werden nach Aufwand verrechnet.
+  - Abgerechnet wird nach Ausmass.
+
+offer:
+  number: OF-26-0178
+  file_name: OF-26-0178_Offerte_Terrassensanierung_Seestrasse18.pdf
+  recipient: ["Stockwerkeigentümergemeinschaft Seestrasse 18", "c/o Talkessel Immobilien-Treuhand AG", "Frau Claudia Kälin", "Rebbergstrasse 25", "6430 Schwyz"]
+  copy_to: "Herrn Thomas Reding, Seestrasse 18, 6440 Brunnen"
+  object_lines: ["Seestrasse 18, 6440 Brunnen", "Dach und Spenglerei", "Terrassensanierung Attika"]
+  heading: ["Offerte zur Sanierung der Terrasse Attikawohnung", "Seestrasse 18, 6440 Brunnen", "Gesamtfläche ca. 70 m2"]
+  hint: H1
+  description:                 # Systemaufbau block printed after client provisions
+    - "Systemaufbau neu (von unten): Dampfsperre Bitumen mit Alu-Einlage, Wärmedämmung PIR 160 mm, Gefälledämmung EPS kaschiert im Mittel 60 mm, Abdichtung 2-lagig Polymerbitumen, Schutzlage, Drainagematte, Plattenbelag in Splitt."
+    - "U-Wert neu ca. 0.11 W/m2K. Dichtheitsprüfung mittels elektrischer Leckortung."
+    - "Grundofferte mit Wiederverwendung der bestehenden Steinplatten. Neuer Belag als Eventualposition (Mehrpreis zulasten Eigentümer Attika)."
+    - "Es gilt die SIA-Norm 118. Garantie gemäss SIA-Norm 118."
+  project_manager: RBe
+  payment_terms: b2b_custom_build_above_30000
+  discount: 0.02
+  discount_src: "CRM activity 06.07.2026: Freigabe tel. CSc, 2 % Rabatt wie Stammkunde Talkessel; Faustregeln: Stammkunden 2 %"
+  skonto: true
+  sections:                    # src: where a pipeline finds the basis for each line (DL-151)
+    - title: Baustelleninstallation
+      lines:
+        - {code: "10.100.01", qty: 1, src: "Faustregeln: Installation klein bis 150 m2, Transport inbegriffen"}
+        - {code: "10.110.01", qty: 1, src: "Faustregeln: Baustellen-WC 1 Monat bis 120 m2"}
+        - {code: "10.190.02", qty: 1, src: "meeting notes §4 (Wohnung 3. OG bewohnt); Faustregeln: Abdecken bei bewohnter Wohnung"}
+        - {code: "10.160.01", qty: 29, detail: ["entlang aller offenen Ränder während der Demontage des Geländers"], src: "Faustregeln: Seitenschutz an offenen Rändern; BauAV Art. 41; plan edges 28.5 m"}
+    - title: Regiearbeiten
+      lines:
+        - {text: "Reserve und Unvorhergesehenes", detail: ["z. B. Trocknung nasser Untergrund, Ausgleich Fehlstellen", "Annahme je 12 h A-Monteur à 125.- und B-Monteur à 115.-", "Material Budget ca. 800.-"], qty: 1, unit: Pau, unit_price: 3680,
+           src: "Faustregeln: Regie Reserve ohne Besichtigung 12 h A + 12 h B + 800.-; costing manual §3.1"}
+    - title: Kran
+      lines:
+        - {code: "10.120.01", qty: 16, detail: ["3 Einsätze: Rückbau, Material, Platten", "Mindestverrechnung 4 Std pro Einsatz"], src: "meeting notes §4; crane supplier mail; Faustregeln: Kran 3 Einsätze bei Wiederverwendung"}
+        - {code: "10.120.02", qty: 1, detail: ["Gemeinde Ingenbohl"], src: "meeting notes §4; crane supplier mail"}
+    - title: Rückbau
+      lines:
+        - {code: "80.200.06", qty: 29, src: "meeting notes §4 (Geländer); Faustregeln: Geländer demontieren, zwischenlagern, wieder montieren"}
+        - {code: "20.110.01", qty: 93, detail: ["Annahme 93 m2", "Zwischenlagerung im Werkhof Ibach"], src: "plan; property manager mail 02.06.; meeting notes §5 (Grundofferte Wiederverwendung)"}
+        - {code: "20.120.01", qty: 93, src: "assumption: insulation wet, full replacement"}
+        - {code: "20.130.01", qty: 47, detail: ["Dachrand Winkelblech 28.5 m, Deckstreifen Fassade 18.1 m"], src: "plan perimeter 46.6 m; Faustregeln: Demontage ganze Länge"}
+        - {code: "10.150.01", qty: 2, src: "Faustregeln: Mulde 7 m3 pro 60 m2 Rückbau"}
+    - title: Aufbau
+      lines:
+        - {code: "30.100.01", qty: 93, src: "plan"}
+        - {code: "30.110.01", qty: 93, src: "plan; Faustregeln Standardaufbau"}
+        - {code: "40.100.03", qty: 93, src: "Faustregeln: Standardaufbau Terrasse ab 2024 PIR 160"}
+        - {code: "40.110.01", qty: 93, src: "Faustregeln: Gefälledämmung 60 mm bis 10 m Fliessweg (max. ca. 8.9 m)"}
+        - {code: "30.120.01", qty: 103, src: "plan + 10 %, rounded up (costing manual §3.1)"}
+        - {code: "30.130.01", qty: 47, src: "plan perimeter 46.6 m"}
+        - {code: "30.150.03", qty: 2, src: "file note 15.05.; meeting notes §4 (2 Abläufe); Faustregeln: Sanierungseinlauf bei höherem Aufbau"}
+        - {code: "30.150.02", qty: 2, detail: ["inkl. Anschluss an Abdichtung und allfälliger Anpassungsarbeiten"], src: "Faustregeln: 1 pro Ablauf (meeting notes wrongly say 1)"}
+        - {code: "30.140.01", qty: 5, src: "meeting notes §4; plan (5 Fenstertüren FT)"}
+        - {code: "30.200.01", qty: 93, src: "Faustregeln Standardaufbau (Schutzlage)"}
+        - {code: "30.170.01", qty: 93, src: "Faustregeln Standardaufbau (Drainagematte)"}
+        - {code: "30.190.01", qty: 1, src: "meeting notes §4: Nachweis Dichtheit verlangt; Faustregeln"}
+    - title: Spenglerarbeiten
+      lines:
+        - {code: "60.100.01", qty: 30, src: "plan 28.5 m + 5 % (costing manual); meeting notes §4 Kupfer"}
+        - {code: "60.120.01", qty: 20, src: "plan 18.1 m + 5 %; Kupfer passend"}
+        - {code: "60.160.02", qty: 5, src: "Faustregeln: pro Fenstertür ein Türschwellenblech; 5 Fenstertüren"}
+    - title: Nutzschicht
+      lines:
+        - {code: "50.100.04", qty: 93, src: "meeting notes §5; Faustregeln Wiederverwendung"}
+        - {code: "50.150.01", qty: 10, detail: ["Ersatz für Bruch, Annahme 10 %"], src: "Faustregeln: Wiederverwendung, 10 % Ersatzplatten liefern"}
+        - {code: "50.140.01", qty: 29, src: "Faustregeln Standardaufbau (Randabschluss an offenen Rändern)"}
+    - title: Eventualpositionen
+      lines:
+        - {code: "20.110.02", qty: 93, optional: true, detail: ["Variante neuer Belag: anstelle Pos. 4.02"], src: "meeting notes §5; property manager mail (Kosten Eigentümer)"}
+        - {code: "50.100.01", qty: 103, optional: true, detail: ["Variante neuer Belag: anstelle Pos. 7.01 und 7.02", "Mehrpreis zulasten Eigentümer Attika (Sondernutzung)", "Steinplatten nach Wahl, Richtpreis"], src: "meeting notes §5; plan + 10 % aufgerundet (Faustregeln; manual says 8 %)"}
+        - {code: "30.220.01", qty: 5, optional: true, detail: ["falls Anschlusshöhe nicht ausreicht"], src: "Faustregeln: Rinne als Eventualposition; meeting notes §4 Schwellen"}
+        - {code: "80.200.07", qty: 29, optional: true, detail: ["falls Geländerhöhe nach Sanierung nicht ausreicht"], src: "Faustregeln: Erhöhung als Eventualposition; meeting notes §4"}
+
+acceptable_alternatives:       # for later evaluation: answers that are also defensible
+  - "Regie reserve as separate lines 99.100.01 (12 h), 99.100.02 (12 h) and material 800.-"
+  - "Optional new slabs 101 m2 (costing manual 8 %) instead of 103 m2 (estimator rule 10 %)"
+  - "Discount 0 % (ERP debtor shows 0 %) if the CRM approval note is not used"
+
+expected:                      # filled by build_case.py via pricing.py, never by hand
+  gross: 72689.25
+  discount: 1453.8
+  skonto: 1453.8
+  net: 69781.65
+  vat_rate: 0.081
+  vat: 5652.3
+  total: 75433.95
+  optional_sum: 37291.0
+  needs_owner_approval: true
+  lines:
+  - pos: '1.01'
+    code: 10.100.01
+    qty: 1.0
+    unit: Pau
+    unit_price: 450.0
+    total: 450.0
+    optional: false
+  - pos: '1.02'
+    code: 10.110.01
+    qty: 1.0
+    unit: Mt
+    unit_price: 445.0
+    total: 445.0
+    optional: false
+  - pos: '1.03'
+    code: 10.190.02
+    qty: 1.0
+    unit: Pau
+    unit_price: 780.0
+    total: 780.0
+    optional: false
+  - pos: '1.04'
+    code: 10.160.01
+    qty: 29.0
+    unit: m
+    unit_price: 38.0
+    total: 1102.0
+    optional: false
+  - pos: '2.01'
+    code: ''
+    qty: 1.0
+    unit: Pau
+    unit_price: 3680.0
+    total: 3680.0
+    optional: false
+  - pos: '3.01'
+    code: 10.120.01
+    qty: 16.0
+    unit: Std
+    unit_price: 340.0
+    total: 5440.0
+    optional: false
+  - pos: '3.02'
+    code: 10.120.02
+    qty: 1.0
+    unit: Pau
+    unit_price: 180.0
+    total: 180.0
+    optional: false
+  - pos: '4.01'
+    code: 80.200.06
+    qty: 29.0
+    unit: m
+    unit_price: 95.0
+    total: 2755.0
+    optional: false
+  - pos: '4.02'
+    code: 20.110.01
+    qty: 93.0
+    unit: m2
+    unit_price: 35.0
+    total: 3255.0
+    optional: false
+  - pos: '4.03'
+    code: 20.120.01
+    qty: 93.0
+    unit: m2
+    unit_price: 49.0
+    total: 4557.0
+    optional: false
+  - pos: '4.04'
+    code: 20.130.01
+    qty: 47.0
+    unit: m
+    unit_price: 28.5
+    total: 1339.5
+    optional: false
+  - pos: '4.05'
+    code: 10.150.01
+    qty: 2.0
+    unit: Stk
+    unit_price: 890.0
+    total: 1780.0
+    optional: false
+  - pos: '5.01'
+    code: 30.100.01
+    qty: 93.0
+    unit: m2
+    unit_price: 5.25
+    total: 488.25
+    optional: false
+  - pos: '5.02'
+    code: 30.110.01
+    qty: 93.0
+    unit: m2
+    unit_price: 18.0
+    total: 1674.0
+    optional: false
+  - pos: '5.03'
+    code: 40.100.03
+    qty: 93.0
+    unit: m2
+    unit_price: 71.0
+    total: 6603.0
+    optional: false
+  - pos: '5.04'
+    code: 40.110.01
+    qty: 93.0
+    unit: m2
+    unit_price: 42.0
+    total: 3906.0
+    optional: false
+  - pos: '5.05'
+    code: 30.120.01
+    qty: 103.0
+    unit: m2
+    unit_price: 43.0
+    total: 4429.0
+    optional: false
+  - pos: '5.06'
+    code: 30.130.01
+    qty: 47.0
+    unit: m
+    unit_price: 52.0
+    total: 2444.0
+    optional: false
+  - pos: '5.07'
+    code: 30.150.03
+    qty: 2.0
+    unit: Stk
+    unit_price: 690.0
+    total: 1380.0
+    optional: false
+  - pos: '5.08'
+    code: 30.150.02
+    qty: 2.0
+    unit: Stk
+    unit_price: 885.0
+    total: 1770.0
+    optional: false
+  - pos: '5.09'
+    code: 30.140.01
+    qty: 5.0
+    unit: Stk
+    unit_price: 520.0
+    total: 2600.0
+    optional: false
+  - pos: '5.10'
+    code: 30.200.01
+    qty: 93.0
+    unit: m2
+    unit_price: 6.5
+    total: 604.5
+    optional: false
+  - pos: '5.11'
+    code: 30.170.01
+    qty: 93.0
+    unit: m2
+    unit_price: 17.0
+    total: 1581.0
+    optional: false
+  - pos: '5.12'
+    code: 30.190.01
+    qty: 1.0
+    unit: Pau
+    unit_price: 680.0
+    total: 680.0
+    optional: false
+  - pos: '6.01'
+    code: 60.100.01
+    qty: 30.0
+    unit: m
+    unit_price: 128.0
+    total: 3840.0
+    optional: false
+  - pos: '6.02'
+    code: 60.120.01
+    qty: 20.0
+    unit: m
+    unit_price: 58.0
+    total: 1160.0
+    optional: false
+  - pos: '6.03'
+    code: 60.160.02
+    qty: 5.0
+    unit: Stk
+    unit_price: 185.0
+    total: 925.0
+    optional: false
+  - pos: '7.01'
+    code: 50.100.04
+    qty: 93.0
+    unit: m2
+    unit_price: 115.0
+    total: 10695.0
+    optional: false
+  - pos: '7.02'
+    code: 50.150.01
+    qty: 10.0
+    unit: m2
+    unit_price: 145.0
+    total: 1450.0
+    optional: false
+  - pos: '7.03'
+    code: 50.140.01
+    qty: 29.0
+    unit: m
+    unit_price: 24.0
+    total: 696.0
+    optional: false
+  - pos: '8.01'
+    code: 20.110.02
+    qty: 93.0
+    unit: m2
+    unit_price: 42.0
+    total: 3906.0
+    optional: true
+  - pos: '8.02'
+    code: 50.100.01
+    qty: 103.0
+    unit: m2
+    unit_price: 260.0
+    total: 26780.0
+    optional: true
+  - pos: '8.03'
+    code: 30.220.01
+    qty: 5.0
+    unit: Stk
+    unit_price: 480.0
+    total: 2400.0
+    optional: true
+  - pos: '8.04'
+    code: 80.200.07
+    qty: 29.0
+    unit: m
+    unit_price: 145.0
+    total: 4205.0
+    optional: true
+
+past_projects:
+  - {nr: P-23-054, why: "Similar terrace in Seewen 2023: 78 m2 offered, 81.5 m2 measured; concrete topping removed; no emergency overflows; VAT 7.7 %; 2023 prices"}
+  - {nr: P-19-023, why: "Garden terrace over garage in Brunnen 2019: single ply FPO, concrete slabs, no crane; scanned documents from the KALKO era"}
+
+flaws:
+  - {id: C1-F1, marker: "Gesamtfläche ca. 70 m2", type: contradiction, where: "offer heading vs line items", description: "Offer heading states 'Gesamtfläche ca. 70 m2' (copied from the property manager's mail) while all positions use 93 m2; the difference is not explained although the meeting notes say it would be."}
+  - {id: C1-F2, marker: "ca. 70 m2", type: outdated_info, where: "request/2026-05-12 first mail; request/2026-06-02 property manager mail", description: "Customer and property manager state ca. 70 m2 from the sales brochure; the 1993 plan gives 64.48 + 28.60 m2."}
+  - {id: C1-F3, marker: "Fotos anbei", type: missing_attachment, where: "request/2026-05-12 first mail", description: "Mail announces photos ('Fotos anbei'), none attached; photos never arrive."}
+  - {id: C1-F4, marker: "c/o Talkessel", type: ambiguity, where: "request mails and CRM", description: "Who is the Besteller: owner Thomas Reding initiates, but the STWEG c/o Talkessel Immobilien-Treuhand AG is the client; the CRM lead stays linked to Reding. Contact Claudia Kälin shares first name with Claudia Schuler and last name with Sandra Kälin."}
+  - {id: C1-F5, marker: "eher 90??", type: verbal_only, where: "operations/File note RBe 2026-05-15; operations/CRM print", description: "Area hint 'eher 90 m2' only in a File note; owner approval and the 2 % discount only as a CRM activity after a phone call."}
+  - {id: C1-F6, type: stale_template, where: "offer Eventualposition new slabs", description: "Estimator uses 10 % waste and rounds up (103 m2) following his rules of thumb, while the costing manual says 8 %."}
+  - {id: C1-F7, type: contradiction, where: "offer discount vs ERP debtor Talkessel D-10115", description: "Offer grants 2 % regular customer discount; the ERP debtor record of the property manager shows 0 %."}
+  - {id: C1-F8, marker: "Neu: 1 Notüberlauf", type: contradiction, where: "request/2026-06-19 meeting notes §4 vs offer", description: "Notes of the property manager record 1 emergency overflow; the project manager follows the rule of one per drain and offers 2."}
+  - {id: C1-F9, marker: "Gibt es schon etwas Neues", type: noise, where: "request/2026-07-01 owner reminder and reply", description: "Owner asks for status by mail; adds nothing to the Offer."}
+  - {id: C1-F10, marker: "Lindenstrasse 29", type: ambiguity, where: "ERP debtors D-12348 vs CRM KC-21002", description: "The ERP holds an older debtor Thomas Reding in Seewen with a similar email; the back office created a new CRM contact without duplicate check."}

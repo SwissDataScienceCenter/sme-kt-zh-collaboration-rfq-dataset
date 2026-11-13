@@ -1,0 +1,49 @@
+# Past project for Case C1 (ADR 0005). Frozen once rendered.
+nr: P-23-054
+for_case: C1
+folder: P-23-054 Terrassensanierung Seewen
+customer: D-10843          # Karin Bürgler, Seewen (base customer)
+object_lines: ["{addr}", "Dach und Spenglerei", "Terrassensanierung"]
+offer:
+  number: OF-23-0133
+  date: 2023-05-22
+  layout: "2023"
+  project_manager: RBe
+  payment: b2c
+  discount: 0.0
+  skonto: true
+  heading: ["Sanierung Terrasse 2. OG", "{addr}"]
+  client_provisions: ["Strom- und Wasseranschluss", "Zufahrt für Kran und Mulden", "Räumen der Terrasse"]
+  sections:
+    - title: Baustelleninstallation
+      lines: [{code: "10.100.01", qty: 1}, {code: "10.110.01", qty: 1}]
+    - title: Kran
+      lines: [{code: "10.120.01", qty: 8}]
+    - title: Abbruch
+      lines: [{code: "20.100.01", qty: 78}, {code: "20.110.02", qty: 78}, {code: "20.120.01", qty: 78}, {code: "20.130.01", qty: 37}, {code: "10.150.02", qty: 3}]
+    - title: Aufbau
+      lines: [{code: "30.100.01", qty: 78}, {code: "30.110.01", qty: 78}, {code: "40.100.02", qty: 78}, {code: "40.110.01", qty: 78},
+              {code: "30.120.01", qty: 86}, {code: "30.130.01", qty: 37}, {code: "30.150.01", qty: 2}, {code: "30.140.01", qty: 3}, {code: "30.170.01", qty: 78}]
+    - title: Spenglerarbeiten
+      lines: [{code: "60.100.03", qty: 18}, {code: "60.120.03", qty: 19}]
+    - title: Nutzschicht
+      lines: [{code: "50.100.03", qty: 86}]
+measured:                 # Ausmass after execution; same codes, measured quantities
+  period: "14.08.2023 bis 31.08.2023"
+  invoice_number: RE-23-0412
+  invoice_date: 2023-09-18
+  qty: {"10.120.01": 9.5, "20.100.01": 81.5, "20.110.02": 81.5, "20.120.01": 81.5, "20.130.01": 37, "10.150.02": 4,
+        "30.100.01": 81.5, "30.110.01": 81.5, "40.100.02": 81.5, "40.110.01": 81.5, "30.120.01": 81.5, "30.130.01": 39,
+        "30.170.01": 81.5, "60.100.03": 18.5, "60.120.03": 19.5, "50.100.03": 81.5}
+  extra:                  # time and material actually spent, 2023 rates
+    - {text: "Regie: Überzug dicker als angenommen (bis 90 mm), A-Monteur", qty: 6, unit: Std, rate: fitter_a}
+    - {text: "Regie: Überzug dicker als angenommen (bis 90 mm), B-Monteur", qty: 6, unit: Std, rate: fitter_b}
+    - {text: "Regie Material: Trocknung Untergrund", qty: 1, unit: Pau, unit_price: 280}
+summary:
+  team: [HIm, LBe, RSi]
+  notes:
+    - "Fläche effektiv 81.5 m2 statt 78 m2 (Sitzbank-Nische nicht im Plan)."
+    - "Überzug bis 90 mm statt 70 mm, Mehraufwand als Regie verrechnet."
+    - "Keine Notüberläufe eingebaut, Kundin hat nach Rücksprache verzichtet (Kosten)."
+    - "Spenglerarbeiten in Titanzink wie bestehend."
+    - "Kran 9.5 Std statt 8 Std wegen Wartezeit Mulde."

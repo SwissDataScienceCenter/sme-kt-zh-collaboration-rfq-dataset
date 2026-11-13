@@ -1,0 +1,10 @@
+# CRM and ERP rows added by Case C2 (new private customer).
+customers:
+  - {type: Person, company: "", category: Privat, salutation: Herr, first: Marco, last: Rickenbacher, street: Gibelweg 7, zip: "6443", town: Morschach,
+     phone: "+41 79 000 58 14", email: m.rickenbacher@postfach-sz.ch, since: 2026, deb: D-15103, alt: "", kc: KC-21036, discount: 0.0, id: D-15103,
+     crm_created: 11.08.2026, crm_note: "Aussentreppe EFH, Einliegerwohnung"}
+offers:
+  - {nr: OF-26-0209, date: "2026-08-27", cust: D-15103, obj: "Aussentreppe Stahl Morschach", line: Projektgeschäft, type: Pauschalofferte,
+     status: O, pl: SKä, proj: ""}
+leads:
+  - [L-2026-224, KC-21036, "Aussentreppe Stahl Gibelweg 7 Morschach", Projektgeschäft, offeriert, 24000, SKä, "2026-08-11", "Webmail info, Besichtigung 14.08., Gesamtpaket, OF raus 27.08."]

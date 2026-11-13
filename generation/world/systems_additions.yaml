@@ -1,0 +1,564 @@
+# Rows that Cases add to the CRM and ERP exports (DL-133). Written by build_case.py.
+C1:
+  customers:
+  - type: Person
+    company: ''
+    category: Privat
+    salutation: Herr
+    first: Thomas
+    last: Reding
+    street: Seestrasse 18
+    zip: '6440'
+    town: Brunnen
+    phone: +41 79 000 41 27
+    email: thomas.reding@talnet-mail.ch
+    since: 2026
+    deb: ''
+    alt: ''
+    kc: KC-21002
+    discount: 0.0
+    id: KC-21002
+    crm_created: 13.05.2026
+    crm_note: Attika Seestr. 18, Terrasse undicht
+  - type: Firma
+    company: Stockwerkeigentümergemeinschaft Seestrasse 18
+    category: Verwaltung
+    salutation: Frau
+    first: Claudia
+    last: Kälin
+    street: Rebbergstrasse 25
+    zip: '6430'
+    town: Schwyz
+    phone: +41 41 000 30 89
+    email: claudia.kaelin@talkessel-schwyz.ch
+    since: 2026
+    deb: D-15057
+    alt: ''
+    kc: KC-21005
+    discount: 0.0
+    id: D-15057
+    crm_deb: ''
+    crm_created: 03.06.2026
+    crm_note: c/o Talkessel Immobilien-Treuhand AG
+  offers:
+  - nr: OF-23-0133
+    date: '2023-05-22'
+    cust: D-10843
+    obj: Terrassensanierung Seewen
+    line: Projektgeschäft
+    type: Einheitspreisofferte
+    net: 48907.8
+    status: A
+    pl: RBe
+    proj: P-23-054
+  - nr: 2019-063
+    date: '2019-03-18'
+    cust: D-11095
+    obj: Gartenterrasse über Garage Brunnen
+    line: Projektgeschäft
+    type: Einheitspreisofferte
+    net: 15375.1
+    status: A
+    pl: RBe
+    proj: P-19-023
+  - nr: OF-26-0178
+    date: '2026-07-07'
+    cust: D-15057
+    obj: Terrassensanierung Brunnen
+    line: Projektgeschäft
+    type: Einheitspreisofferte
+    status: O
+    pl: RBe
+    proj: ''
+    net: 71235.45
+  projects:
+  - nr: P-23-054
+    alt: ''
+    cust: D-10843
+    obj: Terrassensanierung Seewen
+    town: Seewen
+    line: Projektgeschäft
+    offer: OF-23-0133
+    offer_net: 48907.8
+    final_net: 51941.65
+    start: '2023-08-14'
+    end: '2023-08-31'
+    pl: RBe
+    status: abgeschlossen
+  - nr: P-19-023
+    alt: '1923'
+    cust: D-11095
+    obj: Gartenterrasse über Garage Brunnen
+    town: Brunnen
+    line: Projektgeschäft
+    offer: 2019-063
+    offer_net: 15375.1
+    final_net: 15256.88
+    start: '2019-05-06'
+    end: '2019-05-17'
+    pl: RBe
+    status: abgeschlossen
+  leads:
+  - - L-2026-158
+    - KC-21002
+    - Terrasse undicht Seestrasse 18 Brunnen
+    - Projektgeschäft
+    - offeriert
+    - 80000
+    - RBe
+    - '2026-05-13'
+    - Freigabe tel. CSc 06.07., OF raus 07.07., EV 14.7. abwarten
+  hours: []
+S1:
+  customers: []
+  offers:
+  - nr: OF-25-0166
+    date: '2025-06-10'
+    cust: D-10164
+    obj: Velounterstand Einsiedeln
+    line: Systemprodukte
+    type: Konfigurationsofferte
+    net: 25901.4
+    status: A
+    pl: DIn
+    proj: P-25-075
+  - nr: OF-26-0116
+    date: '2026-05-08'
+    cust: D-10157
+    obj: Velounterstand Goldau
+    line: Systemprodukte
+    type: Konfigurationsofferte
+    status: O
+    pl: DIn
+    proj: ''
+    net: 28782.6
+  projects:
+  - nr: P-25-075
+    alt: ''
+    cust: D-10164
+    obj: Velounterstand Einsiedeln
+    town: Einsiedeln
+    line: Systemprodukte
+    offer: OF-25-0166
+    offer_net: 25901.4
+    final_net: 25901.4
+    start: '2025-08-18'
+    end: '2025-08-19'
+    pl: DIn
+    status: abgeschlossen
+  leads:
+  - - L-2026-152
+    - KC-20035
+    - Velounterstand Siedlung Rossberg Goldau
+    - Systemprodukte
+    - offeriert
+    - 26000
+    - DIn
+    - '2026-05-06'
+    - Webformular, bekannter Kontakt, OF raus 08.05.
+  hours: []
+A1:
+  customers: []
+  offers:
+  - nr: OF-25-0241
+    date: '2025-09-16'
+    cust: D-10101
+    obj: Zustandsaufnahme Flachdach Brunnen
+    line: Beratung
+    type: Honorarofferte
+    net: 6272.8
+    status: A
+    pl: NSu
+    proj: P-25-102
+  - nr: OF-24-0029
+    date: '2024-02-13'
+    cust: D-10346
+    obj: Zustandsaufnahme Flachdach Ibach
+    line: Beratung
+    type: Honorarofferte
+    net: 5627.8
+    status: A
+    pl: NSu
+    proj: P-24-003
+  - nr: OF-26-0147
+    date: '2026-06-09'
+    cust: D-10122
+    obj: Zustandsaufnahme Flachdach Steinen
+    line: Beratung
+    type: Honorarofferte
+    status: O
+    pl: CSc
+    proj: ''
+    net: 9380.0
+  projects:
+  - nr: P-25-102
+    alt: ''
+    cust: D-10101
+    obj: Zustandsaufnahme Flachdach Brunnen
+    town: Brunnen
+    line: Beratung
+    offer: OF-25-0241
+    offer_net: 6272.8
+    final_net: 7225.9
+    start: '2025-10-06'
+    end: '2025-11-21'
+    pl: NSu
+    status: abgeschlossen
+  - nr: P-24-003
+    alt: ''
+    cust: D-10346
+    obj: Zustandsaufnahme Flachdach Ibach
+    town: Ibach
+    line: Beratung
+    offer: OF-24-0029
+    offer_net: 5627.8
+    final_net: 5510.2
+    start: '2024-02-26'
+    end: '2024-03-22'
+    pl: NSu
+    status: abgeschlossen
+  leads:
+  - - L-2026-161
+    - KC-20020
+    - Zustandsaufnahme Flachdächer Hofmattweg Steinen
+    - Beratung
+    - offeriert
+    - 5000
+    - CSc
+    - '2026-05-18'
+    - Mail an info, Begehung 27.05., Umfang geändert 01.06. und 05.06., OF raus 09.06.
+  hours:
+  - - P-25-102
+    - NSU
+    - B3
+    - 2025-10
+    - '8.0'
+  - - P-25-102
+    - LBE
+    - MA
+    - 2025-10
+    - '4.0'
+  - - P-25-102
+    - NSU
+    - B3
+    - 2025-11
+    - '19.5'
+  - - P-25-102
+    - CSC
+    - B1
+    - 2025-11
+    - '5.5'
+  - - P-25-102
+    - RBE
+    - B2
+    - 2025-11
+    - '6.0'
+C2:
+  customers:
+  - type: Person
+    company: ''
+    category: Privat
+    salutation: Herr
+    first: Marco
+    last: Rickenbacher
+    street: Gibelweg 7
+    zip: '6443'
+    town: Morschach
+    phone: +41 79 000 58 14
+    email: m.rickenbacher@postfach-sz.ch
+    since: 2026
+    deb: D-15103
+    alt: ''
+    kc: KC-21036
+    discount: 0.0
+    id: D-15103
+    crm_created: 11.08.2026
+    crm_note: Aussentreppe EFH, Einliegerwohnung
+  offers:
+  - nr: OF-25-0084
+    date: '2025-03-18'
+    cust: D-10605
+    obj: Aussentreppe Stahl Lauerz
+    line: Projektgeschäft
+    type: Pauschalofferte
+    net: 20710.0
+    status: A
+    pl: SKä
+    proj: P-25-039
+  - nr: OF-26-0209
+    date: '2026-08-27'
+    cust: D-15103
+    obj: Aussentreppe Stahl Morschach
+    line: Projektgeschäft
+    type: Pauschalofferte
+    status: O
+    pl: SKä
+    proj: ''
+    net: 33930.0
+  projects:
+  - nr: P-25-039
+    alt: ''
+    cust: D-10605
+    obj: Aussentreppe Stahl Lauerz
+    town: Lauerz
+    line: Projektgeschäft
+    offer: OF-25-0084
+    offer_net: 20710.0
+    final_net: 21042.0
+    start: '2025-05-12'
+    end: '2025-06-26'
+    pl: SKä
+    status: abgeschlossen
+  leads:
+  - - L-2026-224
+    - KC-21036
+    - Aussentreppe Stahl Gibelweg 7 Morschach
+    - Projektgeschäft
+    - offeriert
+    - 24000
+    - SKä
+    - '2026-08-11'
+    - Webmail info, Besichtigung 14.08., Gesamtpaket, OF raus 27.08.
+  hours:
+  - - P-25-039
+    - RHE
+    - WS
+    - 2025-05
+    - '8.0'
+  - - P-25-039
+    - PGW
+    - WS
+    - 2025-05
+    - '50.0'
+  - - P-25-039
+    - SBÜ
+    - WS
+    - 2025-05
+    - '34.5'
+  - - P-25-039
+    - AKR
+    - WS
+    - 2025-05
+    - '17.0'
+  - - P-25-039
+    - SKÄ
+    - PL
+    - 2025-05
+    - '2.0'
+  - - P-25-039
+    - DHO
+    - MA
+    - 2025-06
+    - '10.5'
+  - - P-25-039
+    - RSI
+    - MB
+    - 2025-06
+    - '8.5'
+  - - P-25-039
+    - SKÄ
+    - PL
+    - 2025-06
+    - '3.0'
+S2:
+  customers:
+  - type: Person
+    company: ''
+    category: Privat
+    salutation: Herr
+    first: Lukas
+    last: Schnüriger
+    street: Sonnenhaldenweg 6
+    zip: '8843'
+    town: Oberiberg
+    phone: +41 79 000 64 21
+    email: l.schnueriger@talnet-mail.ch
+    since: 2026
+    deb: D-15119
+    alt: ''
+    kc: KC-21048
+    discount: 0.0
+    id: D-15119
+    crm_created: 14.09.2026
+    crm_note: Doppelcarport Oberiberg
+  offers:
+  - nr: OF-24-0209
+    date: '2024-08-20'
+    cust: D-12726
+    obj: Carport Einzel Unteriberg
+    line: Systemprodukte
+    type: Konfigurationsofferte
+    net: 14053.0
+    status: A
+    pl: DIn
+    proj: P-24-083
+  - nr: OF-26-0228
+    date: '2026-09-18'
+    cust: D-15119
+    obj: Carport Doppel Oberiberg
+    line: Systemprodukte
+    type: Konfigurationsofferte
+    status: O
+    pl: DIn
+    proj: ''
+    net: 29678.0
+  projects:
+  - nr: P-24-083
+    alt: ''
+    cust: D-12726
+    obj: Carport Einzel Unteriberg
+    town: Unteriberg
+    line: Systemprodukte
+    offer: OF-24-0209
+    offer_net: 14053.0
+    final_net: 14053.0
+    start: '2024-10-14'
+    end: '2024-10-22'
+    pl: DIn
+    status: abgeschlossen
+  leads:
+  - - L-2026-241
+    - KC-21048
+    - Carport Doppel Sonnenhaldenweg 6 Oberiberg
+    - Systemprodukte
+    - offeriert
+    - 30000
+    - DIn
+    - '2026-09-14'
+    - Telefon, Situationsplan, Anpassungen TRe, OF raus 18.09.
+  hours: []
+A3:
+  customers: []
+  offers:
+  - nr: OF-24-0283
+    date: '2024-11-15'
+    cust: D-10108
+    obj: Geländerprüfung Küssnacht
+    line: Beratung
+    type: Honorarofferte
+    net: 2194.2
+    status: A
+    pl: NSu
+    proj: P-24-124
+    adopt: Geländerprüfung Küssnacht
+  - nr: OF-25-0097
+    date: '2025-04-01'
+    cust: D-10143
+    obj: Geländerprüfung Schwyz
+    line: Beratung
+    type: Honorarofferte
+    net: 4394.05
+    status: A
+    pl: CSc
+    proj: P-25-047
+    adopt: Geländerprüfung Schwyz
+  - nr: OF-26-0236
+    date: '2026-10-01'
+    cust: D-10143
+    obj: Geländerprüfung Rütimatt Schwyz
+    line: Beratung
+    type: Richtofferte
+    status: Z
+    pl: CSc
+    proj: ''
+    net: 6270.75
+  - nr: OF-26-0254
+    date: '2026-10-27'
+    cust: D-10143
+    obj: Geländerprüfung Rütimatt Schwyz
+    line: Beratung
+    type: Honorarofferte
+    status: O
+    pl: CSc
+    proj: ''
+    net: 8900.75
+  projects:
+  - nr: P-24-124
+    alt: ''
+    cust: D-10108
+    obj: Geländerprüfung Küssnacht
+    town: Küssnacht
+    line: Beratung
+    offer: OF-24-0283
+    offer_net: 2194.2
+    final_net: 2853.75
+    start: '2025-01-20'
+    end: '2025-02-24'
+    pl: NSu
+    status: abgeschlossen
+    adopt: Geländerprüfung Küssnacht
+  - nr: P-25-047
+    alt: ''
+    cust: D-10143
+    obj: Geländerprüfung Schwyz
+    town: Schwyz
+    line: Beratung
+    offer: OF-25-0097
+    offer_net: 4394.05
+    final_net: 4945.55
+    start: '2025-06-02'
+    end: '2025-06-24'
+    pl: CSc
+    status: abgeschlossen
+    adopt: Geländerprüfung Schwyz
+  leads:
+  - - L-2026-249
+    - KC-30914
+    - Geländerprüfung Siedlung Rütimatt Schwyz
+    - Beratung
+    - offeriert
+    - 6500
+    - CSc
+    - '2026-09-28'
+    - Richtofferte 01.10., Vorstand 20.10., verbindliche Offerte 27.10.
+  hours:
+  - - P-24-124
+    - NSU
+    - B3
+    - 2025-01
+    - '8.0'
+  - - P-24-124
+    - SKÄ
+    - B2
+    - 2025-01
+    - '2.5'
+  - - P-24-124
+    - DHO
+    - MA
+    - 2025-01
+    - '3.0'
+  - - P-24-124
+    - NSU
+    - B3
+    - 2025-02
+    - '5.0'
+  - - P-24-124
+    - SKÄ
+    - B2
+    - 2025-02
+    - '1.5'
+  - - P-24-124
+    - CSC
+    - B1
+    - 2025-02
+    - '0.5'
+  - - P-25-047
+    - NSU
+    - B3
+    - 2025-06
+    - '21.0'
+  - - P-25-047
+    - SKÄ
+    - B2
+    - 2025-06
+    - '7.0'
+  - - P-25-047
+    - CSC
+    - B1
+    - 2025-06
+    - '3.5'
+  - - P-25-047
+    - DHO
+    - MA
+    - 2025-06
+    - '5.0'

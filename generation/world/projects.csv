@@ -1,0 +1,1092 @@
+nr,alt,cust,obj,town,line,offer,offer_net,final_net,start,end,pl,status
+P-18-001,1801,D-14245,Carport Einzel Lauerz,Lauerz,Systemprodukte,2018-010,14735,18025,2018-02-26,2018-03-27,DIn,abgeschlossen
+P-18-002,1802,D-13342,Attikaabschluss Zürich,Zürich,Projektgeschäft,2018-001,32115,36190,2018-03-02,2018-03-16,RBe,abgeschlossen
+P-18-003,1803,D-11809,Velounterstand Ibach,Ibach,Systemprodukte,2018-017,12820,16000,2018-03-14,2018-03-26,DIn,abgeschlossen
+P-18-004,1804,D-12971,Balkongeländer Altdorf,Altdorf,Projektgeschäft,2018-003,76785,85345,2018-03-15,2018-04-03,SKä,abgeschlossen
+P-18-005,1805,D-11193,Fassadenbekleidung Lauerz,Lauerz,Projektgeschäft,2018-036,36385,36385,2018-03-26,2018-04-26,PKo,abgeschlossen
+P-18-006,1806,D-14119,Attikaabschluss Schwyz,Schwyz,Projektgeschäft,2018-020,30220,30465,2018-03-28,2018-04-23,RBe,abgeschlossen
+P-18-007,1807,D-11886,Velounterstand Zug,Zug,Systemprodukte,2018-039,10615,10615,2018-04-03,2018-04-23,DIn,abgeschlossen
+P-18-008,1808,D-12761,Attikaabschluss Schwyz,Schwyz,Projektgeschäft,2018-044,52885,49555,2018-04-03,2018-05-09,RBe,abgeschlossen
+P-18-009,1809,D-13559,Flachdachsanierung Seewen,Seewen,Projektgeschäft,2018-009,34655,36550,2018-04-03,2018-04-23,RBe,abgeschlossen
+P-18-010,1810,D-12369,Balkongeländer Seewen,Seewen,Projektgeschäft,2018-011,20415,22595,2018-04-04,2018-05-14,SKä,abgeschlossen
+P-18-011,1811,D-12705,Velounterstand Brunnen,Brunnen,Systemprodukte,2018-038,8820,8820,2018-04-12,2018-04-16,DIn,abgeschlossen
+P-18-012,1812,D-13797,Attikaabschluss Einsiedeln,Einsiedeln,Projektgeschäft,2018-037,69855,80860,2018-04-13,2018-04-30,RBe,abgeschlossen
+P-18-013,1813,D-12341,Balkongeländer Sattel,Sattel,Projektgeschäft,2018-016,45080,50435,2018-04-25,2018-05-28,SKä,abgeschlossen
+P-18-014,1814,D-14119,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,2018-018,3925,3460,2018-04-26,2018-05-03,CSc,abgeschlossen
+P-18-015,1815,D-12558,Balkongeländer Wädenswil,Wädenswil,Projektgeschäft,2018-074,22420,22405,2018-04-30,2018-05-22,SKä,abgeschlossen
+P-18-016,1816,D-14399,Vordach Hauseingang Einsiedeln,Einsiedeln,Systemprodukte,2018-049,11330,11995,2018-05-04,2018-06-18,DIn,abgeschlossen
+P-18-017,1817,D-10115,Velounterstand Schwyz,Schwyz,Systemprodukte,2018-006,16875,17495,2018-05-04,2018-05-14,DIn,abgeschlossen
+P-18-018,1818,D-13958,Carport Einzel Luzern,Luzern,Systemprodukte,2018-053,8375,8375,2018-05-04,2018-05-29,DIn,abgeschlossen
+P-18-019,1819,D-11739,Carport Einzel Steinen,Steinen,Systemprodukte,2018-046,24510,24510,2018-05-15,2018-05-23,DIn,abgeschlossen
+P-18-020,1820,D-12285,Carport Doppel Morschach,Morschach,Systemprodukte,2018-059,20500,19000,2018-05-18,2018-07-02,DIn,abgeschlossen
+P-18-021,1821,D-11550,Carport Einzel Steinen,Steinen,Systemprodukte,2018-031,4500,4965,2018-05-22,2018-06-11,DIn,abgeschlossen
+P-18-022,1822,D-14203,Variantenstudie Terrasse Seewen,Seewen,Beratung,2018-078,2500,2145,2018-05-22,2018-06-28,CSc,abgeschlossen
+P-18-023,1823,D-10465,Carport Doppel Gersau,Gersau,Systemprodukte,2018-061,21625,22940,2018-05-23,2018-06-15,DIn,abgeschlossen
+P-18-024,1824,D-13412,Vordach Hauseingang Morschach,Morschach,Systemprodukte,2018-051,15215,14465,2018-05-24,2018-07-03,DIn,abgeschlossen
+P-18-025,1825,D-10178,Spenglerarbeiten Steildach Küssnacht,Küssnacht,Projektgeschäft,2018-064,58260,53985,2018-05-28,2018-06-11,RBe,abgeschlossen
+P-18-026,1826,D-14035,Dachrandsanierung Altdorf,Altdorf,Projektgeschäft,2018-097,12740,13570,2018-05-30,2018-07-09,RBe,abgeschlossen
+P-18-027,1827,D-11445,Carport Einzel Ibach,Ibach,Systemprodukte,2018-085,18215,19675,2018-06-04,2018-07-09,DIn,abgeschlossen
+P-18-028,1828,D-10479,Zustandsaufnahme Flachdach Morschach,Morschach,Beratung,2018-068,2500,2105,2018-06-04,2018-06-18,CSc,abgeschlossen
+P-18-029,1829,D-10290,Spenglerarbeiten Steildach Unteriberg,Unteriberg,Projektgeschäft,2018-081,198355,226620,2018-06-04,2018-08-06,RBe,abgeschlossen
+P-18-030,1830,D-10339,Aussentreppe Stahl Steinen,Steinen,Projektgeschäft,2018-035,108405,106045,2018-06-07,2018-08-06,SKä,abgeschlossen
+P-18-031,1831,D-13573,Carport Doppel Steinen,Steinen,Systemprodukte,2018-077,6000,6000,2018-06-11,2018-07-09,DIn,abgeschlossen
+P-18-032,1832,D-13818,Velounterstand Ibach,Ibach,Systemprodukte,2018-076,11510,14360,2018-06-11,2018-07-13,DIn,abgeschlossen
+P-18-033,1833,D-12194,Zustandsaufnahme Flachdach Einsiedeln,Einsiedeln,Beratung,2018-103,5070,4180,2018-06-18,2018-06-22,NSu,abgeschlossen
+P-18-034,1834,D-12103,Machbarkeitsstudie Dachaufbau Gersau,Gersau,Beratung,2018-042,4095,3720,2018-06-19,2018-07-09,NSu,abgeschlossen
+P-18-035,1835,D-13174,Velounterstand Goldau,Goldau,Systemprodukte,2018-063,10355,10355,2018-06-25,2018-08-06,DIn,abgeschlossen
+P-18-036,1836,D-10171,Flachdachsanierung Lauerz,Lauerz,Projektgeschäft,2018-129,40000,43115,2018-07-11,2018-08-06,RBe,abgeschlossen
+P-18-037,1837,D-13447,Treppengeländer innen Schwyz,Schwyz,Projektgeschäft,2018-066,38165,38165,2018-07-12,2018-08-27,SKä,abgeschlossen
+P-18-038,1838,D-14203,Velounterstand Seewen,Seewen,Systemprodukte,2018-111,10805,12885,2018-08-06,2018-08-27,DIn,abgeschlossen
+P-18-039,1839,D-15001,Velounterstand Luzern,Luzern,Systemprodukte,2018-144,24230,24230,2018-08-06,2018-09-13,DIn,abgeschlossen
+P-18-040,1840,D-13356,Zustandsaufnahme Flachdach Brunnen,Brunnen,Beratung,2018-092,4000,3340,2018-08-06,2018-09-06,CSc,abgeschlossen
+P-18-041,1841,D-10290,Flachdachsanierung Unteriberg,Unteriberg,Projektgeschäft,2018-125,83720,79600,2018-08-06,2018-09-14,RBe,abgeschlossen
+P-18-042,1842,D-10206,Fassadenbekleidung Luzern,Luzern,Projektgeschäft,2018-072,38105,37980,2018-08-06,2018-08-14,PKo,abgeschlossen
+P-18-043,1843,D-11039,Velounterstand Schwyz,Schwyz,Systemprodukte,2018-056,5740,5740,2018-08-06,2018-08-14,DIn,abgeschlossen
+P-18-044,1844,D-12565,Carport Einzel Zug,Zug,Systemprodukte,2018-082,23725,24790,2018-08-06,2018-09-07,DIn,abgeschlossen
+P-18-045,1845,D-13020,Carport Doppel Goldau,Goldau,Systemprodukte,2018-119,15270,17350,2018-08-06,2018-08-13,DIn,abgeschlossen
+P-18-046,1846,D-12362,Carport Doppel Morschach,Morschach,Systemprodukte,2018-108,4530,4530,2018-08-07,2018-08-16,DIn,abgeschlossen
+P-18-047,1847,D-10290,Fassadenbekleidung Unteriberg,Unteriberg,Projektgeschäft,2018-113,105915,107525,2018-08-08,2018-08-30,PKo,abgeschlossen
+P-18-048,1848,D-14175,Velounterstand Brunnen,Brunnen,Systemprodukte,2018-138,22750,22750,2018-08-09,2018-08-31,DIn,abgeschlossen
+P-18-049,1849,D-13622,Carport Doppel Brunnen,Brunnen,Systemprodukte,2018-096,12810,12810,2018-08-13,2018-09-04,DIn,abgeschlossen
+P-18-050,1850,D-10192,Terrassensanierung Altdorf,Altdorf,Projektgeschäft,2018-115,46875,54910,2018-08-13,2018-09-14,RBe,abgeschlossen
+P-18-051,1851,D-10710,Terrassensanierung Morschach,Morschach,Projektgeschäft,2018-127,75105,70370,2018-08-14,2018-09-03,RBe,abgeschlossen
+P-18-052,1852,D-11165,Treppengeländer innen Schwyz,Schwyz,Projektgeschäft,2018-128,27380,34395,2018-08-20,2018-08-28,SKä,abgeschlossen
+P-18-053,1853,D-13979,Carport Einzel Altdorf,Altdorf,Systemprodukte,2018-151,8245,7590,2018-08-22,2018-09-05,DIn,abgeschlossen
+P-18-054,1854,D-12733,Flachdachsanierung Seewen,Seewen,Projektgeschäft,2018-087,46725,50140,2018-08-29,2018-10-03,RBe,abgeschlossen
+P-18-055,1855,D-10171,Attikaabschluss Lauerz,Lauerz,Projektgeschäft,2018-135,250355,246820,2018-08-29,2018-10-19,RBe,abgeschlossen
+P-18-056,1856,D-12600,Carport Einzel Schwyz,Schwyz,Systemprodukte,2018-140,12200,14915,2018-08-30,2018-10-08,DIn,abgeschlossen
+P-18-057,1857,D-13671,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,2018-116,9720,7830,2018-08-31,2018-10-08,NSu,abgeschlossen
+P-18-058,1858,D-11200,Treppengeländer innen Baar,Baar,Projektgeschäft,2018-101,46720,51800,2018-09-03,2018-09-13,SKä,abgeschlossen
+P-18-059,1859,D-12432,Carport Einzel Arth,Arth,Systemprodukte,2018-137,20635,20635,2018-09-10,2018-09-24,DIn,abgeschlossen
+P-18-060,1860,D-12586,Carport Einzel Rothenthurm,Rothenthurm,Systemprodukte,2018-161,4910,4700,2018-09-10,2018-10-15,DIn,abgeschlossen
+P-18-061,1861,D-11634,Terrassensanierung Altdorf,Altdorf,Projektgeschäft,2018-098,43720,48025,2018-09-10,2018-10-22,RBe,abgeschlossen
+P-18-062,1862,D-13328,Spenglerarbeiten Steildach Gersau,Gersau,Projektgeschäft,2018-123,17690,18165,2018-09-10,2018-10-02,RBe,abgeschlossen
+P-18-063,1863,D-12838,Vordach Hauseingang Gersau,Gersau,Systemprodukte,2018-163,16340,17635,2018-09-12,2018-10-23,DIn,abgeschlossen
+P-18-064,1864,D-14413,Velounterstand Lauerz,Lauerz,Systemprodukte,2018-167,20855,22590,2018-09-17,2018-10-03,DIn,abgeschlossen
+P-18-065,1865,D-10129,Terrassensanierung Zürich,Zürich,Projektgeschäft,2018-109,53575,57635,2018-09-19,2018-10-31,RBe,abgeschlossen
+P-18-066,1866,D-10458,Flachdachsanierung Altdorf,Altdorf,Projektgeschäft,2018-152,30035,31850,2018-10-03,2018-11-06,RBe,abgeschlossen
+P-18-067,1867,D-10115,Carport Einzel Schwyz,Schwyz,Systemprodukte,2018-114,7135,7135,2018-10-05,2018-10-29,DIn,abgeschlossen
+P-18-068,1868,D-11627,Geländerprüfung Brunnen,Brunnen,Beratung,2018-154,9370,9270,2018-10-15,2018-11-26,CSc,abgeschlossen
+P-18-069,1869,D-14819,Vordach Hauseingang Zug,Zug,Systemprodukte,2018-142,11935,11935,2018-10-15,2018-11-13,DIn,abgeschlossen
+P-18-070,1870,D-14497,Carport Einzel Lauerz,Lauerz,Systemprodukte,2018-156,4500,4500,2018-10-15,2018-10-22,DIn,abgeschlossen
+P-18-071,1871,D-11039,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,2018-166,5500,4820,2018-10-15,2018-11-23,DIn,abgeschlossen
+P-18-072,1872,D-10290,Attikaabschluss Unteriberg,Unteriberg,Projektgeschäft,2018-172,156885,180490,2018-10-16,2018-11-19,RBe,abgeschlossen
+P-18-073,1873,D-10535,Terrassensanierung Schwyz,Schwyz,Projektgeschäft,2018-165,73760,73650,2018-10-16,2018-10-31,RBe,abgeschlossen
+P-18-074,1874,D-11060,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,2018-185,2500,2470,2018-10-17,2018-11-05,CSc,abgeschlossen
+P-18-075,1875,D-13867,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,2018-196,51550,55380,2018-10-18,2018-11-13,RBe,abgeschlossen
+P-18-076,1876,D-14714,Balkongeländer Brunnen,Brunnen,Projektgeschäft,2018-191,51845,60610,2018-10-23,2018-11-07,SKä,abgeschlossen
+P-18-077,1877,D-10318,Carport Doppel Wädenswil,Wädenswil,Systemprodukte,2018-180,6360,6360,2018-10-24,2018-10-31,DIn,abgeschlossen
+P-18-078,1878,D-13398,Dachrandsanierung Unteriberg,Unteriberg,Projektgeschäft,2018-168,49375,52510,2018-10-29,2018-12-03,RBe,abgeschlossen
+P-18-079,1879,D-11830,Variantenstudie Terrasse Rothenthurm,Rothenthurm,Beratung,2018-164,7890,7845,2018-11-02,2018-11-21,NSu,abgeschlossen
+P-18-080,1880,D-11725,Vordach Hauseingang Steinen,Steinen,Systemprodukte,2018-188,17850,17850,2018-11-12,2018-11-26,DIn,abgeschlossen
+P-18-081,1881,D-14007,Geländerprüfung Brunnen,Brunnen,Beratung,2018-190,2500,2020,2018-11-12,2018-11-26,NSu,abgeschlossen
+P-18-082,1882,D-12838,Velounterstand Gersau,Gersau,Systemprodukte,2018-194,7020,7020,2018-11-13,2018-11-26,DIn,abgeschlossen
+P-18-083,1883,D-14910,Zustandsaufnahme Flachdach Goldau,Goldau,Beratung,2018-158,4590,4130,2018-11-19,2018-12-07,NSu,abgeschlossen
+P-18-084,1884,D-13874,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,2018-214,4655,4715,2018-11-23,2018-12-10,DIn,abgeschlossen
+P-18-085,1885,D-11284,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,2018-189,9010,8530,2018-11-26,2019-01-04,DIn,abgeschlossen
+P-18-086,1886,D-14294,Zustandsaufnahme Flachdach Steinen,Steinen,Beratung,2018-187,6855,6650,2018-11-28,2018-12-17,NSu,abgeschlossen
+P-18-087,1887,D-13734,Attikaabschluss Steinen,Steinen,Projektgeschäft,2018-153,53080,68085,2018-11-29,2018-12-17,RBe,abgeschlossen
+P-18-088,1888,D-10290,Attikaabschluss Unteriberg,Unteriberg,Projektgeschäft,2018-211,218000,248965,2018-12-03,2019-01-17,RBe,abgeschlossen
+P-18-089,1889,D-14448,Dachrandsanierung Einsiedeln,Einsiedeln,Projektgeschäft,2018-174,91800,82610,2018-12-03,2019-01-02,RBe,abgeschlossen
+P-18-090,1890,D-13020,Aussentreppe Stahl Goldau,Goldau,Projektgeschäft,2018-209,36215,45430,2018-12-03,2018-12-14,SKä,abgeschlossen
+P-18-091,1891,D-12628,Carport Einzel Seewen,Seewen,Systemprodukte,2018-205,10780,11065,2018-12-14,2018-12-27,DIn,abgeschlossen
+P-18-092,1892,D-14364,Vordach Hauseingang Seewen,Seewen,Systemprodukte,2018-231,4500,4500,2018-12-14,2018-12-24,DIn,abgeschlossen
+P-18-093,1893,D-12243,Fassadenbekleidung Schwyz,Schwyz,Projektgeschäft,2018-184,64095,71975,2018-12-19,2019-01-16,PKo,abgeschlossen
+P-18-094,1894,D-13601,Terrassensanierung Seewen,Seewen,Projektgeschäft,2018-181,46435,59995,2018-12-21,2018-12-31,RBe,abgeschlossen
+P-18-095,1895,D-14980,Geländerprüfung Einsiedeln,Einsiedeln,Beratung,2018-218,4400,4385,2018-12-21,2019-01-16,CSc,abgeschlossen
+P-18-096,1896,D-15015,Flachdachsanierung Arth,Arth,Projektgeschäft,2018-213,20670,22625,2018-12-27,2019-01-14,RBe,abgeschlossen
+P-18-097,1897,D-14903,Spenglerarbeiten Steildach Küssnacht,Küssnacht,Projektgeschäft,2018-200,24515,26175,2018-12-31,2019-02-04,RBe,abgeschlossen
+P-18-098,1898,D-12383,Variantenstudie Terrasse Morschach,Morschach,Beratung,2018-230,2565,2235,2018-12-31,2019-02-06,CSc,abgeschlossen
+P-18-099,1899,D-13489,Terrassensanierung Küssnacht,Küssnacht,Projektgeschäft,2018-232,39650,39650,2019-01-07,2019-02-13,RBe,abgeschlossen
+P-18-100,18100,D-13566,Machbarkeitsstudie Dachaufbau Arth,Arth,Beratung,2018-201,7165,5980,2019-01-11,2019-02-04,NSu,abgeschlossen
+P-18-101,18101,D-13153,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,2018-245,5715,5715,2019-01-14,2019-02-21,DIn,abgeschlossen
+P-18-102,18102,D-13545,Carport Doppel Küssnacht,Küssnacht,Systemprodukte,2018-219,12305,10915,2019-01-15,2019-02-15,DIn,abgeschlossen
+P-18-103,18103,D-14889,Aussentreppe Stahl Unteriberg,Unteriberg,Projektgeschäft,2018-204,56345,63515,2019-01-25,2019-02-06,SKä,abgeschlossen
+P-18-104,18104,D-13440,Carport Doppel Seewen,Seewen,Systemprodukte,2018-199,14075,14075,2019-01-28,2019-02-11,DIn,abgeschlossen
+P-18-105,18105,D-12383,Terrassensanierung Morschach,Morschach,Projektgeschäft,2018-222,154590,179390,2019-01-28,2019-03-01,RBe,abgeschlossen
+P-18-106,18106,D-10234,Flachdachsanierung Sattel,Sattel,Projektgeschäft,2018-253,84485,74485,2019-02-04,2019-03-11,RBe,abgeschlossen
+P-18-107,18107,D-10402,Vordach Hauseingang Steinen,Steinen,Systemprodukte,2018-220,5755,5755,2019-02-11,2019-03-26,DIn,abgeschlossen
+P-18-108,18108,D-11816,Aussentreppe Stahl Zürich,Zürich,Projektgeschäft,2018-227,92885,106400,2019-02-12,2019-03-04,SKä,abgeschlossen
+P-19-001,1901,D-11802,Treppengeländer innen Ibach,Ibach,Projektgeschäft,2019-014,68330,75050,2019-02-12,2019-03-01,SKä,abgeschlossen
+P-18-109,18109,D-13951,Velounterstand Küssnacht,Küssnacht,Systemprodukte,2018-251,16565,16565,2019-02-13,2019-03-25,DIn,abgeschlossen
+P-18-110,18110,D-12425,Flachdachsanierung Altdorf,Altdorf,Projektgeschäft,2018-226,74025,84150,2019-02-19,2019-03-25,RBe,abgeschlossen
+P-18-111,18111,D-12306,Spenglerarbeiten Steildach Brunnen,Brunnen,Projektgeschäft,2018-239,113410,111030,2019-02-21,2019-04-01,RBe,abgeschlossen
+P-18-112,18112,D-13118,Aussentreppe Stahl Seewen,Seewen,Projektgeschäft,2018-244,21240,22740,2019-02-22,2019-03-21,SKä,abgeschlossen
+P-18-113,18113,D-10759,Carport Einzel Morschach,Morschach,Systemprodukte,2018-246,9335,8345,2019-02-26,2019-03-25,DIn,abgeschlossen
+P-18-114,18114,D-11179,Balkongeländer Seewen,Seewen,Projektgeschäft,2018-249,52075,59385,2019-02-28,2019-04-03,SKä,abgeschlossen
+P-19-002,1902,D-12439,Geländerprüfung Seewen,Seewen,Beratung,2019-013,6255,5955,2019-03-04,2019-04-15,NSu,abgeschlossen
+P-19-003,1903,D-10290,Dachrandsanierung Unteriberg,Unteriberg,Projektgeschäft,2019-027,156655,180265,2019-03-04,2019-04-18,RBe,abgeschlossen
+P-18-115,18115,D-13909,Zustandsaufnahme Flachdach Seewen,Seewen,Beratung,2018-235,2500,2260,2019-03-06,2019-04-15,CSc,abgeschlossen
+P-18-116,18116,D-10990,Carport Doppel Goldau,Goldau,Systemprodukte,2018-234,6875,7315,2019-03-07,2019-04-23,DIn,abgeschlossen
+P-19-004,1904,D-11473,Velounterstand Steinen,Steinen,Systemprodukte,2019-016,7915,8325,2019-03-08,2019-03-27,DIn,abgeschlossen
+P-19-005,1905,D-11963,Carport Einzel Küssnacht,Küssnacht,Systemprodukte,2019-022,9100,9255,2019-03-11,2019-04-08,DIn,abgeschlossen
+P-19-006,1906,D-10304,Attikaabschluss Steinen,Steinen,Projektgeschäft,2019-004,136065,125240,2019-03-18,2019-04-15,RBe,abgeschlossen
+P-19-007,1907,D-11165,Spenglerarbeiten Steildach Schwyz,Schwyz,Projektgeschäft,2019-038,22030,22805,2019-03-22,2019-04-08,RBe,abgeschlossen
+P-18-117,18117,D-13076,Carport Einzel Morschach,Morschach,Systemprodukte,2018-255,18680,18680,2019-03-25,2019-05-07,DIn,abgeschlossen
+P-19-008,1908,D-10850,Flachdachsanierung Morschach,Morschach,Projektgeschäft,2019-051,63995,63995,2019-03-29,2019-04-29,RBe,abgeschlossen
+P-19-009,1909,D-13139,Spenglerarbeiten Steildach Zug,Zug,Projektgeschäft,2019-012,77700,81740,2019-04-03,2019-04-23,RBe,abgeschlossen
+P-19-010,1910,D-13048,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,2019-035,4500,5590,2019-04-03,2019-05-06,DIn,abgeschlossen
+P-19-011,1911,D-11172,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,2019-026,104270,105880,2019-04-05,2019-05-13,SKä,abgeschlossen
+P-19-012,1912,D-10367,Attikaabschluss Schwyz,Schwyz,Projektgeschäft,2019-041,83370,97945,2019-04-10,2019-04-29,RBe,abgeschlossen
+P-18-118,18118,D-14938,Aussentreppe Stahl Altdorf,Altdorf,Projektgeschäft,2018-243,16965,16965,2019-04-11,2019-04-29,SKä,abgeschlossen
+P-19-013,1913,D-10367,Treppengeländer innen Schwyz,Schwyz,Projektgeschäft,2019-048,147485,154295,2019-04-15,2019-05-29,SKä,abgeschlossen
+P-19-014,1914,D-12362,Flachdachsanierung Morschach,Morschach,Projektgeschäft,2019-060,61190,63480,2019-04-15,2019-05-02,RBe,abgeschlossen
+P-18-119,18119,D-14112,Balkongeländer Gersau,Gersau,Projektgeschäft,2018-254,47090,55955,2019-04-23,2019-06-03,SKä,abgeschlossen
+P-19-015,1915,D-12327,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,2019-057,180000,180000,2019-04-23,2019-05-31,SKä,abgeschlossen
+P-19-016,1916,D-13426,Terrassensanierung Baar,Baar,Projektgeschäft,2019-031,16975,15660,2019-04-23,2019-05-07,RBe,abgeschlossen
+P-19-017,1917,D-10178,Treppengeländer innen Küssnacht,Küssnacht,Projektgeschäft,2019-049,40000,39955,2019-04-23,2019-05-06,SKä,abgeschlossen
+P-19-018,1918,D-14595,Carport Doppel Sattel,Sattel,Systemprodukte,2019-055,9710,9710,2019-04-24,2019-05-09,DIn,abgeschlossen
+P-19-019,1919,D-12992,Vordach Hauseingang Seewen,Seewen,Systemprodukte,2019-008,32000,32000,2019-04-26,2019-06-11,DIn,abgeschlossen
+P-19-020,1920,D-15022,Carport Doppel Seewen,Seewen,Systemprodukte,2019-043,9205,9365,2019-04-29,2019-05-27,DIn,abgeschlossen
+P-19-021,1921,D-14399,Vordach Hauseingang Einsiedeln,Einsiedeln,Systemprodukte,2019-047,17965,22595,2019-04-29,2019-05-20,DIn,abgeschlossen
+P-19-022,1922,D-11998,Spenglerarbeiten Steildach Seewen,Seewen,Projektgeschäft,2019-032,96130,108320,2019-05-03,2019-05-24,RBe,abgeschlossen
+P-19-023,1923,D-11095,Gartenterrasse über Garage Brunnen,Brunnen,Projektgeschäft,2019-063,15375.1,15256.88,2019-05-06,2019-05-17,RBe,abgeschlossen
+P-19-024,1924,D-10962,Carport Einzel Steinen,Steinen,Systemprodukte,2019-021,7115,6935,2019-05-08,2019-05-13,DIn,abgeschlossen
+P-19-025,1925,D-13405,Velounterstand Brunnen,Brunnen,Systemprodukte,2019-069,6380,5910,2019-05-13,2019-05-22,DIn,abgeschlossen
+P-19-026,1926,D-13139,Fassadenbekleidung Zug,Zug,Projektgeschäft,2019-056,119985,140350,2019-05-15,2019-06-11,PKo,abgeschlossen
+P-19-027,1927,D-12985,Attikaabschluss Rothenthurm,Rothenthurm,Projektgeschäft,2019-030,103190,120860,2019-05-20,2019-06-11,RBe,abgeschlossen
+P-19-028,1928,D-10353,Spenglerarbeiten Steildach Arth,Arth,Projektgeschäft,2019-037,21435,21435,2019-05-21,2019-06-17,RBe,abgeschlossen
+P-19-029,1929,D-11739,Dachrandsanierung Steinen,Steinen,Projektgeschäft,2019-079,90085,90085,2019-05-22,2019-06-24,RBe,abgeschlossen
+P-19-030,1930,D-10493,Treppengeländer innen Brunnen,Brunnen,Projektgeschäft,2019-044,42775,46860,2019-05-23,2019-06-03,SKä,abgeschlossen
+P-19-031,1931,D-10339,Spenglerarbeiten Steildach Steinen,Steinen,Projektgeschäft,2019-033,139430,158215,2019-05-24,2019-06-24,RBe,abgeschlossen
+P-19-032,1932,D-12705,Attikaabschluss Brunnen,Brunnen,Projektgeschäft,2019-046,39850,39850,2019-06-06,2019-08-05,RBe,abgeschlossen
+P-19-033,1933,D-11613,Carport Einzel Goldau,Goldau,Systemprodukte,2019-082,4500,4860,2019-06-11,2019-07-08,DIn,abgeschlossen
+P-19-034,1934,D-11879,Flachdachsanierung Brunnen,Brunnen,Projektgeschäft,2019-067,43620,47285,2019-06-11,2019-08-05,RBe,abgeschlossen
+P-19-035,1935,D-14462,Carport Doppel Ibach,Ibach,Systemprodukte,2019-052,26675,26675,2019-06-11,2019-07-08,DIn,abgeschlossen
+P-19-036,1936,D-13811,Sanierungskonzept Fassade Zug,Zug,Beratung,2019-068,8065,8240,2019-06-11,2019-06-17,NSu,abgeschlossen
+P-19-037,1937,D-12005,Vordach Hauseingang Küssnacht,Küssnacht,Systemprodukte,2019-036,6735,6735,2019-06-13,2019-07-01,DIn,abgeschlossen
+P-19-038,1938,D-10367,Aussentreppe Stahl Schwyz,Schwyz,Projektgeschäft,2019-039,84850,94155,2019-06-17,2019-07-05,SKä,abgeschlossen
+P-19-039,1939,D-14882,Carport Doppel Seewen,Seewen,Systemprodukte,2019-077,5625,6005,2019-06-24,2019-08-05,DIn,abgeschlossen
+P-19-040,1940,D-10339,Flachdachsanierung Steinen,Steinen,Projektgeschäft,2019-059,169445,160845,2019-06-26,2019-08-05,RBe,abgeschlossen
+P-19-041,1941,D-10402,Variantenstudie Terrasse Steinen,Steinen,Beratung,2019-050,14900,13640,2019-06-27,2019-08-05,CSc,abgeschlossen
+P-19-042,1942,D-14784,Geländerprüfung Zürich,Zürich,Beratung,2019-096,10850,9215,2019-07-05,2019-08-05,NSu,abgeschlossen
+P-19-043,1943,D-13251,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,2019-087,11075,11850,2019-07-09,2019-08-19,DIn,abgeschlossen
+P-19-044,1944,D-12054,Spenglerarbeiten Steildach Steinen,Steinen,Projektgeschäft,2019-080,47535,47185,2019-07-12,2019-08-05,RBe,abgeschlossen
+P-19-045,1945,D-11256,Vordach Hauseingang Küssnacht,Küssnacht,Systemprodukte,2019-111,4500,4780,2019-08-05,2019-09-09,DIn,abgeschlossen
+P-19-046,1946,D-12243,Carport Einzel Schwyz,Schwyz,Systemprodukte,2019-086,14670,14670,2019-08-05,2019-08-27,DIn,abgeschlossen
+P-19-047,1947,D-13573,Zustandsaufnahme Flachdach Steinen,Steinen,Beratung,2019-113,8165,7995,2019-08-05,2019-09-04,CSc,abgeschlossen
+P-19-048,1948,D-13853,Machbarkeitsstudie Dachaufbau Goldau,Goldau,Beratung,2019-128,4085,3620,2019-08-07,2019-09-02,NSu,abgeschlossen
+P-19-049,1949,D-10465,Vordach Hauseingang Gersau,Gersau,Systemprodukte,2019-106,10880,10720,2019-08-16,2019-09-23,DIn,abgeschlossen
+P-19-050,1950,D-10962,Machbarkeitsstudie Dachaufbau Steinen,Steinen,Beratung,2019-091,11030,10160,2019-08-26,2019-10-01,NSu,abgeschlossen
+P-19-051,1951,D-14203,Carport Doppel Seewen,Seewen,Systemprodukte,2019-144,6525,6720,2019-08-27,2019-10-07,DIn,abgeschlossen
+P-19-052,1952,D-11914,Variantenstudie Terrasse Seewen,Seewen,Beratung,2019-130,5795,6170,2019-08-28,2019-09-09,CSc,abgeschlossen
+P-19-053,1953,D-10206,Carport Einzel Luzern,Luzern,Systemprodukte,2019-105,9110,9595,2019-08-30,2019-09-12,DIn,abgeschlossen
+P-19-054,1954,D-11333,Machbarkeitsstudie Dachaufbau Lauerz,Lauerz,Beratung,2019-161,2500,2080,2019-09-02,2019-10-04,CSc,abgeschlossen
+P-19-055,1955,D-11277,Carport Doppel Brunnen,Brunnen,Systemprodukte,2019-151,16220,17305,2019-09-03,2019-09-20,DIn,abgeschlossen
+P-19-056,1956,D-13839,Carport Einzel Morschach,Morschach,Systemprodukte,2019-115,5285,4495,2019-09-05,2019-09-12,DIn,abgeschlossen
+P-19-057,1957,D-12747,Carport Doppel Oberiberg,Oberiberg,Systemprodukte,2019-127,4500,4500,2019-09-16,2019-09-25,DIn,abgeschlossen
+P-19-058,1958,D-14007,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,2019-107,6345,6345,2019-09-16,2019-09-30,DIn,abgeschlossen
+P-19-059,1959,D-12523,Vordach Hauseingang Gersau,Gersau,Systemprodukte,2019-171,6150,6015,2019-09-19,2019-10-30,DIn,abgeschlossen
+P-19-060,1960,D-11270,Zustandsaufnahme Flachdach Unteriberg,Unteriberg,Beratung,2019-137,7565,6825,2019-09-19,2019-10-31,CSc,abgeschlossen
+P-19-061,1961,D-10591,Carport Doppel Wädenswil,Wädenswil,Systemprodukte,2019-104,5305,5305,2019-09-23,2019-10-09,DIn,abgeschlossen
+P-19-062,1962,D-14644,Velounterstand Seewen,Seewen,Systemprodukte,2019-117,12455,12455,2019-09-25,2019-09-30,DIn,abgeschlossen
+P-19-063,1963,D-12992,Carport Einzel Seewen,Seewen,Systemprodukte,2019-140,10310,9105,2019-09-30,2019-10-30,DIn,abgeschlossen
+P-19-064,1964,D-13573,Carport Einzel Steinen,Steinen,Systemprodukte,2019-132,4580,4580,2019-10-01,2019-11-08,DIn,abgeschlossen
+P-19-065,1965,D-10206,Vordach Hauseingang Luzern,Luzern,Systemprodukte,2019-154,6515,7825,2019-10-01,2019-10-15,DIn,abgeschlossen
+P-19-066,1966,D-12229,Carport Doppel Sattel,Sattel,Systemprodukte,2019-124,7385,7385,2019-10-07,2019-10-21,DIn,abgeschlossen
+P-19-067,1967,D-10171,Balkongeländer Lauerz,Lauerz,Projektgeschäft,2019-110,210835,203360,2019-10-08,2019-11-20,SKä,abgeschlossen
+P-19-068,1968,D-14273,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,2019-178,2500,2740,2019-10-11,2019-10-18,CSc,abgeschlossen
+P-19-069,1969,D-13034,Machbarkeitsstudie Dachaufbau Altdorf,Altdorf,Beratung,2019-133,7240,6510,2019-10-14,2019-11-21,NSu,abgeschlossen
+P-19-070,1970,D-13825,Carport Einzel Lauerz,Lauerz,Systemprodukte,2019-131,4950,5185,2019-10-17,2019-11-18,DIn,abgeschlossen
+P-19-071,1971,D-10367,Balkongeländer Schwyz,Schwyz,Projektgeschäft,2019-176,174830,204980,2019-10-18,2019-11-25,SKä,abgeschlossen
+P-19-072,1972,D-12033,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,2019-123,58110,57395,2019-10-18,2019-12-02,SKä,abgeschlossen
+P-19-073,1973,D-12439,Variantenstudie Terrasse Seewen,Seewen,Beratung,2019-165,2500,2670,2019-10-30,2019-11-04,CSc,abgeschlossen
+P-19-074,1974,D-14595,Carport Einzel Sattel,Sattel,Systemprodukte,2019-197,5945,5945,2019-11-04,2019-12-09,DIn,abgeschlossen
+P-19-075,1975,D-12341,Carport Einzel Sattel,Sattel,Systemprodukte,2019-138,6520,6685,2019-11-07,2019-11-25,DIn,abgeschlossen
+P-19-076,1976,D-11788,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,2019-188,32000,32000,2019-11-13,2019-11-26,DIn,abgeschlossen
+P-19-077,1977,D-14518,Fassadenbekleidung Morschach,Morschach,Projektgeschäft,2019-158,48730,48650,2019-11-18,2019-12-09,PKo,abgeschlossen
+P-19-078,1978,D-10535,Carport Doppel Schwyz,Schwyz,Systemprodukte,2019-162,4840,4995,2019-11-18,2019-12-12,DIn,abgeschlossen
+P-19-079,1979,D-13230,Machbarkeitsstudie Dachaufbau Morschach,Morschach,Beratung,2019-143,2970,2400,2019-11-20,2019-12-23,CSc,abgeschlossen
+P-19-080,1980,D-14763,Carport Doppel Seewen,Seewen,Systemprodukte,2019-153,6270,5800,2019-11-21,2019-12-30,DIn,abgeschlossen
+P-19-081,1981,D-11473,Vordach Hauseingang Steinen,Steinen,Systemprodukte,2019-145,7090,7090,2019-11-22,2019-12-20,DIn,abgeschlossen
+P-19-082,1982,D-10290,Treppengeländer innen Unteriberg,Unteriberg,Projektgeschäft,2019-139,75175,76990,2019-11-25,2019-12-23,SKä,abgeschlossen
+P-19-083,1983,D-13517,Vordach Hauseingang Arth,Arth,Systemprodukte,2019-167,10425,10425,2019-11-25,2020-01-07,DIn,abgeschlossen
+P-19-084,1984,D-10997,Variantenstudie Terrasse Steinen,Steinen,Beratung,2019-195,4770,3840,2019-11-25,2019-12-27,NSu,abgeschlossen
+P-19-085,1985,D-10549,Vordach Hauseingang Seewen,Seewen,Systemprodukte,2019-150,17500,18425,2019-11-27,2019-12-23,DIn,abgeschlossen
+P-19-086,1986,D-14770,Machbarkeitsstudie Dachaufbau Wädenswil,Wädenswil,Beratung,2019-220,8115,8075,2019-11-29,2020-01-02,CSc,abgeschlossen
+P-19-087,1987,D-10325,Attikaabschluss Steinen,Steinen,Projektgeschäft,2019-216,36690,37215,2019-12-02,2019-12-16,RBe,abgeschlossen
+P-19-088,1988,D-13783,Treppengeländer innen Rothenthurm,Rothenthurm,Projektgeschäft,2019-224,45695,55895,2019-12-09,2019-12-30,SKä,abgeschlossen
+P-19-089,1989,D-12096,Vordach Hauseingang Küssnacht,Küssnacht,Systemprodukte,2019-181,7500,7630,2019-12-11,2019-12-27,DIn,abgeschlossen
+P-19-090,1990,D-12705,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,2019-196,44010,47115,2019-12-16,2019-12-27,SKä,abgeschlossen
+P-19-091,1991,D-14476,Carport Doppel Brunnen,Brunnen,Systemprodukte,2019-236,4500,4670,2019-12-16,2020-01-28,DIn,abgeschlossen
+P-19-092,1992,D-14371,Zustandsaufnahme Flachdach Schwyz,Schwyz,Beratung,2019-214,2500,2315,2019-12-20,2020-01-23,CSc,abgeschlossen
+P-19-093,1993,D-10171,Fassadenbekleidung Lauerz,Lauerz,Projektgeschäft,2019-187,112685,124020,2019-12-27,2020-01-20,PKo,abgeschlossen
+P-19-094,1994,D-12481,Vordach Hauseingang Morschach,Morschach,Systemprodukte,2019-189,9185,9185,2019-12-30,2020-01-16,DIn,abgeschlossen
+P-19-095,1995,D-13027,Machbarkeitsstudie Dachaufbau Seewen,Seewen,Beratung,2019-192,3880,3185,2019-12-31,2020-02-14,NSu,abgeschlossen
+P-19-096,1996,D-13258,Fassadenbekleidung Küssnacht,Küssnacht,Projektgeschäft,2019-229,155045,168710,2020-01-07,2020-02-10,PKo,abgeschlossen
+P-19-097,1997,D-12173,Carport Einzel Goldau,Goldau,Systemprodukte,2019-215,11555,13950,2020-01-10,2020-01-30,DIn,abgeschlossen
+P-19-098,1998,D-13244,Variantenstudie Terrasse Einsiedeln,Einsiedeln,Beratung,2019-221,4665,4190,2020-01-20,2020-02-21,NSu,abgeschlossen
+P-19-099,1999,D-11599,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,2019-213,17505,17880,2020-01-24,2020-02-13,DIn,abgeschlossen
+P-19-100,19100,D-10731,Attikaabschluss Arth,Arth,Projektgeschäft,2019-219,80055,83805,2020-01-27,2020-03-04,RBe,abgeschlossen
+P-19-101,19101,D-12068,Carport Einzel Schwyz,Schwyz,Systemprodukte,2019-239,11135,11135,2020-01-28,2020-03-10,DIn,abgeschlossen
+P-19-102,19102,D-12047,Carport Doppel Brunnen,Brunnen,Systemprodukte,2019-249,4500,4875,2020-01-29,2020-02-04,DIn,abgeschlossen
+P-19-103,19103,D-13601,Carport Doppel Seewen,Seewen,Systemprodukte,2019-252,32000,38890,2020-01-29,2020-03-10,DIn,abgeschlossen
+P-19-104,19104,D-10178,Flachdachsanierung Küssnacht,Küssnacht,Projektgeschäft,2019-247,40000,42995,2020-02-03,2020-02-25,RBe,abgeschlossen
+P-19-105,19105,D-10444,Aussentreppe Stahl Ibach,Ibach,Projektgeschäft,2019-228,60600,59725,2020-02-03,2020-02-17,SKä,abgeschlossen
+P-19-106,19106,D-10122,Fassadenbekleidung Goldau,Goldau,Projektgeschäft,2019-230,67430,61855,2020-02-04,2020-02-18,PKo,abgeschlossen
+P-19-107,19107,D-12502,Carport Doppel Ibach,Ibach,Systemprodukte,2019-207,6490,8250,2020-02-06,2020-02-24,DIn,abgeschlossen
+P-20-001,2001,D-12334,Velounterstand Oberiberg,Oberiberg,Systemprodukte,2020-013,6365,6365,2020-02-17,2020-03-30,DIn,abgeschlossen
+P-19-108,19108,D-11739,Velounterstand Steinen,Steinen,Systemprodukte,2019-218,5915,6065,2020-02-19,2020-03-10,DIn,abgeschlossen
+P-19-109,19109,D-13440,Spenglerarbeiten Steildach Seewen,Seewen,Projektgeschäft,2019-212,75880,82515,2020-02-19,2020-03-06,RBe,abgeschlossen
+P-19-110,19110,D-12264,Vordach Hauseingang Goldau,Goldau,Systemprodukte,2019-255,6915,6915,2020-02-19,2020-03-04,DIn,abgeschlossen
+P-19-111,19111,D-14742,Sanierungskonzept Fassade Brunnen,Brunnen,Beratung,2019-235,5570,5555,2020-02-24,2020-03-30,CSc,abgeschlossen
+P-19-112,19112,D-12712,Carport Doppel Zug,Zug,Systemprodukte,2019-234,5405,5405,2020-02-27,2020-03-02,DIn,abgeschlossen
+P-19-113,19113,D-13069,Velounterstand Goldau,Goldau,Systemprodukte,2019-248,4510,4030,2020-03-02,2020-03-30,DIn,abgeschlossen
+P-19-114,19114,D-14357,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,2019-225,12260,11410,2020-03-02,2020-03-10,SKä,abgeschlossen
+P-19-115,19115,D-12334,Geländerprüfung Oberiberg,Oberiberg,Beratung,2019-243,10040,8240,2020-03-06,2020-03-23,NSu,abgeschlossen
+P-19-116,19116,D-12012,Treppengeländer innen Steinen,Steinen,Projektgeschäft,2019-256,75525,89040,2020-03-11,2020-04-20,SKä,abgeschlossen
+P-19-117,19117,D-14154,Zustandsaufnahme Flachdach Ibach,Ibach,Beratung,2019-244,4920,4420,2020-03-16,2020-03-20,CSc,abgeschlossen
+P-20-002,2002,D-11739,Carport Doppel Steinen,Steinen,Systemprodukte,2020-026,4500,4500,2020-03-16,2020-03-27,DIn,abgeschlossen
+P-19-118,19118,D-10192,Balkongeländer Altdorf,Altdorf,Projektgeschäft,2019-257,59255,58035,2020-03-17,2020-04-14,SKä,abgeschlossen
+P-20-003,2003,D-12173,Balkongeländer Goldau,Goldau,Projektgeschäft,2020-006,41010,44075,2020-03-17,2020-03-26,SKä,abgeschlossen
+P-19-119,19119,D-12502,Geländerprüfung Ibach,Ibach,Beratung,2019-262,4925,5385,2020-03-20,2020-03-30,NSu,abgeschlossen
+P-20-004,2004,D-10248,Treppengeländer innen Schwyz,Schwyz,Projektgeschäft,2020-018,113370,113370,2020-03-20,2020-04-27,SKä,abgeschlossen
+P-20-005,2005,D-10213,Carport Einzel Steinen,Steinen,Systemprodukte,2020-024,29980,29980,2020-03-24,2020-04-22,DIn,abgeschlossen
+P-20-006,2006,D-14217,Dachrandsanierung Unteriberg,Unteriberg,Projektgeschäft,2020-016,84170,79310,2020-03-27,2020-04-21,RBe,abgeschlossen
+P-20-007,2007,D-14700,Velounterstand Brunnen,Brunnen,Systemprodukte,2020-023,7150,8200,2020-03-30,2020-04-20,DIn,abgeschlossen
+P-20-008,2008,D-14630,Spenglerarbeiten Steildach Arth,Arth,Projektgeschäft,2020-040,45795,43460,2020-04-01,2020-04-21,RBe,abgeschlossen
+P-20-009,2009,D-12369,Carport Doppel Seewen,Seewen,Systemprodukte,2020-037,17490,14890,2020-04-03,2020-05-08,DIn,abgeschlossen
+P-20-010,2010,D-14707,Carport Doppel Altdorf,Altdorf,Systemprodukte,2020-028,7105,7105,2020-04-06,2020-05-15,DIn,abgeschlossen
+P-20-011,2011,D-10178,Flachdachsanierung Küssnacht,Küssnacht,Projektgeschäft,2020-039,51685,58680,2020-04-06,2020-05-18,RBe,abgeschlossen
+P-20-012,2012,D-12733,Velounterstand Seewen,Seewen,Systemprodukte,2020-030,6980,7465,2020-04-06,2020-04-24,DIn,abgeschlossen
+P-19-120,19120,D-12936,Machbarkeitsstudie Dachaufbau Seewen,Seewen,Beratung,2019-261,2600,2590,2020-04-14,2020-05-11,CSc,abgeschlossen
+P-20-013,2013,D-14623,Carport Einzel Lauerz,Lauerz,Systemprodukte,2020-002,13540,13970,2020-04-14,2020-04-30,DIn,abgeschlossen
+P-20-014,2014,D-10290,Attikaabschluss Unteriberg,Unteriberg,Projektgeschäft,2020-057,144555,151215,2020-04-20,2020-06-02,RBe,abgeschlossen
+P-20-015,2015,D-10493,Fassadenbekleidung Brunnen,Brunnen,Projektgeschäft,2020-042,164520,157855,2020-04-23,2020-05-27,PKo,abgeschlossen
+P-20-016,2016,D-10339,Terrassensanierung Steinen,Steinen,Projektgeschäft,2020-055,81320,77035,2020-04-23,2020-05-11,RBe,abgeschlossen
+P-20-017,2017,D-10892,Attikaabschluss Oberiberg,Oberiberg,Projektgeschäft,2020-060,38875,44725,2020-05-04,2020-05-12,RBe,abgeschlossen
+P-20-018,2018,D-10164,Carport Einzel Einsiedeln,Einsiedeln,Systemprodukte,2020-017,16825,16825,2020-05-06,2020-06-12,DIn,abgeschlossen
+P-20-019,2019,D-14833,Aussentreppe Stahl Goldau,Goldau,Projektgeschäft,2020-035,44875,51310,2020-05-06,2020-05-25,SKä,abgeschlossen
+P-20-020,2020,D-14889,Flachdachsanierung Unteriberg,Unteriberg,Projektgeschäft,2020-059,105250,106915,2020-05-08,2020-06-22,RBe,abgeschlossen
+P-20-021,2021,D-11088,Vordach Hauseingang Rothenthurm,Rothenthurm,Systemprodukte,2020-064,15405,16780,2020-05-11,2020-06-25,DIn,abgeschlossen
+P-20-022,2022,D-10304,Terrassensanierung Steinen,Steinen,Projektgeschäft,2020-070,265715,275370,2020-05-18,2020-08-03,RBe,abgeschlossen
+P-20-023,2023,D-12061,Vordach Hauseingang Steinen,Steinen,Systemprodukte,2020-063,15555,15555,2020-05-19,2020-06-16,DIn,abgeschlossen
+P-20-024,2024,D-12285,Vordach Hauseingang Morschach,Morschach,Systemprodukte,2020-067,8385,8475,2020-05-25,2020-06-02,DIn,abgeschlossen
+P-20-025,2025,D-13188,Vordach Hauseingang Morschach,Morschach,Systemprodukte,2020-054,8795,9825,2020-05-29,2020-06-19,DIn,abgeschlossen
+P-20-026,2026,D-12488,Spenglerarbeiten Steildach Brunnen,Brunnen,Projektgeschäft,2020-052,37495,43120,2020-06-02,2020-07-08,RBe,abgeschlossen
+P-20-027,2027,D-13965,Terrassensanierung Ibach,Ibach,Projektgeschäft,2020-041,31975,31975,2020-06-02,2020-06-24,RBe,abgeschlossen
+P-20-028,2028,D-13342,Spenglerarbeiten Steildach Zürich,Zürich,Projektgeschäft,2020-066,42545,36495,2020-06-02,2020-06-22,RBe,abgeschlossen
+P-20-029,2029,D-13804,Dachrandsanierung Küssnacht,Küssnacht,Projektgeschäft,2020-062,109545,113785,2020-06-05,2020-07-07,RBe,abgeschlossen
+P-20-030,2030,D-10164,Carport Einzel Einsiedeln,Einsiedeln,Systemprodukte,2020-051,5275,4670,2020-06-12,2020-06-22,DIn,abgeschlossen
+P-20-031,2031,D-10458,Sanierungskonzept Fassade Altdorf,Altdorf,Beratung,2020-038,9520,8355,2020-06-15,2020-06-22,NSu,abgeschlossen
+P-20-032,2032,D-11739,Machbarkeitsstudie Dachaufbau Steinen,Steinen,Beratung,2020-071,2500,2355,2020-06-15,2020-08-03,NSu,abgeschlossen
+P-20-033,2033,D-10178,Balkongeländer Küssnacht,Küssnacht,Projektgeschäft,2020-092,295730,304155,2020-06-15,2020-08-14,SKä,abgeschlossen
+P-20-034,2034,D-12229,Variantenstudie Terrasse Sattel,Sattel,Beratung,2020-084,2500,2370,2020-06-22,2020-07-06,NSu,abgeschlossen
+P-20-035,2035,D-14441,Dachrandsanierung Seewen,Seewen,Projektgeschäft,2020-050,35230,37955,2020-06-26,2020-07-07,RBe,abgeschlossen
+P-20-036,2036,D-10528,Carport Doppel Brunnen,Brunnen,Systemprodukte,2020-106,15585,15585,2020-06-29,2020-08-10,DIn,abgeschlossen
+P-20-037,2037,D-13468,Dachrandsanierung Rothenthurm,Rothenthurm,Projektgeschäft,2020-048,42295,50720,2020-06-29,2020-08-11,RBe,abgeschlossen
+P-20-038,2038,D-11228,Carport Einzel Brunnen,Brunnen,Systemprodukte,2020-101,4875,4875,2020-07-06,2020-08-03,DIn,abgeschlossen
+P-20-039,2039,D-10878,Carport Einzel Schwyz,Schwyz,Systemprodukte,2020-083,18230,19060,2020-08-03,2020-09-14,DIn,abgeschlossen
+P-20-040,2040,D-12138,Carport Einzel Ibach,Ibach,Systemprodukte,2020-086,7445,6985,2020-08-03,2020-09-01,DIn,abgeschlossen
+P-20-041,2041,D-13566,Carport Doppel Arth,Arth,Systemprodukte,2020-109,25630,25630,2020-08-03,2020-08-10,DIn,abgeschlossen
+P-20-042,2042,D-12250,Balkongeländer Wädenswil,Wädenswil,Projektgeschäft,2020-091,6890,7160,2020-08-03,2020-08-12,SKä,abgeschlossen
+P-20-043,2043,D-14672,Terrassensanierung Schwyz,Schwyz,Projektgeschäft,2020-081,44615,44675,2020-08-03,2020-08-13,RBe,abgeschlossen
+P-20-044,2044,D-12866,Carport Doppel Morschach,Morschach,Systemprodukte,2020-082,5365,5365,2020-08-10,2020-08-20,DIn,abgeschlossen
+P-20-045,2045,D-10507,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,2020-076,6600,6600,2020-08-10,2020-09-16,DIn,abgeschlossen
+P-20-046,2046,D-11151,Carport Doppel Morschach,Morschach,Systemprodukte,2020-129,23825,28855,2020-08-10,2020-08-25,DIn,abgeschlossen
+P-20-047,2047,D-11151,Vordach Hauseingang Morschach,Morschach,Systemprodukte,2020-075,23320,28295,2020-08-13,2020-09-15,DIn,abgeschlossen
+P-20-048,2048,D-13174,Fassadenbekleidung Goldau,Goldau,Projektgeschäft,2020-122,29255,27565,2020-08-17,2020-09-10,PKo,abgeschlossen
+P-20-049,2049,D-12488,Sanierungskonzept Fassade Brunnen,Brunnen,Beratung,2020-073,3690,3930,2020-08-17,2020-08-28,CSc,abgeschlossen
+P-20-050,2050,D-11781,Carport Einzel Steinen,Steinen,Systemprodukte,2020-124,11500,11765,2020-08-20,2020-09-14,DIn,abgeschlossen
+P-20-051,2051,D-11774,Balkongeländer Zug,Zug,Projektgeschäft,2020-127,39815,39815,2020-08-24,2020-09-16,SKä,abgeschlossen
+P-20-052,2052,D-12075,Dachrandsanierung Lauerz,Lauerz,Projektgeschäft,2020-130,25985,31285,2020-08-26,2020-09-23,RBe,abgeschlossen
+P-20-053,2053,D-14315,Zustandsaufnahme Flachdach Unteriberg,Unteriberg,Beratung,2020-105,4730,4410,2020-08-28,2020-10-12,CSc,abgeschlossen
+P-20-054,2054,D-13363,Variantenstudie Terrasse Brunnen,Brunnen,Beratung,2020-117,2500,2390,2020-08-31,2020-10-12,NSu,abgeschlossen
+P-20-055,2055,D-13104,Flachdachsanierung Ibach,Ibach,Projektgeschäft,2020-088,45940,57750,2020-08-31,2020-10-05,RBe,abgeschlossen
+P-20-056,2056,D-13062,Terrassensanierung Seewen,Seewen,Projektgeschäft,2020-098,15145,17380,2020-09-03,2020-10-07,RBe,abgeschlossen
+P-20-057,2057,D-12719,Carport Doppel Morschach,Morschach,Systemprodukte,2020-104,10210,10210,2020-09-07,2020-10-05,DIn,abgeschlossen
+P-20-058,2058,D-13181,Terrassensanierung Seewen,Seewen,Projektgeschäft,2020-142,19470,21800,2020-09-08,2020-09-15,RBe,abgeschlossen
+P-20-059,2059,D-12124,Carport Doppel Sattel,Sattel,Systemprodukte,2020-097,10625,10980,2020-09-18,2020-10-16,DIn,abgeschlossen
+P-20-060,2060,D-14014,Flachdachsanierung Seewen,Seewen,Projektgeschäft,2020-154,90505,90505,2020-09-23,2020-10-12,RBe,abgeschlossen
+P-20-061,2061,D-13020,Velounterstand Goldau,Goldau,Systemprodukte,2020-148,6925,6925,2020-09-25,2020-11-04,DIn,abgeschlossen
+P-20-062,2062,D-12768,Vordach Hauseingang Luzern,Luzern,Systemprodukte,2020-119,9585,10650,2020-09-28,2020-11-11,DIn,abgeschlossen
+P-20-063,2063,D-13300,Geländerprüfung Küssnacht,Küssnacht,Beratung,2020-160,5375,5280,2020-09-30,2020-10-06,NSu,abgeschlossen
+P-20-064,2064,D-11438,Machbarkeitsstudie Dachaufbau Zug,Zug,Beratung,2020-164,2500,2145,2020-09-30,2020-11-16,CSc,abgeschlossen
+P-20-065,2065,D-11585,Velounterstand Rothenthurm,Rothenthurm,Systemprodukte,2020-170,5750,5750,2020-10-22,2020-12-02,DIn,abgeschlossen
+P-20-066,2066,D-13426,Dachrandsanierung Baar,Baar,Projektgeschäft,2020-166,57535,55615,2020-10-30,2020-12-07,RBe,abgeschlossen
+P-20-067,2067,D-14427,Zustandsaufnahme Flachdach Brunnen,Brunnen,Beratung,2020-143,5870,4980,2020-11-09,2020-12-14,CSc,abgeschlossen
+P-20-068,2068,D-10178,Attikaabschluss Küssnacht,Küssnacht,Projektgeschäft,2020-155,43860,44445,2020-11-09,2020-11-18,RBe,abgeschlossen
+P-20-069,2069,D-14308,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,2020-132,4500,4560,2020-11-09,2020-12-14,DIn,abgeschlossen
+P-20-070,2070,D-11501,Spenglerarbeiten Steildach Arth,Arth,Projektgeschäft,2020-195,24370,24485,2020-11-16,2020-11-23,RBe,abgeschlossen
+P-20-071,2071,D-10542,Variantenstudie Terrasse Einsiedeln,Einsiedeln,Beratung,2020-201,3585,3165,2020-11-18,2020-12-28,CSc,abgeschlossen
+P-20-072,2072,D-14581,Carport Doppel Küssnacht,Küssnacht,Systemprodukte,2020-176,6655,6655,2020-11-18,2020-12-28,DIn,abgeschlossen
+P-20-073,2073,D-11025,Velounterstand Ibach,Ibach,Systemprodukte,2020-190,13380,13380,2020-11-23,2020-12-03,DIn,abgeschlossen
+P-20-074,2074,D-12215,Balkongeländer Morschach,Morschach,Projektgeschäft,2020-186,180000,227465,2020-11-25,2021-01-04,SKä,abgeschlossen
+P-20-075,2075,D-10283,Terrassensanierung Altdorf,Altdorf,Projektgeschäft,2020-174,74370,71855,2020-11-25,2021-01-04,RBe,abgeschlossen
+P-20-076,2076,D-11746,Terrassensanierung Schwyz,Schwyz,Projektgeschäft,2020-134,52610,52610,2020-11-25,2021-01-04,RBe,abgeschlossen
+P-20-077,2077,D-12523,Sanierungskonzept Fassade Gersau,Gersau,Beratung,2020-150,9095,7450,2020-11-26,2020-12-03,CSc,abgeschlossen
+P-20-078,2078,D-12026,Carport Einzel Steinen,Steinen,Systemprodukte,2020-135,4500,4790,2020-11-30,2020-12-10,DIn,abgeschlossen
+P-20-079,2079,D-10290,Spenglerarbeiten Steildach Unteriberg,Unteriberg,Projektgeschäft,2020-137,171265,200625,2020-11-30,2021-01-08,RBe,abgeschlossen
+P-20-080,2080,D-14735,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,2020-213,6260,6260,2020-12-02,2020-12-30,DIn,abgeschlossen
+P-20-081,2081,D-13902,Geländerprüfung Küssnacht,Küssnacht,Beratung,2020-182,6350,5515,2020-12-03,2020-12-09,NSu,abgeschlossen
+P-20-082,2082,D-14672,Velounterstand Schwyz,Schwyz,Systemprodukte,2020-204,7715,7890,2020-12-07,2021-01-04,DIn,abgeschlossen
+P-20-083,2083,D-13510,Vordach Hauseingang Rothenthurm,Rothenthurm,Systemprodukte,2020-146,10725,10725,2020-12-09,2020-12-14,DIn,abgeschlossen
+P-20-084,2084,D-13265,Vordach Hauseingang Ibach,Ibach,Systemprodukte,2020-185,10540,10540,2020-12-14,2021-01-21,DIn,abgeschlossen
+P-20-085,2085,D-10955,Terrassensanierung Sattel,Sattel,Projektgeschäft,2020-223,62275,73400,2020-12-14,2021-01-11,RBe,abgeschlossen
+P-20-086,2086,D-13741,Vordach Hauseingang Gersau,Gersau,Systemprodukte,2020-224,10350,10350,2020-12-17,2021-01-05,DIn,abgeschlossen
+P-20-087,2087,D-11151,Dachrandsanierung Morschach,Morschach,Projektgeschäft,2020-165,76665,91360,2020-12-21,2021-01-11,RBe,abgeschlossen
+P-20-088,2088,D-14196,Machbarkeitsstudie Dachaufbau Lauerz,Lauerz,Beratung,2020-228,7805,7610,2020-12-21,2021-01-07,NSu,abgeschlossen
+P-20-089,2089,D-10178,Aussentreppe Stahl Küssnacht,Küssnacht,Projektgeschäft,2020-207,255040,243350,2020-12-23,2021-02-15,SKä,abgeschlossen
+P-20-090,2090,D-12509,Vordach Hauseingang Morschach,Morschach,Systemprodukte,2020-229,21805,23180,2020-12-24,2021-01-27,DIn,abgeschlossen
+P-20-091,2091,D-13475,Carport Doppel Morschach,Morschach,Systemprodukte,2020-179,4500,4500,2021-01-04,2021-02-08,DIn,abgeschlossen
+P-20-092,2092,D-13391,Terrassensanierung Steinen,Steinen,Projektgeschäft,2020-206,76525,87355,2021-01-04,2021-01-20,RBe,abgeschlossen
+P-20-093,2093,D-13209,Dachrandsanierung Sattel,Sattel,Projektgeschäft,2020-189,38410,38375,2021-01-04,2021-01-12,RBe,abgeschlossen
+P-20-094,2094,D-13804,Vordach Hauseingang Küssnacht,Küssnacht,Systemprodukte,2020-230,14865,14865,2021-01-05,2021-01-22,DIn,abgeschlossen
+P-20-095,2095,D-12194,Fassadenbekleidung Einsiedeln,Einsiedeln,Projektgeschäft,2020-192,45505,48505,2021-01-07,2021-01-18,PKo,abgeschlossen
+P-20-096,2096,D-10178,Attikaabschluss Küssnacht,Küssnacht,Projektgeschäft,2020-216,153275,169045,2021-01-11,2021-02-16,RBe,abgeschlossen
+P-20-097,2097,D-13965,Velounterstand Ibach,Ibach,Systemprodukte,2020-194,11730,11810,2021-01-18,2021-01-25,DIn,abgeschlossen
+P-20-098,2098,D-11347,Vordach Hauseingang Seewen,Seewen,Systemprodukte,2020-234,32000,34265,2021-01-21,2021-02-22,DIn,abgeschlossen
+P-20-099,2099,D-11144,Carport Doppel Zug,Zug,Systemprodukte,2020-202,11640,12295,2021-01-29,2021-02-02,DIn,abgeschlossen
+P-20-100,20100,D-12432,Variantenstudie Terrasse Arth,Arth,Beratung,2020-227,3860,3830,2021-02-01,2021-03-12,NSu,abgeschlossen
+P-20-101,20101,D-12971,Vordach Hauseingang Altdorf,Altdorf,Systemprodukte,2020-231,4500,4660,2021-02-10,2021-03-08,DIn,abgeschlossen
+P-21-001,,D-12089,Machbarkeitsstudie Dachaufbau Seewen,Seewen,Beratung,OF-21-0016,3135,3130,2021-02-22,2021-03-08,NSu,abgeschlossen
+P-21-002,,D-15008,Fassadenbekleidung Oberiberg,Oberiberg,Projektgeschäft,OF-21-0019,26825,29055,2021-02-26,2021-04-12,PKo,abgeschlossen
+P-20-102,20102,D-10759,Flachdachsanierung Morschach,Morschach,Projektgeschäft,2020-242,77170,88100,2021-03-02,2021-03-18,RBe,abgeschlossen
+P-20-103,20103,D-12299,Aussentreppe Stahl Küssnacht,Küssnacht,Projektgeschäft,2020-244,43195,43790,2021-03-02,2021-03-11,SKä,abgeschlossen
+P-20-104,20104,D-14469,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,2020-237,5525,5525,2021-03-05,2021-03-09,DIn,abgeschlossen
+P-21-003,,D-14014,Sanierungskonzept Fassade Seewen,Seewen,Beratung,OF-21-0010,2500,2145,2021-03-09,2021-03-26,NSu,abgeschlossen
+P-21-004,,D-14455,Spenglerarbeiten Steildach Schwyz,Schwyz,Projektgeschäft,OF-21-0002,68985,88480,2021-03-12,2021-04-16,RBe,abgeschlossen
+P-21-005,,D-13552,Attikaabschluss Gersau,Gersau,Projektgeschäft,OF-21-0047,54845,64515,2021-03-23,2021-04-06,RBe,abgeschlossen
+P-20-105,20105,D-12530,Velounterstand Sattel,Sattel,Systemprodukte,2020-246,7355,7355,2021-03-26,2021-04-20,DIn,abgeschlossen
+P-21-006,,D-13132,Velounterstand Lauerz,Lauerz,Systemprodukte,OF-21-0004,18110,18110,2021-03-26,2021-04-21,DIn,abgeschlossen
+P-21-007,,D-11984,Sanierungskonzept Fassade Oberiberg,Oberiberg,Beratung,OF-21-0014,3555,3425,2021-03-29,2021-04-27,NSu,abgeschlossen
+P-21-008,,D-10339,Fassadenbekleidung Steinen,Steinen,Projektgeschäft,OF-21-0021,70965,66610,2021-03-29,2021-04-26,PKo,abgeschlossen
+P-21-009,,D-10850,Fassadenbekleidung Morschach,Morschach,Projektgeschäft,OF-21-0041,45410,49350,2021-03-29,2021-04-09,PKo,abgeschlossen
+P-21-010,,D-11977,Carport Einzel Morschach,Morschach,Systemprodukte,OF-21-0008,18850,18850,2021-04-06,2021-05-03,DIn,abgeschlossen
+P-21-011,,D-10192,Spenglerarbeiten Steildach Altdorf,Altdorf,Projektgeschäft,OF-21-0003,41125,45910,2021-04-06,2021-05-17,RBe,abgeschlossen
+P-21-012,,D-10367,Terrassensanierung Schwyz,Schwyz,Projektgeschäft,OF-21-0013,90945,104285,2021-04-12,2021-05-06,RBe,abgeschlossen
+P-21-013,,D-10997,Carport Doppel Steinen,Steinen,Systemprodukte,OF-21-0079,32000,34285,2021-04-26,2021-06-07,DIn,abgeschlossen
+P-21-014,,D-10493,Treppengeländer innen Brunnen,Brunnen,Projektgeschäft,OF-21-0046,294065,317220,2021-04-26,2021-06-25,SKä,abgeschlossen
+P-21-015,,D-10304,Attikaabschluss Steinen,Steinen,Projektgeschäft,OF-21-0009,102465,111875,2021-04-29,2021-05-20,RBe,abgeschlossen
+P-21-016,,D-13076,Terrassensanierung Morschach,Morschach,Projektgeschäft,OF-21-0001,45045,56860,2021-04-30,2021-05-10,RBe,abgeschlossen
+P-21-017,,D-10304,Treppengeländer innen Steinen,Steinen,Projektgeschäft,OF-21-0027,75365,82715,2021-05-03,2021-05-26,SKä,abgeschlossen
+P-21-018,,D-13545,Carport Doppel Küssnacht,Küssnacht,Systemprodukte,OF-21-0032,8320,8320,2021-05-03,2021-05-26,DIn,abgeschlossen
+P-21-019,,D-11137,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,OF-21-0023,16120,16120,2021-05-05,2021-06-21,DIn,abgeschlossen
+P-21-020,,D-12978,Aussentreppe Stahl Baar,Baar,Projektgeschäft,OF-21-0015,28405,31860,2021-05-06,2021-05-25,SKä,abgeschlossen
+P-21-021,,D-12705,Fassadenbekleidung Brunnen,Brunnen,Projektgeschäft,OF-21-0083,46325,54350,2021-05-07,2021-06-14,PKo,abgeschlossen
+P-21-022,,D-11032,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-21-0031,7055,8410,2021-05-07,2021-06-14,DIn,abgeschlossen
+P-21-023,,D-12796,Fassadenbekleidung Goldau,Goldau,Projektgeschäft,OF-21-0063,70340,69900,2021-05-11,2021-05-26,PKo,abgeschlossen
+P-21-024,,D-13461,Terrassensanierung Ibach,Ibach,Projektgeschäft,OF-21-0081,112130,124740,2021-05-11,2021-06-16,RBe,abgeschlossen
+P-21-025,,D-14378,Vordach Hauseingang Steinen,Steinen,Systemprodukte,OF-21-0056,7595,7595,2021-05-18,2021-06-24,DIn,abgeschlossen
+P-21-026,,D-12586,Sanierungskonzept Fassade Rothenthurm,Rothenthurm,Beratung,OF-21-0049,3790,3560,2021-05-19,2021-06-16,NSu,abgeschlossen
+P-21-027,,D-13370,Carport Doppel Unteriberg,Unteriberg,Systemprodukte,OF-21-0045,10825,11425,2021-05-21,2021-06-24,DIn,abgeschlossen
+P-21-028,,D-14084,Carport Einzel Steinen,Steinen,Systemprodukte,OF-21-0040,10865,9370,2021-05-25,2021-06-21,DIn,abgeschlossen
+P-21-029,,D-12299,Dachrandsanierung Küssnacht,Küssnacht,Projektgeschäft,OF-21-0085,34920,32720,2021-05-25,2021-07-05,RBe,abgeschlossen
+P-21-030,,D-14210,Carport Einzel Zug,Zug,Systemprodukte,OF-21-0061,4500,4815,2021-05-25,2021-07-05,DIn,abgeschlossen
+P-21-031,,D-10724,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-21-0048,10790,10790,2021-05-25,2021-06-01,DIn,abgeschlossen
+P-21-032,,D-10339,Flachdachsanierung Steinen,Steinen,Projektgeschäft,OF-21-0099,109770,114205,2021-05-27,2021-06-21,RBe,abgeschlossen
+P-21-033,,D-14469,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,OF-21-0076,4275,3930,2021-05-31,2021-06-21,NSu,abgeschlossen
+P-21-034,,D-10367,Fassadenbekleidung Schwyz,Schwyz,Projektgeschäft,OF-21-0093,44725,52450,2021-06-01,2021-07-14,PKo,abgeschlossen
+P-21-035,,D-11872,Velounterstand Morschach,Morschach,Systemprodukte,OF-21-0052,11130,10510,2021-06-04,2021-08-09,DIn,abgeschlossen
+P-21-036,,D-12495,Terrassensanierung Seewen,Seewen,Projektgeschäft,OF-21-0059,60635,64155,2021-06-04,2021-06-23,RBe,abgeschlossen
+P-21-037,,D-10871,Sanierungskonzept Fassade Morschach,Morschach,Beratung,OF-21-0089,5770,6030,2021-06-10,2021-08-09,CSc,abgeschlossen
+P-21-038,,D-10178,Flachdachsanierung Küssnacht,Küssnacht,Projektgeschäft,OF-21-0104,350000,354155,2021-06-16,2021-08-26,RBe,abgeschlossen
+P-21-039,,D-13559,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-21-0111,4500,4500,2021-06-24,2021-08-09,DIn,abgeschlossen
+P-21-040,,D-13510,Geländerprüfung Rothenthurm,Rothenthurm,Beratung,OF-21-0050,4835,4100,2021-06-25,2021-08-09,NSu,abgeschlossen
+P-21-041,,D-14973,Fassadenbekleidung Gersau,Gersau,Projektgeschäft,OF-21-0055,102025,112455,2021-06-28,2021-08-09,PKo,abgeschlossen
+P-21-042,,D-12145,Aussentreppe Stahl Morschach,Morschach,Projektgeschäft,OF-21-0078,31075,34220,2021-06-29,2021-07-06,SKä,abgeschlossen
+P-21-043,,D-13027,Carport Doppel Seewen,Seewen,Systemprodukte,OF-21-0075,15625,16285,2021-07-05,2021-08-16,DIn,abgeschlossen
+P-21-044,,D-14644,Attikaabschluss Seewen,Seewen,Projektgeschäft,OF-21-0125,46425,46425,2021-07-06,2021-08-16,RBe,abgeschlossen
+P-21-045,,D-12075,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,OF-21-0058,76230,87010,2021-07-12,2021-08-23,SKä,abgeschlossen
+P-21-046,,D-10381,Attikaabschluss Küssnacht,Küssnacht,Projektgeschäft,OF-21-0119,30065,34990,2021-07-14,2021-08-26,RBe,abgeschlossen
+P-21-047,,D-12089,Spenglerarbeiten Steildach Seewen,Seewen,Projektgeschäft,OF-21-0077,19915,19915,2021-08-09,2021-08-20,RBe,abgeschlossen
+P-21-048,,D-10689,Carport Doppel Zug,Zug,Systemprodukte,OF-21-0084,6965,6965,2021-08-09,2021-09-06,DIn,abgeschlossen
+P-21-049,,D-11039,Carport Einzel Schwyz,Schwyz,Systemprodukte,OF-21-0109,15155,15155,2021-08-09,2021-08-23,DIn,abgeschlossen
+P-21-050,,D-14035,Treppengeländer innen Altdorf,Altdorf,Projektgeschäft,OF-21-0088,61060,61835,2021-08-09,2021-08-23,SKä,abgeschlossen
+P-21-051,,D-12110,Vordach Hauseingang Küssnacht,Küssnacht,Systemprodukte,OF-21-0097,12220,10790,2021-08-09,2021-08-27,DIn,abgeschlossen
+P-21-052,,D-14805,Carport Einzel Morschach,Morschach,Systemprodukte,OF-21-0118,7265,7265,2021-08-09,2021-09-06,DIn,abgeschlossen
+P-21-053,,D-10318,Carport Einzel Wädenswil,Wädenswil,Systemprodukte,OF-21-0126,5015,5365,2021-08-09,2021-08-16,DIn,abgeschlossen
+P-21-054,,D-14861,Carport Einzel Sattel,Sattel,Systemprodukte,OF-21-0138,10030,10030,2021-08-09,2021-08-13,DIn,abgeschlossen
+P-21-055,,D-10521,Zustandsaufnahme Flachdach Unteriberg,Unteriberg,Beratung,OF-21-0122,8105,8865,2021-08-13,2021-08-31,CSc,abgeschlossen
+P-21-056,,D-12474,Carport Doppel Zug,Zug,Systemprodukte,OF-21-0153,18010,18010,2021-08-20,2021-09-01,DIn,abgeschlossen
+P-21-057,,D-11543,Aussentreppe Stahl Küssnacht,Küssnacht,Projektgeschäft,OF-21-0124,98445,98445,2021-08-23,2021-09-27,SKä,abgeschlossen
+P-21-058,,D-10542,Vordach Hauseingang Einsiedeln,Einsiedeln,Systemprodukte,OF-21-0098,13730,13730,2021-08-26,2021-09-20,DIn,abgeschlossen
+P-21-059,,D-14910,Dachrandsanierung Goldau,Goldau,Projektgeschäft,OF-21-0106,57405,67435,2021-09-02,2021-09-15,RBe,abgeschlossen
+P-21-060,,D-11508,Variantenstudie Terrasse Lauerz,Lauerz,Beratung,OF-21-0120,3110,2610,2021-09-02,2021-10-18,CSc,abgeschlossen
+P-21-061,,D-13783,Treppengeländer innen Rothenthurm,Rothenthurm,Projektgeschäft,OF-21-0128,39785,42285,2021-09-06,2021-10-18,SKä,abgeschlossen
+P-21-062,,D-13811,Carport Einzel Zug,Zug,Systemprodukte,OF-21-0132,4500,5460,2021-09-09,2021-10-04,DIn,abgeschlossen
+P-21-063,,D-12110,Dachrandsanierung Küssnacht,Küssnacht,Projektgeschäft,OF-21-0160,180000,167205,2021-09-13,2021-10-20,RBe,abgeschlossen
+P-21-064,,D-10381,Spenglerarbeiten Steildach Küssnacht,Küssnacht,Projektgeschäft,OF-21-0174,40170,40170,2021-09-16,2021-10-13,RBe,abgeschlossen
+P-21-065,,D-12572,Balkongeländer Morschach,Morschach,Projektgeschäft,OF-21-0144,52895,58825,2021-09-17,2021-10-28,SKä,abgeschlossen
+P-21-066,,D-12215,Geländerprüfung Morschach,Morschach,Beratung,OF-21-0148,5415,4565,2021-09-20,2021-10-04,NSu,abgeschlossen
+P-21-067,,D-11823,Aussentreppe Stahl Altdorf,Altdorf,Projektgeschäft,OF-21-0127,115175,134685,2021-09-22,2021-10-18,SKä,abgeschlossen
+P-21-068,,D-13853,Zustandsaufnahme Flachdach Goldau,Goldau,Beratung,OF-21-0162,3490,3235,2021-09-23,2021-10-11,CSc,abgeschlossen
+P-21-069,,D-11893,Dachrandsanierung Steinen,Steinen,Projektgeschäft,OF-21-0147,37075,48080,2021-09-29,2021-10-18,RBe,abgeschlossen
+P-21-070,,D-11039,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-21-0182,38740,43490,2021-09-29,2021-10-18,RBe,abgeschlossen
+P-21-071,,D-14014,Velounterstand Seewen,Seewen,Systemprodukte,OF-21-0181,5030,5030,2021-10-01,2021-10-15,DIn,abgeschlossen
+P-21-072,,D-10514,Spenglerarbeiten Steildach Seewen,Seewen,Projektgeschäft,OF-21-0173,37025,40725,2021-10-08,2021-11-15,RBe,abgeschlossen
+P-21-073,,D-12054,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-21-0172,124010,126030,2021-10-11,2021-11-08,SKä,abgeschlossen
+P-21-074,,D-10675,Carport Einzel Arth,Arth,Systemprodukte,OF-21-0175,14565,14565,2021-10-14,2021-10-20,DIn,abgeschlossen
+P-21-075,,D-13027,Fassadenbekleidung Seewen,Seewen,Projektgeschäft,OF-21-0170,53710,52035,2021-10-15,2021-11-22,PKo,abgeschlossen
+P-21-076,,D-10990,Carport Doppel Goldau,Goldau,Systemprodukte,OF-21-0189,9020,9020,2021-10-21,2021-10-29,DIn,abgeschlossen
+P-21-077,,D-12075,Velounterstand Lauerz,Lauerz,Systemprodukte,OF-21-0176,32000,32000,2021-10-25,2021-11-04,DIn,abgeschlossen
+P-21-078,,D-11585,Treppengeländer innen Rothenthurm,Rothenthurm,Projektgeschäft,OF-21-0198,18875,19785,2021-11-02,2021-11-22,SKä,abgeschlossen
+P-21-079,,D-14084,Zustandsaufnahme Flachdach Steinen,Steinen,Beratung,OF-21-0164,5930,5280,2021-11-10,2021-11-15,NSu,abgeschlossen
+P-21-080,,D-14182,Treppengeländer innen Seewen,Seewen,Projektgeschäft,OF-21-0196,49970,43055,2021-11-22,2021-12-31,SKä,abgeschlossen
+P-21-081,,D-12516,Carport Einzel Altdorf,Altdorf,Systemprodukte,OF-21-0177,7095,7455,2021-11-23,2022-01-07,DIn,abgeschlossen
+P-21-082,,D-13937,Vordach Hauseingang Gersau,Gersau,Systemprodukte,OF-21-0190,4500,4575,2021-11-24,2022-01-07,DIn,abgeschlossen
+P-21-083,,D-10675,Spenglerarbeiten Steildach Arth,Arth,Projektgeschäft,OF-21-0154,102615,109720,2021-11-25,2021-12-16,RBe,abgeschlossen
+P-21-084,,D-14252,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-21-0202,19605,19900,2021-11-25,2021-12-27,RBe,abgeschlossen
+P-21-085,,D-13608,Carport Doppel Morschach,Morschach,Systemprodukte,OF-21-0179,24145,24145,2021-11-29,2021-12-13,DIn,abgeschlossen
+P-21-086,,D-14707,Machbarkeitsstudie Dachaufbau Altdorf,Altdorf,Beratung,OF-21-0222,2500,2210,2021-11-29,2021-12-07,CSc,abgeschlossen
+P-21-087,,D-13251,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-21-0217,40225,41395,2021-12-03,2021-12-20,SKä,abgeschlossen
+P-21-088,,D-12628,Carport Einzel Seewen,Seewen,Systemprodukte,OF-21-0155,6755,7410,2021-12-06,2021-12-20,DIn,abgeschlossen
+P-21-089,,D-11662,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,OF-21-0193,8530,8530,2021-12-06,2021-12-24,DIn,abgeschlossen
+P-21-090,,D-11179,Carport Einzel Seewen,Seewen,Systemprodukte,OF-21-0167,9325,11355,2021-12-06,2021-12-27,DIn,abgeschlossen
+P-21-091,,D-13482,Treppengeländer innen Schwyz,Schwyz,Projektgeschäft,OF-21-0183,26445,27810,2021-12-09,2022-01-07,SKä,abgeschlossen
+P-21-092,,D-11585,Machbarkeitsstudie Dachaufbau Rothenthurm,Rothenthurm,Beratung,OF-21-0178,13215,11815,2021-12-15,2022-01-10,NSu,abgeschlossen
+P-21-093,,D-12782,Velounterstand Morschach,Morschach,Systemprodukte,OF-21-0234,21400,21400,2021-12-17,2022-01-04,DIn,abgeschlossen
+P-21-094,,D-14994,Terrassensanierung Altdorf,Altdorf,Projektgeschäft,OF-21-0245,80580,93060,2021-12-20,2022-01-07,RBe,abgeschlossen
+P-21-095,,D-10290,Flachdachsanierung Unteriberg,Unteriberg,Projektgeschäft,OF-21-0187,214065,245955,2021-12-21,2022-02-04,RBe,abgeschlossen
+P-21-096,,D-13279,Velounterstand Baar,Baar,Systemprodukte,OF-21-0232,8985,9405,2021-12-27,2022-01-05,DIn,abgeschlossen
+P-21-097,,D-14364,Velounterstand Seewen,Seewen,Systemprodukte,OF-21-0241,14050,14760,2021-12-27,2022-02-09,DIn,abgeschlossen
+P-21-098,,D-14007,Machbarkeitsstudie Dachaufbau Brunnen,Brunnen,Beratung,OF-21-0194,7110,6840,2021-12-29,2022-01-18,NSu,abgeschlossen
+P-21-099,,D-13307,Carport Einzel Morschach,Morschach,Systemprodukte,OF-21-0221,15020,15020,2021-12-31,2022-02-14,DIn,abgeschlossen
+P-21-100,,D-12978,Velounterstand Baar,Baar,Systemprodukte,OF-21-0233,4500,4500,2022-01-10,2022-02-21,DIn,abgeschlossen
+P-21-101,,D-13300,Vordach Hauseingang Küssnacht,Küssnacht,Systemprodukte,OF-21-0273,11235,11450,2022-01-13,2022-02-23,DIn,abgeschlossen
+P-21-102,,D-14903,Velounterstand Küssnacht,Küssnacht,Systemprodukte,OF-21-0261,9955,12730,2022-01-17,2022-02-21,DIn,abgeschlossen
+P-21-103,,D-12481,Attikaabschluss Morschach,Morschach,Projektgeschäft,OF-21-0226,99885,95855,2022-01-17,2022-02-23,RBe,abgeschlossen
+P-21-104,,D-12110,Zustandsaufnahme Flachdach Küssnacht,Küssnacht,Beratung,OF-21-0216,2855,2400,2022-01-24,2022-02-01,CSc,abgeschlossen
+P-21-105,,D-13615,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-21-0254,19005,19005,2022-01-25,2022-02-21,DIn,abgeschlossen
+P-21-106,,D-11935,Sanierungskonzept Fassade Steinen,Steinen,Beratung,OF-21-0260,4835,3975,2022-01-25,2022-02-10,CSc,abgeschlossen
+P-22-001,,D-14539,Carport Doppel Einsiedeln,Einsiedeln,Systemprodukte,OF-22-0006,6115,6230,2022-01-31,2022-02-21,DIn,abgeschlossen
+P-21-107,,D-10171,Attikaabschluss Lauerz,Lauerz,Projektgeschäft,OF-21-0231,78300,73300,2022-02-01,2022-03-17,RBe,abgeschlossen
+P-21-108,,D-11634,Aussentreppe Stahl Altdorf,Altdorf,Projektgeschäft,OF-21-0236,52675,50365,2022-02-01,2022-02-14,SKä,abgeschlossen
+P-21-109,,D-10304,Aussentreppe Stahl Steinen,Steinen,Projektgeschäft,OF-21-0243,205695,202890,2022-02-02,2022-03-16,SKä,abgeschlossen
+P-21-110,,D-12166,Fassadenbekleidung Seewen,Seewen,Projektgeschäft,OF-21-0215,36290,42500,2022-02-02,2022-03-07,PKo,abgeschlossen
+P-21-111,,D-13370,Velounterstand Unteriberg,Unteriberg,Systemprodukte,OF-21-0247,11625,12455,2022-02-09,2022-02-14,DIn,abgeschlossen
+P-21-112,,D-12278,Spenglerarbeiten Steildach Morschach,Morschach,Projektgeschäft,OF-21-0227,103345,109850,2022-02-09,2022-03-02,RBe,abgeschlossen
+P-21-113,,D-13048,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-21-0225,8960,8960,2022-02-11,2022-03-14,DIn,abgeschlossen
+P-21-114,,D-13342,Balkongeländer Zürich,Zürich,Projektgeschäft,OF-21-0235,180000,180000,2022-02-17,2022-03-28,SKä,abgeschlossen
+P-21-115,,D-13944,Geländerprüfung Seewen,Seewen,Beratung,OF-21-0256,4135,3655,2022-02-21,2022-03-30,CSc,abgeschlossen
+P-21-116,,D-11018,Carport Doppel Rothenthurm,Rothenthurm,Systemprodukte,OF-21-0271,19525,19525,2022-02-21,2022-03-28,DIn,abgeschlossen
+P-22-002,,D-11221,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-22-0008,5230,5885,2022-02-21,2022-03-17,DIn,abgeschlossen
+P-22-003,,D-11298,Dachrandsanierung Einsiedeln,Einsiedeln,Projektgeschäft,OF-22-0022,32230,35710,2022-02-23,2022-03-21,RBe,abgeschlossen
+P-21-117,,D-11102,Flachdachsanierung Brunnen,Brunnen,Projektgeschäft,OF-21-0280,35175,35175,2022-02-24,2022-03-22,RBe,abgeschlossen
+P-21-118,,D-13587,Velounterstand Sattel,Sattel,Systemprodukte,OF-21-0277,7540,7540,2022-03-07,2022-04-19,DIn,abgeschlossen
+P-22-004,,D-12467,Treppengeländer innen Ibach,Ibach,Projektgeschäft,OF-22-0018,38670,39925,2022-03-10,2022-04-13,SKä,abgeschlossen
+P-21-119,,D-11466,Terrassensanierung Schwyz,Schwyz,Projektgeschäft,OF-21-0264,47000,54580,2022-03-11,2022-03-21,RBe,abgeschlossen
+P-21-120,,D-14539,Attikaabschluss Einsiedeln,Einsiedeln,Projektgeschäft,OF-21-0253,109800,141390,2022-03-21,2022-04-26,RBe,abgeschlossen
+P-22-005,,D-12565,Carport Einzel Zug,Zug,Systemprodukte,OF-22-0017,5340,5485,2022-03-21,2022-03-29,DIn,abgeschlossen
+P-21-121,,D-11102,Flachdachsanierung Brunnen,Brunnen,Projektgeschäft,OF-21-0281,105360,122970,2022-03-22,2022-04-27,RBe,abgeschlossen
+P-22-006,,D-12201,Treppengeländer innen Steinen,Steinen,Projektgeschäft,OF-22-0042,40155,44325,2022-03-24,2022-04-04,SKä,abgeschlossen
+P-22-007,,D-13118,Treppengeländer innen Seewen,Seewen,Projektgeschäft,OF-22-0009,20445,19105,2022-03-28,2022-04-27,SKä,abgeschlossen
+P-21-122,,D-15050,Attikaabschluss Schwyz,Schwyz,Projektgeschäft,OF-21-0262,43310,49415,2022-03-30,2022-05-02,RBe,abgeschlossen
+P-21-123,,D-13839,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-21-0266,9025,9025,2022-04-01,2022-05-04,DIn,abgeschlossen
+P-22-008,,D-13286,Carport Einzel Küssnacht,Küssnacht,Systemprodukte,OF-22-0012,14795,14795,2022-04-19,2022-05-12,DIn,abgeschlossen
+P-22-009,,D-13748,Terrassensanierung Steinen,Steinen,Projektgeschäft,OF-22-0068,18630,21920,2022-04-19,2022-05-12,RBe,abgeschlossen
+P-22-010,,D-12670,Velounterstand Lauerz,Lauerz,Systemprodukte,OF-22-0044,11305,12075,2022-04-19,2022-05-11,DIn,abgeschlossen
+P-21-124,,D-11725,Carport Doppel Steinen,Steinen,Systemprodukte,OF-21-0279,9935,9935,2022-04-25,2022-06-07,DIn,abgeschlossen
+P-22-011,,D-12180,Velounterstand Gersau,Gersau,Systemprodukte,OF-22-0046,5980,6530,2022-04-26,2022-05-17,DIn,abgeschlossen
+P-22-012,,D-10969,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-22-0021,48810,47015,2022-04-27,2022-06-03,RBe,abgeschlossen
+P-22-013,,D-15022,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-22-0073,47240,52600,2022-05-02,2022-05-19,RBe,abgeschlossen
+P-22-014,,D-13825,Balkongeländer Lauerz,Lauerz,Projektgeschäft,OF-22-0031,103585,108895,2022-05-02,2022-06-13,SKä,abgeschlossen
+P-22-015,,D-14434,Carport Einzel Küssnacht,Küssnacht,Systemprodukte,OF-22-0023,16530,16070,2022-05-03,2022-05-11,DIn,abgeschlossen
+P-22-016,,D-10339,Terrassensanierung Steinen,Steinen,Projektgeschäft,OF-22-0024,101595,114265,2022-05-10,2022-06-09,RBe,abgeschlossen
+P-22-017,,D-12110,Spenglerarbeiten Steildach Küssnacht,Küssnacht,Projektgeschäft,OF-22-0040,36305,38090,2022-05-12,2022-06-27,RBe,abgeschlossen
+P-22-018,,D-12068,Velounterstand Schwyz,Schwyz,Systemprodukte,OF-22-0088,8855,8240,2022-05-24,2022-05-27,DIn,abgeschlossen
+P-22-019,,D-11242,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,OF-22-0055,35915,35095,2022-05-27,2022-06-20,SKä,abgeschlossen
+P-22-020,,D-14931,Velounterstand Schwyz,Schwyz,Systemprodukte,OF-22-0032,5385,5385,2022-05-27,2022-06-30,DIn,abgeschlossen
+P-22-021,,D-14392,Carport Doppel Steinen,Steinen,Systemprodukte,OF-22-0063,5880,5880,2022-06-02,2022-06-13,DIn,abgeschlossen
+P-22-022,,D-13566,Dachrandsanierung Arth,Arth,Projektgeschäft,OF-22-0069,66375,78320,2022-06-03,2022-07-07,RBe,abgeschlossen
+P-22-023,,D-10192,Flachdachsanierung Altdorf,Altdorf,Projektgeschäft,OF-22-0078,306670,355205,2022-06-07,2022-08-08,RBe,abgeschlossen
+P-22-024,,D-11459,Vordach Hauseingang Rothenthurm,Rothenthurm,Systemprodukte,OF-22-0087,4685,4425,2022-06-07,2022-07-06,DIn,abgeschlossen
+P-22-025,,D-13930,Carport Doppel Einsiedeln,Einsiedeln,Systemprodukte,OF-22-0080,10245,10245,2022-06-10,2022-08-08,DIn,abgeschlossen
+P-22-026,,D-13433,Carport Einzel Brunnen,Brunnen,Systemprodukte,OF-22-0056,17685,15970,2022-06-13,2022-07-04,DIn,abgeschlossen
+P-22-027,,D-10290,Attikaabschluss Unteriberg,Unteriberg,Projektgeschäft,OF-22-0054,51595,49805,2022-06-17,2022-06-30,RBe,abgeschlossen
+P-22-028,,D-11697,Velounterstand Gersau,Gersau,Systemprodukte,OF-22-0060,14720,15680,2022-06-20,2022-08-08,DIn,abgeschlossen
+P-22-029,,D-13328,Carport Einzel Gersau,Gersau,Systemprodukte,OF-22-0086,6040,5170,2022-06-20,2022-08-08,DIn,abgeschlossen
+P-22-030,,D-13832,Balkongeländer Ibach,Ibach,Projektgeschäft,OF-22-0103,58915,62520,2022-06-21,2022-07-14,SKä,abgeschlossen
+P-22-031,,D-15036,Geländerprüfung Baar,Baar,Beratung,OF-22-0106,6155,6305,2022-06-23,2022-07-14,NSu,abgeschlossen
+P-22-032,,D-10864,Velounterstand Schwyz,Schwyz,Systemprodukte,OF-22-0082,6985,6985,2022-06-24,2022-07-04,DIn,abgeschlossen
+P-22-033,,D-11053,Machbarkeitsstudie Dachaufbau Seewen,Seewen,Beratung,OF-22-0126,4185,3360,2022-06-24,2022-08-08,CSc,abgeschlossen
+P-22-034,,D-14840,Velounterstand Altdorf,Altdorf,Systemprodukte,OF-22-0119,18005,18395,2022-06-27,2022-08-11,DIn,abgeschlossen
+P-22-035,,D-10353,Dachrandsanierung Arth,Arth,Projektgeschäft,OF-22-0095,53665,55415,2022-06-27,2022-07-08,RBe,abgeschlossen
+P-22-036,,D-14413,Geländerprüfung Lauerz,Lauerz,Beratung,OF-22-0134,10500,9900,2022-06-28,2022-07-06,CSc,abgeschlossen
+P-22-037,,D-11277,Carport Doppel Brunnen,Brunnen,Systemprodukte,OF-22-0084,4500,4625,2022-06-30,2022-08-10,DIn,abgeschlossen
+P-22-038,,D-14350,Treppengeländer innen Zürich,Zürich,Projektgeschäft,OF-22-0094,44745,47225,2022-06-30,2022-07-12,SKä,abgeschlossen
+P-22-039,,D-13258,Carport Einzel Küssnacht,Küssnacht,Systemprodukte,OF-22-0052,4500,4500,2022-06-30,2022-07-04,DIn,abgeschlossen
+P-22-040,,D-14686,Velounterstand Morschach,Morschach,Systemprodukte,OF-22-0135,7580,8015,2022-07-01,2022-08-08,DIn,abgeschlossen
+P-22-041,,D-10493,Flachdachsanierung Brunnen,Brunnen,Projektgeschäft,OF-22-0070,56365,56835,2022-07-04,2022-08-18,RBe,abgeschlossen
+P-22-042,,D-14994,Treppengeländer innen Altdorf,Altdorf,Projektgeschäft,OF-22-0062,19280,20355,2022-07-04,2022-08-09,SKä,abgeschlossen
+P-22-043,,D-14658,Flachdachsanierung Unteriberg,Unteriberg,Projektgeschäft,OF-22-0072,68550,68660,2022-07-04,2022-08-08,RBe,abgeschlossen
+P-22-044,,D-12355,Carport Einzel Morschach,Morschach,Systemprodukte,OF-22-0098,10305,12770,2022-07-07,2022-08-08,DIn,abgeschlossen
+P-22-045,,D-12789,Vordach Hauseingang Zürich,Zürich,Systemprodukte,OF-22-0132,10570,12575,2022-07-08,2022-08-08,DIn,abgeschlossen
+P-22-046,,D-13958,Zustandsaufnahme Flachdach Luzern,Luzern,Beratung,OF-22-0071,10555,10540,2022-07-11,2022-08-08,CSc,abgeschlossen
+P-22-047,,D-10227,Geländerprüfung Gersau,Gersau,Beratung,OF-22-0091,7830,7215,2022-07-15,2022-08-08,CSc,abgeschlossen
+P-22-048,,D-10444,Flachdachsanierung Ibach,Ibach,Projektgeschäft,OF-22-0147,11110,12505,2022-08-08,2022-09-12,RBe,abgeschlossen
+P-22-049,,D-11557,Zustandsaufnahme Flachdach Steinen,Steinen,Beratung,OF-22-0121,8375,7110,2022-08-08,2022-09-20,CSc,abgeschlossen
+P-22-050,,D-10101,Machbarkeitsstudie Dachaufbau Brunnen,Brunnen,Beratung,OF-22-0101,2500,2300,2022-08-08,2022-09-12,CSc,abgeschlossen
+P-22-051,,D-14140,Machbarkeitsstudie Dachaufbau Unteriberg,Unteriberg,Beratung,OF-22-0104,2500,2320,2022-08-08,2022-09-06,NSu,abgeschlossen
+P-22-052,,D-13944,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-22-0102,75570,75570,2022-08-08,2022-09-15,RBe,abgeschlossen
+P-22-053,,D-10619,Vordach Hauseingang Baar,Baar,Systemprodukte,OF-22-0105,6350,6350,2022-08-08,2022-08-31,DIn,abgeschlossen
+P-22-054,,D-10304,Terrassensanierung Steinen,Steinen,Projektgeschäft,OF-22-0113,56495,56225,2022-08-08,2022-09-12,RBe,abgeschlossen
+P-22-055,,D-14112,Velounterstand Gersau,Gersau,Systemprodukte,OF-22-0155,22990,22580,2022-08-08,2022-08-31,DIn,abgeschlossen
+P-22-056,,D-11872,Attikaabschluss Morschach,Morschach,Projektgeschäft,OF-22-0159,66415,75715,2022-08-08,2022-08-31,RBe,abgeschlossen
+P-22-057,,D-10451,Carport Doppel Brunnen,Brunnen,Systemprodukte,OF-22-0092,14415,14415,2022-08-08,2022-08-18,DIn,abgeschlossen
+P-22-058,,D-11746,Velounterstand Schwyz,Schwyz,Systemprodukte,OF-22-0116,4500,4755,2022-08-08,2022-09-08,DIn,abgeschlossen
+P-22-059,,D-13587,Spenglerarbeiten Steildach Sattel,Sattel,Projektgeschäft,OF-22-0142,74460,74085,2022-08-08,2022-09-19,RBe,abgeschlossen
+P-22-060,,D-10906,Fassadenbekleidung Einsiedeln,Einsiedeln,Projektgeschäft,OF-22-0076,71870,69285,2022-08-08,2022-09-16,PKo,abgeschlossen
+P-22-061,,D-13216,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-22-0138,5150,5275,2022-08-08,2022-09-05,DIn,abgeschlossen
+P-22-062,,D-12397,Carport Doppel Gersau,Gersau,Systemprodukte,OF-22-0163,18420,21345,2022-08-08,2022-08-18,DIn,abgeschlossen
+P-22-063,,D-12621,Carport Einzel Steinen,Steinen,Systemprodukte,OF-22-0139,21095,25575,2022-08-09,2022-08-16,DIn,abgeschlossen
+P-22-064,,D-10192,Balkongeländer Altdorf,Altdorf,Projektgeschäft,OF-22-0107,136910,146940,2022-08-10,2022-09-15,SKä,abgeschlossen
+P-22-065,,D-10192,Terrassensanierung Altdorf,Altdorf,Projektgeschäft,OF-22-0145,49555,57635,2022-08-10,2022-09-19,RBe,abgeschlossen
+P-22-066,,D-13062,Aussentreppe Stahl Seewen,Seewen,Projektgeschäft,OF-22-0170,55645,55645,2022-08-10,2022-08-30,SKä,abgeschlossen
+P-22-067,,D-10626,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,OF-22-0141,81955,93120,2022-08-11,2022-08-29,SKä,abgeschlossen
+P-22-068,,D-14938,Velounterstand Altdorf,Altdorf,Systemprodukte,OF-22-0151,5130,5205,2022-08-11,2022-08-17,DIn,abgeschlossen
+P-22-069,,D-10920,Zustandsaufnahme Flachdach Arth,Arth,Beratung,OF-22-0093,15415,14880,2022-08-11,2022-09-09,CSc,abgeschlossen
+P-22-070,,D-11193,Carport Einzel Lauerz,Lauerz,Systemprodukte,OF-22-0110,11515,11765,2022-08-11,2022-08-25,DIn,abgeschlossen
+P-22-071,,D-10234,Velounterstand Sattel,Sattel,Systemprodukte,OF-22-0140,11245,11510,2022-08-16,2022-09-05,DIn,abgeschlossen
+P-22-072,,D-13412,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-22-0137,7765,7765,2022-08-16,2022-09-29,DIn,abgeschlossen
+P-22-073,,D-10731,Zustandsaufnahme Flachdach Arth,Arth,Beratung,OF-22-0123,3225,2995,2022-08-18,2022-10-03,CSc,abgeschlossen
+P-22-074,,D-11676,Terrassensanierung Gersau,Gersau,Projektgeschäft,OF-22-0100,40515,40515,2022-08-23,2022-09-08,RBe,abgeschlossen
+P-22-075,,D-11893,Carport Doppel Steinen,Steinen,Systemprodukte,OF-22-0161,8530,8725,2022-08-31,2022-09-23,DIn,abgeschlossen
+P-22-076,,D-10773,Spenglerarbeiten Steildach Altdorf,Altdorf,Projektgeschäft,OF-22-0114,65775,61190,2022-09-01,2022-09-26,RBe,abgeschlossen
+P-22-077,,D-10248,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-22-0164,16200,16200,2022-09-05,2022-09-23,DIn,abgeschlossen
+P-22-078,,D-14224,Carport Doppel Lauerz,Lauerz,Systemprodukte,OF-22-0112,4500,4705,2022-09-09,2022-09-13,DIn,abgeschlossen
+P-22-079,,D-12285,Fassadenbekleidung Morschach,Morschach,Projektgeschäft,OF-22-0188,95490,104140,2022-09-12,2022-10-03,PKo,abgeschlossen
+P-22-080,,D-14210,Carport Einzel Zug,Zug,Systemprodukte,OF-22-0187,16295,16720,2022-09-15,2022-09-30,DIn,abgeschlossen
+P-22-081,,D-10206,Carport Doppel Luzern,Luzern,Systemprodukte,OF-22-0136,7590,7590,2022-09-16,2022-09-22,DIn,abgeschlossen
+P-22-082,,D-15050,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,OF-22-0156,2500,2470,2022-09-19,2022-10-31,NSu,abgeschlossen
+P-22-083,,D-10192,Fassadenbekleidung Altdorf,Altdorf,Projektgeschäft,OF-22-0174,175035,189770,2022-09-19,2022-10-25,PKo,abgeschlossen
+P-22-084,,D-14238,Attikaabschluss Brunnen,Brunnen,Projektgeschäft,OF-22-0190,43800,43600,2022-09-19,2022-09-28,RBe,abgeschlossen
+P-22-085,,D-14511,Dachrandsanierung Steinen,Steinen,Projektgeschäft,OF-22-0201,32575,33275,2022-09-19,2022-10-11,RBe,abgeschlossen
+P-22-086,,D-12215,Terrassensanierung Morschach,Morschach,Projektgeschäft,OF-22-0202,39145,37560,2022-09-21,2022-10-25,RBe,abgeschlossen
+P-22-087,,D-11865,Fassadenbekleidung Ibach,Ibach,Projektgeschäft,OF-22-0143,168270,176160,2022-09-27,2022-10-31,PKo,abgeschlossen
+P-22-088,,D-12054,Vordach Hauseingang Steinen,Steinen,Systemprodukte,OF-22-0206,5340,5470,2022-09-27,2022-10-19,DIn,abgeschlossen
+P-22-089,,D-12299,Machbarkeitsstudie Dachaufbau Küssnacht,Küssnacht,Beratung,OF-22-0130,14315,14850,2022-09-30,2022-11-02,NSu,abgeschlossen
+P-22-090,,D-13181,Geländerprüfung Seewen,Seewen,Beratung,OF-22-0213,3695,2995,2022-10-03,2022-11-02,NSu,abgeschlossen
+P-22-091,,D-13615,Carport Doppel Unteriberg,Unteriberg,Systemprodukte,OF-22-0209,7900,7900,2022-10-06,2022-10-25,DIn,abgeschlossen
+P-22-092,,D-10654,Dachrandsanierung Altdorf,Altdorf,Projektgeschäft,OF-22-0146,83120,92910,2022-10-06,2022-11-14,RBe,abgeschlossen
+P-22-093,,D-12761,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-22-0219,71780,73925,2022-10-10,2022-10-25,RBe,abgeschlossen
+P-22-094,,D-10493,Attikaabschluss Brunnen,Brunnen,Projektgeschäft,OF-22-0191,180200,205140,2022-10-10,2022-11-16,RBe,abgeschlossen
+P-22-095,,D-14805,Velounterstand Morschach,Morschach,Systemprodukte,OF-22-0215,4500,4500,2022-10-11,2022-10-26,DIn,abgeschlossen
+P-22-096,,D-12404,Vordach Hauseingang Ibach,Ibach,Systemprodukte,OF-22-0172,13800,14825,2022-10-12,2022-11-11,DIn,abgeschlossen
+P-22-097,,D-15036,Balkongeländer Baar,Baar,Projektgeschäft,OF-22-0222,28100,32230,2022-10-17,2022-11-28,SKä,abgeschlossen
+P-22-098,,D-13867,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-22-0160,11850,11850,2022-10-17,2022-11-23,DIn,abgeschlossen
+P-22-099,,D-10437,Vordach Hauseingang Oberiberg,Oberiberg,Systemprodukte,OF-22-0173,5815,6260,2022-10-19,2022-11-30,DIn,abgeschlossen
+P-22-100,,D-14224,Dachrandsanierung Lauerz,Lauerz,Projektgeschäft,OF-22-0181,29385,29385,2022-10-21,2022-11-02,RBe,abgeschlossen
+P-22-101,,D-10178,Fassadenbekleidung Küssnacht,Küssnacht,Projektgeschäft,OF-22-0224,82640,96545,2022-10-28,2022-12-02,PKo,abgeschlossen
+P-22-102,,D-14399,Carport Doppel Einsiedeln,Einsiedeln,Systemprodukte,OF-22-0240,8755,8755,2022-11-02,2022-12-05,DIn,abgeschlossen
+P-22-103,,D-14028,Treppengeländer innen Altdorf,Altdorf,Projektgeschäft,OF-22-0232,59685,67985,2022-11-07,2022-11-21,SKä,abgeschlossen
+P-22-104,,D-13328,Terrassensanierung Gersau,Gersau,Projektgeschäft,OF-22-0199,27025,27515,2022-11-08,2022-12-21,RBe,abgeschlossen
+P-22-105,,D-14154,Aussentreppe Stahl Ibach,Ibach,Projektgeschäft,OF-22-0196,25290,24510,2022-11-11,2022-12-16,SKä,abgeschlossen
+P-22-106,,D-14735,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-22-0234,8160,8810,2022-11-18,2022-11-28,DIn,abgeschlossen
+P-22-107,,D-10535,Carport Einzel Schwyz,Schwyz,Systemprodukte,OF-22-0211,9390,9940,2022-11-21,2023-01-05,DIn,abgeschlossen
+P-22-108,,D-11375,Zustandsaufnahme Flachdach Arth,Arth,Beratung,OF-22-0220,4255,4095,2022-11-21,2022-12-28,CSc,abgeschlossen
+P-22-109,,D-12334,Carport Einzel Oberiberg,Oberiberg,Systemprodukte,OF-22-0214,6010,6010,2022-11-21,2023-01-02,DIn,abgeschlossen
+P-22-110,,D-14595,Vordach Hauseingang Sattel,Sattel,Systemprodukte,OF-22-0197,7565,9260,2022-11-24,2022-12-05,DIn,abgeschlossen
+P-22-111,,D-13335,Sanierungskonzept Fassade Lauerz,Lauerz,Beratung,OF-22-0208,2600,2205,2022-12-02,2022-12-07,NSu,abgeschlossen
+P-22-112,,D-14420,Velounterstand Oberiberg,Oberiberg,Systemprodukte,OF-22-0182,10030,10415,2022-12-05,2022-12-21,DIn,abgeschlossen
+P-22-113,,D-13944,Carport Doppel Seewen,Seewen,Systemprodukte,OF-22-0194,9680,10125,2022-12-05,2023-01-02,DIn,abgeschlossen
+P-22-114,,D-11550,Terrassensanierung Steinen,Steinen,Projektgeschäft,OF-22-0254,91560,91470,2022-12-09,2023-01-11,RBe,abgeschlossen
+P-22-115,,D-14917,Carport Doppel Einsiedeln,Einsiedeln,Systemprodukte,OF-22-0268,16660,16980,2022-12-12,2023-01-23,DIn,abgeschlossen
+P-22-116,,D-12341,Fassadenbekleidung Sattel,Sattel,Projektgeschäft,OF-22-0204,44955,51175,2022-12-14,2022-12-27,PKo,abgeschlossen
+P-22-117,,D-14357,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-22-0256,17300,20410,2022-12-22,2023-01-04,SKä,abgeschlossen
+P-22-118,,D-11172,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,OF-22-0212,4500,4205,2022-12-22,2023-01-09,DIn,abgeschlossen
+P-22-119,,D-12670,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-22-0262,53595,51525,2022-12-27,2023-01-10,SKä,abgeschlossen
+P-22-120,,D-10493,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,OF-22-0244,114475,113660,2023-01-05,2023-01-30,SKä,abgeschlossen
+P-22-121,,D-10304,Attikaabschluss Steinen,Steinen,Projektgeschäft,OF-22-0230,112580,111315,2023-01-09,2023-02-13,RBe,abgeschlossen
+P-22-122,,D-11326,Dachrandsanierung Seewen,Seewen,Projektgeschäft,OF-22-0231,18215,22885,2023-01-16,2023-02-15,RBe,abgeschlossen
+P-22-123,,D-12670,Dachrandsanierung Lauerz,Lauerz,Projektgeschäft,OF-22-0227,26795,26795,2023-01-18,2023-02-23,RBe,abgeschlossen
+P-22-124,,D-10339,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-22-0239,108260,120580,2023-01-18,2023-02-09,SKä,abgeschlossen
+P-22-125,,D-10367,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-22-0299,350000,411045,2023-01-23,2023-04-04,RBe,abgeschlossen
+P-22-126,,D-13748,Carport Einzel Steinen,Steinen,Systemprodukte,OF-22-0288,10540,11055,2023-01-23,2023-02-23,DIn,abgeschlossen
+P-22-127,,D-10304,Flachdachsanierung Steinen,Steinen,Projektgeschäft,OF-22-0290,44730,42155,2023-01-23,2023-02-13,RBe,abgeschlossen
+P-22-128,,D-14756,Velounterstand Unteriberg,Unteriberg,Systemprodukte,OF-22-0248,6755,7640,2023-01-24,2023-03-03,DIn,abgeschlossen
+P-22-129,,D-12257,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,OF-22-0267,77495,92910,2023-01-27,2023-02-13,SKä,abgeschlossen
+P-22-130,,D-12397,Velounterstand Gersau,Gersau,Systemprodukte,OF-22-0289,14750,14750,2023-01-30,2023-03-06,DIn,abgeschlossen
+P-22-131,,D-13685,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-22-0251,7030,8410,2023-01-30,2023-02-16,DIn,abgeschlossen
+P-22-132,,D-14189,Sanierungskonzept Fassade Küssnacht,Küssnacht,Beratung,OF-22-0255,9040,8495,2023-01-30,2023-02-06,NSu,abgeschlossen
+P-22-133,,D-12054,Carport Einzel Steinen,Steinen,Systemprodukte,OF-22-0258,5240,4980,2023-02-02,2023-02-17,DIn,abgeschlossen
+P-22-134,,D-11977,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-22-0275,23890,30015,2023-02-06,2023-02-27,DIn,abgeschlossen
+P-22-135,,D-14525,Carport Einzel Morschach,Morschach,Systemprodukte,OF-22-0282,9440,9440,2023-02-09,2023-02-16,DIn,abgeschlossen
+P-23-001,,D-13405,Sanierungskonzept Fassade Brunnen,Brunnen,Beratung,OF-23-0002,5795,4940,2023-02-09,2023-03-16,NSu,abgeschlossen
+P-23-002,,D-12985,Velounterstand Rothenthurm,Rothenthurm,Systemprodukte,OF-23-0016,5345,5585,2023-02-09,2023-02-27,DIn,abgeschlossen
+P-22-136,,D-10675,Spenglerarbeiten Steildach Arth,Arth,Projektgeschäft,OF-22-0291,28240,31135,2023-02-16,2023-03-15,RBe,abgeschlossen
+P-22-137,,D-10976,Vordach Hauseingang Rothenthurm,Rothenthurm,Systemprodukte,OF-22-0295,15260,15260,2023-02-27,2023-03-13,DIn,abgeschlossen
+P-22-138,,D-13671,Carport Einzel Schwyz,Schwyz,Systemprodukte,OF-22-0264,4500,4700,2023-03-06,2023-03-09,DIn,abgeschlossen
+P-23-003,,D-12439,Terrassensanierung Seewen,Seewen,Projektgeschäft,OF-23-0027,65075,64480,2023-03-06,2023-04-11,RBe,abgeschlossen
+P-23-004,,D-13510,Dachrandsanierung Rothenthurm,Rothenthurm,Projektgeschäft,OF-23-0019,41900,49035,2023-03-08,2023-04-20,RBe,abgeschlossen
+P-23-005,,D-14994,Vordach Hauseingang Altdorf,Altdorf,Systemprodukte,OF-23-0009,4500,4500,2023-03-08,2023-03-28,DIn,abgeschlossen
+P-22-139,,D-13783,Balkongeländer Rothenthurm,Rothenthurm,Projektgeschäft,OF-22-0300,34945,37510,2023-03-10,2023-04-03,SKä,abgeschlossen
+P-23-006,,D-11683,Velounterstand Seewen,Seewen,Systemprodukte,OF-23-0024,9480,9935,2023-03-13,2023-04-17,DIn,abgeschlossen
+P-23-007,,D-13202,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-23-0041,10630,10970,2023-03-17,2023-03-24,DIn,abgeschlossen
+P-23-008,,D-12558,Carport Doppel Wädenswil,Wädenswil,Systemprodukte,OF-23-0039,14240,13225,2023-03-20,2023-04-11,DIn,abgeschlossen
+P-23-009,,D-13587,Carport Doppel Sattel,Sattel,Systemprodukte,OF-23-0049,15135,15135,2023-03-20,2023-03-28,DIn,abgeschlossen
+P-22-140,,D-11515,Geländerprüfung Brunnen,Brunnen,Beratung,OF-22-0284,3225,2725,2023-03-22,2023-05-02,NSu,abgeschlossen
+P-23-010,,D-10647,Zustandsaufnahme Flachdach Brunnen,Brunnen,Beratung,OF-23-0046,6180,5240,2023-03-27,2023-05-01,NSu,abgeschlossen
+P-23-011,,D-10122,Carport Einzel Goldau,Goldau,Systemprodukte,OF-23-0045,20950,20950,2023-03-29,2023-05-10,DIn,abgeschlossen
+P-23-012,,D-12537,Aussentreppe Stahl Morschach,Morschach,Projektgeschäft,OF-23-0038,51375,57785,2023-03-31,2023-05-01,SKä,abgeschlossen
+P-22-141,,D-14329,Velounterstand Seewen,Seewen,Systemprodukte,OF-22-0292,10835,10835,2023-04-03,2023-05-08,DIn,abgeschlossen
+P-23-013,,D-12369,Carport Doppel Seewen,Seewen,Systemprodukte,OF-23-0062,9060,10005,2023-04-03,2023-05-08,DIn,abgeschlossen
+P-23-014,,D-11459,Flachdachsanierung Rothenthurm,Rothenthurm,Projektgeschäft,OF-23-0014,24970,25585,2023-04-11,2023-05-02,RBe,abgeschlossen
+P-22-142,,D-11375,Flachdachsanierung Arth,Arth,Projektgeschäft,OF-22-0293,117870,117870,2023-04-12,2023-05-08,RBe,abgeschlossen
+P-23-015,,D-12152,Zustandsaufnahme Flachdach Steinen,Steinen,Beratung,OF-23-0030,3470,2805,2023-04-13,2023-05-04,CSc,abgeschlossen
+P-23-016,,D-12747,Carport Einzel Oberiberg,Oberiberg,Systemprodukte,OF-23-0004,7020,7020,2023-04-13,2023-04-17,DIn,abgeschlossen
+P-23-017,,D-13993,Flachdachsanierung Zürich,Zürich,Projektgeschäft,OF-23-0042,26065,25255,2023-04-17,2023-04-24,RBe,abgeschlossen
+P-23-018,,D-10290,Terrassensanierung Unteriberg,Unteriberg,Projektgeschäft,OF-23-0060,167750,184410,2023-04-17,2023-05-22,RBe,abgeschlossen
+P-23-019,,D-13559,Carport Doppel Seewen,Seewen,Systemprodukte,OF-23-0007,8120,10230,2023-04-24,2023-06-05,DIn,abgeschlossen
+P-23-020,,D-14448,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,OF-23-0059,8135,8775,2023-04-27,2023-05-01,DIn,abgeschlossen
+P-23-021,,D-14567,Geländerprüfung Lauerz,Lauerz,Beratung,OF-23-0048,4415,3705,2023-05-01,2023-06-09,NSu,abgeschlossen
+P-23-022,,D-12999,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-23-0035,9880,10390,2023-05-17,2023-06-19,DIn,abgeschlossen
+P-23-023,,D-13930,Spenglerarbeiten Steildach Einsiedeln,Einsiedeln,Projektgeschäft,OF-23-0029,57225,52955,2023-05-22,2023-07-04,RBe,abgeschlossen
+P-23-024,,D-11354,Spenglerarbeiten Steildach Oberiberg,Oberiberg,Projektgeschäft,OF-23-0070,66380,66660,2023-05-22,2023-06-22,RBe,abgeschlossen
+P-23-025,,D-10304,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-23-0064,40245,43310,2023-05-24,2023-06-02,SKä,abgeschlossen
+P-23-026,,D-14007,Treppengeländer innen Brunnen,Brunnen,Projektgeschäft,OF-23-0078,140280,141065,2023-05-30,2023-06-28,SKä,abgeschlossen
+P-23-027,,D-10290,Dachrandsanierung Unteriberg,Unteriberg,Projektgeschäft,OF-23-0107,94295,97670,2023-05-30,2023-06-27,RBe,abgeschlossen
+P-23-028,,D-11606,Spenglerarbeiten Steildach Morschach,Morschach,Projektgeschäft,OF-23-0104,65300,65300,2023-05-31,2023-07-07,RBe,abgeschlossen
+P-23-029,,D-11914,Velounterstand Seewen,Seewen,Systemprodukte,OF-23-0054,11780,12320,2023-06-02,2023-06-23,DIn,abgeschlossen
+P-23-030,,D-13489,Attikaabschluss Küssnacht,Küssnacht,Projektgeschäft,OF-23-0106,44590,46130,2023-06-05,2023-06-29,RBe,abgeschlossen
+P-23-031,,D-10171,Fassadenbekleidung Lauerz,Lauerz,Projektgeschäft,OF-23-0075,145435,167785,2023-06-07,2023-07-07,PKo,abgeschlossen
+P-23-032,,D-10829,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-23-0085,27510,29175,2023-06-09,2023-08-07,RBe,abgeschlossen
+P-23-033,,D-14126,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-23-0061,36835,34880,2023-06-09,2023-06-26,RBe,abgeschlossen
+P-23-034,,D-11935,Carport Doppel Steinen,Steinen,Systemprodukte,OF-23-0091,6360,6480,2023-06-09,2023-07-03,DIn,abgeschlossen
+P-23-035,,D-11438,Carport Einzel Zug,Zug,Systemprodukte,OF-23-0072,18475,18475,2023-06-12,2023-08-07,DIn,abgeschlossen
+P-23-036,,D-11221,Carport Doppel Lauerz,Lauerz,Systemprodukte,OF-23-0093,13635,11650,2023-06-12,2023-06-20,DIn,abgeschlossen
+P-23-037,,D-13216,Carport Doppel Lauerz,Lauerz,Systemprodukte,OF-23-0122,8010,6895,2023-06-16,2023-07-05,DIn,abgeschlossen
+P-23-038,,D-12649,Carport Einzel Ibach,Ibach,Systemprodukte,OF-23-0069,9880,11505,2023-06-19,2023-06-26,DIn,abgeschlossen
+P-23-039,,D-12789,Balkongeländer Zürich,Zürich,Projektgeschäft,OF-23-0098,71155,75890,2023-06-27,2023-07-12,SKä,abgeschlossen
+P-23-040,,D-14322,Velounterstand Seewen,Seewen,Systemprodukte,OF-23-0114,6760,7485,2023-07-07,2023-08-21,DIn,abgeschlossen
+P-23-041,,D-13300,Dachrandsanierung Küssnacht,Küssnacht,Projektgeschäft,OF-23-0079,18415,17610,2023-07-10,2023-08-23,RBe,abgeschlossen
+P-23-042,,D-10605,Spenglerarbeiten Steildach Lauerz,Lauerz,Projektgeschäft,OF-23-0124,31375,31505,2023-07-12,2023-08-11,RBe,abgeschlossen
+P-23-043,,D-11207,Variantenstudie Terrasse Morschach,Morschach,Beratung,OF-23-0129,6230,6560,2023-08-07,2023-09-04,CSc,abgeschlossen
+P-23-044,,D-14721,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,OF-23-0150,49745,59630,2023-08-07,2023-08-18,SKä,abgeschlossen
+P-23-045,,D-12243,Machbarkeitsstudie Dachaufbau Schwyz,Schwyz,Beratung,OF-23-0105,3135,2795,2023-08-07,2023-09-11,CSc,abgeschlossen
+P-23-046,,D-13664,Treppengeländer innen Brunnen,Brunnen,Projektgeschäft,OF-23-0130,22245,26885,2023-08-07,2023-08-31,SKä,abgeschlossen
+P-23-047,,D-12271,Carport Einzel Küssnacht,Küssnacht,Systemprodukte,OF-23-0086,7270,7535,2023-08-07,2023-08-17,DIn,abgeschlossen
+P-23-048,,D-13895,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-23-0155,57015,48915,2023-08-07,2023-09-04,RBe,abgeschlossen
+P-23-049,,D-14035,Terrassensanierung Altdorf,Altdorf,Projektgeschäft,OF-23-0158,43755,45740,2023-08-07,2023-08-28,RBe,abgeschlossen
+P-23-050,,D-14847,Fassadenbekleidung Steinen,Steinen,Projektgeschäft,OF-23-0108,26025,30195,2023-08-07,2023-09-18,PKo,abgeschlossen
+P-23-051,,D-10171,Flachdachsanierung Lauerz,Lauerz,Projektgeschäft,OF-23-0099,69095,78760,2023-08-08,2023-09-01,RBe,abgeschlossen
+P-23-052,,D-12782,Flachdachsanierung Morschach,Morschach,Projektgeschäft,OF-23-0161,42715,43050,2023-08-14,2023-08-28,RBe,abgeschlossen
+P-23-053,,D-10255,Fassadenbekleidung Schwyz,Schwyz,Projektgeschäft,OF-23-0131,34445,34215,2023-08-14,2023-09-04,PKo,abgeschlossen
+P-23-054,,D-10843,Terrassensanierung Seewen,Seewen,Projektgeschäft,OF-23-0133,48907.8,51941.65,2023-08-14,2023-08-31,RBe,abgeschlossen
+P-23-055,,D-10150,Velounterstand Seewen,Seewen,Systemprodukte,OF-23-0140,7270,7270,2023-08-18,2023-09-15,DIn,abgeschlossen
+P-23-056,,D-13573,Fassadenbekleidung Steinen,Steinen,Projektgeschäft,OF-23-0110,67870,73605,2023-08-18,2023-09-18,PKo,abgeschlossen
+P-23-057,,D-12593,Fassadenbekleidung Gersau,Gersau,Projektgeschäft,OF-23-0143,61150,56550,2023-08-21,2023-09-18,PKo,abgeschlossen
+P-23-058,,D-14616,Carport Doppel Küssnacht,Küssnacht,Systemprodukte,OF-23-0144,14535,14535,2023-08-21,2023-09-07,DIn,abgeschlossen
+P-23-059,,D-10318,Velounterstand Wädenswil,Wädenswil,Systemprodukte,OF-23-0174,4500,4850,2023-08-21,2023-09-14,DIn,abgeschlossen
+P-23-060,,D-14119,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-23-0139,16080,15095,2023-08-21,2023-08-30,DIn,abgeschlossen
+P-23-061,,D-10493,Attikaabschluss Brunnen,Brunnen,Projektgeschäft,OF-23-0146,88685,100960,2023-08-21,2023-10-02,RBe,abgeschlossen
+P-23-062,,D-14693,Carport Doppel Steinen,Steinen,Systemprodukte,OF-23-0116,5005,5005,2023-08-24,2023-09-19,DIn,abgeschlossen
+P-23-063,,D-14329,Variantenstudie Terrasse Seewen,Seewen,Beratung,OF-23-0112,5245,5660,2023-08-24,2023-09-11,CSc,abgeschlossen
+P-23-064,,D-12754,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,OF-23-0120,19600,18845,2023-08-28,2023-09-05,SKä,abgeschlossen
+P-23-065,,D-11046,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,OF-23-0185,41600,47560,2023-08-29,2023-10-04,SKä,abgeschlossen
+P-23-066,,D-13160,Machbarkeitsstudie Dachaufbau Sattel,Sattel,Beratung,OF-23-0142,8995,7240,2023-08-31,2023-10-06,CSc,abgeschlossen
+P-23-067,,D-10283,Carport Einzel Altdorf,Altdorf,Systemprodukte,OF-23-0117,6030,6030,2023-08-31,2023-09-05,DIn,abgeschlossen
+P-23-068,,D-12229,Aussentreppe Stahl Sattel,Sattel,Projektgeschäft,OF-23-0136,33885,32800,2023-09-01,2023-09-25,SKä,abgeschlossen
+P-23-069,,D-12607,Geländerprüfung Oberiberg,Oberiberg,Beratung,OF-23-0162,4950,5295,2023-09-04,2023-09-14,NSu,abgeschlossen
+P-23-070,,D-13776,Attikaabschluss Gersau,Gersau,Projektgeschäft,OF-23-0189,180000,190145,2023-09-12,2023-10-19,RBe,abgeschlossen
+P-23-071,,D-10612,Velounterstand Wädenswil,Wädenswil,Systemprodukte,OF-23-0151,6560,5985,2023-09-18,2023-10-05,DIn,abgeschlossen
+P-23-072,,D-14931,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-23-0204,13870,13870,2023-09-25,2023-10-05,DIn,abgeschlossen
+P-23-073,,D-12579,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,OF-23-0203,4500,4500,2023-09-25,2023-10-09,DIn,abgeschlossen
+P-23-074,,D-13475,Flachdachsanierung Morschach,Morschach,Projektgeschäft,OF-23-0184,42195,42555,2023-09-27,2023-10-06,RBe,abgeschlossen
+P-23-075,,D-14714,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,OF-23-0141,30690,30690,2023-10-02,2023-11-02,SKä,abgeschlossen
+P-23-076,,D-13671,Machbarkeitsstudie Dachaufbau Schwyz,Schwyz,Beratung,OF-23-0221,2585,2540,2023-10-04,2023-10-23,NSu,abgeschlossen
+P-23-077,,D-10829,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-23-0226,8680,8680,2023-10-09,2023-11-13,DIn,abgeschlossen
+P-23-078,,D-12481,Terrassensanierung Morschach,Morschach,Projektgeschäft,OF-23-0179,33925,38380,2023-10-10,2023-11-13,RBe,abgeschlossen
+P-23-079,,D-10521,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-23-0192,17795,17795,2023-10-16,2023-10-27,DIn,abgeschlossen
+P-23-080,,D-12369,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-23-0219,89745,89745,2023-10-16,2023-11-21,RBe,abgeschlossen
+P-23-081,,D-13636,Carport Einzel Lauerz,Lauerz,Systemprodukte,OF-23-0233,15960,14290,2023-10-17,2023-11-13,DIn,abgeschlossen
+P-23-082,,D-10171,Attikaabschluss Lauerz,Lauerz,Projektgeschäft,OF-23-0214,58295,55235,2023-10-19,2023-11-17,RBe,abgeschlossen
+P-23-083,,D-12908,Carport Doppel Goldau,Goldau,Systemprodukte,OF-23-0167,22530,19520,2023-10-20,2023-11-03,DIn,abgeschlossen
+P-23-084,,D-12439,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-23-0206,69495,67315,2023-10-23,2023-11-07,RBe,abgeschlossen
+P-23-085,,D-14364,Terrassensanierung Seewen,Seewen,Projektgeschäft,OF-23-0222,21535,20630,2023-10-23,2023-11-28,RBe,abgeschlossen
+P-23-086,,D-12481,Terrassensanierung Morschach,Morschach,Projektgeschäft,OF-23-0194,36705,33890,2023-10-23,2023-11-06,RBe,abgeschlossen
+P-23-087,,D-14980,Sanierungskonzept Fassade Einsiedeln,Einsiedeln,Beratung,OF-23-0181,5480,4920,2023-10-30,2023-12-05,NSu,abgeschlossen
+P-23-088,,D-10675,Velounterstand Arth,Arth,Systemprodukte,OF-23-0195,7455,7745,2023-10-30,2023-11-27,DIn,abgeschlossen
+P-23-089,,D-10192,Balkongeländer Altdorf,Altdorf,Projektgeschäft,OF-23-0205,123850,143430,2023-11-09,2023-12-05,SKä,abgeschlossen
+P-23-090,,D-10535,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-23-0176,17005,17005,2023-11-13,2023-12-07,DIn,abgeschlossen
+P-23-091,,D-12313,Aussentreppe Stahl Unteriberg,Unteriberg,Projektgeschäft,OF-23-0183,53535,54905,2023-11-14,2023-12-11,SKä,abgeschlossen
+P-23-092,,D-11907,Balkongeländer Wädenswil,Wädenswil,Projektgeschäft,OF-23-0228,26660,26660,2023-11-20,2023-12-01,SKä,abgeschlossen
+P-23-093,,D-12901,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-23-0246,20540,26315,2023-11-20,2023-12-07,DIn,abgeschlossen
+P-23-094,,D-14154,Aussentreppe Stahl Ibach,Ibach,Projektgeschäft,OF-23-0232,126090,121005,2023-11-20,2024-01-02,SKä,abgeschlossen
+P-23-095,,D-14819,Carport Einzel Zug,Zug,Systemprodukte,OF-23-0200,4500,4500,2023-11-20,2023-12-11,DIn,abgeschlossen
+P-23-096,,D-11809,Carport Doppel Ibach,Ibach,Systemprodukte,OF-23-0212,6650,6650,2023-11-21,2024-01-05,DIn,abgeschlossen
+P-23-097,,D-10332,Velounterstand Morschach,Morschach,Systemprodukte,OF-23-0218,11615,11615,2023-11-24,2023-12-15,DIn,abgeschlossen
+P-23-098,,D-12530,Sanierungskonzept Fassade Sattel,Sattel,Beratung,OF-23-0268,3440,3150,2023-12-05,2024-01-09,CSc,abgeschlossen
+P-23-099,,D-12033,Carport Doppel Lauerz,Lauerz,Systemprodukte,OF-23-0217,4500,4500,2023-12-06,2023-12-22,DIn,abgeschlossen
+P-23-100,,D-13069,Aussentreppe Stahl Goldau,Goldau,Projektgeschäft,OF-23-0202,21450,21450,2023-12-07,2024-01-03,SKä,abgeschlossen
+P-23-101,,D-11452,Vordach Hauseingang Sattel,Sattel,Systemprodukte,OF-23-0273,9375,10065,2023-12-07,2023-12-15,DIn,abgeschlossen
+P-23-102,,D-14287,Terrassensanierung Lauerz,Lauerz,Projektgeschäft,OF-23-0196,23160,30020,2023-12-07,2024-01-02,RBe,abgeschlossen
+P-23-103,,D-11011,Velounterstand Altdorf,Altdorf,Systemprodukte,OF-23-0251,32000,28000,2023-12-11,2023-12-27,DIn,abgeschlossen
+P-23-104,,D-10696,Treppengeländer innen Arth,Arth,Projektgeschäft,OF-23-0211,42460,45205,2023-12-11,2024-01-15,SKä,abgeschlossen
+P-23-105,,D-14560,Carport Doppel Oberiberg,Oberiberg,Systemprodukte,OF-23-0252,4860,4980,2023-12-18,2023-12-28,DIn,abgeschlossen
+P-23-106,,D-10843,Fassadenbekleidung Seewen,Seewen,Projektgeschäft,OF-23-0271,16785,16600,2023-12-19,2024-01-23,PKo,abgeschlossen
+P-23-107,,D-10724,Sanierungskonzept Fassade Morschach,Morschach,Beratung,OF-23-0243,4635,4740,2023-12-19,2023-12-27,NSu,abgeschlossen
+P-23-108,,D-13881,Carport Doppel Sattel,Sattel,Systemprodukte,OF-23-0264,8305,8485,2023-12-20,2024-01-19,DIn,abgeschlossen
+P-23-109,,D-10850,Variantenstudie Terrasse Morschach,Morschach,Beratung,OF-23-0223,3460,3625,2023-12-27,2024-02-05,NSu,abgeschlossen
+P-23-110,,D-12873,Carport Doppel Altdorf,Altdorf,Systemprodukte,OF-23-0284,4500,4500,2023-12-27,2024-01-30,DIn,abgeschlossen
+P-23-111,,D-10486,Attikaabschluss Oberiberg,Oberiberg,Projektgeschäft,OF-23-0297,40120,42940,2023-12-27,2024-02-07,RBe,abgeschlossen
+P-23-112,,D-13146,Velounterstand Rothenthurm,Rothenthurm,Systemprodukte,OF-23-0300,15900,15900,2023-12-27,2024-02-05,DIn,abgeschlossen
+P-23-113,,D-12369,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-23-0276,10370,10370,2024-01-02,2024-02-05,DIn,abgeschlossen
+P-23-114,,D-14035,Carport Doppel Altdorf,Altdorf,Systemprodukte,OF-23-0272,4500,5630,2024-01-10,2024-01-29,DIn,abgeschlossen
+P-23-115,,D-11998,Zustandsaufnahme Flachdach Seewen,Seewen,Beratung,OF-23-0241,4360,3880,2024-01-10,2024-01-29,CSc,abgeschlossen
+P-23-116,,D-14987,Aussentreppe Stahl Altdorf,Altdorf,Projektgeschäft,OF-23-0234,47535,46015,2024-01-17,2024-02-27,SKä,abgeschlossen
+P-23-117,,D-14798,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-23-0255,10590,12375,2024-01-18,2024-01-25,DIn,abgeschlossen
+P-23-118,,D-10577,Treppengeländer innen Goldau,Goldau,Projektgeschäft,OF-23-0265,58410,69940,2024-01-19,2024-02-19,SKä,abgeschlossen
+P-23-119,,D-11529,Attikaabschluss Rothenthurm,Rothenthurm,Projektgeschäft,OF-23-0262,25050,27575,2024-01-22,2024-02-23,RBe,abgeschlossen
+P-23-120,,D-10584,Velounterstand Morschach,Morschach,Systemprodukte,OF-23-0302,7675,7855,2024-01-24,2024-02-07,DIn,abgeschlossen
+P-23-121,,D-10507,Carport Doppel Unteriberg,Unteriberg,Systemprodukte,OF-23-0303,14075,13990,2024-01-26,2024-01-31,DIn,abgeschlossen
+P-23-122,,D-12971,Vordach Hauseingang Altdorf,Altdorf,Systemprodukte,OF-23-0267,8760,10770,2024-01-29,2024-03-11,DIn,abgeschlossen
+P-23-123,,D-12712,Carport Einzel Zug,Zug,Systemprodukte,OF-23-0283,9040,9040,2024-01-29,2024-03-05,DIn,abgeschlossen
+P-23-124,,D-14630,Carport Doppel Arth,Arth,Systemprodukte,OF-23-0263,15815,16755,2024-01-30,2024-02-16,DIn,abgeschlossen
+P-23-125,,D-10304,Aussentreppe Stahl Steinen,Steinen,Projektgeschäft,OF-23-0317,122890,134050,2024-02-05,2024-03-01,SKä,abgeschlossen
+P-23-126,,D-11221,Balkongeländer Lauerz,Lauerz,Projektgeschäft,OF-23-0292,79190,85030,2024-02-05,2024-03-08,SKä,abgeschlossen
+P-24-001,,D-12684,Attikaabschluss Einsiedeln,Einsiedeln,Projektgeschäft,OF-24-0013,44410,46915,2024-02-05,2024-02-14,RBe,abgeschlossen
+P-23-127,,D-13328,Sanierungskonzept Fassade Gersau,Gersau,Beratung,OF-23-0260,4815,4070,2024-02-06,2024-03-01,NSu,abgeschlossen
+P-23-128,,D-11956,Dachrandsanierung Ibach,Ibach,Projektgeschäft,OF-23-0288,16985,19345,2024-02-07,2024-02-16,RBe,abgeschlossen
+P-23-129,,D-10521,Variantenstudie Terrasse Unteriberg,Unteriberg,Beratung,OF-23-0286,8475,7270,2024-02-09,2024-02-29,NSu,abgeschlossen
+P-24-002,,D-13671,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-24-0006,17655,17265,2024-02-09,2024-03-04,DIn,abgeschlossen
+P-23-130,,D-12418,Machbarkeitsstudie Dachaufbau Oberiberg,Oberiberg,Beratung,OF-23-0313,2500,2020,2024-02-12,2024-03-04,CSc,abgeschlossen
+P-23-131,,D-12712,Velounterstand Zug,Zug,Systemprodukte,OF-23-0293,4580,4580,2024-02-12,2024-03-25,DIn,abgeschlossen
+P-23-132,,D-14329,Variantenstudie Terrasse Seewen,Seewen,Beratung,OF-23-0312,4250,4175,2024-02-15,2024-02-26,NSu,abgeschlossen
+P-24-003,,D-10346,Zustandsaufnahme Flachdach Ibach,Ibach,Beratung,OF-24-0029,5627.8,5510.2,2024-02-26,2024-03-22,NSu,abgeschlossen
+P-23-133,,D-12362,Sanierungskonzept Fassade Morschach,Morschach,Beratung,OF-23-0304,5815,5960,2024-02-27,2024-04-02,CSc,abgeschlossen
+P-23-134,,D-14350,Carport Einzel Zürich,Zürich,Systemprodukte,OF-23-0287,4500,5385,2024-03-01,2024-03-07,DIn,abgeschlossen
+P-23-135,,D-12383,Attikaabschluss Morschach,Morschach,Projektgeschäft,OF-23-0270,27105,31350,2024-03-04,2024-03-18,RBe,abgeschlossen
+P-23-136,,D-11578,Variantenstudie Terrasse Seewen,Seewen,Beratung,OF-23-0291,2730,2570,2024-03-08,2024-04-08,CSc,abgeschlossen
+P-24-004,,D-14511,Sanierungskonzept Fassade Steinen,Steinen,Beratung,OF-24-0018,6850,6455,2024-03-11,2024-03-20,CSc,abgeschlossen
+P-23-137,,D-10290,Spenglerarbeiten Steildach Unteriberg,Unteriberg,Projektgeschäft,OF-23-0311,187445,196335,2024-03-12,2024-04-19,RBe,abgeschlossen
+P-24-005,,D-10675,Vordach Hauseingang Arth,Arth,Systemprodukte,OF-24-0020,7540,7540,2024-03-15,2024-04-19,DIn,abgeschlossen
+P-23-138,,D-14000,Treppengeländer innen Seewen,Seewen,Projektgeschäft,OF-23-0318,28265,29350,2024-03-22,2024-04-02,SKä,abgeschlossen
+P-24-006,,D-12453,Carport Doppel Küssnacht,Küssnacht,Systemprodukte,OF-24-0043,20785,20785,2024-03-25,2024-04-25,DIn,abgeschlossen
+P-24-007,,D-14665,Machbarkeitsstudie Dachaufbau Oberiberg,Oberiberg,Beratung,OF-24-0022,2500,2035,2024-04-02,2024-04-29,NSu,abgeschlossen
+P-24-008,,D-10367,Fassadenbekleidung Schwyz,Schwyz,Projektgeschäft,OF-24-0048,229840,245415,2024-04-02,2024-05-21,DIn,abgeschlossen
+P-24-009,,D-14756,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-24-0014,4915,6005,2024-04-08,2024-04-11,DIn,abgeschlossen
+P-24-010,,D-14896,Variantenstudie Terrasse Steinen,Steinen,Beratung,OF-24-0046,3165,2855,2024-04-11,2024-05-23,CSc,abgeschlossen
+P-24-011,,D-14770,Vordach Hauseingang Wädenswil,Wädenswil,Systemprodukte,OF-24-0051,6060,6060,2024-04-15,2024-04-29,DIn,abgeschlossen
+P-24-012,,D-12866,Treppengeländer innen Morschach,Morschach,Projektgeschäft,OF-24-0061,92790,89670,2024-04-17,2024-05-23,SKä,abgeschlossen
+P-24-013,,D-14455,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-24-0033,5970,5970,2024-04-22,2024-05-13,DIn,abgeschlossen
+P-24-014,,D-14462,Carport Einzel Ibach,Ibach,Systemprodukte,OF-24-0019,5050,5050,2024-04-22,2024-05-29,DIn,abgeschlossen
+P-24-015,,D-14525,Geländerprüfung Morschach,Morschach,Beratung,OF-24-0056,16000,16390,2024-04-29,2024-06-03,NSu,abgeschlossen
+P-24-016,,D-11158,Balkongeländer Ibach,Ibach,Projektgeschäft,OF-24-0054,52075,52075,2024-04-29,2024-06-03,SKä,abgeschlossen
+P-24-017,,D-10360,Sanierungskonzept Fassade Seewen,Seewen,Beratung,OF-24-0030,4980,4855,2024-04-29,2024-05-10,NSu,abgeschlossen
+P-24-018,,D-10171,Treppengeländer innen Lauerz,Lauerz,Projektgeschäft,OF-24-0010,94990,111175,2024-05-01,2024-05-29,SKä,abgeschlossen
+P-24-019,,D-12544,Carport Einzel Rothenthurm,Rothenthurm,Systemprodukte,OF-24-0066,7010,6390,2024-05-03,2024-06-03,DIn,abgeschlossen
+P-24-020,,D-12383,Variantenstudie Terrasse Morschach,Morschach,Beratung,OF-24-0025,2500,2490,2024-05-06,2024-06-03,NSu,abgeschlossen
+P-24-021,,D-12824,Carport Einzel Einsiedeln,Einsiedeln,Systemprodukte,OF-24-0073,4500,4500,2024-05-10,2024-06-24,DIn,abgeschlossen
+P-24-022,,D-14210,Terrassensanierung Zug,Zug,Projektgeschäft,OF-24-0028,59270,56095,2024-05-13,2024-06-25,RBe,abgeschlossen
+P-24-023,,D-14049,Velounterstand Steinen,Steinen,Systemprodukte,OF-24-0041,16160,16160,2024-05-13,2024-06-04,DIn,abgeschlossen
+P-24-024,,D-13601,Zustandsaufnahme Flachdach Seewen,Seewen,Beratung,OF-24-0094,4480,4590,2024-06-03,2024-08-05,CSc,abgeschlossen
+P-24-025,,D-14938,Velounterstand Altdorf,Altdorf,Systemprodukte,OF-24-0065,12650,10870,2024-06-04,2024-06-17,DIn,abgeschlossen
+P-24-026,,D-10752,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-24-0108,9265,9685,2024-06-07,2024-06-11,DIn,abgeschlossen
+P-24-027,,D-11571,Spenglerarbeiten Steildach Steinen,Steinen,Projektgeschäft,OF-24-0072,21790,20590,2024-06-10,2024-08-05,RBe,abgeschlossen
+P-24-028,,D-13006,Carport Einzel Oberiberg,Oberiberg,Systemprodukte,OF-24-0074,12885,15335,2024-06-14,2024-08-05,DIn,abgeschlossen
+P-24-029,,D-12257,Carport Doppel Brunnen,Brunnen,Systemprodukte,OF-24-0075,14295,14295,2024-06-21,2024-07-01,DIn,abgeschlossen
+P-24-030,,D-10493,Balkongeländer Brunnen,Brunnen,Projektgeschäft,OF-24-0076,67115,78030,2024-06-25,2024-08-05,SKä,abgeschlossen
+P-24-031,,D-12481,Carport Einzel Morschach,Morschach,Systemprodukte,OF-24-0103,8475,9645,2024-06-27,2024-08-05,DIn,abgeschlossen
+P-24-032,,D-12999,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-24-0116,12785,12075,2024-06-28,2024-07-05,DIn,abgeschlossen
+P-24-033,,D-11620,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-24-0113,5590,5745,2024-07-01,2024-08-05,DIn,abgeschlossen
+P-24-034,,D-12985,Carport Einzel Rothenthurm,Rothenthurm,Systemprodukte,OF-24-0059,8315,8485,2024-07-02,2024-07-08,DIn,abgeschlossen
+P-24-035,,D-12719,Flachdachsanierung Morschach,Morschach,Projektgeschäft,OF-24-0128,10595,10940,2024-07-03,2024-08-12,RBe,abgeschlossen
+P-24-036,,D-12369,Treppengeländer innen Seewen,Seewen,Projektgeschäft,OF-24-0139,77400,93835,2024-07-03,2024-08-05,SKä,abgeschlossen
+P-24-037,,D-14084,Carport Einzel Steinen,Steinen,Systemprodukte,OF-24-0130,4660,5510,2024-07-05,2024-08-05,DIn,abgeschlossen
+P-24-038,,D-15050,Vordach Hauseingang Schwyz,Schwyz,Systemprodukte,OF-24-0146,19240,20825,2024-07-11,2024-08-05,DIn,abgeschlossen
+P-24-039,,D-10626,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-24-0137,8415,8600,2024-08-05,2024-08-12,DIn,abgeschlossen
+P-24-040,,D-12684,Vordach Hauseingang Einsiedeln,Einsiedeln,Systemprodukte,OF-24-0121,6825,6825,2024-08-05,2024-08-20,DIn,abgeschlossen
+P-24-041,,D-10836,Machbarkeitsstudie Dachaufbau Steinen,Steinen,Beratung,OF-24-0095,3990,3840,2024-08-05,2024-09-02,NSu,abgeschlossen
+P-24-042,,D-10339,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-24-0127,85015,85300,2024-08-05,2024-09-11,SKä,abgeschlossen
+P-24-043,,D-11200,Carport Doppel Baar,Baar,Systemprodukte,OF-24-0164,11495,12790,2024-08-05,2024-09-17,DIn,abgeschlossen
+P-24-044,,D-11522,Spenglerarbeiten Steildach Morschach,Morschach,Projektgeschäft,OF-24-0115,72400,70455,2024-08-05,2024-09-17,RBe,abgeschlossen
+P-24-045,,D-10633,Dachrandsanierung Küssnacht,Küssnacht,Projektgeschäft,OF-24-0141,33105,37065,2024-08-05,2024-08-26,RBe,abgeschlossen
+P-24-046,,D-12579,Treppengeländer innen Einsiedeln,Einsiedeln,Projektgeschäft,OF-24-0083,95980,94580,2024-08-05,2024-08-26,SKä,abgeschlossen
+P-24-047,,D-13433,Machbarkeitsstudie Dachaufbau Brunnen,Brunnen,Beratung,OF-24-0064,2990,2870,2024-08-05,2024-08-13,NSu,abgeschlossen
+P-24-048,,D-12992,Spenglerarbeiten Steildach Seewen,Seewen,Projektgeschäft,OF-24-0151,22845,23755,2024-08-05,2024-08-12,RBe,abgeschlossen
+P-24-049,,D-12698,Flachdachsanierung Altdorf,Altdorf,Projektgeschäft,OF-24-0085,48690,48765,2024-08-05,2024-08-16,RBe,abgeschlossen
+P-24-050,,D-12047,Aussentreppe Stahl Brunnen,Brunnen,Projektgeschäft,OF-24-0104,35865,40435,2024-08-05,2024-09-09,SKä,abgeschlossen
+P-24-051,,D-11277,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-24-0138,9245,9245,2024-08-05,2024-09-09,DIn,abgeschlossen
+P-24-052,,D-12789,Vordach Hauseingang Zürich,Zürich,Systemprodukte,OF-24-0087,19705,19440,2024-08-05,2024-09-11,DIn,abgeschlossen
+P-24-053,,D-12285,Balkongeländer Morschach,Morschach,Projektgeschäft,OF-24-0088,33575,39460,2024-08-05,2024-08-19,SKä,abgeschlossen
+P-24-054,,D-13825,Velounterstand Lauerz,Lauerz,Systemprodukte,OF-24-0123,17925,18540,2024-08-05,2024-09-13,DIn,abgeschlossen
+P-24-055,,D-14623,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-24-0080,76550,71760,2024-08-05,2024-08-23,SKä,abgeschlossen
+P-24-056,,D-14245,Terrassensanierung Lauerz,Lauerz,Projektgeschäft,OF-24-0114,47170,47170,2024-08-12,2024-08-27,RBe,abgeschlossen
+P-24-057,,D-13965,Attikaabschluss Ibach,Ibach,Projektgeschäft,OF-24-0099,41955,42595,2024-08-19,2024-09-23,RBe,abgeschlossen
+P-24-058,,D-11599,Velounterstand Lauerz,Lauerz,Systemprodukte,OF-24-0096,9460,12160,2024-08-19,2024-09-10,DIn,abgeschlossen
+P-24-059,,D-11802,Fassadenbekleidung Ibach,Ibach,Projektgeschäft,OF-24-0143,29795,34975,2024-08-19,2024-09-09,DIn,abgeschlossen
+P-24-060,,D-11676,Vordach Hauseingang Gersau,Gersau,Systemprodukte,OF-24-0152,10500,10500,2024-08-19,2024-09-10,DIn,abgeschlossen
+P-24-061,,D-14182,Machbarkeitsstudie Dachaufbau Seewen,Seewen,Beratung,OF-24-0097,8935,8375,2024-08-20,2024-09-16,CSc,abgeschlossen
+P-24-062,,D-10171,Balkongeländer Lauerz,Lauerz,Projektgeschäft,OF-24-0148,148270,143210,2024-08-23,2024-09-23,SKä,abgeschlossen
+P-24-063,,D-10346,Sanierungskonzept Fassade Ibach,Ibach,Beratung,OF-24-0160,2500,2375,2024-08-26,2024-09-09,CSc,abgeschlossen
+P-24-064,,D-10360,Dachrandsanierung Seewen,Seewen,Projektgeschäft,OF-24-0098,65115,71530,2024-08-26,2024-10-10,RBe,abgeschlossen
+P-24-065,,D-14392,Treppengeländer innen Steinen,Steinen,Projektgeschäft,OF-24-0169,28175,31325,2024-08-26,2024-09-23,SKä,abgeschlossen
+P-24-066,,D-10325,Treppengeländer innen Steinen,Steinen,Projektgeschäft,OF-24-0129,36710,38595,2024-08-28,2024-09-05,SKä,abgeschlossen
+P-24-067,,D-12698,Geländerprüfung Altdorf,Altdorf,Beratung,OF-24-0122,4445,4180,2024-09-03,2024-10-08,CSc,abgeschlossen
+P-24-068,,D-13720,Fassadenbekleidung Morschach,Morschach,Projektgeschäft,OF-24-0190,39955,42735,2024-09-11,2024-09-20,DIn,abgeschlossen
+P-24-069,,D-14700,Spenglerarbeiten Steildach Brunnen,Brunnen,Projektgeschäft,OF-24-0149,117265,134155,2024-09-17,2024-10-14,RBe,abgeschlossen
+P-24-070,,D-10451,Carport Einzel Brunnen,Brunnen,Systemprodukte,OF-24-0174,4500,4500,2024-09-23,2024-10-25,DIn,abgeschlossen
+P-24-071,,D-13174,Aussentreppe Stahl Goldau,Goldau,Projektgeschäft,OF-24-0134,31315,32530,2024-09-24,2024-10-21,SKä,abgeschlossen
+P-24-072,,D-11417,Carport Einzel Ibach,Ibach,Systemprodukte,OF-24-0192,7540,9780,2024-09-24,2024-10-14,DIn,abgeschlossen
+P-24-073,,D-12005,Carport Einzel Küssnacht,Küssnacht,Systemprodukte,OF-24-0133,13705,13705,2024-09-24,2024-11-08,DIn,abgeschlossen
+P-24-074,,D-12229,Balkongeländer Sattel,Sattel,Projektgeschäft,OF-24-0199,23285,26390,2024-09-27,2024-11-11,SKä,abgeschlossen
+P-24-075,,D-10311,Machbarkeitsstudie Dachaufbau Gersau,Gersau,Beratung,OF-24-0204,7985,7555,2024-09-30,2024-10-14,CSc,abgeschlossen
+P-24-076,,D-11011,Geländerprüfung Altdorf,Altdorf,Beratung,OF-24-0186,3965,3355,2024-10-02,2024-10-14,NSu,abgeschlossen
+P-24-077,,D-10304,Flachdachsanierung Steinen,Steinen,Projektgeschäft,OF-24-0210,44495,50165,2024-10-03,2024-10-28,RBe,abgeschlossen
+P-24-078,,D-11200,Machbarkeitsstudie Dachaufbau Baar,Baar,Beratung,OF-24-0185,2500,2195,2024-10-03,2024-11-05,NSu,abgeschlossen
+P-24-079,,D-10374,Dachrandsanierung Steinen,Steinen,Projektgeschäft,OF-24-0157,73360,72335,2024-10-03,2024-11-11,RBe,abgeschlossen
+P-24-080,,D-13776,Attikaabschluss Gersau,Gersau,Projektgeschäft,OF-24-0159,25765,24655,2024-10-04,2024-11-04,RBe,abgeschlossen
+P-24-081,,D-11914,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-24-0182,7385,9365,2024-10-08,2024-10-21,DIn,abgeschlossen
+P-24-082,,D-10640,Balkongeländer Seewen,Seewen,Projektgeschäft,OF-24-0211,41220,41220,2024-10-11,2024-11-11,SKä,abgeschlossen
+P-24-083,,D-12726,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-24-0209,14053.0,14053.0,2024-10-14,2024-10-22,DIn,abgeschlossen
+P-24-084,,D-10339,Treppengeländer innen Steinen,Steinen,Projektgeschäft,OF-24-0215,85580,97090,2024-10-21,2024-11-08,SKä,abgeschlossen
+P-24-085,,D-11347,Aussentreppe Stahl Seewen,Seewen,Projektgeschäft,OF-24-0241,69250,69395,2024-10-23,2024-11-27,SKä,abgeschlossen
+P-24-086,,D-11844,Flachdachsanierung Goldau,Goldau,Projektgeschäft,OF-24-0178,24235,24580,2024-10-28,2024-11-07,RBe,abgeschlossen
+P-24-087,,D-10339,Dachrandsanierung Steinen,Steinen,Projektgeschäft,OF-24-0242,59665,68055,2024-10-28,2024-11-11,RBe,abgeschlossen
+P-24-088,,D-13720,Spenglerarbeiten Steildach Morschach,Morschach,Projektgeschäft,OF-24-0252,69745,72390,2024-11-04,2024-11-19,RBe,abgeschlossen
+P-24-089,,D-12593,Treppengeländer innen Gersau,Gersau,Projektgeschäft,OF-24-0171,24560,24560,2024-11-04,2024-11-14,SKä,abgeschlossen
+P-24-090,,D-13958,Machbarkeitsstudie Dachaufbau Luzern,Luzern,Beratung,OF-24-0166,2765,2600,2024-11-04,2024-11-11,CSc,abgeschlossen
+P-24-091,,D-14707,Fassadenbekleidung Altdorf,Altdorf,Projektgeschäft,OF-24-0230,20720,22175,2024-11-04,2024-12-19,DIn,abgeschlossen
+P-24-092,,D-12915,Sanierungskonzept Fassade Seewen,Seewen,Beratung,OF-24-0168,5920,5300,2024-11-05,2024-12-09,CSc,abgeschlossen
+P-24-093,,D-12936,Balkongeländer Seewen,Seewen,Projektgeschäft,OF-24-0216,28845,30240,2024-11-07,2024-12-20,SKä,abgeschlossen
+P-24-094,,D-10724,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-24-0228,6815,6815,2024-11-11,2024-12-20,DIn,abgeschlossen
+P-24-095,,D-10339,Attikaabschluss Steinen,Steinen,Projektgeschäft,OF-24-0183,147445,141140,2024-11-19,2025-01-03,RBe,abgeschlossen
+P-24-096,,D-12894,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-24-0269,18840,20345,2024-11-25,2024-12-20,DIn,abgeschlossen
+P-24-097,,D-12047,Sanierungskonzept Fassade Brunnen,Brunnen,Beratung,OF-24-0176,2500,2175,2024-11-27,2024-12-16,CSc,abgeschlossen
+P-24-098,,D-11830,Variantenstudie Terrasse Rothenthurm,Rothenthurm,Beratung,OF-24-0179,3205,2570,2024-11-28,2025-01-10,CSc,abgeschlossen
+P-24-099,,D-10171,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-24-0264,251570,262450,2024-12-02,2025-01-22,SKä,abgeschlossen
+P-24-100,,D-14805,Treppengeländer innen Morschach,Morschach,Projektgeschäft,OF-24-0231,36500,40500,2024-12-03,2025-01-16,SKä,abgeschlossen
+P-24-101,,D-10290,Aussentreppe Stahl Unteriberg,Unteriberg,Projektgeschäft,OF-24-0195,40255,45570,2024-12-05,2024-12-30,SKä,abgeschlossen
+P-24-102,,D-14154,Geländerprüfung Ibach,Ibach,Beratung,OF-24-0222,3615,3445,2024-12-09,2025-01-03,CSc,abgeschlossen
+P-24-103,,D-11354,Geländerprüfung Oberiberg,Oberiberg,Beratung,OF-24-0202,5530,5285,2024-12-09,2024-12-17,NSu,abgeschlossen
+P-24-104,,D-10745,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-24-0225,9450,9450,2024-12-09,2025-01-15,DIn,abgeschlossen
+P-24-105,,D-13608,Carport Doppel Morschach,Morschach,Systemprodukte,OF-24-0213,4610,4735,2024-12-09,2025-01-07,DIn,abgeschlossen
+P-24-106,,D-13349,Carport Einzel Goldau,Goldau,Systemprodukte,OF-24-0235,12440,12440,2024-12-09,2025-01-07,DIn,abgeschlossen
+P-24-107,,D-14308,Carport Einzel Einsiedeln,Einsiedeln,Systemprodukte,OF-24-0247,7405,6510,2024-12-09,2025-01-17,DIn,abgeschlossen
+P-24-108,,D-14798,Carport Einzel Lauerz,Lauerz,Systemprodukte,OF-24-0266,4500,4695,2024-12-11,2025-01-13,DIn,abgeschlossen
+P-24-109,,D-10563,Attikaabschluss Pfäffikon SZ,Pfäffikon SZ,Projektgeschäft,OF-24-0217,47565,49565,2024-12-16,2025-01-07,RBe,abgeschlossen
+P-24-110,,D-11893,Carport Einzel Steinen,Steinen,Systemprodukte,OF-24-0258,10715,11620,2024-12-16,2024-12-30,DIn,abgeschlossen
+P-24-111,,D-13664,Machbarkeitsstudie Dachaufbau Brunnen,Brunnen,Beratung,OF-24-0295,3090,3025,2024-12-17,2025-01-13,CSc,abgeschlossen
+P-24-112,,D-14721,Spenglerarbeiten Steildach Lauerz,Lauerz,Projektgeschäft,OF-24-0254,11155,14345,2024-12-23,2025-01-07,RBe,abgeschlossen
+P-24-113,,D-12642,Carport Einzel Einsiedeln,Einsiedeln,Systemprodukte,OF-24-0256,10225,12385,2024-12-23,2025-02-06,DIn,abgeschlossen
+P-24-114,,D-12705,Dachrandsanierung Brunnen,Brunnen,Projektgeschäft,OF-24-0278,25340,27695,2024-12-23,2025-01-02,RBe,abgeschlossen
+P-24-115,,D-10290,Balkongeländer Unteriberg,Unteriberg,Projektgeschäft,OF-24-0221,182015,212705,2024-12-23,2025-01-29,SKä,abgeschlossen
+P-24-116,,D-10192,Treppengeländer innen Altdorf,Altdorf,Projektgeschäft,OF-24-0233,243750,229890,2024-12-24,2025-02-12,SKä,abgeschlossen
+P-24-117,,D-12572,Carport Einzel Morschach,Morschach,Systemprodukte,OF-24-0299,16935,14420,2024-12-31,2025-01-13,DIn,abgeschlossen
+P-24-118,,D-13496,Carport Doppel Altdorf,Altdorf,Systemprodukte,OF-24-0271,7345,7600,2025-01-02,2025-01-07,DIn,abgeschlossen
+P-24-119,,D-13846,Carport Einzel Brunnen,Brunnen,Systemprodukte,OF-24-0244,5620,5685,2025-01-02,2025-01-27,DIn,abgeschlossen
+P-24-120,,D-14917,Terrassensanierung Einsiedeln,Einsiedeln,Projektgeschäft,OF-24-0309,70140,60575,2025-01-07,2025-02-14,RBe,abgeschlossen
+P-24-121,,D-12943,Balkongeländer Einsiedeln,Einsiedeln,Projektgeschäft,OF-24-0245,62960,75325,2025-01-08,2025-02-14,SKä,abgeschlossen
+P-24-122,,D-10493,Terrassensanierung Brunnen,Brunnen,Projektgeschäft,OF-24-0226,93405,102590,2025-01-09,2025-02-04,RBe,abgeschlossen
+P-24-123,,D-10115,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,OF-24-0284,13880,12525,2025-01-13,2025-02-10,NSu,abgeschlossen
+P-24-124,,D-10108,Geländerprüfung Küssnacht,Küssnacht,Beratung,OF-24-0283,2194.2,2853.75,2025-01-20,2025-02-24,NSu,abgeschlossen
+P-24-125,,D-14434,Variantenstudie Terrasse Küssnacht,Küssnacht,Beratung,OF-24-0307,3460,3305,2025-01-29,2025-03-07,CSc,abgeschlossen
+P-24-126,,D-11403,Geländerprüfung Schwyz,Schwyz,Beratung,OF-24-0257,3970,3825,2025-01-29,2025-02-17,CSc,abgeschlossen
+P-24-127,,D-13825,Attikaabschluss Lauerz,Lauerz,Projektgeschäft,OF-24-0259,40965,39455,2025-01-29,2025-03-06,RBe,abgeschlossen
+P-24-128,,D-12026,Carport Doppel Steinen,Steinen,Systemprodukte,OF-24-0250,10460,11135,2025-01-31,2025-02-03,DIn,abgeschlossen
+P-24-129,,D-12943,Machbarkeitsstudie Dachaufbau Einsiedeln,Einsiedeln,Beratung,OF-24-0255,12540,13420,2025-02-03,2025-02-13,NSu,abgeschlossen
+P-24-130,,D-10570,Geländerprüfung Ibach,Ibach,Beratung,OF-24-0310,2665,2360,2025-02-03,2025-02-27,CSc,abgeschlossen
+P-24-131,,D-14819,Vordach Hauseingang Zug,Zug,Systemprodukte,OF-24-0285,18865,18865,2025-02-03,2025-03-03,DIn,abgeschlossen
+P-24-132,,D-11431,Terrassensanierung Morschach,Morschach,Projektgeschäft,OF-24-0290,70550,70550,2025-02-06,2025-03-12,RBe,abgeschlossen
+P-24-133,,D-13083,Velounterstand Gersau,Gersau,Systemprodukte,OF-24-0267,6750,6750,2025-02-12,2025-02-17,DIn,abgeschlossen
+P-24-134,,D-12964,Machbarkeitsstudie Dachaufbau Steinen,Steinen,Beratung,OF-24-0263,5470,5005,2025-02-14,2025-03-03,NSu,abgeschlossen
+P-25-001,,D-14602,Variantenstudie Terrasse Zürich,Zürich,Beratung,OF-25-0005,10545,10010,2025-02-14,2025-02-24,NSu,abgeschlossen
+P-24-135,,D-13034,Velounterstand Altdorf,Altdorf,Systemprodukte,OF-24-0296,4500,4500,2025-02-17,2025-03-04,DIn,abgeschlossen
+P-24-136,,D-14784,Carport Einzel Zürich,Zürich,Systemprodukte,OF-24-0298,8560,8560,2025-02-18,2025-03-14,DIn,abgeschlossen
+P-24-137,,D-13895,Carport Doppel Seewen,Seewen,Systemprodukte,OF-24-0322,12480,13420,2025-02-21,2025-03-03,DIn,abgeschlossen
+P-24-138,,D-13797,Carport Doppel Einsiedeln,Einsiedeln,Systemprodukte,OF-24-0275,14885,16610,2025-02-24,2025-03-03,DIn,abgeschlossen
+P-24-139,,D-14280,Carport Einzel Seewen,Seewen,Systemprodukte,OF-24-0320,9075,9350,2025-02-24,2025-03-12,DIn,abgeschlossen
+P-25-002,,D-11760,Velounterstand Morschach,Morschach,Systemprodukte,OF-25-0018,9870,9870,2025-02-24,2025-04-08,DIn,abgeschlossen
+P-25-003,,D-10311,Carport Doppel Gersau,Gersau,Systemprodukte,OF-25-0020,23055,25460,2025-02-24,2025-04-10,DIn,abgeschlossen
+P-25-004,,D-15036,Carport Einzel Baar,Baar,Systemprodukte,OF-25-0024,4825,4605,2025-02-28,2025-03-27,DIn,abgeschlossen
+P-24-140,,D-14882,Carport Doppel Seewen,Seewen,Systemprodukte,OF-24-0324,18225,18225,2025-03-03,2025-03-12,DIn,abgeschlossen
+P-25-005,,D-11564,Terrassensanierung Morschach,Morschach,Projektgeschäft,OF-25-0029,68785,76100,2025-03-03,2025-04-04,RBe,abgeschlossen
+P-24-141,,D-11774,Zustandsaufnahme Flachdach Zug,Zug,Beratung,OF-24-0303,7670,7560,2025-03-05,2025-03-28,NSu,abgeschlossen
+P-24-142,,D-13300,Variantenstudie Terrasse Küssnacht,Küssnacht,Beratung,OF-24-0305,4870,4235,2025-03-06,2025-03-18,NSu,abgeschlossen
+P-24-143,,D-12558,Sanierungskonzept Fassade Wädenswil,Wädenswil,Beratung,OF-24-0304,5475,5085,2025-03-10,2025-03-25,NSu,abgeschlossen
+P-25-006,,D-11921,Treppengeländer innen Altdorf,Altdorf,Projektgeschäft,OF-25-0037,23880,23880,2025-03-10,2025-03-24,SKä,abgeschlossen
+P-25-007,,D-14798,Geländerprüfung Lauerz,Lauerz,Beratung,OF-25-0043,6500,6400,2025-03-10,2025-03-17,CSc,abgeschlossen
+P-24-144,,D-14511,Carport Einzel Steinen,Steinen,Systemprodukte,OF-24-0326,8875,9785,2025-03-17,2025-04-04,DIn,abgeschlossen
+P-24-145,,D-11578,Fassadenbekleidung Seewen,Seewen,Projektgeschäft,OF-24-0319,18265,18265,2025-03-17,2025-03-21,DIn,abgeschlossen
+P-24-146,,D-12061,Spenglerarbeiten Steildach Steinen,Steinen,Projektgeschäft,OF-24-0300,12235,10555,2025-03-20,2025-04-28,RBe,abgeschlossen
+P-25-008,,D-10304,Dachrandsanierung Steinen,Steinen,Projektgeschäft,OF-25-0059,40000,39670,2025-03-20,2025-04-22,RBe,abgeschlossen
+P-25-009,,D-13356,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-25-0009,17280,17280,2025-03-21,2025-04-24,DIn,abgeschlossen
+P-25-010,,D-12327,Zustandsaufnahme Flachdach Brunnen,Brunnen,Beratung,OF-25-0007,2500,2210,2025-03-24,2025-04-22,CSc,abgeschlossen
+P-25-011,,D-11704,Aussentreppe Stahl Gersau,Gersau,Projektgeschäft,OF-25-0060,35210,42395,2025-03-24,2025-04-10,SKä,abgeschlossen
+P-25-012,,D-13160,Terrassensanierung Sattel,Sattel,Projektgeschäft,OF-25-0070,77700,77855,2025-03-28,2025-04-14,RBe,abgeschlossen
+P-25-013,,D-10808,Zustandsaufnahme Flachdach Ibach,Ibach,Beratung,OF-25-0051,3125,2655,2025-03-31,2025-05-01,CSc,abgeschlossen
+P-25-014,,D-14889,Treppengeländer innen Unteriberg,Unteriberg,Projektgeschäft,OF-25-0076,63215,68530,2025-04-04,2025-05-12,SKä,abgeschlossen
+P-24-147,,D-12439,Carport Doppel Seewen,Seewen,Systemprodukte,OF-24-0312,10530,11130,2025-04-08,2025-04-25,DIn,abgeschlossen
+P-25-015,,D-14742,Carport Einzel Brunnen,Brunnen,Systemprodukte,OF-25-0012,5210,5210,2025-04-08,2025-04-15,DIn,abgeschlossen
+P-25-016,,D-13867,Dachrandsanierung Schwyz,Schwyz,Projektgeschäft,OF-25-0077,59855,57745,2025-04-08,2025-05-19,RBe,abgeschlossen
+P-25-017,,D-11130,Balkongeländer Gersau,Gersau,Projektgeschäft,OF-25-0036,43000,44370,2025-04-09,2025-04-24,SKä,abgeschlossen
+P-25-018,,D-10570,Sanierungskonzept Fassade Ibach,Ibach,Beratung,OF-25-0055,2500,2405,2025-04-09,2025-04-14,NSu,abgeschlossen
+P-25-019,,D-14833,Vordach Hauseingang Goldau,Goldau,Systemprodukte,OF-25-0010,14800,12935,2025-04-10,2025-05-19,DIn,abgeschlossen
+P-25-020,,D-10227,Flachdachsanierung Gersau,Gersau,Projektgeschäft,OF-25-0042,42195,41310,2025-04-11,2025-05-05,RBe,abgeschlossen
+P-25-021,,D-13489,Spenglerarbeiten Steildach Küssnacht,Küssnacht,Projektgeschäft,OF-25-0071,29575,34945,2025-04-14,2025-04-25,RBe,abgeschlossen
+P-25-022,,D-12866,Aussentreppe Stahl Morschach,Morschach,Projektgeschäft,OF-25-0041,30035,30035,2025-04-14,2025-05-19,SKä,abgeschlossen
+P-25-023,,D-10507,Zustandsaufnahme Flachdach Unteriberg,Unteriberg,Beratung,OF-25-0085,14800,13380,2025-04-14,2025-04-25,NSu,abgeschlossen
+P-25-024,,D-11886,Spenglerarbeiten Steildach Zug,Zug,Projektgeschäft,OF-25-0014,180000,168860,2025-04-16,2025-05-23,RBe,abgeschlossen
+P-25-025,,D-13867,Spenglerarbeiten Steildach Schwyz,Schwyz,Projektgeschäft,OF-25-0040,30810,32520,2025-04-16,2025-04-28,RBe,abgeschlossen
+P-25-026,,D-12600,Variantenstudie Terrasse Schwyz,Schwyz,Beratung,OF-25-0091,4780,4630,2025-04-17,2025-05-01,NSu,abgeschlossen
+P-25-027,,D-14630,Carport Einzel Arth,Arth,Systemprodukte,OF-25-0021,8065,8065,2025-04-22,2025-06-05,DIn,abgeschlossen
+P-25-028,,D-11123,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-25-0002,10135,10135,2025-04-25,2025-05-21,DIn,abgeschlossen
+P-25-029,,D-10339,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-25-0027,95010,102325,2025-04-28,2025-05-19,SKä,abgeschlossen
+P-25-030,,D-11179,Treppengeländer innen Seewen,Seewen,Projektgeschäft,OF-25-0033,82570,82425,2025-04-30,2025-06-11,SKä,abgeschlossen
+P-25-031,,D-13594,Variantenstudie Terrasse Lauerz,Lauerz,Beratung,OF-25-0096,2935,3075,2025-04-30,2025-05-28,NSu,abgeschlossen
+P-25-032,,D-15022,Balkongeländer Seewen,Seewen,Projektgeschäft,OF-25-0073,87170,90160,2025-05-01,2025-06-06,SKä,abgeschlossen
+P-25-033,,D-10332,Balkongeländer Morschach,Morschach,Projektgeschäft,OF-25-0062,104215,104215,2025-05-01,2025-05-30,SKä,abgeschlossen
+P-25-034,,D-13895,Zustandsaufnahme Flachdach Seewen,Seewen,Beratung,OF-25-0094,4055,3735,2025-05-02,2025-05-28,NSu,abgeschlossen
+P-25-035,,D-14224,Variantenstudie Terrasse Lauerz,Lauerz,Beratung,OF-25-0063,2710,2465,2025-05-05,2025-05-26,NSu,abgeschlossen
+P-25-036,,D-10927,Balkongeländer Baar,Baar,Projektgeschäft,OF-25-0023,18535,19585,2025-05-05,2025-05-15,SKä,abgeschlossen
+P-25-037,,D-14469,Carport Einzel Schwyz,Schwyz,Systemprodukte,OF-25-0107,5915,5915,2025-05-07,2025-05-26,DIn,abgeschlossen
+P-25-038,,D-10577,Carport Doppel Goldau,Goldau,Systemprodukte,OF-25-0025,9280,8560,2025-05-09,2025-05-13,DIn,abgeschlossen
+P-25-039,,D-10605,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-25-0084,20710.0,21042.0,2025-05-12,2025-06-26,SKä,abgeschlossen
+P-25-040,,D-11746,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-25-0078,43070,52335,2025-05-19,2025-06-10,RBe,abgeschlossen
+P-25-041,,D-13937,Attikaabschluss Gersau,Gersau,Projektgeschäft,OF-25-0035,42375,45350,2025-05-19,2025-07-02,RBe,abgeschlossen
+P-25-042,,D-10367,Dachrandsanierung Schwyz,Schwyz,Projektgeschäft,OF-25-0048,72055,80460,2025-05-22,2025-06-06,RBe,abgeschlossen
+P-25-043,,D-13580,Flachdachsanierung Schwyz,Schwyz,Projektgeschäft,OF-25-0090,63630,73145,2025-05-22,2025-06-16,RBe,abgeschlossen
+P-25-044,,D-10437,Dachrandsanierung Oberiberg,Oberiberg,Projektgeschäft,OF-25-0068,180000,180000,2025-05-23,2025-06-30,RBe,abgeschlossen
+P-25-045,,D-11235,Velounterstand Schwyz,Schwyz,Systemprodukte,OF-25-0112,15115,15115,2025-05-30,2025-06-20,DIn,abgeschlossen
+P-25-046,,D-10171,Aussentreppe Stahl Lauerz,Lauerz,Projektgeschäft,OF-25-0044,67195,70575,2025-06-02,2025-07-08,SKä,abgeschlossen
+P-25-048,,D-14490,Carport Einzel Brunnen,Brunnen,Systemprodukte,OF-25-0101,7560,7755,2025-06-02,2025-08-04,DIn,abgeschlossen
+P-25-047,,D-10143,Geländerprüfung Schwyz,Schwyz,Beratung,OF-25-0097,4394.05,4945.55,2025-06-02,2025-06-24,CSc,abgeschlossen
+P-25-049,,D-13965,Sanierungskonzept Fassade Ibach,Ibach,Beratung,OF-25-0079,3095,2710,2025-06-05,2025-06-30,CSc,abgeschlossen
+P-25-050,,D-11655,Flachdachsanierung Brunnen,Brunnen,Projektgeschäft,OF-25-0082,12115,12365,2025-06-05,2025-06-30,RBe,abgeschlossen
+P-25-051,,D-14238,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-25-0065,13945,14350,2025-06-10,2025-07-01,DIn,abgeschlossen
+P-25-052,,D-13881,Geländerprüfung Sattel,Sattel,Beratung,OF-25-0057,5095,4895,2025-06-10,2025-08-04,CSc,abgeschlossen
+P-25-053,,D-13874,Variantenstudie Terrasse Brunnen,Brunnen,Beratung,OF-25-0069,5895,5710,2025-06-11,2025-06-27,CSc,abgeschlossen
+P-25-054,,D-12922,Carport Einzel Einsiedeln,Einsiedeln,Systemprodukte,OF-25-0139,8520,8520,2025-06-17,2025-07-07,DIn,abgeschlossen
+P-25-055,,D-12502,Flachdachsanierung Ibach,Ibach,Projektgeschäft,OF-25-0121,38675,38760,2025-06-18,2025-08-04,RBe,abgeschlossen
+P-25-056,,D-10696,Vordach Hauseingang Arth,Arth,Systemprodukte,OF-25-0108,5045,5045,2025-06-27,2025-08-11,DIn,abgeschlossen
+P-25-057,,D-11326,Geländerprüfung Seewen,Seewen,Beratung,OF-25-0157,2755,2410,2025-07-03,2025-08-18,CSc,abgeschlossen
+P-25-058,,D-10990,Aussentreppe Stahl Goldau,Goldau,Projektgeschäft,OF-25-0127,24255,27005,2025-07-07,2025-08-13,SKä,abgeschlossen
+P-25-059,,D-13790,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-25-0123,7250,7250,2025-07-08,2025-08-21,DIn,abgeschlossen
+P-25-060,,D-13384,Balkongeländer Altdorf,Altdorf,Projektgeschäft,OF-25-0100,28245,31950,2025-07-11,2025-08-04,SKä,abgeschlossen
+P-25-061,,D-10913,Fassadenbekleidung Rothenthurm,Rothenthurm,Projektgeschäft,OF-25-0189,53665,55645,2025-08-04,2025-08-28,DIn,abgeschlossen
+P-25-062,,D-10192,Aussentreppe Stahl Altdorf,Altdorf,Projektgeschäft,OF-25-0152,84750,80075,2025-08-04,2025-08-29,SKä,abgeschlossen
+P-25-063,,D-11837,Attikaabschluss Lauerz,Lauerz,Projektgeschäft,OF-25-0182,69000,75975,2025-08-04,2025-09-01,RBe,abgeschlossen
+P-25-064,,D-10192,Fassadenbekleidung Altdorf,Altdorf,Projektgeschäft,OF-25-0170,275190,292240,2025-08-04,2025-09-29,DIn,abgeschlossen
+P-25-065,,D-10521,Carport Doppel Unteriberg,Unteriberg,Systemprodukte,OF-25-0111,21140,22500,2025-08-04,2025-09-10,DIn,abgeschlossen
+P-25-066,,D-14637,Sanierungskonzept Fassade Gersau,Gersau,Beratung,OF-25-0125,4550,4280,2025-08-04,2025-08-13,CSc,abgeschlossen
+P-25-067,,D-11914,Flachdachsanierung Seewen,Seewen,Projektgeschäft,OF-25-0160,50215,50835,2025-08-06,2025-08-28,RBe,abgeschlossen
+P-25-068,,D-12761,Machbarkeitsstudie Dachaufbau Schwyz,Schwyz,Beratung,OF-25-0171,11470,10170,2025-08-08,2025-08-25,NSu,abgeschlossen
+P-25-069,,D-13293,Balkongeländer Schwyz,Schwyz,Projektgeschäft,OF-25-0137,40245,40245,2025-08-11,2025-08-20,SKä,abgeschlossen
+P-25-070,,D-13517,Velounterstand Arth,Arth,Systemprodukte,OF-25-0115,9855,11540,2025-08-12,2025-09-26,DIn,abgeschlossen
+P-25-071,,D-13909,Variantenstudie Terrasse Seewen,Seewen,Beratung,OF-25-0158,2500,2305,2025-08-12,2025-09-04,NSu,abgeschlossen
+P-25-072,,D-14217,Velounterstand Unteriberg,Unteriberg,Systemprodukte,OF-25-0136,7345,7345,2025-08-12,2025-08-25,DIn,abgeschlossen
+P-25-073,,D-11151,Carport Doppel Morschach,Morschach,Systemprodukte,OF-25-0183,4505,4555,2025-08-18,2025-08-22,DIn,abgeschlossen
+P-25-074,,D-12089,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-25-0147,8510,8510,2025-08-18,2025-08-29,DIn,abgeschlossen
+P-25-075,,D-10164,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,OF-25-0166,25901.4,25901.4,2025-08-18,2025-08-19,DIn,abgeschlossen
+P-25-076,,D-14798,Carport Einzel Lauerz,Lauerz,Systemprodukte,OF-25-0135,4820,4970,2025-08-25,2025-09-22,DIn,abgeschlossen
+P-25-077,,D-10297,Carport Einzel Gersau,Gersau,Systemprodukte,OF-25-0167,5640,5640,2025-08-26,2025-09-03,DIn,abgeschlossen
+P-25-078,,D-13762,Vordach Hauseingang Altdorf,Altdorf,Systemprodukte,OF-25-0184,15470,18965,2025-08-26,2025-09-02,DIn,abgeschlossen
+P-25-079,,D-11858,Vordach Hauseingang Ibach,Ibach,Systemprodukte,OF-25-0126,9735,11125,2025-08-29,2025-10-13,DIn,abgeschlossen
+P-25-080,,D-14189,Balkongeländer Küssnacht,Küssnacht,Projektgeschäft,OF-25-0177,77150,97900,2025-09-01,2025-09-22,SKä,abgeschlossen
+P-25-081,,D-14000,Fassadenbekleidung Seewen,Seewen,Projektgeschäft,OF-25-0192,99300,100780,2025-09-02,2025-09-23,DIn,abgeschlossen
+P-25-082,,D-11928,Velounterstand Küssnacht,Küssnacht,Systemprodukte,OF-25-0131,13160,13625,2025-09-04,2025-10-13,DIn,abgeschlossen
+P-25-083,,D-11816,Vordach Hauseingang Zürich,Zürich,Systemprodukte,OF-25-0154,24960,32140,2025-09-04,2025-09-18,DIn,abgeschlossen
+P-25-084,,D-13825,Sanierungskonzept Fassade Lauerz,Lauerz,Beratung,OF-25-0142,6920,6715,2025-09-04,2025-09-30,CSc,abgeschlossen
+P-25-085,,D-10486,Aussentreppe Stahl Oberiberg,Oberiberg,Projektgeschäft,OF-25-0194,118035,113065,2025-09-08,2025-10-02,SKä,abgeschlossen
+P-25-086,,D-10493,Attikaabschluss Brunnen,Brunnen,Projektgeschäft,OF-25-0198,120425,117770,2025-09-08,2025-10-22,RBe,abgeschlossen
+P-25-087,,D-11774,Terrassensanierung Zug,Zug,Projektgeschäft,OF-25-0172,92745,106635,2025-09-08,2025-10-20,RBe,abgeschlossen
+P-25-088,,D-13783,Vordach Hauseingang Rothenthurm,Rothenthurm,Systemprodukte,OF-25-0164,8820,8820,2025-09-10,2025-10-15,DIn,abgeschlossen
+P-25-089,,D-13111,Carport Doppel Arth,Arth,Systemprodukte,OF-25-0168,5025,5025,2025-09-15,2025-10-29,DIn,abgeschlossen
+P-25-090,,D-11718,Vordach Hauseingang Lauerz,Lauerz,Systemprodukte,OF-25-0185,17790,17790,2025-09-15,2025-09-29,DIn,abgeschlossen
+P-25-091,,D-11284,Spenglerarbeiten Steildach Brunnen,Brunnen,Projektgeschäft,OF-25-0215,42610,42610,2025-09-15,2025-10-15,RBe,abgeschlossen
+P-25-092,,D-12845,Aussentreppe Stahl Seewen,Seewen,Projektgeschäft,OF-25-0223,24845,23695,2025-09-18,2025-11-03,SKä,abgeschlossen
+P-25-093,,D-12159,Dachrandsanierung Pfäffikon SZ,Pfäffikon SZ,Projektgeschäft,OF-25-0200,27845,29610,2025-09-22,2025-10-31,RBe,abgeschlossen
+P-25-094,,D-14952,Carport Doppel Schwyz,Schwyz,Systemprodukte,OF-25-0213,17935,17935,2025-09-23,2025-10-20,DIn,abgeschlossen
+P-25-095,,D-10773,Zustandsaufnahme Flachdach Altdorf,Altdorf,Beratung,OF-25-0173,3500,2840,2025-09-23,2025-11-05,CSc,abgeschlossen
+P-25-096,,D-14147,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-25-0169,8030,8030,2025-09-25,2025-10-24,DIn,abgeschlossen
+P-25-097,,D-12362,Flachdachsanierung Morschach,Morschach,Projektgeschäft,OF-25-0179,56130,64730,2025-09-26,2025-10-20,RBe,abgeschlossen
+P-25-098,,D-12950,Attikaabschluss Morschach,Morschach,Projektgeschäft,OF-25-0211,56975,58280,2025-09-29,2025-10-23,RBe,abgeschlossen
+P-25-099,,D-13209,Machbarkeitsstudie Dachaufbau Sattel,Sattel,Beratung,OF-25-0190,3045,2770,2025-10-02,2025-10-13,NSu,abgeschlossen
+P-25-100,,D-15029,Balkongeländer Lauerz,Lauerz,Projektgeschäft,OF-25-0193,98305,96675,2025-10-06,2025-11-17,SKä,abgeschlossen
+P-25-101,,D-12831,Velounterstand Oberiberg,Oberiberg,Systemprodukte,OF-25-0196,13715,16915,2025-10-06,2025-10-21,DIn,abgeschlossen
+P-25-102,,D-10101,Zustandsaufnahme Flachdach Brunnen,Brunnen,Beratung,OF-25-0241,6272.8,7225.9,2025-10-06,2025-11-21,NSu,abgeschlossen
+P-25-103,,D-12208,Machbarkeitsstudie Dachaufbau Morschach,Morschach,Beratung,OF-25-0187,5910,5145,2025-10-13,2025-10-21,CSc,abgeschlossen
+P-25-104,,D-12824,Flachdachsanierung Einsiedeln,Einsiedeln,Projektgeschäft,OF-25-0206,58245,65735,2025-10-13,2025-11-17,RBe,abgeschlossen
+P-25-105,,D-10822,Vordach Hauseingang Wädenswil,Wädenswil,Systemprodukte,OF-25-0186,6880,6145,2025-10-13,2025-10-31,DIn,abgeschlossen
+P-25-106,,D-15015,Attikaabschluss Arth,Arth,Projektgeschäft,OF-25-0226,49465,49465,2025-10-14,2025-11-20,RBe,abgeschlossen
+P-25-107,,D-14336,Dachrandsanierung Sattel,Sattel,Projektgeschäft,OF-25-0178,29370,29370,2025-10-20,2025-10-31,RBe,abgeschlossen
+P-25-108,,D-10339,Dachrandsanierung Steinen,Steinen,Projektgeschäft,OF-25-0195,139080,128665,2025-10-20,2025-11-18,RBe,abgeschlossen
+P-25-109,,D-11326,Attikaabschluss Seewen,Seewen,Projektgeschäft,OF-25-0199,27335,27950,2025-10-20,2025-11-19,RBe,abgeschlossen
+P-25-110,,D-11165,Balkongeländer Schwyz,Schwyz,Projektgeschäft,OF-25-0176,39685,40225,2025-10-20,2025-11-24,SKä,abgeschlossen
+P-25-111,,D-14504,Balkongeländer Luzern,Luzern,Projektgeschäft,OF-25-0230,62260,59430,2025-10-27,2025-11-17,SKä,abgeschlossen
+P-25-112,,D-13440,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-25-0266,8285,10550,2025-10-28,2025-11-11,DIn,abgeschlossen
+P-25-113,,D-14343,Carport Doppel Luzern,Luzern,Systemprodukte,OF-25-0225,12095,12095,2025-11-03,2025-11-10,DIn,abgeschlossen
+P-25-114,,D-12264,Velounterstand Goldau,Goldau,Systemprodukte,OF-25-0216,11365,12200,2025-11-11,2025-11-28,DIn,abgeschlossen
+P-25-115,,D-13769,Carport Einzel Rothenthurm,Rothenthurm,Systemprodukte,OF-25-0201,6445,6455,2025-11-11,2025-12-10,DIn,abgeschlossen
+P-25-116,,D-10262,Variantenstudie Terrasse Lauerz,Lauerz,Beratung,OF-25-0239,9885,10480,2025-11-11,2025-12-19,CSc,abgeschlossen
+P-25-117,,D-10801,Velounterstand Ibach,Ibach,Systemprodukte,OF-25-0269,18935,18935,2025-11-13,2025-12-18,DIn,abgeschlossen
+P-25-118,,D-13748,Spenglerarbeiten Steildach Steinen,Steinen,Projektgeschäft,OF-25-0212,82530,80090,2025-11-17,2025-12-04,RBe,abgeschlossen
+P-25-119,,D-11522,Carport Doppel Morschach,Morschach,Systemprodukte,OF-25-0251,7025,7025,2025-11-17,2025-11-24,DIn,abgeschlossen
+P-25-120,,D-10444,Flachdachsanierung Ibach,Ibach,Projektgeschäft,OF-25-0242,43915,56355,2025-11-19,2025-12-29,RBe,abgeschlossen
+P-25-121,,D-11074,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-25-0224,4500,4500,2025-11-19,2025-11-24,DIn,abgeschlossen
+P-25-122,,D-11263,Balkongeländer Küssnacht,Küssnacht,Projektgeschäft,OF-25-0264,69260,80210,2025-11-21,2025-12-05,SKä,abgeschlossen
+P-25-123,,D-14910,Vordach Hauseingang Goldau,Goldau,Systemprodukte,OF-25-0259,21580,21580,2025-11-25,2025-12-29,DIn,abgeschlossen
+P-25-124,,D-11242,Zustandsaufnahme Flachdach Lauerz,Lauerz,Beratung,OF-25-0263,7000,6345,2025-12-01,2025-12-16,NSu,abgeschlossen
+P-25-125,,D-12992,Velounterstand Seewen,Seewen,Systemprodukte,OF-25-0240,10300,10300,2025-12-09,2026-01-12,DIn,abgeschlossen
+P-25-126,,D-11942,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-25-0294,27010,27010,2025-12-09,2025-12-22,SKä,abgeschlossen
+P-25-127,,D-10178,Flachdachsanierung Küssnacht,Küssnacht,Projektgeschäft,OF-25-0279,111275,107590,2025-12-15,2026-01-14,RBe,abgeschlossen
+P-25-128,,D-13062,Velounterstand Seewen,Seewen,Systemprodukte,OF-25-0315,4500,4615,2025-12-17,2026-01-21,DIn,abgeschlossen
+P-25-129,,D-11669,Spenglerarbeiten Steildach Morschach,Morschach,Projektgeschäft,OF-25-0282,40445,46410,2025-12-17,2026-01-26,RBe,abgeschlossen
+P-25-130,,D-14427,Geländerprüfung Brunnen,Brunnen,Beratung,OF-25-0235,4295,3860,2025-12-18,2026-01-02,NSu,abgeschlossen
+P-25-131,,D-10934,Carport Doppel Unteriberg,Unteriberg,Systemprodukte,OF-25-0228,13415,13905,2025-12-19,2025-12-22,DIn,abgeschlossen
+P-25-132,,D-11326,Vordach Hauseingang Seewen,Seewen,Systemprodukte,OF-25-0272,6450,8120,2025-12-19,2026-01-07,DIn,abgeschlossen
+P-25-133,,D-14140,Carport Doppel Unteriberg,Unteriberg,Systemprodukte,OF-25-0287,7880,7880,2025-12-22,2026-01-05,DIn,abgeschlossen
+P-25-134,,D-12047,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,OF-25-0252,9255,9725,2025-12-23,2026-01-12,DIn,abgeschlossen
+P-25-135,,D-13678,Sanierungskonzept Fassade Steinen,Steinen,Beratung,OF-25-0248,8795,8515,2025-12-23,2026-01-02,CSc,abgeschlossen
+P-25-136,,D-14917,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,OF-25-0257,19525,20600,2025-12-24,2026-01-12,DIn,abgeschlossen
+P-25-137,,D-14581,Velounterstand Küssnacht,Küssnacht,Systemprodukte,OF-25-0247,18235,19555,2025-12-29,2026-02-02,DIn,abgeschlossen
+P-25-138,,D-13657,Velounterstand Brunnen,Brunnen,Systemprodukte,OF-25-0316,5305,5305,2026-01-02,2026-02-05,DIn,abgeschlossen
+P-25-139,,D-12229,Balkongeländer Sattel,Sattel,Projektgeschäft,OF-25-0236,56915,64435,2026-01-05,2026-01-27,SKä,abgeschlossen
+P-25-140,,D-10934,Vordach Hauseingang Unteriberg,Unteriberg,Systemprodukte,OF-25-0295,4500,4620,2026-01-05,2026-01-27,DIn,abgeschlossen
+P-25-141,,D-12040,Spenglerarbeiten Steildach Lauerz,Lauerz,Projektgeschäft,OF-25-0288,156285,191625,2026-01-07,2026-02-09,RBe,abgeschlossen
+P-25-142,,D-11249,Carport Einzel Unteriberg,Unteriberg,Systemprodukte,OF-25-0332,26875,26875,2026-01-07,2026-01-19,DIn,abgeschlossen
+P-25-143,,D-12509,Aussentreppe Stahl Morschach,Morschach,Projektgeschäft,OF-25-0336,65575,76835,2026-01-19,2026-02-27,SKä,abgeschlossen
+P-25-144,,D-13797,Carport Doppel Einsiedeln,Einsiedeln,Systemprodukte,OF-25-0323,6800,7200,2026-01-19,2026-02-09,DIn,abgeschlossen
+P-25-145,,D-11249,Balkongeländer Unteriberg,Unteriberg,Projektgeschäft,OF-25-0276,77645,80185,2026-01-26,2026-02-13,SKä,abgeschlossen
+P-25-146,,D-12271,Velounterstand Küssnacht,Küssnacht,Systemprodukte,OF-25-0307,8370,7430,2026-01-26,2026-02-02,DIn,abgeschlossen
+P-25-147,,D-11004,Carport Doppel Seewen,Seewen,Systemprodukte,OF-25-0333,15930,15930,2026-01-26,2026-02-02,DIn,abgeschlossen
+P-25-148,,D-13881,Velounterstand Sattel,Sattel,Systemprodukte,OF-25-0327,20075,20290,2026-01-28,2026-03-11,DIn,abgeschlossen
+P-25-149,,D-14511,Variantenstudie Terrasse Steinen,Steinen,Beratung,OF-25-0303,8800,8415,2026-01-29,2026-02-11,NSu,abgeschlossen
+P-25-150,,D-10465,Velounterstand Gersau,Gersau,Systemprodukte,OF-25-0306,10660,10660,2026-02-02,2026-03-20,DIn,abgeschlossen
+P-26-001,,D-12719,Dachrandsanierung Morschach,Morschach,Projektgeschäft,OF-26-0006,51960,58355,2026-02-09,2026-02-20,RBe,abgeschlossen
+P-25-151,,D-11053,Carport Doppel Seewen,Seewen,Systemprodukte,OF-25-0284,16265,18360,2026-02-11,2026-02-27,DIn,abgeschlossen
+P-26-002,,D-13832,Velounterstand Ibach,Ibach,Systemprodukte,OF-26-0002,4500,4500,2026-02-11,2026-03-12,DIn,abgeschlossen
+P-26-003,,D-10997,Fassadenbekleidung Steinen,Steinen,Projektgeschäft,OF-26-0007,53335,62855,2026-02-13,2026-03-23,DIn,abgeschlossen
+P-25-152,,D-11655,Vordach Hauseingang Brunnen,Brunnen,Systemprodukte,OF-25-0330,4500,4790,2026-02-16,2026-03-20,DIn,abgeschlossen
+P-25-153,,D-12005,Fassadenbekleidung Küssnacht,Küssnacht,Projektgeschäft,OF-25-0289,7060,6995,2026-02-16,2026-02-26,DIn,abgeschlossen
+P-26-004,,D-10297,Sanierungskonzept Fassade Gersau,Gersau,Beratung,OF-26-0024,6780,5615,2026-02-20,2026-03-09,CSc,abgeschlossen
+P-25-154,,D-12285,Machbarkeitsstudie Dachaufbau Morschach,Morschach,Beratung,OF-25-0296,3485,3650,2026-02-23,2026-03-17,NSu,abgeschlossen
+P-25-155,,D-13097,Vordach Hauseingang Zug,Zug,Systemprodukte,OF-25-0300,5115,5115,2026-03-04,2026-03-16,DIn,abgeschlossen
+P-25-156,,D-14938,Variantenstudie Terrasse Altdorf,Altdorf,Beratung,OF-25-0304,2680,2175,2026-03-04,2026-04-09,NSu,abgeschlossen
+P-25-157,,D-10731,Carport Doppel Arth,Arth,Systemprodukte,OF-25-0328,6525,6525,2026-03-09,2026-03-27,DIn,abgeschlossen
+P-26-005,,D-14224,Dachrandsanierung Lauerz,Lauerz,Projektgeschäft,OF-26-0033,66320,66225,2026-03-09,2026-04-23,RBe,abgeschlossen
+P-25-158,,D-12516,Velounterstand Altdorf,Altdorf,Systemprodukte,OF-25-0341,4500,4500,2026-03-11,2026-04-07,DIn,abgeschlossen
+P-26-006,,D-14217,Fassadenbekleidung Unteriberg,Unteriberg,Projektgeschäft,OF-26-0044,78595,80510,2026-03-16,2026-04-01,DIn,abgeschlossen
+P-26-007,,D-11550,Attikaabschluss Steinen,Steinen,Projektgeschäft,OF-26-0029,24695,24695,2026-03-16,2026-03-26,RBe,abgeschlossen
+P-26-008,,D-14805,Flachdachsanierung Morschach,Morschach,Projektgeschäft,OF-26-0035,37035,42170,2026-03-20,2026-04-09,RBe,abgeschlossen
+P-26-009,,D-14070,Velounterstand Steinen,Steinen,Systemprodukte,OF-26-0049,4925,4190,2026-03-20,2026-04-13,DIn,abgeschlossen
+P-26-010,,D-10192,Dachrandsanierung Altdorf,Altdorf,Projektgeschäft,OF-26-0010,57680,56280,2026-03-23,2026-04-07,RBe,abgeschlossen
+P-26-011,,D-10731,Vordach Hauseingang Arth,Arth,Systemprodukte,OF-26-0043,4500,4710,2026-03-26,2026-04-14,DIn,abgeschlossen
+P-25-159,,D-14595,Velounterstand Sattel,Sattel,Systemprodukte,OF-25-0322,4500,,2026-04-07,,DIn,in Ausführung
+P-25-160,,D-10367,Fassadenbekleidung Schwyz,Schwyz,Projektgeschäft,OF-25-0334,90875,101120,2026-04-07,2026-04-27,DIn,abgeschlossen
+P-26-012,,D-10696,Treppengeländer innen Arth,Arth,Projektgeschäft,OF-26-0058,28815,28815,2026-04-07,2026-04-21,SKä,abgeschlossen
+P-25-161,,D-10402,Vordach Hauseingang Steinen,Steinen,Systemprodukte,OF-25-0324,4500,,2026-04-08,,DIn,in Ausführung
+P-26-013,,D-14777,Aussentreppe Stahl Steinen,Steinen,Projektgeschäft,OF-26-0039,39040,,2026-04-08,,SKä,in Ausführung
+P-25-162,,D-14084,Geländerprüfung Steinen,Steinen,Beratung,OF-25-0335,11190,,2026-04-13,,CSc,in Ausführung
+P-26-014,,D-11452,Vordach Hauseingang Sattel,Sattel,Systemprodukte,OF-26-0032,23540,24500,2026-04-13,2026-04-27,DIn,abgeschlossen
+P-26-015,,D-12411,Velounterstand Morschach,Morschach,Systemprodukte,OF-26-0052,7845,,2026-04-23,,DIn,in Ausführung
+P-25-163,,D-10220,Carport Einzel Seewen,Seewen,Systemprodukte,OF-25-0342,5880,,2026-04-24,,DIn,in Ausführung
+P-26-016,,D-12089,Carport Einzel Seewen,Seewen,Systemprodukte,OF-26-0065,6955,,2026-04-27,,DIn,in Ausführung
+P-26-017,,KC-20284,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-26-0051,99620,,2026-04-27,,SKä,in Ausführung
+P-26-018,,D-11872,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-26-0017,10705,,2026-05-04,,DIn,geplant
+P-26-019,,D-12509,Carport Einzel Morschach,Morschach,Systemprodukte,OF-26-0038,10100,,2026-05-05,,DIn,geplant
+P-26-020,,D-12460,Machbarkeitsstudie Dachaufbau Arth,Arth,Beratung,OF-26-0036,3940,,2026-05-07,,NSu,geplant
+P-26-021,,D-12838,Velounterstand Gersau,Gersau,Systemprodukte,OF-26-0042,12580,,2026-05-19,,DIn,geplant
+P-26-022,,D-10178,Spenglerarbeiten Steildach Küssnacht,Küssnacht,Projektgeschäft,OF-26-0073,350000,,2026-05-22,,RBe,geplant
+P-26-023,,D-11669,Vordach Hauseingang Morschach,Morschach,Systemprodukte,OF-26-0087,12340,,2026-05-26,,DIn,geplant
+P-26-024,,D-11788,Velounterstand Einsiedeln,Einsiedeln,Systemprodukte,OF-26-0069,20210,,2026-05-26,,DIn,geplant
+P-26-025,,D-12313,Variantenstudie Terrasse Unteriberg,Unteriberg,Beratung,OF-26-0102,4405,,2026-06-03,,NSu,geplant
+P-26-026,,D-15043,Geländerprüfung Pfäffikon SZ,Pfäffikon SZ,Beratung,OF-26-0037,3655,,2026-06-05,,NSu,geplant
+P-26-027,,D-10269,Variantenstudie Terrasse Morschach,Morschach,Beratung,OF-26-0050,8900,,2026-06-15,,CSc,geplant
+P-26-028,,D-11256,Terrassensanierung Küssnacht,Küssnacht,Projektgeschäft,OF-26-0091,56650,,2026-06-15,,RBe,geplant
+P-26-029,,D-11578,Spenglerarbeiten Steildach Seewen,Seewen,Projektgeschäft,OF-26-0059,63795,,2026-06-22,,RBe,geplant
+P-26-030,,D-11368,Balkongeländer Steinen,Steinen,Projektgeschäft,OF-26-0071,65355,,2026-06-22,,SKä,geplant
+P-26-031,,D-10955,Velounterstand Sattel,Sattel,Systemprodukte,OF-26-0055,22105,,2026-06-29,,DIn,geplant
+P-26-032,,D-14630,Vordach Hauseingang Arth,Arth,Systemprodukte,OF-26-0088,10535,,2026-08-03,,DIn,geplant
+P-26-033,,D-12166,Variantenstudie Terrasse Seewen,Seewen,Beratung,OF-26-0108,4000,,2026-08-03,,CSc,geplant

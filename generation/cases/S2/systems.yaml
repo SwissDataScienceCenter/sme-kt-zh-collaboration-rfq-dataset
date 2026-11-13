@@ -1,0 +1,9 @@
+# CRM and ERP rows added by Case S2 (new private customer).
+customers:
+  - {type: Person, company: "", category: Privat, salutation: Herr, first: Lukas, last: Schnüriger, street: Sonnenhaldenweg 6, zip: "8843", town: Oberiberg,
+     phone: "+41 79 000 64 21", email: l.schnueriger@talnet-mail.ch, since: 2026, deb: D-15119, alt: "", kc: KC-21048, discount: 0.0, id: D-15119,
+     crm_created: 14.09.2026, crm_note: "Doppelcarport Oberiberg"}
+offers:
+  - {nr: OF-26-0228, date: "2026-09-18", cust: D-15119, obj: "Carport Doppel Oberiberg", line: Systemprodukte, type: Konfigurationsofferte, status: O, pl: DIn, proj: ""}
+leads:
+  - [L-2026-241, KC-21048, "Carport Doppel Sonnenhaldenweg 6 Oberiberg", Systemprodukte, offeriert, 30000, DIn, "2026-09-14", "Telefon, Situationsplan, Anpassungen TRe, OF raus 18.09."]

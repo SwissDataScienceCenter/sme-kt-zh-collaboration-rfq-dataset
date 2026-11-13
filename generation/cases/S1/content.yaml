@@ -1,0 +1,160 @@
+# Text sources for Case S1 documents (Swiss German). Rendered by generation/scripts/build_case.py.
+people:
+  bucher: "Christian Bucher <christian.bucher@wohngenossenschaft-goldau.ch>"
+  webform: "Webformular Fronalp <noreply@fronalp-mgh.ch>"
+
+mails:
+  - file: request/2026-05-05_Webformular_Anfrage_Systemprodukte.eml
+    id: w1
+    from: webform
+    to: "offerten@fronalp-mgh.ch"
+    date: "2026-05-05T20:47:15"
+    subject: "Neue Anfrage Systemprodukte: Fronalp Velo (Wohngenossenschaft Rossberg)"
+    mailer: "Fronalp Website Formular 2.3"
+    attach_webform: true
+    attach_sketch: true
+    body: |
+      Neue Anfrage über www.fronalp-mgh.ch
+
+      Formular: Anfrage Systemprodukte
+      Eingang: 05.05.2026 20:47
+
+      Produkt: Fronalp Velo (Velounterstand)
+      Anzahl Velos: 20
+      Standort: Rossbergstrasse 14, 6410 Goldau (Siedlung Rossberg, zwischen Haus A und Haus B)
+      Untergrund: Asphalt, eben
+      Verfügbare Länge: 11.0 m
+      Dach: Trapezblech (Standard)
+      Rückwand: Lochblech
+      Seitenwände: 1 (Westseite)
+      Veloständer: ja
+      Beleuchtung: ja
+      Elektroanschluss: vorhanden im Keller Haus B, ca. 8 m vom Standort
+      Fundamente: durch Fronalp
+      Farbe: RAL 7016 Feinstruktur (Standard)
+      Baugesuch: eingereicht am 28.04.2026 (mit Typenplan von Ihrer Website)
+      Wunschtermin Montage: Juli 2026
+
+      Kontakt
+      Firma: Wohngenossenschaft Rossberg
+      Name: Christian Bucher
+      Funktion: Vorstand, Ressort Bau
+      Adresse: Lindenstrasse 40, 6410 Goldau
+      Telefon: +41 79 000 19 33
+      E-Mail: christian.bucher@wohngenossenschaft-goldau.ch
+
+      Bemerkungen:
+      Bitte Offerte an die Genossenschaft adressieren. Wir haben vor ein paar Jahren schon einmal eine Offerte von Ihnen erhalten. Die Skizze habe ich von Hand gemacht und fotografiert. Gewähren Sie Genossenschaften einen Rabatt?
+
+      Anhänge: anfrage_systemprodukte_20260505_204712.json, IMG_20260505_204122.jpg
+
+      Diese Nachricht wurde automatisch erstellt. Bitte nicht auf diese Adresse antworten.
+  - file: request/2026-05-06_Mail_EFoe_Weiterleitung.eml
+    id: w2
+    from: EFoe
+    to: DIn
+    date: "2026-05-06T07:40:00"
+    subject: "WG: Neue Anfrage Systemprodukte: Fronalp Velo (Wohngenossenschaft Rossberg)"
+    attach_webform: true
+    attach_sketch: true
+    body: |
+      Hallo Daniel
+
+      Webformular Rossberg, bekannter Kontakt (KC-20035, D-10157). Lead L-2026-152 im KC erfasst. Sie fragen nach Rabatt.
+
+      Gruss Erika
+    quote: [w1]
+  - file: offer/2026-05-08_Mail_DIn_Offerte.eml
+    id: w3
+    from: DIn
+    to: bucher
+    date: "2026-05-08T15:20:00"
+    subject: "Offerte OF-26-0116 Velounterstand Siedlung Rossberg"
+    mailer: "Microsoft Outlook 16.0"
+    attach_offer: true
+    body: |
+      Grüezi Herr Bucher
+
+      Besten Dank für Ihre Anfrage über unser Webformular. Gerne senden wir Ihnen im Anhang unsere Offerte für den Velounterstand Fronalp Velo mit 4 Modulen für 20 Velos.
+
+      Modularer Velounterstand aus feuerverzinktem und pulverbeschichtetem Stahl, Dach Trapezblech. Die Fundamente mit Leerrohr erstellen wir. Den Elektroanschluss der Beleuchtung macht Ihr Elektriker; das Leerrohr bis zum Fundament sollte vor unseren Fundamentarbeiten verlegt sein. Mit der Ausführung beginnen wir, sobald die Baubewilligung rechtskräftig ist.
+
+      Die zweite Seitenwand auf der Ostseite haben wir als Option aufgeführt. Sie ist im Total nicht enthalten und lässt sich auch später noch ergänzen.
+
+      Zu Ihrer Frage nach einem Rabatt: Ihren Kundenrabatt von 2 % haben wir in der Offerte berücksichtigt.
+
+      Die Lieferfrist beträgt 6 bis 8 Wochen ab Auftragsbestätigung und Farbwahl. Bitte beachten Sie unsere Betriebsferien vom 13. bis 31. Juli 2026 (KW 29 bis 31). Für eine Montage vor den Betriebsferien bräuchten wir Ihren Auftrag bis Mitte Mai, sonst montieren wir ab KW 32.
+
+      Für Fragen stehe ich Ihnen gerne zur Verfügung.
+
+      Freundliche Grüsse
+      Daniel Inderbitzin
+      Projektleiter Systemprodukte und Fassaden
+      Fronalp Metall & Gebäudehülle AG
+      Werkhofstrasse 12, 6438 Ibach
+      +41 41 000 12 00
+
+webform:
+  json_name: anfrage_systemprodukte_20260505_204712.json
+  data:
+    formular: Anfrage Systemprodukte
+    zeitstempel: "2026-05-05T20:47:12+02:00"
+    produkt: Fronalp Velo
+    anzahl_velos: 20
+    standort: {strasse: Rossbergstrasse 14, plz: "6410", ort: Goldau, bemerkung: "Siedlung Rossberg, zwischen Haus A und Haus B"}
+    untergrund: Asphalt, eben
+    verfuegbare_laenge_m: 11.0
+    dach: Trapezblech
+    rueckwand: Lochblech
+    seitenwaende: {anzahl: 1, seite: West}
+    velostaender: true
+    beleuchtung: true
+    elektroanschluss: "vorhanden im Keller Haus B, ca. 8 m"
+    fundamente: durch Fronalp
+    farbe: RAL 7016 Feinstruktur
+    baugesuch: {status: eingereicht, datum: "2026-04-28", beilage: Typenplan Website}
+    wunschtermin: "2026-07"
+    kontakt: {firma: Wohngenossenschaft Rossberg, anrede: Herr, vorname: Christian, nachname: Bucher, funktion: "Vorstand, Ressort Bau",
+              strasse: Lindenstrasse 40, plz: "6410", ort: Goldau, telefon: "+41 79 000 19 33", email: christian.bucher@wohngenossenschaft-goldau.ch}
+    bemerkungen: "Bitte Offerte an die Genossenschaft adressieren. Wir haben vor ein paar Jahren schon einmal eine Offerte von Ihnen erhalten. Die Skizze habe ich von Hand gemacht und fotografiert. Gewähren Sie Genossenschaften einen Rabatt?"
+    anhaenge: [IMG_20260505_204122.jpg]
+    consent_datenschutz: true
+
+sketch:
+  file_name: IMG_20260505_204122.jpg
+  boxes:
+    - [1, 12, 10, 6, "Haus A"]
+    - [18, 12, 10, 6, "Haus B"]
+    - [6, 2.4, 13, 3, "Velounterstand\n20 Velos"]
+  lines:
+    - [1, 0.9, 29, 0.9, "Zaun"]
+    - [6, 6.6, 19, 6.6, "ca. 11 m Platz"]
+  texts:
+    - [10.5, 9.0, "Asphalt, eben", 11]
+    - [1, 19.2, "Rossbergstrasse 14 / Siedlung Rossberg", 12]
+    - [26.5, 19.0, "N", 13]
+    - [1.2, 4.6, "Westseite\nWand (Wind)", 10]
+  arrows:
+    - [22, 10.4, 18.5, 5.6, "Strom Keller\nHaus B ca. 8 m"]
+    - [29.5, 9.5, 25, 9.5, "Zufahrt"]
+    - [26.8, 17.2, 26.8, 18.8, ""]
+
+crm_print:
+  file: operations/KundenCockpit_Lead_L-2026-152_Druck.pdf
+  printed: "08.05.2026 14:55"
+  by: DIn
+  lead:
+    - [Lead, L-2026-152]
+    - [Titel, Velounterstand Siedlung Rossberg Goldau]
+    - [Bereich, Systemprodukte]
+    - [Status, in Bearbeitung]
+    - [Verantwortlich, DIn]
+    - [Kontakt, "KC-20035 Wohngenossenschaft Rossberg (Genossenschaft)"]
+    - [Erstellt, "06.05.2026 EFö"]
+    - [Wert geschätzt, "CHF 26'000"]
+  contacts:
+    - [KC-20035, Wohngenossenschaft Rossberg, "Herr Christian Bucher, Lindenstrasse 40, 6410 Goldau", "+41 79 000 19 33", christian.bucher@wohngenossenschaft-goldau.ch, "Genossenschaft, erstellt 02.10.2022, ERP D-10157"]
+  activities:
+    - ["09.01.2023", "RBe", "Offerte", "OF-23-0010 Spenglerarbeiten Steildach Goldau, verloren (Preis)"]
+    - ["06.05.2026", "EFö", "Webformular", "Anfrage Velounterstand 20 Velos, Lead erfasst, an DIn"]
+    - ["07.05.2026", "DIn", "Notiz", "Skizze geprüft: 4 Module = 10 m, Platz ca. 11 m ok. Fundamente mit Leerrohr durch uns, Elektriker bauseits. Rabatt: 2 % gem. ERP"]

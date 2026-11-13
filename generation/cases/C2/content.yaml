@@ -1,0 +1,277 @@
+# Text sources for Case C2 documents (Swiss German). Rendered by generation/scripts/build_case.py.
+people:
+  rick: "Marco Rickenbacher <m.rickenbacher@postfach-sz.ch>"
+  info: "Fronalp Info <info@fronalp-mgh.ch>"
+  statik: "Andrea Ulrich <info@statik-talkessel.ch>"
+  hint: "Pius Lüönd <bau@hinteribach.ch>"
+
+mails:
+  - file: request/2026-08-10_Mail_Rickenbacher_Anfrage.eml
+    id: m1
+    from: rick
+    to: info
+    date: "2026-08-10T21:14:00"
+    subject: "Anfrage Aussentreppe zum Balkon"
+    mailer: "Mail für iPhone"
+    attach_sketch: true
+    body: |
+      Guten Abend
+
+      Wir bauen das Obergeschoss unseres Hauses zu einer kleinen Wohnung für meine Schwiegermutter um und möchten vom Gartensitzplatz eine Treppe direkt auf den Balkon. Die Höhe ist laut den alten Plänen ca. 2.60 m, Platz an der Hauswand haben wir ca. 4.50 m bis zum Gartenweg. Die Skizze habe ich schnell von Hand gemacht.
+
+      Die Treppe sollte anthrazit sein wie unsere Fenster. Ehrlich gesagt haben wir keine Ahnung, was es dafür alles braucht (Bewilligung, Fundament?). Können Sie uns ein Angebot machen?
+
+      Freundliche Grüsse
+      Marco Rickenbacher
+      Gibelweg 7, 6443 Morschach
+      079 000 58 14
+  - file: request/2026-08-11_Mail_EFoe_Weiterleitung.eml
+    id: m2
+    from: EFoe
+    to: SKae
+    date: "2026-08-11T07:50:00"
+    subject: "WG: Anfrage Aussentreppe zum Balkon"
+    attach_sketch: true
+    body: |
+      Hallo Sandra
+
+      Neukunde, Privat, Kontakt KC-21036 und Lead L-2026-224 erfasst. Bitte zurückrufen, Nummer unten.
+
+      Gruss Erika
+    quote: [m1]
+  - file: operations/2026-08-17_Mail_SKae_Anfrage_Statik.eml
+    id: m3
+    from: SKae
+    to: statik
+    date: "2026-08-17T09:20:00"
+    subject: "Anfrage Statik Aussentreppe Gibelweg 7 Morschach"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Hallo Andrea
+
+      Kannst du uns die Statik für eine gerade Aussentreppe offerieren? Höhe ca. 2.80 m (Balkonbelag noch offen), Lauflänge ca. 4.10 m, Breite 1.00 m, Wangen Flachstahl 200 x 12, Gitterroststufen. Unten auf zwei Fundamente, oben Anschluss an die Balkonplatte (Beton, Dicke laut Kunde ca. 18 cm, Haus von 1975). Wir brauchen den Nachweis auch für das Baugesuch.
+
+      Danke und Gruss
+      Sandra Kälin
+      Projektleiterin Metallbau
+  - file: operations/2026-08-17_Mail_SKae_Anfrage_Fundamente.eml
+    id: m4
+    from: SKae
+    to: hint
+    date: "2026-08-17T09:35:00"
+    subject: "Anfrage Fundamente Aussentreppe Morschach"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Grüezi Herr Lüönd
+
+      Für eine Aussentreppe am Gibelweg 7 in Morschach brauchen wir zwei Einzelfundamente unter dem Gartensitzplatz (Betonplatten auf Kies). Grösse gemäss Statik, voraussichtlich 60 x 60 x 80 cm, Ankerplatten liefern wir. Die Platten müssten aufgenommen und wieder verlegt werden. Können Sie uns einen Pauschalpreis machen?
+
+      Freundliche Grüsse
+      Sandra Kälin
+  - file: operations/2026-08-19_Mail_Hinteribach_Offerte.eml
+    id: m5
+    from: hint
+    to: SKae
+    date: "2026-08-19T14:05:00"
+    subject: "AW: Anfrage Fundamente Aussentreppe Morschach"
+    body: |
+      Guten Tag Frau Kälin
+
+      Für die zwei Einzelfundamente 60 x 60 x 80 cm inkl. Plattenbelag aufnehmen und wieder verlegen, Aushub von Hand, Entsorgung, Beton C25/30 und Versetzen Ihrer Ankerplatten offerieren wir pauschal CHF 2'830.00 exkl. MWST. Stossen wir auf Fels, verrechnen wir den Mehraufwand mit CHF 380.00 pro m3. Vorlauf eine Woche, Preise gültig für eine Ausführung bis Ende März 2027.
+
+      Freundliche Grüsse
+      Pius Lüönd
+      Bauunternehmung Hinteribach AG
+    quote: [m4]
+  - file: operations/2026-08-20_Mail_Statik_Offerte.eml
+    id: m6
+    from: statik
+    to: SKae
+    date: "2026-08-20T11:40:00"
+    subject: "AW: Anfrage Statik Aussentreppe Gibelweg 7 Morschach"
+    body: |
+      Hallo Sandra
+
+      Bemessung Wangen und Anschlüsse, Nachweis Balkonplatte und Fundamente, Bericht für das Baugesuch: pauschal CHF 1'250.00 exkl. MWST. Die Balkonplatte schaue ich mir vor Ort an, sobald ihr den Auftrag habt. Bei einer Platte von 1975 ist nicht sicher, dass sie den Anschluss ohne Verstärkung aufnimmt. Das Angebot gilt für eine Ausführung bis Ende März 2027.
+
+      Gruss Andrea
+    quote: [m3]
+  - file: operations/2026-08-25_Mail_SKae_Update_Statik.eml
+    id: m8b
+    from: SKae
+    to: statik
+    date: "2026-08-25T09:10:00"
+    subject: "AW: Anfrage Statik Aussentreppe Gibelweg 7 Morschach"
+    mailer: "Microsoft Outlook 16.0"
+    body: |
+      Hallo Andrea
+
+      Update zur Treppe Morschach: Der Kunde lässt neue Balkonplatten verlegen. Höhe fertig jetzt 2.82 m, 16 Steigungen à 17.6 cm, Auftritt 27 cm, Lauflänge 4.05 m, Wangen 5.28 m. Dein Pauschalpreis gilt so?
+
+      Gruss Sandra
+    quote: [m6]
+  - file: request/2026-08-24_Mail_Rickenbacher_Balkon.eml
+    id: m7
+    from: rick
+    to: SKae
+    date: "2026-08-24T19:30:00"
+    subject: "Treppe Gibelweg 7"
+    mailer: "Mail für iPhone"
+    body: |
+      Guten Abend Frau Kälin
+
+      Kurze Info: Wir haben inzwischen den Plattenleger bestellt. Auf dem Balkon kommen neue Platten in Mörtel, das gibt laut ihm total 4 cm mehr Höhe.
+
+      Und noch eine Frage: Könnte man im Balkongeländer oben ein Türchen machen, damit unsere Enkel nicht die Treppe hinunterfallen?
+
+      Gruss Marco Rickenbacher
+  - file: operations/2026-08-25_Mail_TRe_Pruefung.eml
+    id: m8
+    from: TRe
+    to: SKae
+    date: "2026-08-25T07:15:00"
+    subject: "Treppe Morschach"
+    body: |
+      Sandra
+
+      16 Steigungen à 17.6. Nimm 27 cm Auftritt, sonst steht die Treppe unten direkt am Weg. Wegen der Enkel brauchen die offenen Stufen Zwischenstäbe. Fürs Lochblechgeländer rechne mit 4 Std pro m wegen der Rahmen, Lochblech erst nach dem Verzinken einklemmen. Wenn es günstiger sein muss: Stufen mit Seitenblechen verschraubt, das spart viel Werkstatt. Die Wangen sind unter 100 kg, das macht Werner mit dem Ladekran. Falls die Balkonplatte nicht reicht: zwei Stützen oben mit Fundamenten kosten etwa 2'500 bis 3'500.
+
+      Toni
+  - file: offer/2026-08-27_Mail_SKae_Offerte.eml
+    id: m9
+    from: SKae
+    to: rick
+    date: "2026-08-27T16:10:00"
+    subject: "Offerte OF-26-0209 Aussentreppe Gibelweg 7"
+    mailer: "Microsoft Outlook 16.0"
+    attach_offer: true
+    body: |
+      Grüezi Herr Rickenbacher
+
+      Vielen Dank für den Termin vor Ort und Ihre Mitteilung zum neuen Balkonbelag. Im Anhang finden Sie unsere Offerte für die Aussentreppe als Gesamtpaket mit Statik, Fundamenten, Plänen für das Baugesuch, Kran und Montage.
+
+      Variante A entspricht Ihren Wünschen: geschweisste Stufen, Treppe und Lochblechgeländer anthrazit (die Gitterroststufen bleiben verzinkt) und ein Handlauf aus Chromstahl an der Wand. Variante B ist die günstigere Bauweise mit verschraubten Stufen. Die Treppe ist dort nur feuerverzinkt, Geländer und Wandhandlauf aus Stahl sind aber anthrazit, damit es zu Ihren Fenstern passt und Ihre Schwiegermutter auf beiden Seiten einen Handlauf hat. Wegen der Enkel haben wir in beiden Varianten Zwischenstäbe in den offenen Stufen vorgesehen. Das Türchen im Balkongeländer haben wir als Option aufgeführt.
+
+      Ihr Budget von rund 24'000 Franken inklusive MWST erreichen wir leider auch mit Variante B nicht. Den grössten Teil der Kosten macht die Werkstattarbeit aus. Dazu kommen rund 8'000 Franken für das Gesamtpaket mit Fundamenten, Statik, Plänen, Baugesuch, Transport mit Ladekran und Projektleitung, die in beiden Varianten gleich sind. Gerne zeigen wir Ihnen bei einem Termin, wo noch Spielraum besteht.
+
+      Zum Termin: Das Baugesuch reichen wir nach Ihrer Bestellung mit Ihrer Vollmacht ein. Mit Publikation und Einsprachefrist rechnen wir mit 8 bis 10 Wochen bis zur Bewilligung. Werkstatt und Verzinkerei sind über die Feiertage geschlossen. Bei einer Bestellung bis Mitte September rechnen wir deshalb mit der Montage Mitte bis Ende Januar 2027. Für den Einzug Ihrer Schwiegermutter im Dezember reicht es leider nicht; bis dahin bleibt der Zugang über den Hauseingang. Falls für den Umbau des Obergeschosses ein Baugesuch nötig ist, sollte die Treppe ins gleiche Gesuch.
+
+      Freundliche Grüsse
+      Sandra Kälin
+      Projektleiterin Metallbau
+      Fronalp Metall & Gebäudehülle AG
+      Werkhofstrasse 12, 6438 Ibach
+      +41 41 000 12 00
+    quote: [m7]
+
+sketch:
+  file_name: IMG_4471.jpg
+  boxes:
+    - [9, 3, 6, 4.5, "Fenster\nWohnzimmer"]
+  lines:
+    - [0, 1, 30, 1, "Sitzplatz"]
+    - [1.5, 9.5, 24, 9.5, "Balkon"]
+    - [3, 1, 8.5, 9.5, ""]
+  texts:
+    - [4.2, 5.8, "Treppe?", 12]
+    - [1.6, 6.6, "2.60", 13]
+    - [2.0, 0.1, "ca. 4.50 m Platz bis Weg", 10]
+    - [17, 13.5, "Haus Gibelweg 7", 13]
+    - [24, 2.0, "Gartenweg", 10]
+    - [1, 18.5, "Treppe zum Balkon (Einliegerwohnung)", 12]
+  arrows:
+    - [1.2, 1.3, 1.2, 9.2, ""]
+
+file_notes:
+  - file: operations/2026-08-11_Aktennotiz_SKae_Telefon_Rickenbacher.docx
+    fields:
+      - [Datum / Zeit, "11.08.2026, 10:30"]
+      - [Erstellt von (Kürzel), SKä]
+      - [Art, Telefon]
+      - [Gesprächspartner, "Hr. M. Rickenbacher, Privat (KC-21036)"]
+      - [Objekt / Projekt, "Gibelweg 7, Morschach, Aussentreppe (L-2026-224)"]
+    content:
+      - "Umbau OG zu Einliegerwohnung für die Schwiegermutter, Einzug im Dezember. Treppe vom Sitzplatz auf den Balkon 1. OG."
+      - "Kunde möchte alles aus einer Hand, kennt keinen Baumeister und keinen Ingenieur. Gesamtpaket kurz erklärt."
+      - "Budget ca. 24'000 alles inklusive, auch MWST, haben im Internet geschaut, was Treppen kosten. Habe gesagt, dass wir erst nach der Besichtigung etwas sagen können."
+      - "Masse aus dem Mail sind von alten Plänen, vor Ort nachmessen."
+    agreements:
+      - "Besichtigung Freitag 14.08.2026, 16:00"
+    todos:
+      - [Besichtigung mit Aufmass, SKä, "14.08.2026"]
+  - file: operations/2026-08-14_Aktennotiz_SKae_Besichtigung_Gibelweg.docx
+    fields:
+      - [Datum / Zeit, "14.08.2026, 16:00 bis 17:15"]
+      - [Erstellt von (Kürzel), SKä]
+      - [Art, Besichtigung mit Aufmass]
+      - [Teilnehmende, "Hr. und Fr. Rickenbacher, S. Kälin"]
+      - [Objekt / Projekt, "Gibelweg 7, Morschach, Aussentreppe (L-2026-224)"]
+    content:
+      - "Höhe ab Sitzplatz (Betonplatten auf Kies, fertig) bis Balkonplatte roh: 2.78 m gemessen. Balkon heute nur Zementüberzug, Belag noch offen."
+      - "Platz entlang Fassade bis Gartenweg: 4.20 m, nicht 4.50 m (Sickerschacht am Weg). Vor dem Antritt etwas Platz lassen."
+      - "Treppe muss rechts vom Wohnzimmerfenster liegen, links ist der Abgang zum Keller. Die Skizze des Kunden zeigt sie links."
+      - "Haus Baujahr 1975, Balkonplatte Beton ca. 18 cm (Angabe Kunde). Fassade verputzt, Mauerwerk, Handlauf an der Wand möglich. Balkongeländer Stahl, Pfosten alle 1.20 m, Öffnung 1.00 m nötig, neuer Pfosten."
+      - "Kunde wünscht Geländer mit Lochblech wie beim Nachbarn, Farbe anthrazit wie die Fenster, zusätzlich Handlauf an der Wand."
+      - "Zufahrt Lastwagen bis Garage, ca. 10 m bis zum Standort, Wangen über 80 kg: Kran nötig."
+      - "Unten zwei Fundamente unter dem Sitzplatz, oben Anschluss an die Balkonplatte, Statik nötig. Baugesuch nötig, wir reichen mit Vollmacht ein. Kunde fragen, ob für den Umbau OG schon ein Gesuch läuft."
+      - "Enkel sind oft da, Geländer und Stufen kindersicher."
+    agreements:
+      - "Gesamtpaket mit Fundamenten über Hinteribach und Statik über Statik Talkessel"
+      - "Offerte bis Ende August"
+    todos:
+      - [Anfragen Statik und Baumeister, SKä, "17.08.2026"]
+      - [Offerte, SKä, "28.08.2026"]
+
+crm_print:
+  file: operations/KundenCockpit_Lead_L-2026-224_Druck.pdf
+  printed: "27.08.2026 15:50"
+  by: SKä
+  lead:
+    - [Lead, L-2026-224]
+    - [Titel, Aussentreppe Stahl Gibelweg 7 Morschach]
+    - [Bereich, Projektgeschäft]
+    - [Status, in Bearbeitung]
+    - [Verantwortlich, SKä]
+    - [Kontakt, "KC-21036 Marco Rickenbacher (Privat)"]
+    - [Erstellt, "11.08.2026 EFö"]
+    - [Wert geschätzt, "CHF 24'000"]
+  contacts:
+    - [KC-21036, Marco und Petra Rickenbacher, "Herr Marco Rickenbacher, Gibelweg 7, 6443 Morschach", "+41 79 000 58 14", m.rickenbacher@postfach-sz.ch, "Privat, erstellt 11.08.2026, ERP D-15103"]
+  activities:
+    - ["11.08.2026", "EFö", "Mail", "Anfrage über info, Kontakt und Lead erfasst, an SKä"]
+    - ["11.08.2026", "SKä", "Telefon", "Gesamtpaket gewünscht, Budget Kunde ca. 24'000, Besichtigung 14.08."]
+    - ["14.08.2026", "SKä", "Besichtigung", "Aufmass, siehe Aktennotiz"]
+    - ["17.08.2026", "SKä", "Mail", "Anfragen Statik Talkessel und Hinteribach"]
+    - ["24.08.2026", "SKä", "Mail", "Kunde: neue Balkonplatten +4 cm, Frage Türchen"]
+
+costing_sheet:
+  file: operations/Kalkulation_OF-26-0209_SKae.xlsx
+  by: "SKä 26.08.2026"
+
+lump_offer:
+  salutation: "Sehr geehrte Frau Rickenbacher, sehr geehrter Herr Rickenbacher"
+  intro: "Besten Dank für Ihre Anfrage vom 10. August 2026 und den Termin vor Ort. Gerne unterbreiten wir Ihnen unsere Offerte wie folgt:"
+  situation:
+    - "Für die neue Einliegerwohnung im Obergeschoss wünschen Sie einen direkten Zugang vom Gartensitzplatz zum Balkon. Gemäss unserem Aufmass vom 14. August 2026 und Ihrer Mitteilung zum neuen Balkonbelag beträgt die Höhe bis zum fertigen Balkonbelag 2.82 m, die verfügbare Länge entlang der Fassade 4.20 m. Die Treppe liegt rechts vom Wohnzimmerfenster."
+    - "Sie möchten sich nicht selbst um Baumeister, Ingenieur und Baugesuch kümmern. Wir offerieren deshalb ein Gesamtpaket aus einer Hand."
+  scope_common:
+    - "Gerade Treppe, 16 Steigungen à 17.6 cm, 15 Stufen à 27 cm, Lauflänge 4.05 m, Breite 1.00 m"
+    - "Zwei Wangen Flachstahl 200 x 12 mm mit Kopf- und Fussplatten, Gitterroststufen 1000 mm verzinkt mit rutschhemmender Trittkante; Zwischenstäbe in den offenen Stufen, damit kein Spalt über 12 cm bleibt"
+    - "Geländer auf der offenen Seite mit greifbarem Handlauf, Ausführung nach SIA 358 und bfu (nicht bekletterbar, keine Öffnung über 12 cm), oben an das Balkongeländer angeschlossen; Balkongeländer auf 1.00 m geöffnet und mit neuem Pfosten ergänzt"
+    - "Anschluss oben mit Injektionsankern an die Balkonplatte, unten auf zwei Fundamente"
+    - "Absturzsicherung an der Balkonöffnung während der Montage"
+  variant_scope:
+    A: ["Geschweisste Stufenwinkel", "Oberfläche Duplex: feuerverzinkt und pulverbeschichtet in Anthrazit wie die Fenster (Gitterroststufen verzinkt)", "Geländer mit Rahmen und Lochblechfüllung, Lochblech nach dem Verzinken eingeklemmt", "Zusätzlicher Handlauf Chromstahl an der Fassade"]
+    B: ["Gitterroststufen mit Seitenblechen, an die Wangen geschraubt", "Treppe feuerverzinkt, Geländer und Wandhandlauf Duplex anthrazit", "Geländer mit Flachstahl-Staketen", "Zusätzlicher Handlauf Stahlrohr an der Fassade"]
+  package_title: "Im Pauschalpreis enthalten (Gesamtpaket)"
+  package:
+    - "Statische Bemessung inkl. Nachweis Balkonplatte und Fundamente durch Statik Talkessel AG"
+    - "Zwei Fundamente mit Aushub, Entsorgung und Wiederverlegen der Sitzplatzplatten durch Bauunternehmung Hinteribach AG"
+    - "Werkstattpläne, Pläne für das Baugesuch und Einreichung des Baugesuchs mit Ihrer Vollmacht"
+    - "Koordination aller Beteiligten durch unsere Projektleiterin"
+    - "Transport, Lastwagen mit Ladekran und Montage"
+  schedule:
+    - "Nach Ihrer Bestellung: Statik, Pläne und Einreichung des Baugesuchs innert rund zwei Wochen. Mit Publikation und Einsprachefrist rechnen wir mit 8 bis 10 Wochen bis zur Bewilligung."
+    - "Nach der Bewilligung: Kontrollaufmass, Fundamente nach einer Woche, Lieferung der Treppe 4 Wochen nach Freigabe der Werkstattpläne, Montage 2 bis 3 Tage."
+    - "Werkstatt und Verzinkerei sind über die Feiertage geschlossen. Bei einer Bestellung bis Mitte September rechnen wir mit der Montage Mitte bis Ende Januar 2027. Fundamente bei Frost mit Frostschutz."
+    - "Die Preise gelten für eine Ausführung bis 31. März 2027."

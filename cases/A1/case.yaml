@@ -1,0 +1,306 @@
+# Story bible and ground truth for Case A1 (ADR 0006, ADR 0007, case_quality.md §2).
+# Draft 2026-11-11, Q34 to Q38 answered by the maintainer. To be confirmed before rendering.
+id: A1
+title: Zustandsaufnahme und Sanierungsvarianten Flachdächer Hofmatt, Steinen
+business_line: advisory
+offer_type: fee_offer
+difficulty: medium               # consulting style: scope only becomes clear in the thread
+dates:
+  first_contact: 2026-05-18      # Monday
+  site_walk: 2026-05-27          # Wednesday
+  board_meeting: 2026-05-29      # Stiftungsrat, Friday
+  offer: 2026-06-09              # Tuesday
+  valid_until: 2026-09-09
+
+customer:
+  ref: D-10122 / KC-20020        # Rigi Verwaltungen AG, Goldau, existing customer, no ERP discount
+  besteller: Rigi Verwaltungen AG im Auftrag der Stiftung Wohnen Hofmatt
+  contact: Herr Andreas Gisler, Bewirtschafter
+  owner: Stiftung Wohnen Hofmatt, Steinen (decides via Stiftungsrat; not in CRM)
+object:
+  address: Hofmattweg 2 und 4, 6422 Steinen (reserved address, DL-163)
+  description: Zwei Mehrfamilienhäuser mit je 9 Wohnungen, Baujahr 1974, Flachdächer mit Kies auf Bitumenabdichtung (Originalaufbau 1974, Teilreparaturen 1998), Dachrand Kupferblech, Zugang nur über Dachluke, kein Geländer.
+staff: {owner: CSc, involved: [NSu, RBe, EFoe]}
+
+facts:
+  roofs: 2
+  roof_width: 16.0               # per house, from the 1974 plan
+  roof_depth: 20.0
+  area_stated_by_customer: 500   # first mail, wrong (A1-F2)
+  build_year: 1974
+  repair_year: 1998
+  leaking_flats: 2               # 3. OG Haus 4
+  storm_date: 2026-05-14
+  options_requested: [Reparatur, Gesamtsanierung mit Wärmedämmung, PV-Vorbereitung]
+  options_in_base_offer: 2       # PV preparation only as optional item (05.06.)
+  zone: 1                        # Steinen
+derived:
+  roof_area: "F.roofs * F.roof_width * F.roof_depth"            # 640 m2
+  probes: "F.roofs * 2 + 1"                                     # 2 per roof (past offers: 1 per started 200 m2) + 1 at the leak
+checks:
+  - "F.roof_area == 640"
+  - "qty('98.100.05') == F.probes"
+  - "qty('98.100.04') == F.roofs"
+  - "qty('99.100.01') > 0"        # second person on the roof (fall protection)
+  - "qty('98.100.03') == 0"       # no thermography in June (A1-F3)
+  - "qty('98.100.02') == 0"       # no drone; roof walkable, caretaker opens the hatch
+  - "opt('99.100.08') > 0 and opt('99.100.07') > 0"   # PV option
+
+timeline:
+  - "2026-05-14 Gewitter mit Starkregen; Wasser tritt in zwei Wohnungen im 3. OG von Haus 4 ein."
+  - "2026-05-18 08:12 Gisler mailt an info@: Zustandsaufnahme mit Thermografie und Kurzbericht, ob Reparatur reicht, Dachfläche 'ca. 500 m2'."
+  - "2026-05-18 09:05 EFö erfasst Lead L-2026-161 für KC-20020 und leitet an CSc weiter."
+  - "2026-05-19 CSc telefoniert mit Gisler (Aktennotiz CSc): Begehung 27.05. mit Hauswart, Stiftungsrat tagt am 29.05., Erstbegehung ohne Kosten."
+  - "2026-05-27 Begehung NSu und CSc mit Hauswart (Aktennotiz NSu): Befund, Verdacht auf asbesthaltige Dachpappe und Kitt, kein Geländer, Absturzsicherung nötig."
+  - "2026-05-28 Gisler mailt die Pläne von 1974 als Scan (Dachaufsicht mit Massen)."
+  - "2026-06-01 Gisler nach dem Stiftungsrat: drei Varianten mit Kostenschätzung für Budget 2027, dazu Begleitung Ausschreibung (Scope 1)."
+  - "2026-06-03 CSc antwortet: Thermografie nur in der Heizperiode, Frage nach PV und Ausschreibung."
+  - "2026-06-05 Gisler: Ausschreibung macht die Verwaltung selbst, PV nur als Option, ohne Thermografie einverstanden (Scope 2)."
+  - "2026-06-08 RBe gibt CSc seine Stunden für die Kostenschätzung (Mail, Einzeiler)."
+  - "2026-06-09 16:40 CSc sendet die Honorarofferte OF-26-0147 als PDF (Word, unterschrieben)."
+systems_state:
+  - "CRM print of lead L-2026-161 with KC-20020 and its activities from 18.05. to 09.06."
+  - "ERP debtor D-10122: RABATT_PROZ 0.0, ZAHLKOND 30T NETTO (company export)."
+  - "Past advisory offers in the ERP offer export (base history) and two past project folders (below)."
+
+basis_for_estimate:              # ADR 0007: no hour table exists; the estimator scales from similar past offers
+  - "P-25-102 Brunnen 2025 (380 m2, 1 Dach, 2 Varianten): Phasenstruktur, Stunden pro Variante, RBe für Kostenschätzung, Asbest vor Sondierung, zweite Person, Mehraufwand durch zusätzliche Besprechung"
+  - "P-24-003 Ibach 2024 (450 m2, nur Zustand): Aufnahme pro Fläche, Bericht, Thermografie nur im Winter"
+  - "Stundenexport 2025: effektive Stunden P-25-102 nach Person und Kategorie"
+  - "Honorarofferten 'Zustandsaufnahme Flachdach' im Offertexport 2024 bis 2026 als Grössenordnung (Mindesthonorar 2'500)"
+
+assumptions:
+  - "Dachfläche 640 m2 gemäss Plänen 1974 (2 x 16.0 x 20.0 m)"
+  - "Zugang über die Dachluken, der Hauswart öffnet; Dachluke während der Arbeiten gesichert"
+  - "Aufnahme mit Anseilschutz und Rückhaltesystem, immer zu zweit, Rettungsablauf festgelegt"
+  - "Probenahme Schadstoffe mit Schutzmassnahmen (Befeuchten, Atemschutz FFP3): eine kleine Kernprobe je Dach durch den ganzen Aufbau, provisorisch verschlossen, sowie Kittfugen, Lüftungsrohr und Kaminabdeckung"
+  - "Sondierungen durch zwei Mitarbeitende unserer Abdichtungsequipe (in der Pauschale enthalten)"
+  - "Sondierungen nach Vorliegen des Laborresultats und nur bei trockenem Wetter"
+client_provisions:
+  - "Laborkosten der Schadstoffanalyse (Asbest, PCB, PAK); Fronalp nimmt die Proben und beauftragt das Labor, Weiterverrechnung zum Nettopreis, Richtwert CHF 540 bis 1'200 für 6 bis 8 Proben"
+  - "Zugang zu den Wohnungen 3. OG Haus 4 für die Aufnahme der Wasserschäden, Information der Mieter"
+  - "Vorhandene Pläne und Unterlagen früherer Reparaturen"
+exclusions:                      # Nicht enthaltene Leistungen
+  - "Thermografie (nur in der Heizperiode Oktober bis März sinnvoll, auf Kiesdächern wenig aussagekräftig)"
+  - "Begleitung Ausschreibung und Ausführung (macht die Verwaltung)"
+  - "Statische Prüfung für PV oder zusätzliche Dämmung durch Ingenieurbüro (auf Wunsch über Statik Talkessel AG)"
+  - "Sofortmassnahme Haus 4 (auf Wunsch nach Regie, separat)"
+  - "Schadstoffsanierung und Entsorgung belasteter Materialien"
+  - "Gesuche für Förderbeiträge und Baubewilligung, Bewilligungsgebühren, Ausführung der Bauarbeiten"
+reservations:
+  - "Bei positivem Schadstoffbefund werden die Sondierungen mit Schutzmassnahmen nach Suva ausgeführt; Mehraufwand nur nach schriftlicher Zustimmung der Auftraggeberin"
+
+offer:
+  number: OF-26-0147
+  file_name: OF-26-0147_Honorarofferte_Flachdaecher_Hofmatt_Steinen.pdf
+  format: word_fee_offer          # Vorlage_Honorarofferte_Beratung.docx, PDF sent, .docx kept (Q37)
+  recipient: ["Stiftung Wohnen Hofmatt", "c/o Rigi Verwaltungen AG", "Herr Andreas Gisler", "Dorfstrasse 8", "6410 Goldau"]
+  subject: "Mehrfamilienhäuser Hofmattweg 2 und 4, Steinen, Zustandsaufnahme und Sanierungsvarianten Flachdächer"
+  signed_by: CSc
+  project_manager: CSc
+  payment_terms: "30 Tage netto; werden Optionen bestellt und übersteigt das Total CHF 10'000, Akonto 50 % bei Auftrag"   # template rule
+  discount: 0.0
+  skonto: false
+  cost_ceiling: true              # template: Total gilt als Kostendach
+  norms_named: ["SIA 469", "SIA 271", "SIA 180", "Suva", "SR 832.311.141"]   # named only (ADR 0004)
+  sections:
+    - title: "1 Grundlagen und Bestandesaufnahme"
+      lines:
+        - {code: "99.100.08", qty: 3, text: "Unterlagen sichten, Koordination Labor, Hauswart und Mieter", src: "P-25-102: 2 h; + 1 h for two houses and the lab"}
+        - {code: "99.100.08", qty: 8, text: "Aufnahmetag 1: beide Dächer, Probenahme, Wohnungen Haus 4", src: "P-25-102: 4 h for 380 m2 -> 6.7 h for 640 m2, + 1 h flats"}
+        - {code: "99.100.01", qty: 6, text: "Zweite Person für Anseilschutz und Mithilfe, Aufnahmetag 1", src: "P-25-102, P-24-003: second person for the whole time on the roof; 6 of the 8 h are on the roofs"}
+        - {code: "99.100.08", qty: 4, text: "Aufnahmetag 2: Begleitung Sondierungen, Feuchtemessung", src: "P-25-102: 2 h for 2 openings; 5 openings on 2 roofs"}
+        - {code: "98.100.05", qty: 5, src: "past offers: 1 per started 200 m2 per roof (2 x 2) + 1 at the leak Haus 4"}
+        - {code: "98.100.04", qty: 2, src: "1 flat fee per roof (up to 5 points each); P-25-102 used 4 points on 380 m2"}
+    - title: "2 Analyse und Zustandsbericht"
+      lines:
+        - {code: "99.100.08", qty: 12, text: "Auswertung, Zustandsbericht beider Dächer mit Fotodokumentation", src: "P-25-102: 8 h for one roof; + 4 h second roof"}
+        - {code: "99.100.06", qty: 2, text: "Durchsicht Bericht", src: "P-25-102, P-24-003: 2 h B1"}
+    - title: "3 Varianten und Kostenschätzung"
+      lines:
+        - {code: "99.100.08", qty: 10, text: "Variante A Reparatur, Variante B Gesamtsanierung mit Wärmedämmung, je für beide Dächer", src: "P-25-102: 4 h per variant; + 2 h overflows, upstands, two roofs"}
+        - {code: "99.100.07", qty: 6, text: "Kostenschätzung je Variante", src: "P-25-102: 3 h per variant; RBe mail 08.06."}
+        - {code: "99.100.08", qty: 2, text: "Besprechung Ergebnisse mit Verwaltung", src: "P-25-102"}
+        - {code: "99.100.06", qty: 2, text: "Besprechung Ergebnisse mit Verwaltung", src: "P-25-102"}
+    - title: "Spesen"
+      lines:
+        - {code: "98.120.01", qty: 50, text: "Fahrten Ibach Steinen (2 x 12 km) und Goldau (26 km)", src: "past offers: km per round trip by distance (Ibach 6, Brunnen 14); 2 site days + meeting at the Verwaltung"}
+    - title: "Option: Variante C PV-Vorbereitung"
+      lines:
+        - {code: "99.100.08", qty: 4, optional: true, text: "Variante C mit PV-Vorbereitung und Kostenschätzung", src: "Gisler 05.06.: PV nur als Option; 4 h per variant"}
+        - {code: "99.100.07", qty: 3, optional: true, text: "Variante C mit PV-Vorbereitung und Kostenschätzung", src: "RBe mail 08.06.: 3 h also for PV"}
+    - title: "Option: Präsentation an der Sitzung des Stiftungsrats"
+      lines:
+        - {code: "99.100.06", qty: 3, optional: true, text: "Präsentation Stiftungsrat 04.09.2026, Vorbereitung", src: "P-25-102: extra committee meeting caused the overrun; offered upfront"}
+        - {code: "99.100.08", qty: 1, optional: true, text: "Präsentation Stiftungsrat 04.09.2026, Vorbereitung", src: "P-25-102"}
+        - {code: "98.120.01", qty: 12, optional: true, text: "Fahrt Steinen", src: "12 km round trip"}
+
+evaluation:                      # ADR 0007: Advisory Offers are graded by content and a fee band
+  fee_band: 0.20                 # net fee within +/- 20 % of the reference
+  must_contain:
+    - "Fläche 640 m2, nicht 500 m2"
+    - "Phasen 1 bis 3, keine Phase 4 Ausschreibung"
+    - "zwei Varianten im Honorar, PV-Vorbereitung als Option ausserhalb des Totals"
+    - "keine Thermografie, mit Begründung Jahreszeit"
+    - "Schadstoffanalyse (mindestens Asbest) vor den Sondierungen, Laborkosten ausserhalb des Honorars"
+    - "Absturzsicherung bei der Aufnahme, zweite Person"
+    - "Stiftung als Auftraggeberin, vertreten durch die Verwaltung"
+    - "Termine mit Betriebsferien und Unterlagen vor der Sitzung vom 4. September"
+    - "Kostendach, Verrechnung nach Aufwand, CSc unterschreibt"
+  must_not_contain:
+    - "Thermografie als Position"
+    - "Begleitung Ausschreibung als Position"
+    - "gesperrte Pauschalen 98.110"
+
+acceptable_alternatives:
+  - "Phasen 1 bis 3 zusammen 45 bis 60 Std"
+  - "Sondierungen 4 bis 6, Feuchtemessung 1 oder 2 Pauschalen"
+  - "zweite Person als MA oder B3"
+  - "Präsentation Stiftungsrat als Option, im Grundauftrag oder weggelassen"
+  - "Spesen 30 bis 60 km"
+expected:                      # filled by build_case.py via pricing.py, never by hand
+  gross: 9380.0
+  discount: 0.0
+  skonto: 0.0
+  net: 9380.0
+  vat_rate: 0.081
+  vat: 759.8
+  total: 10139.8
+  optional_sum: 1655.8
+  needs_owner_approval: false
+  lines:
+  - pos: '1.01'
+    code: 99.100.08
+    qty: 3.0
+    unit: Std
+    unit_price: 125.0
+    total: 375.0
+    optional: false
+  - pos: '1.02'
+    code: 99.100.08
+    qty: 8.0
+    unit: Std
+    unit_price: 125.0
+    total: 1000.0
+    optional: false
+  - pos: '1.03'
+    code: 99.100.01
+    qty: 6.0
+    unit: Std
+    unit_price: 125.0
+    total: 750.0
+    optional: false
+  - pos: '1.04'
+    code: 99.100.08
+    qty: 4.0
+    unit: Std
+    unit_price: 125.0
+    total: 500.0
+    optional: false
+  - pos: '1.05'
+    code: 98.100.05
+    qty: 5.0
+    unit: Stk
+    unit_price: 280.0
+    total: 1400.0
+    optional: false
+  - pos: '1.06'
+    code: 98.100.04
+    qty: 2.0
+    unit: Pau
+    unit_price: 320.0
+    total: 640.0
+    optional: false
+  - pos: '2.01'
+    code: 99.100.08
+    qty: 12.0
+    unit: Std
+    unit_price: 125.0
+    total: 1500.0
+    optional: false
+  - pos: '2.02'
+    code: 99.100.06
+    qty: 2.0
+    unit: Std
+    unit_price: 185.0
+    total: 370.0
+    optional: false
+  - pos: '3.01'
+    code: 99.100.08
+    qty: 10.0
+    unit: Std
+    unit_price: 125.0
+    total: 1250.0
+    optional: false
+  - pos: '3.02'
+    code: 99.100.07
+    qty: 6.0
+    unit: Std
+    unit_price: 155.0
+    total: 930.0
+    optional: false
+  - pos: '3.03'
+    code: 99.100.08
+    qty: 2.0
+    unit: Std
+    unit_price: 125.0
+    total: 250.0
+    optional: false
+  - pos: '3.04'
+    code: 99.100.06
+    qty: 2.0
+    unit: Std
+    unit_price: 185.0
+    total: 370.0
+    optional: false
+  - pos: '4.01'
+    code: 98.120.01
+    qty: 50.0
+    unit: km
+    unit_price: 0.9
+    total: 45.0
+    optional: false
+  - pos: '5.01'
+    code: 99.100.08
+    qty: 4.0
+    unit: Std
+    unit_price: 125.0
+    total: 500.0
+    optional: true
+  - pos: '5.02'
+    code: 99.100.07
+    qty: 3.0
+    unit: Std
+    unit_price: 155.0
+    total: 465.0
+    optional: true
+  - pos: '6.01'
+    code: 99.100.06
+    qty: 3.0
+    unit: Std
+    unit_price: 185.0
+    total: 555.0
+    optional: true
+  - pos: '6.02'
+    code: 99.100.08
+    qty: 1.0
+    unit: Std
+    unit_price: 125.0
+    total: 125.0
+    optional: true
+  - pos: '6.03'
+    code: 98.120.01
+    qty: 12.0
+    unit: km
+    unit_price: 0.9
+    total: 10.8
+    optional: true
+
+past_projects:
+  - {nr: P-25-102, why: "Zustandsaufnahme und 2 Sanierungsvarianten Flachdach MFH Wylenstrasse 12, Brunnen, für Arnold & Gisler Immobilien (STWEG), 380 m2, Honorarofferte OF-25-0241 vom 16.09.2025, Asbestbefund negativ nach 1 Woche, Schlussrechnung nach Aufwand, Mehraufwand 3 h und 1 Fahrt für eine zusätzliche Besprechung, schriftlich bestätigt"}
+  - {nr: P-24-003, why: "Zustandsaufnahme Flachdach Gewerbehaus Industriestrasse 9, Ibach, für Ochsner Treuhand AG, 450 m2, Honorarofferte OF-24-0029 vom 13.02.2024 mit Drohne und Thermografie im Februar, nur Phasen 1 und 2, Rechnung nach Aufwand unter Kostendach"}
+
+flaws:
+  - {id: A1-F1, type: scope_drift, where: "request mails 18.05., 01.06., 05.06.", description: "Scope changes twice; only the last mail is valid: no tender support, PV only as option", marker: "Ausschreibung machen wir selber"}
+  - {id: A1-F2, type: contradiction, where: "request/2026-05-18 mail vs plan 1974", description: "Customer says ca. 500 m2, the plans show 2 x 16 x 20 = 640 m2", marker: "ca. 500 m2"}
+  - {id: A1-F3, type: infeasible_request, where: "request/2026-05-18 mail", description: "Thermography requested in May/June; only meaningful in the heating season", marker: "mit Thermografie"}
